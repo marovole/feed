@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980309096764211641",
+    "source": "twitter",
+    "author": "literallyhimmmm",
+    "content": "@aeitroc @AnthropicAI @FactoryAI Easy mute",
+    "url": "https://x.com/literallyhimmmm/status/1980309096764211641",
+    "timestamp": "2025-10-20T16:24:15.000Z",
+    "metadata": {
+      "conversation_id": "1980309096764211641",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980299177382076927",
     "source": "twitter",
     "author": "ak_kim0",
@@ -36,7 +51,7 @@
     "timestamp": "2025-10-20T15:10:28.000Z",
     "metadata": {
       "conversation_id": "1980290526759788896",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -294,21 +309,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980263383158173890",
-    "source": "twitter",
-    "author": "anthonyronning_",
-    "content": "@Janak____ @FactoryAI @elevenlabsio Sonnet 4.5",
-    "url": "https://x.com/anthonyronning_/status/1980263383158173890",
-    "timestamp": "2025-10-20T13:22:36.000Z",
-    "metadata": {
-      "conversation_id": "1980263383158173890",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },

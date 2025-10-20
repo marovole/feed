@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_218",
+    "source": "github",
+    "author": "donywan",
+    "content": "[Issue] Personal override: ~/.factory/AGENTS.md not work\n\nWhen `AGENTS.md` is exist in project,`~/.factory/AGENTS.md` is not work.",
+    "url": "https://github.com/Factory-AI/factory/issues/218",
+    "timestamp": "2025-10-20T15:14:03Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 218
+    }
+  },
+  {
+    "id": "twitter_1980290526759788896",
+    "source": "twitter",
+    "author": "bitdoze",
+    "content": "I told @FactoryAI  druid CLI: “Make the @astrodotbuild  site fancy.” \n\n17 minutes later: view transitions everywhere. \n\nToken bill: ~1.6M factory tokens.\n\n Side effect: my pages now have stage presence :) . https://t.co/B5kPKkRQ5s",
+    "url": "https://x.com/bitdoze/status/1980290526759788896",
+    "timestamp": "2025-10-20T15:10:28.000Z",
+    "metadata": {
+      "conversation_id": "1980290526759788896",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980278797074382861",
     "source": "twitter",
     "author": "CodeWithOllie",
@@ -188,7 +216,7 @@
     "timestamp": "2025-10-20T13:52:36.000Z",
     "metadata": {
       "conversation_id": "1980270930883461144",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 1
@@ -285,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980258659335565696",
-    "source": "twitter",
-    "author": "geo_anima",
-    "content": "@tinkerersanky @FactoryAI Would be a great addition!",
-    "url": "https://x.com/geo_anima/status/1980258659335565696",
-    "timestamp": "2025-10-20T13:03:50.000Z",
-    "metadata": {
-      "conversation_id": "1980258659335565696",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -359,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -560,19 +573,6 @@
     }
   },
   {
-    "id": "reddit_1o86tci",
-    "source": "reddit",
-    "author": "mr_dudo",
-    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
-    "timestamp": "2025-10-16T13:55:41.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_200",
     "source": "github",
     "author": "JohnDotOwl",
@@ -609,19 +609,6 @@
       "type": "issue",
       "labels": [],
       "number": 197
-    }
-  },
-  {
-    "id": "reddit_1o7ywba",
-    "source": "reddit",
-    "author": "Erebea01",
-    "content": "How to delete my account and how to delete droid?\n\nHow do I delete my account? I send an email to support but they told me how to cancel my subscription? I'm also unable to find the docs for deleting droid from my system",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o7ywba/how_to_delete_my_account_and_how_to_delete_droid/",
-    "timestamp": "2025-10-16T06:30:21.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -713,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 183
-    }
-  },
-  {
-    "id": "github_issue_181",
-    "source": "github",
-    "author": "QDaed",
-    "content": "[Issue] Droid Glitching While Runnning\n\n\nhttps://github.com/user-attachments/assets/992f997b-2a79-4555-b423-ca8e72a57e50",
-    "url": "https://github.com/Factory-AI/factory/issues/181",
-    "timestamp": "2025-10-13T08:45:54Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 181
     }
   },
   {

@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1980401012289777863",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@bitdoze @FactoryAI @astrodotbuild Which model do you find is the most creative designer",
+    "url": "https://x.com/JoelDeTeves/status/1980401012289777863",
+    "timestamp": "2025-10-20T22:29:30.000Z",
+    "metadata": {
+      "conversation_id": "1980401012289777863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980399230671024601",
+    "source": "twitter",
+    "author": "anthonyronning_",
+    "content": "@_archienorman @FactoryAI @elevenlabsio Custom, droid built it's own physics-based reactive orb/particle engine in Metal lmao. Completely unnecessary but fun.",
+    "url": "https://x.com/anthonyronning_/status/1980399230671024601",
+    "timestamp": "2025-10-20T22:22:25.000Z",
+    "metadata": {
+      "conversation_id": "1980399230671024601",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980396579975807003",
     "source": "twitter",
     "author": "_archienorman",
@@ -8,9 +38,9 @@
     "timestamp": "2025-10-20T22:11:53.000Z",
     "metadata": {
       "conversation_id": "1980396579975807003",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -111,7 +141,7 @@
     "timestamp": "2025-10-20T21:11:00.000Z",
     "metadata": {
       "conversation_id": "1980381260389454153",
-      "likes": 8,
+      "likes": 9,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980346727875117207",
-    "source": "twitter",
-    "author": "bernaferrari",
-    "content": "@SadeqSardari @bitdoze @FactoryAI @astrodotbuild If Droid is full of bugs, I don't know what you are going to use, it is one of the best ones by far. I subscribe to Codex and something as basic as /compact doesn't work anymore (auto-compact then, never worked). If you don't want the $520 feel free to send to me. I'll be happy.",
-    "url": "https://x.com/bernaferrari/status/1980346727875117207",
-    "timestamp": "2025-10-20T18:53:47.000Z",
-    "metadata": {
-      "conversation_id": "1980346727875117207",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980346353281823102",
-    "source": "twitter",
-    "author": "jeff_behnke_",
-    "content": "@bitdoze @FactoryAI @astrodotbuild And I am over here writing rules to stop LLMs from adding useless animations and transitions for no reason",
-    "url": "https://x.com/jeff_behnke_/status/1980346353281823102",
-    "timestamp": "2025-10-20T18:52:18.000Z",
-    "metadata": {
-      "conversation_id": "1980346353281823102",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

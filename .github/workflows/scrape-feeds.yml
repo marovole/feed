@@ -23,7 +23,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '20'
           cache: 'npm'
 
       - name: Install dependencies
@@ -40,6 +40,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main
           git add docs/data/feed.json
-          git diff --staged --quiet || git commit -m "Update feed data [skip ci]"
-          git push || echo "No changes to push"
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update feed data [skip ci]"
+            git push origin HEAD:main
+          fi

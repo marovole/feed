@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1980534332105322776",
+    "source": "twitter",
+    "author": "zhangjintao9020",
+    "content": "@bentossell @matanSF @FactoryAI Thanks for the response! I'm having trouble with my subscription - I emailed account.factory as instructed by the system but haven't heard back. Could you help me follow up on this? Much appreciated! tao@moelove.info",
+    "url": "https://x.com/zhangjintao9020/status/1980534332105322776",
+    "timestamp": "2025-10-21T07:19:15.000Z",
+    "metadata": {
+      "conversation_id": "1980534332105322776",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980533452031291738",
+    "source": "twitter",
+    "author": "SaidAitmbarek",
+    "content": "@damien_r_h @WisprFlow @FactoryAI best combo!",
+    "url": "https://x.com/SaidAitmbarek/status/1980533452031291738",
+    "timestamp": "2025-10-21T07:15:46.000Z",
+    "metadata": {
+      "conversation_id": "1980533452031291738",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980532009333342531",
+    "source": "twitter",
+    "author": "ByteOWildeSandH",
+    "content": "@MrJeberulz @FactoryAI I miss deep manual crafting, how do you balance speed with design fidelity when shipping one-shot?",
+    "url": "https://x.com/ByteOWildeSandH/status/1980532009333342531",
+    "timestamp": "2025-10-21T07:10:02.000Z",
+    "metadata": {
+      "conversation_id": "1980532009333342531",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980528441985577013",
+    "source": "twitter",
+    "author": "damien_r_h",
+    "content": "@bentossell @FactoryAI do you set up github repos as the cloud folder for all this too Ben?",
+    "url": "https://x.com/damien_r_h/status/1980528441985577013",
+    "timestamp": "2025-10-21T06:55:51.000Z",
+    "metadata": {
+      "conversation_id": "1980528441985577013",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980527655188680816",
     "source": "twitter",
     "author": "MrJeberulz",
@@ -8,9 +68,9 @@
     "timestamp": "2025-10-21T06:52:44.000Z",
     "metadata": {
       "conversation_id": "1980527655188680816",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -25,7 +85,7 @@
       "conversation_id": "1980517042995273793",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,9 +98,9 @@
     "timestamp": "2025-10-21T05:51:34.000Z",
     "metadata": {
       "conversation_id": "1980512262789226976",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -279,66 +339,6 @@
     }
   },
   {
-    "id": "twitter_1980441850269036660",
-    "source": "twitter",
-    "author": "MihailVarich",
-    "content": "What a problem? @FactoryAI @awscloud ? https://t.co/utNkEVP37H",
-    "url": "https://x.com/MihailVarich/status/1980441850269036660",
-    "timestamp": "2025-10-21T01:11:46.000Z",
-    "metadata": {
-      "conversation_id": "1980441850269036660",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980429961191457267",
-    "source": "twitter",
-    "author": "ITguy_91",
-    "content": "@JoelDeTeves @FactoryAI @bentossell Bennnnnn how can I get this ?",
-    "url": "https://x.com/ITguy_91/status/1980429961191457267",
-    "timestamp": "2025-10-21T00:24:32.000Z",
-    "metadata": {
-      "conversation_id": "1980429961191457267",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980422578620756062",
-    "source": "twitter",
-    "author": "nest_elf",
-    "content": "@jxwalker @OpenAICodexCli @Claude @cursor_ai @warpdotdev @FactoryAI @WisprFlow https://t.co/5mNRnlIYy9",
-    "url": "https://x.com/nest_elf/status/1980422578620756062",
-    "timestamp": "2025-10-20T23:55:11.000Z",
-    "metadata": {
-      "conversation_id": "1980422578620756062",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980420466696417639",
-    "source": "twitter",
-    "author": "thisismichael13",
-    "content": "Not being able to log into @FactoryAI to see my usage is scary. Good thing it’s so efficient. Hoping I dont run out of tokens today lol",
-    "url": "https://x.com/thisismichael13/status/1980420466696417639",
-    "timestamp": "2025-10-20T23:46:48.000Z",
-    "metadata": {
-      "conversation_id": "1980420466696417639",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_219",
     "source": "github",
     "author": "tgerighty",
@@ -424,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -573,15 +573,15 @@
     }
   },
   {
-    "id": "reddit_1o8tf0s",
+    "id": "reddit_1o8t9pq",
     "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
     "metadata": {
-      "score": 2,
-      "num_comments": 4,
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

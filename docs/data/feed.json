@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1980471037776318874",
+    "source": "twitter",
+    "author": "jeff_behnke_",
+    "content": "@philliphaydon @bitdoze @FactoryAI @astrodotbuild Not if you don’t make them bloated with frameworks when they are not necessary",
+    "url": "https://x.com/jeff_behnke_/status/1980471037776318874",
+    "timestamp": "2025-10-21T03:07:45.000Z",
+    "metadata": {
+      "conversation_id": "1980471037776318874",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_discussion_223",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] [Discussion] Droid Exec Headless Streaming with output format (JSON)\n\nDroid Exec (Headless)\r\nIt make sense to use --output-format json if you're running a headless droid exec as that's the best way to programmatically manage the headless droid. The issue for me is i can't see the process and potentially stop it without --output-format debug and i can't run both output format. \r\n\r\nShould we consider having a different parameter for \"streaming\" , it's not so much for debugging but more to manage the task itself. ",
+    "url": "https://github.com/Factory-AI/factory/discussions/223",
+    "timestamp": "2025-10-21T02:46:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 223
+    }
+  },
+  {
+    "id": "twitter_1980465505749332183",
+    "source": "twitter",
+    "author": "Stu_J_",
+    "content": "@TimHerby @FactoryAI They are probably using AWS.",
+    "url": "https://x.com/Stu_J_/status/1980465505749332183",
+    "timestamp": "2025-10-21T02:45:46.000Z",
+    "metadata": {
+      "conversation_id": "1980465505749332183",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980463182591521103",
+    "source": "twitter",
+    "author": "philliphaydon",
+    "content": "@bitdoze @jeff_behnke_ @FactoryAI @astrodotbuild View transitions exist to mask slow sites. So 100% not useless. Cos pretty much all sites are slow",
+    "url": "https://x.com/philliphaydon/status/1980463182591521103",
+    "timestamp": "2025-10-21T02:36:32.000Z",
+    "metadata": {
+      "conversation_id": "1980463182591521103",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980452458687250854",
     "source": "twitter",
     "author": "damien_r_h",
@@ -8,7 +66,7 @@
     "timestamp": "2025-10-21T01:53:55.000Z",
     "metadata": {
       "conversation_id": "1980452458687250854",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -251,6 +309,19 @@
     }
   },
   {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1980390300888756318",
     "source": "twitter",
     "author": "hqmank",
@@ -277,51 +348,6 @@
       "likes": 4,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980386739287142696",
-    "source": "twitter",
-    "author": "TimHerby",
-    "content": "@FactoryAI are you down? https://t.co/3pG81uCGTG is return 504s (blocking sign-in), but https://t.co/Mdj9C08EEB shows green",
-    "url": "https://x.com/TimHerby/status/1980386739287142696",
-    "timestamp": "2025-10-20T21:32:47.000Z",
-    "metadata": {
-      "conversation_id": "1980386739287142696",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980382764227870928",
-    "source": "twitter",
-    "author": "KalGrinberg",
-    "content": "@falanfantana @matanSF @FactoryAI So great to finally meet irl! 🔥",
-    "url": "https://x.com/KalGrinberg/status/1980382764227870928",
-    "timestamp": "2025-10-20T21:16:59.000Z",
-    "metadata": {
-      "conversation_id": "1980382764227870928",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980381260389454153",
-    "source": "twitter",
-    "author": "falanfantana",
-    "content": "Awesome finally meeting you in person today @matanSF @KalGrinberg. Thanks for the warm welcome at the stunning @FactoryAI HQ! https://t.co/v1Q6kNmmfo",
-    "url": "https://x.com/falanfantana/status/1980381260389454153",
-    "timestamp": "2025-10-20T21:11:00.000Z",
-    "metadata": {
-      "conversation_id": "1980381260389454153",
-      "likes": 14,
-      "retweets": 1,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -378,6 +404,19 @@
     }
   },
   {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1oazqru",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -386,7 +425,7 @@
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
       "score": 3,
-      "num_comments": 4,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -521,15 +560,15 @@
     }
   },
   {
-    "id": "reddit_1o89mzk",
+    "id": "reddit_1o8tf0s",
     "source": "reddit",
-    "author": "x86rip",
-    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
-    "timestamp": "2025-10-16T15:43:59.000Z",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 12,
+      "score": 2,
+      "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
@@ -599,32 +638,6 @@
     }
   },
   {
-    "id": "reddit_1o7h903",
-    "source": "reddit",
-    "author": "itsmemac43",
-    "content": "Referral gone ??\n\nSo first they give referral option and make everyone refer their buddies\n\nOnce everyone is onboarded, they completely remove the referral on the whole \n\nThe website currently doesn't have a single word as referral and all the referral bonuses and posts are gone",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o7h903/referral_gone/",
-    "timestamp": "2025-10-15T17:22:36.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 14,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o748h7",
-    "source": "reddit",
-    "author": "Gullible_Rip_2750",
-    "content": "Jetbrains plugin for Droid\n\nHey. Documentation suggests there is jetbrains plugin. Anyone managed to integrate it or is it just \"promise\"? I sent e-mail but i got no response. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o748h7/jetbrains_plugin_for_droid/",
-    "timestamp": "2025-10-15T07:08:27.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_191",
     "source": "github",
     "author": "spirefyio",
@@ -635,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 191
-    }
-  },
-  {
-    "id": "reddit_1o6tivb",
-    "source": "reddit",
-    "author": "stevilg",
-    "content": "byok / custom_models\n\nIs Bring your own keys / custom\\_models working for anybody? I've tried a few combinations and no luck; droid never shows it on the list. Below is in my projects directory e.g. /project/.factory/config.json and I can confirm POST to [http://localhost:8317/v1/chat/completions](http://localhost:8317/v1/chat/completions) does work and so does GET to [http://localhost:8317/v1/models](http://localhost:8317/v1/models)\n\n    {\n      \"custom_models\": [\n        {\n          \"model_display_name\": \"qwen3-cod",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6tivb/byok_custom_models/",
-    "timestamp": "2025-10-14T22:13:49.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -677,19 +677,6 @@
     }
   },
   {
-    "id": "reddit_1o6e9gw",
-    "source": "reddit",
-    "author": "selfdb",
-    "content": "Building with factoryAI. a self-hosted backend with: auth, db, storage, cloud functions, webhooks and a sql editor.\n\nHello droids. I wanted to share this project that i'm buildng with factory ai for local / selfhost multimodel ai agents. v0.05 on the way. It is fully open source:  [https://github.com/Selfdb-io/SelfDB](https://github.com/Selfdb-io/SelfDB)",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6e9gw/building_with_factoryai_a_selfhosted_backend_with/",
-    "timestamp": "2025-10-14T12:34:23.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_185",
     "source": "github",
     "author": "zhengxilong",
@@ -713,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 184
-    }
-  },
-  {
-    "id": "reddit_1o69z6f",
-    "source": "reddit",
-    "author": "Optimal-Swordfish",
-    "content": "Codex works worse with droids than gpt-5\n\nTitle. When can we expect codex usage with droids to actually perform as expected? This is also apparent from the terminal bench results. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o69z6f/codex_works_worse_with_droids_than_gpt5/",
-    "timestamp": "2025-10-14T08:34:32.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -973,19 +947,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 13
-    }
-  },
-  {
-    "id": "github_discussion_12",
-    "source": "github",
-    "author": "factory-ben",
-    "content": "[Discussion] Factory Release 1.4\n\n## Droids in Slack & UX Upgrades\r\n\r\nFactory 1.4 introduces Droids into Slack and delivers key improvements to onboarding and overall user experience. \r\n\r\n\r\n### Slack Support\r\n\r\nDroids can now read and write to your channels streamlining team workflows.\r\n\r\n#### How it works\r\n\r\nConnect your Slack workspace via the **Settings** page in Factory. Next, add the Factory app to any channel by typing **/invite** Factory in Slack. Once connected, Droids can see your channels, read conversations, and send ",
-    "url": "https://github.com/Factory-AI/factory/discussions/12",
-    "timestamp": "2025-09-13T12:33:05Z",
-    "metadata": {
-      "type": "discussion",
-      "category": "Factory Official",
-      "number": 12
     }
   }
 ]

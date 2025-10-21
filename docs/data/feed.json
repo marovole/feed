@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_discussion_225",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] Change Log\n\nCan we have more updated change logs somewhere if possible. \r\n\r\nSuccessfully updated to version 0.21.5 Just saw this ",
+    "url": "https://github.com/Factory-AI/factory/discussions/225",
+    "timestamp": "2025-10-21T09:52:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 225
+    }
+  },
+  {
+    "id": "twitter_1980571641081168262",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "why @FactoryAI cli sometimes overplan? :( not keeping things in track when iterating the plan",
+    "url": "https://x.com/immoinulmoin/status/1980571641081168262",
+    "timestamp": "2025-10-21T09:47:31.000Z",
+    "metadata": {
+      "conversation_id": "1980571641081168262",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980570013460492663",
     "source": "twitter",
     "author": "Pompopurin888",
@@ -281,21 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980532009333342531",
-    "source": "twitter",
-    "author": "ByteOWildeSandH",
-    "content": "@MrJeberulz @FactoryAI I miss deep manual crafting, how do you balance speed with design fidelity when shipping one-shot?",
-    "url": "https://x.com/ByteOWildeSandH/status/1980532009333342531",
-    "timestamp": "2025-10-21T07:10:02.000Z",
-    "metadata": {
-      "conversation_id": "1980532009333342531",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
       "quotes": 0
     }
   },
@@ -804,19 +817,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 15
-    }
-  },
-  {
-    "id": "github_discussion_13",
-    "source": "github",
-    "author": "factory-ben",
-    "content": "[Discussion] Factory Release 1.5\n\n## Session Revamp & Workflow Upgrades\r\n\r\nFactory 1.5 introduces a fully redesigned Session interface, transforming how you manage your Droids.\r\n\r\n\r\n### Session Revamp\r\n\r\nThe entire agentic workflow in Sessions has been rebuilt and simplified to reduce friction and keep you in control:\r\n\r\n- **Specification:** Start with a distraction-free, chat-only workspace to define scope, boundaries, and success criteria—without side panels stealing focus.\r\n- **Management:** Open the Context view to see exact",
-    "url": "https://github.com/Factory-AI/factory/discussions/13",
-    "timestamp": "2025-09-13T12:33:40Z",
-    "metadata": {
-      "type": "discussion",
-      "category": "Factory Official",
-      "number": 13
     }
   }
 ]

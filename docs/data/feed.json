@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_1980978434471043320",
+    "source": "twitter",
+    "author": "talesofgoutham",
+    "content": "@FactoryAI why does droid tell that it’s using GPT 4.1 when I ask for it. I keep asking it , but confirms multiple times that even though model shown in gpt codex it’s GPT4.1",
+    "url": "https://x.com/talesofgoutham/status/1980978434471043320",
+    "timestamp": "2025-10-22T12:43:58.000Z",
+    "metadata": {
+      "conversation_id": "1980978434471043320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980976590822773215",
+    "source": "twitter",
+    "author": "crazy_tech80",
+    "content": "@ArtificialAnlys @Zai_org Try it with @FactoryAI  Droid and then build droids it is like agents that is a game changer. It handles very well task.",
+    "url": "https://x.com/crazy_tech80/status/1980976590822773215",
+    "timestamp": "2025-10-22T12:36:38.000Z",
+    "metadata": {
+      "conversation_id": "1980976590822773215",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980973216030929262",
+    "source": "twitter",
+    "author": "TCGsealed",
+    "content": "@kcosr @FactoryAI i tried it too.....\n\nif only they spent as much time creating a finished product as they did spamming X about it.",
+    "url": "https://x.com/TCGsealed/status/1980973216030929262",
+    "timestamp": "2025-10-22T12:23:14.000Z",
+    "metadata": {
+      "conversation_id": "1980973216030929262",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980972045652328655",
+    "source": "twitter",
+    "author": "sa1k0s",
+    "content": "@rudrankriyam @FactoryAI yeah now that I am thinking about it I realize that my codex always works with plan files, while CC I used in a more dynamic way.",
+    "url": "https://x.com/sa1k0s/status/1980972045652328655",
+    "timestamp": "2025-10-22T12:18:35.000Z",
+    "metadata": {
+      "conversation_id": "1980972045652328655",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980970036115509432",
+    "source": "twitter",
+    "author": "rudrankriyam",
+    "content": "@sa1k0s @FactoryAI But TBH, even Codex does that; trying to take a shortcut; happened last week when I was working on MLX Swift",
+    "url": "https://x.com/rudrankriyam/status/1980970036115509432",
+    "timestamp": "2025-10-22T12:10:35.000Z",
+    "metadata": {
+      "conversation_id": "1980970036115509432",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980969813204926637",
+    "source": "twitter",
+    "author": "rudrankriyam",
+    "content": "@sa1k0s I am using @FactoryAI for Sonnet 4.5 and Haiku 4.5",
+    "url": "https://x.com/rudrankriyam/status/1980969813204926637",
+    "timestamp": "2025-10-22T12:09:42.000Z",
+    "metadata": {
+      "conversation_id": "1980969813204926637",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980968080558690733",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@iannuttall The feedback loop is way too fucking slow to be useful. It’s a great model in @FactoryAI",
+    "url": "https://x.com/marcgregory_/status/1980968080558690733",
+    "timestamp": "2025-10-22T12:02:49.000Z",
+    "metadata": {
+      "conversation_id": "1980968080558690733",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980967792623968527",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@thedanifrim @FactoryAI nah makes sense!",
+    "url": "https://x.com/bentossell/status/1980967792623968527",
+    "timestamp": "2025-10-22T12:01:41.000Z",
+    "metadata": {
+      "conversation_id": "1980967792623968527",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980967595168673805",
+    "source": "twitter",
+    "author": "thedanifrim",
+    "content": "@bentossell @FactoryAI At my current rate it looks like I'd need between 35M-50M tokens. \n\nBut maybe this is just my usecase",
+    "url": "https://x.com/thedanifrim/status/1980967595168673805",
+    "timestamp": "2025-10-22T12:00:53.000Z",
+    "metadata": {
+      "conversation_id": "1980967595168673805",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980966901472743587",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@thedanifrim @FactoryAI 👀 👍",
+    "url": "https://x.com/bentossell/status/1980966901472743587",
+    "timestamp": "2025-10-22T11:58:08.000Z",
+    "metadata": {
+      "conversation_id": "1980966901472743587",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980966494264496304",
     "source": "twitter",
     "author": "thedanifrim",
@@ -10,7 +160,7 @@
       "conversation_id": "1980966494264496304",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,7 +173,7 @@
     "timestamp": "2025-10-22T11:53:47.000Z",
     "metadata": {
       "conversation_id": "1980965806264537298",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +188,7 @@
     "timestamp": "2025-10-22T11:53:41.000Z",
     "metadata": {
       "conversation_id": "1980965783241884004",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +218,7 @@
     "timestamp": "2025-10-22T11:51:45.000Z",
     "metadata": {
       "conversation_id": "1980965296799465819",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,7 +233,7 @@
     "timestamp": "2025-10-22T11:50:56.000Z",
     "metadata": {
       "conversation_id": "1980965088149623215",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -146,156 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980942259878011231",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@abhagsain @FactoryAI sorry about this! ran into the same bug this morning, getting fixed",
-    "url": "https://x.com/bentossell/status/1980942259878011231",
-    "timestamp": "2025-10-22T10:20:13.000Z",
-    "metadata": {
-      "conversation_id": "1980942259878011231",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980925769103573048",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "It is pretty easy to start:\n1- Install droid\n$ curl -fsSL https://app . factory . ai/cli | sh\n2- Navigate to your project \n$ cd /path/to/your/project\n3- Start interactive session droid\n$ droid\n\n/model command helps you navigate through the available models. My recommend would be to select a light and fast model to test around(either Haiku 4.5 or GLM-4.6)",
-    "url": "https://x.com/CloudTrader4/status/1980925769103573048",
-    "timestamp": "2025-10-22T09:14:41.000Z",
-    "metadata": {
-      "conversation_id": "1980925769103573048",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980922122248786060",
-    "source": "twitter",
-    "author": "ByteOWildeSandH",
-    "content": "@MrJeberulz @FactoryAI Fair point, no one-shot. I’ve been doing one-shot runs with Codex as review; I’ll switch to fast loops. How many passes do you do before you ship? Do you try 3–5 tiny versions then pick one? Tune for fidelity checks and catch your stream.",
-    "url": "https://x.com/ByteOWildeSandH/status/1980922122248786060",
-    "timestamp": "2025-10-22T09:00:12.000Z",
-    "metadata": {
-      "conversation_id": "1980922122248786060",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980912782985105467",
-    "source": "twitter",
-    "author": "cupcake_trader",
-    "content": "@CloudTrader4 @github @FactoryAI I keep seeing posts about @FactoryAI  and droids and want to set it up and try, but it's feeling like information overload and I'm struggling to know where to start.",
-    "url": "https://x.com/cupcake_trader/status/1980912782985105467",
-    "timestamp": "2025-10-22T08:23:05.000Z",
-    "metadata": {
-      "conversation_id": "1980912782985105467",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980907040651505773",
-    "source": "twitter",
-    "author": "magentamop",
-    "content": "@CloudTrader4 @github @FactoryAI interesting. your model selection is swapped with mine. i use better models for planning so the fast, cheap models have clearer instructions.",
-    "url": "https://x.com/magentamop/status/1980907040651505773",
-    "timestamp": "2025-10-22T08:00:16.000Z",
-    "metadata": {
-      "conversation_id": "1980907040651505773",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980906312088293873",
-    "source": "twitter",
-    "author": "abhagsain",
-    "content": "Trying out Droids from @FactoryAI for an important task, but it's extremelyyyyyyyyyyyyyyyyyyyyyyyyyyyy slow.  \nDoesn't show thinking, so I can't tell if it's doing anything.\nSpent 10 minutes and gave an error, no work done 🤡 https://t.co/sMWquuj1Gy",
-    "url": "https://x.com/abhagsain/status/1980906312088293873",
-    "timestamp": "2025-10-22T07:57:22.000Z",
-    "metadata": {
-      "conversation_id": "1980906312088293873",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980894774531092825",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@pharo7700 @aeitroc @FactoryAI simply dont use codex, only gpt-5-mid and high",
-    "url": "https://x.com/immoinulmoin/status/1980894774531092825",
-    "timestamp": "2025-10-22T07:11:32.000Z",
-    "metadata": {
-      "conversation_id": "1980894774531092825",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980888149556621621",
-    "source": "twitter",
-    "author": "KirkMarple",
-    "content": "No parallel tasks in @FactoryAI Droid yet?\n\n\"Excellent idea! Let me spin up parallel agents to audit code examples across the documentation\"\n\nBut when it tried to execute them, it said:\n\n\"I cannot actually create parallel Task agents - the Task tool isn't available in my toolset.\"\n\nStrange, eh?",
-    "url": "https://x.com/KirkMarple/status/1980888149556621621",
-    "timestamp": "2025-10-22T06:45:12.000Z",
-    "metadata": {
-      "conversation_id": "1980888149556621621",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980880031489400921",
-    "source": "twitter",
-    "author": "aeitroc",
-    "content": "@henryikoh_ @immoinulmoin @FactoryAI Before you waited a developer one week to implement something, now you think codex is slow. Its like that meme : Men used to go to war, now they complain about codex being slow.",
-    "url": "https://x.com/aeitroc/status/1980880031489400921",
-    "timestamp": "2025-10-22T06:12:57.000Z",
-    "metadata": {
-      "conversation_id": "1980880031489400921",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980862062612881774",
-    "source": "twitter",
-    "author": "MullerNavas",
-    "content": "It is the best. @FactoryAI",
-    "url": "https://x.com/MullerNavas/status/1980862062612881774",
-    "timestamp": "2025-10-22T05:01:33.000Z",
-    "metadata": {
-      "conversation_id": "1980862062612881774",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }

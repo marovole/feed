@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1981064964791292209",
+    "source": "twitter",
+    "author": "JaymeBuilds",
+    "content": "@FactoryAI @fabiorizzomatos @vindulaintranet @cursor_ai Can you just stack ultra plans instead of pay per use? While keeping it in an organization so tokens can be shared?",
+    "url": "https://x.com/JaymeBuilds/status/1981064964791292209",
+    "timestamp": "2025-10-22T18:27:48.000Z",
+    "metadata": {
+      "conversation_id": "1981064964791292209",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981064507268223231",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@ntkris i use the best one @FactoryAI ofc!",
+    "url": "https://x.com/bentossell/status/1981064507268223231",
+    "timestamp": "2025-10-22T18:25:59.000Z",
+    "metadata": {
+      "conversation_id": "1981064507268223231",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981064402183844148",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mjs527 @FactoryAI 🤌🤌🤌",
+    "url": "https://x.com/bentossell/status/1981064402183844148",
+    "timestamp": "2025-10-22T18:25:34.000Z",
+    "metadata": {
+      "conversation_id": "1981064402183844148",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981060543571251544",
+    "source": "twitter",
+    "author": "mjs527",
+    "content": "interesting table from some architecture analysis I ran yesterday. produced by sonnet 4.5 with plenty of context @FactoryAI @bentossell https://t.co/2mZH3bCPH7",
+    "url": "https://x.com/mjs527/status/1981060543571251544",
+    "timestamp": "2025-10-22T18:10:14.000Z",
+    "metadata": {
+      "conversation_id": "1981060543571251544",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981052274370572573",
     "source": "twitter",
     "author": "bentossell",
@@ -8,7 +68,7 @@
     "timestamp": "2025-10-22T17:37:23.000Z",
     "metadata": {
       "conversation_id": "1981052274370572573",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -66,7 +126,7 @@
     "timestamp": "2025-10-22T16:59:42.000Z",
     "metadata": {
       "conversation_id": "1981042791347343547",
-      "likes": 7,
+      "likes": 8,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -111,7 +171,7 @@
     "timestamp": "2025-10-22T16:33:49.000Z",
     "metadata": {
       "conversation_id": "1981036281254523088",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -216,7 +276,7 @@
     "timestamp": "2025-10-22T16:00:41.000Z",
     "metadata": {
       "conversation_id": "1981027940449050974",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -247,66 +307,6 @@
     "metadata": {
       "conversation_id": "1981025266463076791",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981018294401532017",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "@bentossell @FactoryAI BANGER",
-    "url": "https://x.com/JoelDeTeves/status/1981018294401532017",
-    "timestamp": "2025-10-22T15:22:21.000Z",
-    "metadata": {
-      "conversation_id": "1981018294401532017",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981018060351062025",
-    "source": "twitter",
-    "author": "mandarinoapp",
-    "content": "@bentossell @FactoryAI Is there a documentation on how to do this.. screenshot of yml would do just fine for now :D",
-    "url": "https://x.com/mandarinoapp/status/1981018060351062025",
-    "timestamp": "2025-10-22T15:21:25.000Z",
-    "metadata": {
-      "conversation_id": "1981018060351062025",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981017335650451784",
-    "source": "twitter",
-    "author": "mandarinoapp",
-    "content": "@bentossell @FactoryAI Thats awesome. I cannot wait to try it",
-    "url": "https://x.com/mandarinoapp/status/1981017335650451784",
-    "timestamp": "2025-10-22T15:18:32.000Z",
-    "metadata": {
-      "conversation_id": "1981017335650451784",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981012966364336265",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "yeh im against it as i get pitched all the time so also know who takes the money. \n\nfor our series b and cli launch (a month ago?) we paid one guy for a thread on x and ray fernando for a couple streams which were awesome and hes super authentic about disclaiming the partnership.\n\nbut since then, 0 sponsorship.",
-    "url": "https://x.com/bentossell/status/1981012966364336265",
-    "timestamp": "2025-10-22T15:01:11.000Z",
-    "metadata": {
-      "conversation_id": "1981012966364336265",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0

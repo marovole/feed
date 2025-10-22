@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980960068435649018",
+    "source": "twitter",
+    "author": "Tekhenra",
+    "content": "Hey @matanSF, is there any way of solving this? It never ends.\nI don't know how to contact support either @FactoryAI https://t.co/8Do93T6CPN",
+    "url": "https://x.com/Tekhenra/status/1980960068435649018",
+    "timestamp": "2025-10-22T11:30:59.000Z",
+    "metadata": {
+      "conversation_id": "1980960068435649018",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980950604496425415",
     "source": "twitter",
     "author": "MatthewEuc",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980813758625903089",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@ben_vargas @FactoryAI haha true",
-    "url": "https://x.com/immoinulmoin/status/1980813758625903089",
-    "timestamp": "2025-10-22T01:49:36.000Z",
-    "metadata": {
-      "conversation_id": "1980813758625903089",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ocv9jx",
     "source": "reddit",
     "author": "heretiqal",
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }

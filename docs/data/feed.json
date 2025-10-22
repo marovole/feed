@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1981010800119795845",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@codezera11 @FactoryAI @QodoAI Absolutely! If you think writing code feels like AGI, then wait until our droid leaves code review comments. It gives me the chills when it spots bugs that would have been a disaster if merged. So many good saves there.",
+    "url": "https://x.com/alvinsng/status/1981010800119795845",
+    "timestamp": "2025-10-22T14:52:34.000Z",
+    "metadata": {
+      "conversation_id": "1981010800119795845",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981009181030412303",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@bentossell @TCGsealed @FactoryAI This isn't a good look when a prominent streamer posts that you're sponsoring his channel. There is a lot of distrust in this space right now.\nhttps://t.co/QGHFeSLxkx",
+    "url": "https://x.com/kcosr/status/1981009181030412303",
+    "timestamp": "2025-10-22T14:46:08.000Z",
+    "metadata": {
+      "conversation_id": "1981009181030412303",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_234",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Issue] Bug Report: TypeError: undefined is not an object (evaluating 'A.match')\n\n# Bug Report: TypeError: undefined is not an object (evaluating 'A.match')\n\n**Affected Version**: Factory.ai Droid Platform (current)  \n**Date Reported**: 2025-10-22  \n\n## Environment Information\n\n- **Operating System**: macOS 15.0.0 (Sequoia) Darwin 25.0.0\n- **Droid Agent Model**: varies\n- **Factory.ai Version**: Current production version\n- **Runtime**: Bun runtime environment\n\n## Bug Description\n\nThe Factory.ai droid platform is experiencing a critical runtime error that causes agent executio",
+    "url": "https://github.com/Factory-AI/factory/issues/234",
+    "timestamp": "2025-10-22T14:40:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 234
+    }
+  },
+  {
+    "id": "twitter_1981006604645609960",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@IzirienAkhigbe @aeitroc @FactoryAI bro cooked! https://t.co/ToRxzXtjQv",
+    "url": "https://x.com/immoinulmoin/status/1981006604645609960",
+    "timestamp": "2025-10-22T14:35:54.000Z",
+    "metadata": {
+      "conversation_id": "1981006604645609960",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981002950588903930",
     "source": "twitter",
     "author": "bentossell",
@@ -25,7 +83,7 @@
       "conversation_id": "1981002454239252712",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +111,7 @@
     "timestamp": "2025-10-22T14:04:02.000Z",
     "metadata": {
       "conversation_id": "1980998586684096947",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,7 +156,7 @@
     "timestamp": "2025-10-22T13:59:49.000Z",
     "metadata": {
       "conversation_id": "1980997525021831219",
-      "likes": 7,
+      "likes": 8,
       "retweets": 1,
       "replies": 4,
       "quotes": 2
@@ -115,7 +173,7 @@
       "conversation_id": "1980994629614055693",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -143,9 +201,9 @@
     "timestamp": "2025-10-22T13:21:44.000Z",
     "metadata": {
       "conversation_id": "1980987940223562015",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -255,48 +313,29 @@
     }
   },
   {
-    "id": "twitter_1980973216030929262",
-    "source": "twitter",
-    "author": "TCGsealed",
-    "content": "@kcosr @FactoryAI i tried it too.....\n\nif only they spent as much time creating a finished product as they did spamming X about it.",
-    "url": "https://x.com/TCGsealed/status/1980973216030929262",
-    "timestamp": "2025-10-22T12:23:14.000Z",
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "conversation_id": "1980973216030929262",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
+      "score": 3,
+      "num_comments": 14,
+      "subreddit": "FactoryAi"
     }
   },
   {
-    "id": "twitter_1980972045652328655",
-    "source": "twitter",
-    "author": "sa1k0s",
-    "content": "@rudrankriyam @FactoryAI yeah now that I am thinking about it I realize that my codex always works with plan files, while CC I used in a more dynamic way.",
-    "url": "https://x.com/sa1k0s/status/1980972045652328655",
-    "timestamp": "2025-10-22T12:18:35.000Z",
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
     "metadata": {
-      "conversation_id": "1980972045652328655",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980970036115509432",
-    "source": "twitter",
-    "author": "rudrankriyam",
-    "content": "@sa1k0s @FactoryAI But TBH, even Codex does that; trying to take a shortcut; happened last week when I was working on MLX Swift",
-    "url": "https://x.com/rudrankriyam/status/1980970036115509432",
-    "timestamp": "2025-10-22T12:10:35.000Z",
-    "metadata": {
-      "conversation_id": "1980970036115509432",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -378,6 +417,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -404,6 +456,19 @@
     }
   },
   {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -414,6 +479,19 @@
       "type": "issue",
       "labels": [],
       "number": 217
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -430,6 +508,45 @@
     }
   },
   {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -440,6 +557,32 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1oayeuk",
+    "source": "reddit",
+    "author": "Malek262",
+    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
+    "timestamp": "2025-10-19T19:18:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -479,19 +622,6 @@
       "type": "issue",
       "labels": [],
       "number": 210
-    }
-  },
-  {
-    "id": "github_issue_209",
-    "source": "github",
-    "author": "Phunguy65",
-    "content": "[Issue] Droid cli not working after run on version 0.21.3\n\nAfter update to version 0.21.3, droid is not working.\n\nHere is the log, please check again:\n\n```\n[2025-10-18T00:38:15.042Z] ERROR: An unexpected critical error occurred {\n  error: TypeError: Attempted to assign to readonly property.\n      at <anonymous> (/$bunfs/root/droid:148:15386)\n      at forEach (native:1:11)\n      at pt (/$bunfs/root/droid:148:15311)\n      at kA (/$bunfs/root/droid:151:105)\n      at error (/$bunfs/root/droid:1486:990)\n      at <anonymous> (/$bunfs/root/droid:1462:3009)\n   ",
-    "url": "https://github.com/Factory-AI/factory/issues/209",
-    "timestamp": "2025-10-18T02:07:57Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 209
     }
   },
   {

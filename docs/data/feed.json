@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981844452118614421",
+    "source": "twitter",
+    "author": "AVGVSTVS96",
+    "content": "@CloudTrader4 @FactoryAI @firecrawl_dev How is Firecrawl better than the built in web search tool?",
+    "url": "https://x.com/AVGVSTVS96/status/1981844452118614421",
+    "timestamp": "2025-10-24T22:05:12.000Z",
+    "metadata": {
+      "conversation_id": "1981844452118614421",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981841364636815495",
     "source": "twitter",
     "author": "bakek_c",
@@ -317,21 +332,6 @@
     "timestamp": "2025-10-24T15:52:08.000Z",
     "metadata": {
       "conversation_id": "1981750563743093072",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981748087824536057",
-    "source": "twitter",
-    "author": "CooperRichmond0",
-    "content": "@francesca_lab @FactoryAI I have knowledge of and passion for all things finance and bizops, but I’m graduating next year so only ~1 year experience. Will there be an intern position for whoever you end up hiring for the role?🙏",
-    "url": "https://x.com/CooperRichmond0/status/1981748087824536057",
-    "timestamp": "2025-10-24T15:42:17.000Z",
-    "metadata": {
-      "conversation_id": "1981748087824536057",
       "likes": 1,
       "retweets": 0,
       "replies": 0,
@@ -725,6 +725,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 10,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },

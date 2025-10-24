@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981849667270029642",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "This is what I will spend the weekend on\n\n@OpenRouterAI 's beast @Zai_org GLM-4.6 exacto endpoint with @FactoryAI droid\n\nAvengers inside the terminal https://t.co/JE2VWuRbwb",
+    "url": "https://x.com/CloudTrader4/status/1981849667270029642",
+    "timestamp": "2025-10-24T22:25:56.000Z",
+    "metadata": {
+      "conversation_id": "1981849667270029642",
+      "likes": 4,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981844452118614421",
     "source": "twitter",
     "author": "AVGVSTVS96",
@@ -321,21 +336,6 @@
       "score": 1,
       "num_comments": 2,
       "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1981750563743093072",
-    "source": "twitter",
-    "author": "PythagoraAI",
-    "content": "@OxFrancesco_ @GoogleAIStudio @AmpCode @FactoryAI @Zai_org https://t.co/CvRYsu78bL",
-    "url": "https://x.com/PythagoraAI/status/1981750563743093072",
-    "timestamp": "2025-10-24T15:52:08.000Z",
-    "metadata": {
-      "conversation_id": "1981750563743093072",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -725,19 +725,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 10,
-      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },

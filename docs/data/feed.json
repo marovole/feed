@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1981736263247110195",
+    "source": "twitter",
+    "author": "verioussmith",
+    "content": "@bentossell @matanSF @TheGregYang @FactoryAI Much appreciated! 🙏🏾",
+    "url": "https://x.com/verioussmith/status/1981736263247110195",
+    "timestamp": "2025-10-24T14:55:18.000Z",
+    "metadata": {
+      "conversation_id": "1981736263247110195",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981736011852820693",
+    "source": "twitter",
+    "author": "OxFrancesco_",
+    "content": "In this video I showcased another 3 + 1 ways of vibe-coding or coding agentically for free or really cheap.\n\n1. @GoogleAIStudio Build Mode\n2. @AmpCode\n3. @FactoryAI  \n4. @Zai_org https://t.co/D3tmBdcIHA",
+    "url": "https://x.com/OxFrancesco_/status/1981736011852820693",
+    "timestamp": "2025-10-24T14:54:18.000Z",
+    "metadata": {
+      "conversation_id": "1981736011852820693",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981733496428085751",
     "source": "twitter",
     "author": "gtmlabsxyz",
@@ -68,9 +98,9 @@
     "timestamp": "2025-10-24T14:27:58.000Z",
     "metadata": {
       "conversation_id": "1981729383023837196",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -277,36 +307,6 @@
     "metadata": {
       "conversation_id": "1981693118337655055",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981692500768407640",
-    "source": "twitter",
-    "author": "AI_dude_eu",
-    "content": "@bentossell @RayFernando1337 @FactoryAI I dont think GLM is generally bad, just with Droid I had all the time issues with wrong paths when READ, failed searches with GREP, and in some cases it just stopped in the middle just so. On the Max Plan of GLM subscription btw with custom model in Droid.",
-    "url": "https://x.com/AI_dude_eu/status/1981692500768407640",
-    "timestamp": "2025-10-24T12:01:24.000Z",
-    "metadata": {
-      "conversation_id": "1981692500768407640",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981692013386047868",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@berthojoris @FactoryAI please generate the bug report in this session by using /bug and then email to support@factory.ai with a link ot this tweet 🙏",
-    "url": "https://x.com/bentossell/status/1981692013386047868",
-    "timestamp": "2025-10-24T11:59:28.000Z",
-    "metadata": {
-      "conversation_id": "1981692013386047868",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }

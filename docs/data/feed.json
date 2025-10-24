@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981666917543977207",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "recently they become slower to ship, look at @FactoryAI cli and @claudeai code cli",
+    "url": "https://x.com/immoinulmoin/status/1981666917543977207",
+    "timestamp": "2025-10-24T10:19:45.000Z",
+    "metadata": {
+      "conversation_id": "1981666917543977207",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981651766178369796",
     "source": "twitter",
     "author": "djasnive",
@@ -24,6 +39,21 @@
     "metadata": {
       "conversation_id": "1981651641830097246",
       "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981646078198857802",
+    "source": "twitter",
+    "author": "AI_dude_eu",
+    "content": "@RayFernando1337 GLM is just bad with @FactoryAI, if one uses GLM custom model (https://t.co/sOOP9rW5Xq sub) it constantly fails with proper tool calls and just stops in the middle of the task. So there is some issue i think. Also Sonnet+GLM only works in non-thinking mode",
+    "url": "https://x.com/AI_dude_eu/status/1981646078198857802",
+    "timestamp": "2025-10-24T08:56:56.000Z",
+    "metadata": {
+      "conversation_id": "1981646078198857802",
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -156,9 +186,9 @@
     "timestamp": "2025-10-24T05:11:55.000Z",
     "metadata": {
       "conversation_id": "1981589447293419992",
-      "likes": 1,
+      "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -246,7 +276,7 @@
       "conversation_id": "1981524723399086550",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -289,36 +319,6 @@
     "timestamp": "2025-10-24T00:10:27.000Z",
     "metadata": {
       "conversation_id": "1981513583801303191",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981512143280406692",
-    "source": "twitter",
-    "author": "EnoReyes",
-    "content": "@AliDTwitt @FactoryAI You can run local models! using vlm or ollama!\n\nhttps://t.co/0jPEueqjpR",
-    "url": "https://x.com/EnoReyes/status/1981512143280406692",
-    "timestamp": "2025-10-24T00:04:44.000Z",
-    "metadata": {
-      "conversation_id": "1981512143280406692",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981503584211546333",
-    "source": "twitter",
-    "author": "bernaferrari",
-    "content": "@AliDTwitt @FactoryAI if it doesn't already support it should be very easy, they are very open about this... Let's see what they reply @bentossell",
-    "url": "https://x.com/bernaferrari/status/1981503584211546333",
-    "timestamp": "2025-10-23T23:30:43.000Z",
-    "metadata": {
-      "conversation_id": "1981503584211546333",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -651,6 +651,19 @@
     }
   },
   {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -726,45 +739,6 @@
       "type": "issue",
       "labels": [],
       "number": 208
-    }
-  },
-  {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {

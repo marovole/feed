@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981862701677891664",
+    "source": "twitter",
+    "author": "garymjr",
+    "content": "we should also spam @FactoryAI for a command to generate an https://t.co/bpX8jCnLD8 file",
+    "url": "https://x.com/garymjr/status/1981862701677891664",
+    "timestamp": "2025-10-24T23:17:43.000Z",
+    "metadata": {
+      "conversation_id": "1981862701677891664",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981860391723610311",
+    "source": "twitter",
+    "author": "ItIsAny",
+    "content": "@bakek_c @hqmank @FactoryAI https://t.co/5DFWczzPJq i dunno if still works. Try!",
+    "url": "https://x.com/ItIsAny/status/1981860391723610311",
+    "timestamp": "2025-10-24T23:08:33.000Z",
+    "metadata": {
+      "conversation_id": "1981860391723610311",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981857759323906527",
+    "source": "twitter",
+    "author": "crazy_tech80",
+    "content": "So I get illegal then corrupted message I have to go through system logs to get that information. But the I setup the same thing on my windows machined that not a virtual machine it works as expected. So it definitely looking at the processor level. It happens to all great products so please try to fix it. Thanks",
+    "url": "https://x.com/crazy_tech80/status/1981857759323906527",
+    "timestamp": "2025-10-24T22:58:05.000Z",
+    "metadata": {
+      "conversation_id": "1981857759323906527",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981856135289434240",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -23,9 +68,9 @@
     "timestamp": "2025-10-24T22:25:56.000Z",
     "metadata": {
       "conversation_id": "1981849667270029642",
-      "likes": 10,
+      "likes": 20,
       "retweets": 1,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -55,7 +100,7 @@
       "conversation_id": "1981841364636815495",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -268,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1981790268383723701",
-    "source": "twitter",
-    "author": "nightmaaan",
-    "content": "@CloudTrader4 @FactoryAI @firecrawl_dev Why not just Ref MCP? It will work better for such tasks as getting docs etc",
-    "url": "https://x.com/nightmaaan/status/1981790268383723701",
-    "timestamp": "2025-10-24T18:29:54.000Z",
-    "metadata": {
-      "conversation_id": "1981790268383723701",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_257",
     "source": "github",
     "author": "johnhowelljr",
@@ -293,36 +323,6 @@
       "type": "issue",
       "labels": [],
       "number": 257
-    }
-  },
-  {
-    "id": "twitter_1981772455334359311",
-    "source": "twitter",
-    "author": "MaxwellAbram",
-    "content": "🔥🚪👀 𝗢𝗙𝗙𝗜𝗖𝗘 𝗗𝗥𝗢𝗣 𝗜𝗡𝗦, weekly profiles of cracked teams | Ep 7: @FactoryAI \n(w/ @matanSF)\n\nThe open secret that Factory is betting on? \n\nThat true enterprise adoption of software development agents comes not from coding autocomplete alone, but from also automating the messy, brain eating work of the full SDLC.\n\nOh -- and the product should be beautiful, with a winning interaction pattern for the engineer to interface with throughout their workday.\n\nCheck out the video to for more on this, and to hear what (and who) convinced Matan to leave his PhD to be a founder.\n\nAlso... Bonus: the story of Matan’s first meeting with founding engineer Nikita. (Good pivots are important.)\n\n--\n\nCC: @EnoReyes, Francesca, Shaun, Alex, Mantis Venture Capital, @sequoia, Abstract, Lux Capital\n\n#startups #venturecapital\n#officedropins",
-    "url": "https://x.com/MaxwellAbram/status/1981772455334359311",
-    "timestamp": "2025-10-24T17:19:07.000Z",
-    "metadata": {
-      "conversation_id": "1981772455334359311",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981770654090170860",
-    "source": "twitter",
-    "author": "cataluna84",
-    "content": "Can't seem to make droid by @FactoryAI work in Windows 10 on CLI or the Cursor IDE? \n\nAfter installation -&gt; droid keyword doesn't give anything on the CLI\n\nThe cursor IDE extension doesn't work either!!",
-    "url": "https://x.com/cataluna84/status/1981770654090170860",
-    "timestamp": "2025-10-24T17:11:58.000Z",
-    "metadata": {
-      "conversation_id": "1981770654090170860",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_215",
     "source": "github",
     "author": "iota9star",
@@ -716,15 +703,15 @@
     }
   },
   {
-    "id": "reddit_1ob2dsx",
+    "id": "reddit_1oazqru",
     "source": "reddit",
     "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 4,
+      "score": 4,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -739,6 +726,45 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {

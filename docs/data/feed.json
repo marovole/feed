@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1981524723399086550",
+    "source": "twitter",
+    "author": "zhangjintao9020",
+    "content": "@bentossell @matanSF @FactoryAI I can see I'm not the only one having this problem.\n\nhttps://t.co/XMuIonoFyG",
+    "url": "https://x.com/zhangjintao9020/status/1981524723399086550",
+    "timestamp": "2025-10-24T00:54:43.000Z",
+    "metadata": {
+      "conversation_id": "1981524723399086550",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981519883180638450",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "As part of our docs refresh, I wanted to build out new @graphlit tutorials. \n\nFirst, planned out requirements for a deep research concept using @FactoryAI Droid and Sonnet 4.5\n\nThen going to write a tutorial, along with code, using @graphlit for ingest and memory, and built with each of these frameworks:\n\n@mastra_ai \n@AgnoAgi \nLangGraph\n@vercel Workflow\n\nInterested to see how this goes, and will post each tutorial once it’s done.  Maybe even videos too.",
+    "url": "https://x.com/KirkMarple/status/1981519883180638450",
+    "timestamp": "2025-10-24T00:35:29.000Z",
+    "metadata": {
+      "conversation_id": "1981519883180638450",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981516466047373521",
+    "source": "twitter",
+    "author": "mehkhi07",
+    "content": "@FactoryAI How does sonnet 4.5 and glm 4.6 perform?",
+    "url": "https://x.com/mehkhi07/status/1981516466047373521",
+    "timestamp": "2025-10-24T00:21:54.000Z",
+    "metadata": {
+      "conversation_id": "1981516466047373521",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981513583801303191",
+    "source": "twitter",
+    "author": "AliDTwitt",
+    "content": "@EnoReyes @FactoryAI MLX GPU support would be lovely. Not everyone wants to run GGUF models while they have Mac's.",
+    "url": "https://x.com/AliDTwitt/status/1981513583801303191",
+    "timestamp": "2025-10-24T00:10:27.000Z",
+    "metadata": {
+      "conversation_id": "1981513583801303191",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981512143280406692",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@AliDTwitt @FactoryAI You can run local models! using vlm or ollama!\n\nhttps://t.co/0jPEueqjpR",
+    "url": "https://x.com/EnoReyes/status/1981512143280406692",
+    "timestamp": "2025-10-24T00:04:44.000Z",
+    "metadata": {
+      "conversation_id": "1981512143280406692",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981503584211546333",
     "source": "twitter",
     "author": "bernaferrari",
@@ -82,7 +157,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
     "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
-      "score": 1,
+      "score": 0,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -96,9 +171,9 @@
     "timestamp": "2025-10-23T22:00:27.000Z",
     "metadata": {
       "conversation_id": "1981480866682487174",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -111,7 +186,7 @@
     "timestamp": "2025-10-23T21:36:52.000Z",
     "metadata": {
       "conversation_id": "1981474930148385054",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -126,7 +201,7 @@
     "timestamp": "2025-10-23T21:36:13.000Z",
     "metadata": {
       "conversation_id": "1981474769414377729",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -156,7 +231,7 @@
     "timestamp": "2025-10-23T21:15:54.000Z",
     "metadata": {
       "conversation_id": "1981469655081636120",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -231,81 +306,6 @@
     "timestamp": "2025-10-23T20:35:23.000Z",
     "metadata": {
       "conversation_id": "1981459458615365931",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981453404850339854",
-    "source": "twitter",
-    "author": "adisanu",
-    "content": "@bentossell @FactoryAI is there any bitbucket integration planned?",
-    "url": "https://x.com/adisanu/status/1981453404850339854",
-    "timestamp": "2025-10-23T20:11:19.000Z",
-    "metadata": {
-      "conversation_id": "1981453404850339854",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981450257599758395",
-    "source": "twitter",
-    "author": "monk_forge68",
-    "content": "@bentossell @FactoryAI @bentossell and @FactoryAI , I’m having problems setting up my windows Droid Cli ,even looking into the best-practices and official install instructions…perhaps it’s your windows version or something I don’t but I haven’t had the chance to try Droid Cli for almost 3 weeks trying",
-    "url": "https://x.com/monk_forge68/status/1981450257599758395",
-    "timestamp": "2025-10-23T19:58:49.000Z",
-    "metadata": {
-      "conversation_id": "1981450257599758395",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981447730225463677",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@crypto_deniro @FactoryAI replied to your other post on this :)",
-    "url": "https://x.com/bentossell/status/1981447730225463677",
-    "timestamp": "2025-10-23T19:48:47.000Z",
-    "metadata": {
-      "conversation_id": "1981447730225463677",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981447686835343684",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@crypto_deniro @RayFernando1337 @FactoryAI hey can you email support @ factory . ai please - they'll investigate for you - seems like some security flagging",
-    "url": "https://x.com/bentossell/status/1981447686835343684",
-    "timestamp": "2025-10-23T19:48:36.000Z",
-    "metadata": {
-      "conversation_id": "1981447686835343684",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981438591180951984",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "Any chance you guys can implement the context panel in web platform to the CLI? @FactoryAI @bentossell \n\nWhen providing context in CLI (for example a folder), it only accepts a specific file inside that folder, unless manually corrected. And only displays 5 files at a time.",
-    "url": "https://x.com/CloudTrader4/status/1981438591180951984",
-    "timestamp": "2025-10-23T19:12:28.000Z",
-    "metadata": {
-      "conversation_id": "1981438591180951984",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -645,8 +645,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 9,
-      "num_comments": 5,
+      "score": 11,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },

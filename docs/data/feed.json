@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981960569562300538",
+    "source": "twitter",
+    "author": "crowlabstech",
+    "content": "Interestingly, when using @TraycerAI to plan and @FactoryAI Droid to execute code changes, GPT-5-codex often just completely refuses to carry out the instructions.\nI have to coax it with \"those instructions were perfectly reasonable\" for it to continue. https://t.co/ZEaswTu6Qn",
+    "url": "https://x.com/crowlabstech/status/1981960569562300538",
+    "timestamp": "2025-10-25T05:46:37.000Z",
+    "metadata": {
+      "conversation_id": "1981960569562300538",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981951818339930204",
     "source": "twitter",
     "author": "CXL_LAB",
@@ -333,21 +348,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981849667270029642",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "This is what I will spend the weekend on\n\n@OpenRouterAI 's beast @Zai_org GLM-4.6 exacto endpoint with @FactoryAI droid\n\nAvengers inside the terminal https://t.co/JE2VWuRbwb",
-    "url": "https://x.com/CloudTrader4/status/1981849667270029642",
-    "timestamp": "2025-10-24T22:25:56.000Z",
-    "metadata": {
-      "conversation_id": "1981849667270029642",
-      "likes": 76,
-      "retweets": 1,
-      "replies": 4,
       "quotes": 0
     }
   },
@@ -725,6 +725,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

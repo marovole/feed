@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982167793995854302",
+    "source": "twitter",
+    "author": "aculzzz",
+    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org any reason why max token is 32k?",
+    "url": "https://x.com/aculzzz/status/1982167793995854302",
+    "timestamp": "2025-10-25T19:30:03.000Z",
+    "metadata": {
+      "conversation_id": "1982167793995854302",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982129004338454583",
     "source": "twitter",
     "author": "cataluna84",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982095784981201401",
-    "source": "twitter",
-    "author": "NicholasZozaya",
-    "content": "@CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI Same, I config’d GLmM-4.6 exacto via openrouter and it was wired up since most chat messages were successful, but it tripped up 3 times while I asked it to setup droids or use a custom command (read images via py script that pings openai) .",
-    "url": "https://x.com/NicholasZozaya/status/1982095784981201401",
-    "timestamp": "2025-10-25T14:43:55.000Z",
-    "metadata": {
-      "conversation_id": "1982095784981201401",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }

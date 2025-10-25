@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982129004338454583",
+    "source": "twitter",
+    "author": "cataluna84",
+    "content": "The illegal instruction error occurs when the droid binary tries to execute a CPU instruction that your AMD FX-8350 doesn't support. \n\nLet me find the exact instruction:\n$ gdb -batch -ex \"run\" -ex \"info registers\" -ex \"x/i \\$rip\" ~/.local/bin/droid 2>&1 | tail -20\n\nrsp            0x7fffffffd7a0      0x7fffffffd7a0\nr8             0x1                 1\nr9             0x0                 0\nr10            0x0                 0\nr11            0x202               514\nr12            0x0                 0\nr13            0x6c6f6f705f68652e  7813586406938797358\nr14            0x7fffffffd9d8      140737488345560\nr15            0x251e900           38922496\nrip            0x4127c50           0x4127c50\neflags         0x10246             [ PF ZF IF RF ]\ncs             0x33                51\nss             0x2b                43\nds             0x0                 0\nes             0x0                 0\nfs             0x0                 0\ngs             0x0                 0\nfs_base        0x7ffff7c35200      140737350160896\ngs_base        0x0                 0\n=> 0x4127c50:vinserti128 $0x1,%xmm1,%ymm0,%ymm0\n\nFound it! The illegal instruction is at address 0x4127c50:",
+    "url": "https://x.com/cataluna84/status/1982129004338454583",
+    "timestamp": "2025-10-25T16:55:55.000Z",
+    "metadata": {
+      "conversation_id": "1982129004338454583",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982128879998210135",
     "source": "twitter",
     "author": "CloudTrader4",
@@ -25,7 +40,7 @@
       "conversation_id": "1982127491863969942",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982095370860605551",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "If you have an existing terminal session, close and reopen the terminal.\n\n1- Check the path\nFor MacOS:\n/Users/<your_user_name>/.factory/config.json\n\nIt should exactly be placed in this path, inside your root directory, not your project's root\n\n2- Check the config.json\nFor @OpenRouterAI , it should be exactly the same json structure.",
-    "url": "https://x.com/CloudTrader4/status/1982095370860605551",
-    "timestamp": "2025-10-25T14:42:16.000Z",
-    "metadata": {
-      "conversation_id": "1982095370860605551",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 2,
+      "score": 3,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

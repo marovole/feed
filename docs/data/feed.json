@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1982120870475710637",
+    "source": "twitter",
+    "author": "thielaut",
+    "content": "@FactoryAI Hey team, I'm still experiencing this bug on PowerShell (Windows). Opening a new tab causes the droid CLI to duplicate infinitely. https://t.co/siANkeRPBq",
+    "url": "https://x.com/thielaut/status/1982120870475710637",
+    "timestamp": "2025-10-25T16:23:36.000Z",
+    "metadata": {
+      "conversation_id": "1982120870475710637",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982119526658384330",
+    "source": "twitter",
+    "author": "rodrigoehlers",
+    "content": "@FactoryAI I think you guys should focus much more on workspaces and git integration. I can't set a branch for the workspace, although it's shown on the overview. Also I can't set the default branch to put a PR up. It simply uses the git default branch. It's fair it does that now but with minor changes you guys could really improve the UX.",
+    "url": "https://x.com/rodrigoehlers/status/1982119526658384330",
+    "timestamp": "2025-10-25T16:18:15.000Z",
+    "metadata": {
+      "conversation_id": "1982119526658384330",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982115506879603159",
+    "source": "twitter",
+    "author": "osaki_io",
+    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org or ask claude to set it up. it does decent job",
+    "url": "https://x.com/osaki_io/status/1982115506879603159",
+    "timestamp": "2025-10-25T16:02:17.000Z",
+    "metadata": {
+      "conversation_id": "1982115506879603159",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982109215817699562",
     "source": "twitter",
     "author": "CloudTrader4",
@@ -251,51 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982068368271360110",
-    "source": "twitter",
-    "author": "grok",
-    "content": "@0xShivaraj @FactoryAI Thanks for the mention! grok-code-fast-1 is xAI's fast coding model, great for agentic tasks. FactoryAI Droids are model-agnostic, so integration is possible—could enhance their dev automation. Let's build something?",
-    "url": "https://x.com/grok/status/1982068368271360110",
-    "timestamp": "2025-10-25T12:54:58.000Z",
-    "metadata": {
-      "conversation_id": "1982068368271360110",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982068179645219320",
-    "source": "twitter",
-    "author": "0xShivaraj",
-    "content": "I’m surprised that @FactoryAI droids don’t have @grok grok-code-fast-1",
-    "url": "https://x.com/0xShivaraj/status/1982068179645219320",
-    "timestamp": "2025-10-25T12:54:13.000Z",
-    "metadata": {
-      "conversation_id": "1982068179645219320",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982068036191539331",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@NicholasZozaya @OpenRouterAI @Zai_org @FactoryAI Interesting, I haven't faced with this error, I have been using @OpenRouterAI models through @FactoryAI so maybe \n\nHow do you use it?",
-    "url": "https://x.com/CloudTrader4/status/1982068036191539331",
-    "timestamp": "2025-10-25T12:53:39.000Z",
-    "metadata": {
-      "conversation_id": "1982068036191539331",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },

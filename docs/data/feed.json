@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982007286345126049",
+    "source": "twitter",
+    "author": "GiusMarci",
+    "content": "Saw what @the_nof1 did with Alpha Arena and their AI trading models this week, so awesome! Loved the UI and the idea.\n\nThought, “Hmm, if I fire up @FactoryAI DROID with the new spec function on Haiku and code on Sonnet 4.5, I could build it and make it a fun weekend project.”\nThe confidence coding agents like Droid and Claude Code give you, uh? 😅😂\n\nSo I built this last night.\n\nIt’s all live data, working, with live profiles, hundreds of models that can be loaded (thanks to @opencode model lists), targets, AI trading and prediction, a local DB + vector DB for patterns, Tailscale on isolated machine, and a lot more.\n\nI’ve built similar stuff in the past, mostly Telegram bots and Python ones for work (in my past job, mostly by my team), probably the reason it took me way less time than I expected. It was literally ready in an hour.\n\nGotta say, I spent 40 minutes carefully planning the tech stack, logic, and DB structure before even sending the one-shot prompt to Droid, which is exactly why it worked in one shot.\n\nWill keep testing and see how it performs over the next week, hopefully it won’t burn through the testing budget 😄",
+    "url": "https://x.com/GiusMarci/status/1982007286345126049",
+    "timestamp": "2025-10-25T08:52:15.000Z",
+    "metadata": {
+      "conversation_id": "1982007286345126049",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982005350627782780",
     "source": "twitter",
     "author": "ninzo121",
@@ -307,21 +322,6 @@
       "likes": 4,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981917614109806974",
-    "source": "twitter",
-    "author": "Mattslayga",
-    "content": "I'm actually so impressed at the @basetenco hosted infra model for glm-4.6 running through both @FactoryAI droid and @opencode...\n\nI'm getting it understanding and fixing things that the standard @Zai_org coding plan infra gets stuck on\n\nDefaulting to that instead of codex rn",
-    "url": "https://x.com/Mattslayga/status/1981917614109806974",
-    "timestamp": "2025-10-25T02:55:56.000Z",
-    "metadata": {
-      "conversation_id": "1981917614109806974",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -725,6 +725,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982350112396321202",
+    "source": "twitter",
+    "author": "ivanfioravanti",
+    "content": "@etashio @chasebrignac @FactoryAI Codex is so much better! gpt-5-codex model behind is top!",
+    "url": "https://x.com/ivanfioravanti/status/1982350112396321202",
+    "timestamp": "2025-10-26T07:34:31.000Z",
+    "metadata": {
+      "conversation_id": "1982350112396321202",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982348573833363915",
     "source": "twitter",
     "author": "MinChonChiSF",
@@ -276,8 +291,8 @@
     "timestamp": "2025-10-26T03:42:57.000Z",
     "metadata": {
       "conversation_id": "1982291837294416222",
-      "likes": 20,
-      "retweets": 2,
+      "likes": 24,
+      "retweets": 3,
       "replies": 3,
       "quotes": 0
     }
@@ -291,21 +306,6 @@
     "timestamp": "2025-10-26T03:30:51.000Z",
     "metadata": {
       "conversation_id": "1982288792703918227",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982276815571054823",
-    "source": "twitter",
-    "author": "rezaul_arif",
-    "content": "How to fix this issue? @FactoryAI keeps glitching during diff edits for many days now. How to fix this? \n\nHappens both on my Mac (Tahoe 26.1) and Windows (11) inside VSCode, Cursor or Windsurf. \n\nZed is working fine. \n\nPretty weird @bentossell",
-    "url": "https://x.com/rezaul_arif/status/1982276815571054823",
-    "timestamp": "2025-10-26T02:43:16.000Z",
-    "metadata": {
-      "conversation_id": "1982276815571054823",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -703,6 +703,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,45 +739,6 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
-  },
-  {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o89mzk",
-    "source": "reddit",
-    "author": "x86rip",
-    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
-    "timestamp": "2025-10-16T15:43:59.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {

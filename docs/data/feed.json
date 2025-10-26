@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982432280292315357",
+    "source": "twitter",
+    "author": "stefandevo",
+    "content": "@etashio @FactoryAI Just tried it and ask to get me an expo app with a hono API a docker file with postgress and using bun. It failed miserable - all three pieces did not start. Garbage.",
+    "url": "https://x.com/stefandevo/status/1982432280292315357",
+    "timestamp": "2025-10-26T13:01:02.000Z",
+    "metadata": {
+      "conversation_id": "1982432280292315357",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982427742919639266",
+    "source": "twitter",
+    "author": "saen_dev",
+    "content": "@etashio @FactoryAI omg same!! droid's been lowkey outperforming for me lately 👀 \n\nthe way it handles context switching is *chef's kiss*. feels like they optimized specifically for real dev workflows vs just demos. have you tried it on any gnarly refactors yet?",
+    "url": "https://x.com/saen_dev/status/1982427742919639266",
+    "timestamp": "2025-10-26T12:43:00.000Z",
+    "metadata": {
+      "conversation_id": "1982427742919639266",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982425129616539735",
     "source": "twitter",
     "author": "jonhillymakes",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982364955988148390",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@etashio @FactoryAI How do yo use it",
-    "url": "https://x.com/martin_ict_algo/status/1982364955988148390",
-    "timestamp": "2025-10-26T08:33:30.000Z",
-    "metadata": {
-      "conversation_id": "1982364955988148390",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982360560475025723",
-    "source": "twitter",
-    "author": "rezaul_arif",
-    "content": "@bentossell @FactoryAI It works for a while after resizing. Then it keeps happening again, no need to apologise man. Waiting eagerly for the update 🙂. Thanks",
-    "url": "https://x.com/rezaul_arif/status/1982360560475025723",
-    "timestamp": "2025-10-26T08:16:02.000Z",
-    "metadata": {
-      "conversation_id": "1982360560475025723",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_263",
     "source": "github",
     "author": "tgerighty",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }

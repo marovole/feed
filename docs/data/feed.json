@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982518428071288975",
+    "source": "twitter",
+    "author": "Dallenpyrah",
+    "content": "@FactoryAI please give us droid in @zeddotdev soon, the perfect setup will be complete",
+    "url": "https://x.com/Dallenpyrah/status/1982518428071288975",
+    "timestamp": "2025-10-26T18:43:21.000Z",
+    "metadata": {
+      "conversation_id": "1982518428071288975",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982508166127722742",
     "source": "twitter",
     "author": "tridentasia",
@@ -291,21 +306,6 @@
     "timestamp": "2025-10-26T14:35:17.000Z",
     "metadata": {
       "conversation_id": "1982455999748268149",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982455836069798201",
-    "source": "twitter",
-    "author": "Ra1kshit",
-    "content": "@bentossell @FactoryAI been almost few days since i tried it out but on large messy codebases i find codex just running thinks for more than 5-6 minutes and then not doing anything. i'll give it a try again, and update the thread",
-    "url": "https://x.com/Ra1kshit/status/1982455836069798201",
-    "timestamp": "2025-10-26T14:34:38.000Z",
-    "metadata": {
-      "conversation_id": "1982455836069798201",
       "likes": 0,
       "retweets": 0,
       "replies": 1,

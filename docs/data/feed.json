@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982837306131398963",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@jarrodWattsDev @FactoryAI",
+    "url": "https://x.com/JoelDeTeves/status/1982837306131398963",
+    "timestamp": "2025-10-27T15:50:27.000Z",
+    "metadata": {
+      "conversation_id": "1982837306131398963",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982833202105593915",
     "source": "twitter",
     "author": "magnumben",
@@ -319,21 +334,6 @@
       "conversation_id": "1982769575126298821",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982753221543395389",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@SvenMeyer @FactoryAI @iannuttall @steipete also better in project/directory based session?",
-    "url": "https://x.com/immoinulmoin/status/1982753221543395389",
-    "timestamp": "2025-10-27T10:16:20.000Z",
-    "metadata": {
-      "conversation_id": "1982753221543395389",
-      "likes": 0,
-      "retweets": 0,
       "replies": 0,
       "quotes": 0
     }
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

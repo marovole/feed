@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1982862329026081065",
+    "source": "twitter",
+    "author": "ronaldmannak",
+    "content": "@adrgrondin @FactoryAI @GroqInc Thanks! There’s still a lot of work to do but it’s very promising. Note that it renders latex as well :)",
+    "url": "https://x.com/ronaldmannak/status/1982862329026081065",
+    "timestamp": "2025-10-27T17:29:53.000Z",
+    "metadata": {
+      "conversation_id": "1982862329026081065",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_270",
+    "source": "github",
+    "author": "diegodev9",
+    "content": "[Issue] illegal hardware instruction (core dumped)  droid\n\nI have problems with the new droid version 0.22.3\n\nI have an AMD fx8350 without avx2 instructions\nPlease, tell me how to downgrade droid to previous version\n\nhere are people having the same problem:\nhttps://github.com/oven-sh/bun/issues/24058\n\nI have a laptop with ryzen 7 CPU and it's working fine with droid 0.22.3, so it's a processor issue.\nCan you make a droid version for older CPUs ?",
+    "url": "https://github.com/Factory-AI/factory/issues/270",
+    "timestamp": "2025-10-27T17:23:36Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 270
+    }
+  },
+  {
     "id": "twitter_1982858488201261402",
     "source": "twitter",
     "author": "steipete",
@@ -8,7 +36,7 @@
     "timestamp": "2025-10-27T17:14:37.000Z",
     "metadata": {
       "conversation_id": "1982858488201261402",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,9 +51,9 @@
     "timestamp": "2025-10-27T17:03:39.000Z",
     "metadata": {
       "conversation_id": "1982855728139514272",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1982823974271959235",
-    "source": "twitter",
-    "author": "ronaldmannak",
-    "content": "I’m still optimizing performance (switching from GPT-Codex to Sonnet has been a huge win!). In general, 50–100 messages should be fine since each message uses its own Markdown view inside a List.\n\nThe real challenge is the final streaming Markdown view. Historically, every new chunk would force a full re-parse of the entire message. That’s been the main bottleneck that is fixed with this repo.",
-    "url": "https://x.com/ronaldmannak/status/1982823974271959235",
-    "timestamp": "2025-10-27T14:57:29.000Z",
-    "metadata": {
-      "conversation_id": "1982823974271959235",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_268",
     "source": "github",
     "author": "tickideas",
@@ -365,45 +378,6 @@
     }
   },
   {
-    "id": "reddit_1ofmunx",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
-    "metadata": {
-      "score": 9,
-      "num_comments": 10,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_258",
     "source": "github",
     "author": "britannio",
@@ -427,19 +401,6 @@
       "type": "issue",
       "labels": [],
       "number": 257
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -479,19 +440,6 @@
       "type": "issue",
       "labels": [],
       "number": 250
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 13,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -560,19 +508,6 @@
     }
   },
   {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_236",
     "source": "github",
     "author": "correa-cristobal",
@@ -586,19 +521,6 @@
     }
   },
   {
-    "id": "reddit_1odatnb",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_234",
     "source": "github",
     "author": "tgerighty",
@@ -609,32 +531,6 @@
       "type": "issue",
       "labels": [],
       "number": 234
-    }
-  },
-  {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -677,19 +573,6 @@
     }
   },
   {
-    "id": "github_issue_227",
-    "source": "github",
-    "author": "britannio",
-    "content": "[Issue] `droid exec --output-format stream-json` is erroneously emitting an error\n\n# Steps to reproduce\n\n1. Run droid exec with the default autonomy level, instructing it to take an action it doesn't have permission to carry out.\n\nCommand: \n`droid exec --output-format stream-json \"create a text file with the contents 'hello world'\"`\nOutput:\n```jsonl\n{\"type\":\"system\",\"subtype\":\"init\",\"cwd\":\"/private/tmp/droid-testing\",\"session_id\":\"8ade99b9-2c6f-4de2-b727-b527b0cdfbd0\",\"tools\":[\"Read\",\"LS\",\"Execute\",\"Edit\",\"MultiEdit\",\"ApplyPatch\",\"Grep\",\"Glob\",\"Create\",\"ExitSpecMode\",\"WebSearc",
-    "url": "https://github.com/Factory-AI/factory/issues/227",
-    "timestamp": "2025-10-21T10:39:40Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 227
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -700,19 +583,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {

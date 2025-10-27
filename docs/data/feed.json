@@ -1,5 +1,93 @@
 [
   {
+    "id": "twitter_1982823170710131061",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "@bentossell @FactoryAI 💜",
+    "url": "https://x.com/MirAI_Newz/status/1982823170710131061",
+    "timestamp": "2025-10-27T14:54:17.000Z",
+    "metadata": {
+      "conversation_id": "1982823170710131061",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982823065772761442",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MirAI_Newz @FactoryAI we'll look into testing it - you can add with byok for now :)",
+    "url": "https://x.com/bentossell/status/1982823065772761442",
+    "timestamp": "2025-10-27T14:53:52.000Z",
+    "metadata": {
+      "conversation_id": "1982823065772761442",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_268",
+    "source": "github",
+    "author": "tickideas",
+    "content": "[Issue] Markdown file not generated for spec and plan when explicitly requested with custom model\n\nWhen I run Factory AI Droid with a custom model and request the output of spec and plan to a markdown file, the file is not generated. This behavior occurs even when I specify the output option. The same option works as expected with predefined models, but fails with a custom model.",
+    "url": "https://github.com/Factory-AI/factory/issues/268",
+    "timestamp": "2025-10-27T14:53:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 268
+    }
+  },
+  {
+    "id": "twitter_1982822956515414374",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@immoinulmoin @voicetypr @FactoryAI 🤖",
+    "url": "https://x.com/bentossell/status/1982822956515414374",
+    "timestamp": "2025-10-27T14:53:26.000Z",
+    "metadata": {
+      "conversation_id": "1982822956515414374",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982822760893108691",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@stevyhacker @FactoryAI ❤️",
+    "url": "https://x.com/bentossell/status/1982822760893108691",
+    "timestamp": "2025-10-27T14:52:39.000Z",
+    "metadata": {
+      "conversation_id": "1982822760893108691",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982822125305278488",
+    "source": "twitter",
+    "author": "_Sagiquarius_",
+    "content": "@steipete @FactoryAI can the diff view be improved? I love how the codex ide extension shows all its changes. Stock droid diff view is hard on the eyes imo",
+    "url": "https://x.com/_Sagiquarius_/status/1982822125305278488",
+    "timestamp": "2025-10-27T14:50:08.000Z",
+    "metadata": {
+      "conversation_id": "1982822125305278488",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982820930452648329",
     "source": "twitter",
     "author": "GiusMarci",
@@ -53,7 +141,7 @@
     "timestamp": "2025-10-27T12:50:25.000Z",
     "metadata": {
       "conversation_id": "1982791999120908746",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -231,84 +319,9 @@
     "timestamp": "2025-10-27T07:54:29.000Z",
     "metadata": {
       "conversation_id": "1982717525889614327",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982716330026672367",
-    "source": "twitter",
-    "author": "ichebykin",
-    "content": "@etashio @FactoryAI yeah, I've been building with it for a few weeks, and can say the same, it's faster and somehow more thorough, and really good for scripting!",
-    "url": "https://x.com/ichebykin/status/1982716330026672367",
-    "timestamp": "2025-10-27T07:49:44.000Z",
-    "metadata": {
-      "conversation_id": "1982716330026672367",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982709396246532335",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@FactoryAI any idea why custom model responses' `tool_calls` array is always visible? Is this something the CLI is intended to filter from view? https://t.co/7ptULXvZmk",
-    "url": "https://x.com/fire/status/1982709396246532335",
-    "timestamp": "2025-10-27T07:22:11.000Z",
-    "metadata": {
-      "conversation_id": "1982709396246532335",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982704717391127026",
-    "source": "twitter",
-    "author": "igoor_org",
-    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai Which model(s) were you using?",
-    "url": "https://x.com/igoor_org/status/1982704717391127026",
-    "timestamp": "2025-10-27T07:03:36.000Z",
-    "metadata": {
-      "conversation_id": "1982704717391127026",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982704557282021661",
-    "source": "twitter",
-    "author": "mjs527",
-    "content": "agreed, it's still early but the real efficacy comes when they are auto-delegated by the meta droid. i've mentioned it once or twice, but I had this working with @aeitroc 's orchestrator temporarily and have yet to get back to that level of precision. however, asking the droid to run \"xyz-plan.xml using relevant custom droids in parallel\" works fairly well with the native @FactoryAI integrations right now",
-    "url": "https://x.com/mjs527/status/1982704557282021661",
-    "timestamp": "2025-10-27T07:02:57.000Z",
-    "metadata": {
-      "conversation_id": "1982704557282021661",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982697090477408264",
-    "source": "twitter",
-    "author": "ronaldmannak",
-    "content": "One major gap in Swift’s AI stack is a Markdown renderer that:\n🐇 Streams efficiently\n∑ Renders formulas\n🎯 Supports full-text selection across messages\n\nI used @FactoryAI Droid to build a prototype.\nHere’s a real-time preview of PicoMarkdownView running on @GroqInc. \nWhat do you think?",
-    "url": "https://x.com/ronaldmannak/status/1982697090477408264",
-    "timestamp": "2025-10-27T06:33:17.000Z",
-    "metadata": {
-      "conversation_id": "1982697090477408264",
-      "likes": 8,
-      "retweets": 0,
-      "replies": 2,
       "quotes": 0
     }
   },
@@ -346,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -593,21 +606,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -716,41 +703,15 @@
     }
   },
   {
-    "id": "github_issue_222",
-    "source": "github",
-    "author": "ImpureCrumpet",
-    "content": "[Issue] Factory is not recognizing existing Droid definition files as available Subagents for the Task tool. (Written by Droid)\n\nDroid is claiming it can't recognize the .md Custom Droid (Subagent) files (created in Droid) as agents to use with the subagent command, so I asked **Droid** to write and format this issue:\n\n# 🐛 Describe the bug\nFactory is not recognizing existing Droid definition files as available agents for the Task tool.  \nDespite proper structure and placement, the droids are not discovered or exposed as valid `subagent_type` targets.\n\n---\n\n## ⚙️ Environment\n- **Date:** 2025-10-18  \n- **Project path:** `[",
-    "url": "https://github.com/Factory-AI/factory/issues/222",
-    "timestamp": "2025-10-21T01:21:27Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 222
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
+    "id": "reddit_1ob2dsx",
     "source": "reddit",
     "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 3,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -765,6 +726,19 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1oayeuk",
+    "source": "reddit",
+    "author": "Malek262",
+    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
+    "timestamp": "2025-10-19T19:18:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
     }
   },
   {

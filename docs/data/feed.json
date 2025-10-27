@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1982891973527908632",
+    "source": "twitter",
+    "author": "ronaldmannak",
+    "content": "@M2Fauzaan @FactoryAI @GroqInc Yes it is but I wouldn’t use it in production just yet. I just switched from a stack view to TextKit yesterday and that broke a few things. The video was recorded using the Responses API demo app. Both Responses and markdown view are in the https://t.co/ewTmOUUN2o org",
+    "url": "https://x.com/ronaldmannak/status/1982891973527908632",
+    "timestamp": "2025-10-27T19:27:41.000Z",
+    "metadata": {
+      "conversation_id": "1982891973527908632",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982889598008307726",
+    "source": "twitter",
+    "author": "orsaorin",
+    "content": "@ssh_sharma135 @FactoryAI amazing! thank you for the quick reply. love droid",
+    "url": "https://x.com/orsaorin/status/1982889598008307726",
+    "timestamp": "2025-10-27T19:18:15.000Z",
+    "metadata": {
+      "conversation_id": "1982889598008307726",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982889139294089261",
+    "source": "twitter",
+    "author": "ssh_sharma135",
+    "content": "@orsaorin @FactoryAI Ah I see, great call out yeah the main reason you would cancel is to change what is being diffed -- will work on implementing this soon!",
+    "url": "https://x.com/ssh_sharma135/status/1982889139294089261",
+    "timestamp": "2025-10-27T19:16:25.000Z",
+    "metadata": {
+      "conversation_id": "1982889139294089261",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982888025240809866",
     "source": "twitter",
     "author": "orsaorin",
@@ -10,7 +55,7 @@
       "conversation_id": "1982888025240809866",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -143,9 +188,9 @@
     "timestamp": "2025-10-27T18:25:11.000Z",
     "metadata": {
       "conversation_id": "1982876245621911977",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -218,7 +263,7 @@
     "timestamp": "2025-10-27T17:45:36.000Z",
     "metadata": {
       "conversation_id": "1982866281809473808",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -248,51 +293,6 @@
     "timestamp": "2025-10-27T17:44:58.000Z",
     "metadata": {
       "conversation_id": "1982866122228802002",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982866032554586594",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "@leodoan_ @FactoryAI @myaitutor @the_machine_ai @pixio_ai Ya it's so wild to see how it has emergent properties",
-    "url": "https://x.com/tsi_org/status/1982866032554586594",
-    "timestamp": "2025-10-27T17:44:36.000Z",
-    "metadata": {
-      "conversation_id": "1982866032554586594",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982865952460157387",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "@sir4K_zen @FactoryAI @myaitutor @the_machine_ai @pixio_ai It's so wild but also fun",
-    "url": "https://x.com/tsi_org/status/1982865952460157387",
-    "timestamp": "2025-10-27T17:44:17.000Z",
-    "metadata": {
-      "conversation_id": "1982865952460157387",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982865853583634634",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "@martin_ict_algo @FactoryAI @myaitutor @the_machine_ai @pixio_ai Just needed to set up .droid 📁",
-    "url": "https://x.com/tsi_org/status/1982865853583634634",
-    "timestamp": "2025-10-27T17:43:54.000Z",
-    "metadata": {
-      "conversation_id": "1982865853583634634",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

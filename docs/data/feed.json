@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1982926332687425683",
+    "source": "twitter",
+    "author": "IzirienAkhigbe",
+    "content": "@FactoryAI @awscloud Congratulations 🎉 https://t.co/EJ7Pjzrouh",
+    "url": "https://x.com/IzirienAkhigbe/status/1982926332687425683",
+    "timestamp": "2025-10-27T21:44:13.000Z",
+    "metadata": {
+      "conversation_id": "1982926332687425683",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982925677906231377",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@fredrivett @every @bentossell @FactoryAI https://t.co/ut3gBvFRZB",
+    "url": "https://x.com/DannyAziz97/status/1982925677906231377",
+    "timestamp": "2025-10-27T21:41:37.000Z",
+    "metadata": {
+      "conversation_id": "1982925677906231377",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982925278927303023",
+    "source": "twitter",
+    "author": "fredrivett",
+    "content": "@DannyAziz97 @every @bentossell @FactoryAI for the empire!",
+    "url": "https://x.com/fredrivett/status/1982925278927303023",
+    "timestamp": "2025-10-27T21:40:02.000Z",
+    "metadata": {
+      "conversation_id": "1982925278927303023",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982924731054793111",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@arnaud_breton @FactoryAI you'd have to add a local model (which you can do! e.g. https://t.co/Gw4I2Q8RWh)",
+    "url": "https://x.com/bentossell/status/1982924731054793111",
+    "timestamp": "2025-10-27T21:37:51.000Z",
+    "metadata": {
+      "conversation_id": "1982924731054793111",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982921833029742707",
     "source": "twitter",
     "author": "gatien7",
@@ -38,9 +98,9 @@
     "timestamp": "2025-10-27T21:05:52.000Z",
     "metadata": {
       "conversation_id": "1982916681279189422",
-      "likes": 4,
-      "retweets": 2,
-      "replies": 0,
+      "likes": 7,
+      "retweets": 3,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +113,7 @@
     "timestamp": "2025-10-27T21:05:36.000Z",
     "metadata": {
       "conversation_id": "1982916614342537506",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +128,7 @@
     "timestamp": "2025-10-27T21:03:10.000Z",
     "metadata": {
       "conversation_id": "1982916004520046884",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,8 +158,8 @@
     "timestamp": "2025-10-27T21:00:07.000Z",
     "metadata": {
       "conversation_id": "1982915233963442609",
-      "likes": 7,
-      "retweets": 1,
+      "likes": 8,
+      "retweets": 2,
       "replies": 1,
       "quotes": 3
     }
@@ -190,7 +250,7 @@
       "conversation_id": "1982904044986478877",
       "likes": 8,
       "retweets": 0,
-      "replies": 5,
+      "replies": 6,
       "quotes": 0
     }
   },
@@ -234,66 +294,6 @@
     "metadata": {
       "conversation_id": "1982900502204690809",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982900345643905080",
-    "source": "twitter",
-    "author": "ifitsmanu",
-    "content": "@kanomalie But it’s written by @claudeai, @OpenAICodexCli , @kilocode , @FactoryAI , or a bunch of other CLI’s.\n\nDon’t you guys trust the code written by AI? Or even better, we can review it by @coderabbitai",
-    "url": "https://x.com/ifitsmanu/status/1982900345643905080",
-    "timestamp": "2025-10-27T20:00:57.000Z",
-    "metadata": {
-      "conversation_id": "1982900345643905080",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982900098301603891",
-    "source": "twitter",
-    "author": "arnaud_breton",
-    "content": "@bentossell @FactoryAI Also, I was surprised that droid seems connection dependant, not sure if because my session expired though, but I'd expect droid to launch immediately when offline, am I assuming wrong?",
-    "url": "https://x.com/arnaud_breton/status/1982900098301603891",
-    "timestamp": "2025-10-27T19:59:58.000Z",
-    "metadata": {
-      "conversation_id": "1982900098301603891",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982899583895437783",
-    "source": "twitter",
-    "author": "arnaud_breton",
-    "content": "@bentossell @FactoryAI Trying to vibe code on the plane now, it's so annoying 😢, hope the fix is at the corner https://t.co/V1NglNZb2b",
-    "url": "https://x.com/arnaud_breton/status/1982899583895437783",
-    "timestamp": "2025-10-27T19:57:55.000Z",
-    "metadata": {
-      "conversation_id": "1982899583895437783",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982891973527908632",
-    "source": "twitter",
-    "author": "ronaldmannak",
-    "content": "@M2Fauzaan @FactoryAI @GroqInc Yes it is but I wouldn’t use it in production just yet. I just switched from a stack view to TextKit yesterday and that broke a few things. The video was recorded using the Responses API demo app. Both Responses and markdown view are in the https://t.co/ewTmOUUN2o org",
-    "url": "https://x.com/ronaldmannak/status/1982891973527908632",
-    "timestamp": "2025-10-27T19:27:41.000Z",
-    "metadata": {
-      "conversation_id": "1982891973527908632",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -703,19 +703,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +713,32 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {

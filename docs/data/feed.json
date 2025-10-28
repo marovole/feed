@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_1982987735804600428",
+    "source": "twitter",
+    "author": "DennisonBertram",
+    "content": "I will say that I do feel like @FactoryAI's CLI feels a little bit smarter. \n\nSo many coding CLI's, each a little different.",
+    "url": "https://x.com/DennisonBertram/status/1982987735804600428",
+    "timestamp": "2025-10-28T01:48:13.000Z",
+    "metadata": {
+      "conversation_id": "1982987735804600428",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982985027446272305",
+    "source": "twitter",
+    "author": "_Sagiquarius_",
+    "content": "@steipete @bentossell @FactoryAI Codex CLI diffview is trash, agreed. Codex IDE extension diff view is better and that is one I'd like to see more of.  The unified view in terminal would be great",
+    "url": "https://x.com/_Sagiquarius_/status/1982985027446272305",
+    "timestamp": "2025-10-28T01:37:27.000Z",
+    "metadata": {
+      "conversation_id": "1982985027446272305",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982983980740952459",
+    "source": "twitter",
+    "author": "dvcrn",
+    "content": "@bentossell @FactoryAI Oh yeah its using a proxy. Let me see if I can restore the session and send it to you!",
+    "url": "https://x.com/dvcrn/status/1982983980740952459",
+    "timestamp": "2025-10-28T01:33:17.000Z",
+    "metadata": {
+      "conversation_id": "1982983980740952459",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982983827938234596",
+    "source": "twitter",
+    "author": "Dovahkiin_69",
+    "content": "Waiting for that @FactoryAI and @RepoPrompt colab",
+    "url": "https://x.com/Dovahkiin_69/status/1982983827938234596",
+    "timestamp": "2025-10-28T01:32:41.000Z",
+    "metadata": {
+      "conversation_id": "1982983827938234596",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982981683952369780",
+    "source": "twitter",
+    "author": "jatob0y",
+    "content": "@adolfont A maioria das ferramentas lhe dá \"créditos\", outras como a @FactoryAI lhe da literalmente qtd de tokens (20M - 40M tokens). O que vejo é sempre recomendações do tipo:\n- Junte varias tarefas em 1 so prompt. \nou\n- Ao finalizar uma tarefa, limpe o contexto para iniciar uma nova.",
+    "url": "https://x.com/jatob0y/status/1982981683952369780",
+    "timestamp": "2025-10-28T01:24:10.000Z",
+    "metadata": {
+      "conversation_id": "1982981683952369780",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982979779952529461",
+    "source": "twitter",
+    "author": "digitalvoidguy",
+    "content": "@alvinsng @FactoryAI Interesting...",
+    "url": "https://x.com/digitalvoidguy/status/1982979779952529461",
+    "timestamp": "2025-10-28T01:16:36.000Z",
+    "metadata": {
+      "conversation_id": "1982979779952529461",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982973750464393713",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "Love it when I can drop a link to failing CI checks, and it will just \"go figure\".\n\nBuilding @FactoryAI with Factory 🔁 https://t.co/MxZv52CVh6",
+    "url": "https://x.com/alvinsng/status/1982973750464393713",
+    "timestamp": "2025-10-28T00:52:38.000Z",
+    "metadata": {
+      "conversation_id": "1982973750464393713",
+      "likes": 8,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982972671685210123",
+    "source": "twitter",
+    "author": "zhangjintao9020",
+    "content": "@DannyAziz97 @every @bentossell @FactoryAI I'm curious which model you are using in Droid.",
+    "url": "https://x.com/zhangjintao9020/status/1982972671685210123",
+    "timestamp": "2025-10-28T00:48:21.000Z",
+    "metadata": {
+      "conversation_id": "1982972671685210123",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982968492115509536",
+    "source": "twitter",
+    "author": "Slyndc",
+    "content": "@FactoryAI @awscloud 👏🏽",
+    "url": "https://x.com/Slyndc/status/1982968492115509536",
+    "timestamp": "2025-10-28T00:31:44.000Z",
+    "metadata": {
+      "conversation_id": "1982968492115509536",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982963156063531075",
+    "source": "twitter",
+    "author": "adamarul09",
+    "content": "@FactoryAI @awscloud Wishing you the best. Really enjoy using it",
+    "url": "https://x.com/adamarul09/status/1982963156063531075",
+    "timestamp": "2025-10-28T00:10:32.000Z",
+    "metadata": {
+      "conversation_id": "1982963156063531075",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982958255048671405",
     "source": "twitter",
     "author": "DanielMiessler",
@@ -38,7 +188,7 @@
     "timestamp": "2025-10-27T23:04:26.000Z",
     "metadata": {
       "conversation_id": "1982946518899536335",
-      "likes": 4,
+      "likes": 7,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,7 +233,7 @@
     "timestamp": "2025-10-27T22:18:00.000Z",
     "metadata": {
       "conversation_id": "1982934834063519786",
-      "likes": 1,
+      "likes": 5,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -144,156 +294,6 @@
     "metadata": {
       "conversation_id": "1982927052165816790",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982926332687425683",
-    "source": "twitter",
-    "author": "IzirienAkhigbe",
-    "content": "@FactoryAI @awscloud Congratulations 🎉 https://t.co/EJ7Pjzrouh",
-    "url": "https://x.com/IzirienAkhigbe/status/1982926332687425683",
-    "timestamp": "2025-10-27T21:44:13.000Z",
-    "metadata": {
-      "conversation_id": "1982926332687425683",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982925677906231377",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "@fredrivett @every @bentossell @FactoryAI https://t.co/ut3gBvFRZB",
-    "url": "https://x.com/DannyAziz97/status/1982925677906231377",
-    "timestamp": "2025-10-27T21:41:37.000Z",
-    "metadata": {
-      "conversation_id": "1982925677906231377",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982925278927303023",
-    "source": "twitter",
-    "author": "fredrivett",
-    "content": "@DannyAziz97 @every @bentossell @FactoryAI for the empire!",
-    "url": "https://x.com/fredrivett/status/1982925278927303023",
-    "timestamp": "2025-10-27T21:40:02.000Z",
-    "metadata": {
-      "conversation_id": "1982925278927303023",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982924731054793111",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@arnaud_breton @FactoryAI you'd have to add a local model (which you can do! e.g. https://t.co/Gw4I2Q8RWh)",
-    "url": "https://x.com/bentossell/status/1982924731054793111",
-    "timestamp": "2025-10-27T21:37:51.000Z",
-    "metadata": {
-      "conversation_id": "1982924731054793111",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982921833029742707",
-    "source": "twitter",
-    "author": "gatien7",
-    "content": "@FactoryAI @awscloud During AWS outage ? You still have times to delete this",
-    "url": "https://x.com/gatien7/status/1982921833029742707",
-    "timestamp": "2025-10-27T21:26:20.000Z",
-    "metadata": {
-      "conversation_id": "1982921833029742707",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982919804760797237",
-    "source": "twitter",
-    "author": "siralexanderj",
-    "content": "@FactoryAI @awscloud Congratulations",
-    "url": "https://x.com/siralexanderj/status/1982919804760797237",
-    "timestamp": "2025-10-27T21:18:16.000Z",
-    "metadata": {
-      "conversation_id": "1982919804760797237",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982916681279189422",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "come for the British invasion of @every with @bentossell and I\n\nStay to learn why @FactoryAI's droid is currently the best agent harness on the market",
-    "url": "https://x.com/DannyAziz97/status/1982916681279189422",
-    "timestamp": "2025-10-27T21:05:52.000Z",
-    "metadata": {
-      "conversation_id": "1982916681279189422",
-      "likes": 17,
-      "retweets": 4,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982916614342537506",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "@every @bentossell @FactoryAI maybe @danshipper will put on a British accent if I allow it",
-    "url": "https://x.com/DannyAziz97/status/1982916614342537506",
-    "timestamp": "2025-10-27T21:05:36.000Z",
-    "metadata": {
-      "conversation_id": "1982916614342537506",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982916004520046884",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "@bentossell @FactoryAI great thing we're doing a droid camp https://t.co/fBd30jKI8M",
-    "url": "https://x.com/DannyAziz97/status/1982916004520046884",
-    "timestamp": "2025-10-27T21:03:10.000Z",
-    "metadata": {
-      "conversation_id": "1982916004520046884",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982915258307195292",
-    "source": "twitter",
-    "author": "every",
-    "content": "🗓️ Friday, October 31 | 12–1 p.m. ET | Live on Zoom\n👥 Exclusive for paid Every subscribers\n✨ Includes 60 million free Droid tokens from @FactoryAI to experiment with\n\nRSVP: https://t.co/H1YT7HBJrG",
-    "url": "https://x.com/every/status/1982915258307195292",
-    "timestamp": "2025-10-27T21:00:13.000Z",
-    "metadata": {
-      "conversation_id": "1982915258307195292",
-      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -451,7 +451,7 @@
     "timestamp": "2025-10-24T16:13:54.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 3,
+      "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {

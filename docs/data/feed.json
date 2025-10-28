@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983275496214519923",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@FactoryAI Exciting update! This suggests a focus on streamlined workflows and enhanced collaboration. These features could boost efficiency and quality.",
+    "url": "https://x.com/codewithimanshu/status/1983275496214519923",
+    "timestamp": "2025-10-28T20:51:40.000Z",
+    "metadata": {
+      "conversation_id": "1983275496214519923",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983273360990822793",
     "source": "twitter",
     "author": "verioussmith",
@@ -38,7 +53,7 @@
     "timestamp": "2025-10-28T20:42:22.000Z",
     "metadata": {
       "conversation_id": "1983273154102603993",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -113,7 +128,7 @@
     "timestamp": "2025-10-28T20:19:22.000Z",
     "metadata": {
       "conversation_id": "1983267369205281062",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983243116489437204",
-    "source": "twitter",
-    "author": "reui_io",
-    "content": "@fredrivett @aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mastra_ai Honored to be among such legends 💙",
-    "url": "https://x.com/reui_io/status/1983243116489437204",
-    "timestamp": "2025-10-28T18:43:00.000Z",
-    "metadata": {
-      "conversation_id": "1983243116489437204",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {

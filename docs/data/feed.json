@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983180594021601451",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@bentossell @FactoryAI thx Ben!",
+    "url": "https://x.com/pascallammers_/status/1983180594021601451",
+    "timestamp": "2025-10-28T14:34:33.000Z",
+    "metadata": {
+      "conversation_id": "1983180594021601451",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983180202005147724",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@dalu_hey @FactoryAI I presume saying \"building factory with factory\" was obvious enough 😅",
+    "url": "https://x.com/alvinsng/status/1983180202005147724",
+    "timestamp": "2025-10-28T14:33:00.000Z",
+    "metadata": {
+      "conversation_id": "1983180202005147724",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983177387207770601",
     "source": "twitter",
     "author": "ben_rapaport",
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1983155010495275214",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@arnaud_breton @FactoryAI oh a different issue then - a.match - fixes being worked on",
-    "url": "https://x.com/bentossell/status/1983155010495275214",
-    "timestamp": "2025-10-28T12:52:54.000Z",
-    "metadata": {
-      "conversation_id": "1983155010495275214",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983154895059632512",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@cheatyyyy @FactoryAI done",
-    "url": "https://x.com/bentossell/status/1983154895059632512",
-    "timestamp": "2025-10-28T12:52:26.000Z",
-    "metadata": {
-      "conversation_id": "1983154895059632512",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_272",
     "source": "github",
     "author": "alphatheory-ccarneiro",
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,32 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {

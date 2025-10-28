@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983202243253064147",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@smarative @hqmank @FactoryAI @Hailuo_AI hear ya!",
+    "url": "https://x.com/bentossell/status/1983202243253064147",
+    "timestamp": "2025-10-28T16:00:35.000Z",
+    "metadata": {
+      "conversation_id": "1983202243253064147",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983202186952880510",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@ben_rapaport @FactoryAI @AmpCode I know you’re an amp superfan, but lmk your thoughts on how it goes",
+    "url": "https://x.com/matanSF/status/1983202186952880510",
+    "timestamp": "2025-10-28T16:00:22.000Z",
+    "metadata": {
+      "conversation_id": "1983202186952880510",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983200851427766618",
+    "source": "twitter",
+    "author": "aroussi",
+    "content": ".@FactoryAI should fork Cursor",
+    "url": "https://x.com/aroussi/status/1983200851427766618",
+    "timestamp": "2025-10-28T15:55:03.000Z",
+    "metadata": {
+      "conversation_id": "1983200851427766618",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983193515372024268",
     "source": "twitter",
     "author": "smarative",
@@ -10,7 +55,7 @@
       "conversation_id": "1983193515372024268",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,7 +143,7 @@
       "conversation_id": "1983189125156221376",
       "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -141,7 +186,7 @@
     "timestamp": "2025-10-28T15:07:05.000Z",
     "metadata": {
       "conversation_id": "1983188777310007592",
-      "likes": 7,
+      "likes": 8,
       "retweets": 0,
       "replies": 3,
       "quotes": 0
@@ -214,7 +259,7 @@
     "timestamp": "2025-10-28T14:34:33.000Z",
     "metadata": {
       "conversation_id": "1983180594021601451",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -244,7 +289,7 @@
     "timestamp": "2025-10-28T14:21:49.000Z",
     "metadata": {
       "conversation_id": "1983177387207770601",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -288,51 +333,6 @@
     "metadata": {
       "conversation_id": "1983174505058226290",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983174371352162540",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Ricardo_Nth @FactoryAI ahh its an ink framework issue - often resizing can stop it. working on fixes",
-    "url": "https://x.com/bentossell/status/1983174371352162540",
-    "timestamp": "2025-10-28T14:09:50.000Z",
-    "metadata": {
-      "conversation_id": "1983174371352162540",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983174241542647961",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@MullerNavas @hqmank @FactoryAI @Hailuo_AI https://t.co/MGaQMDa7P6 :)",
-    "url": "https://x.com/bentossell/status/1983174241542647961",
-    "timestamp": "2025-10-28T14:09:19.000Z",
-    "metadata": {
-      "conversation_id": "1983174241542647961",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983173832157651036",
-    "source": "twitter",
-    "author": "TheDiakou",
-    "content": "@immoinulmoin @FactoryAI same flow as mine atm, though trying to solve for a better way for the droid to hook into the chat by itself.",
-    "url": "https://x.com/TheDiakou/status/1983173832157651036",
-    "timestamp": "2025-10-28T14:07:41.000Z",
-    "metadata": {
-      "conversation_id": "1983173832157651036",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

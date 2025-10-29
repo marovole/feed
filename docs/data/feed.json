@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1983635448275857490",
+    "source": "twitter",
+    "author": "petergostev",
+    "content": "@danshipper @FactoryAI You are not working on Azure right? https://t.co/OzQb6bSaHO",
+    "url": "https://x.com/petergostev/status/1983635448275857490",
+    "timestamp": "2025-10-29T20:41:59.000Z",
+    "metadata": {
+      "conversation_id": "1983635448275857490",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983634080181948477",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Dillon_Carter @danshipper @every @_catwu @FactoryAI @claudeai we're doing a droid camp friday! https://t.co/89KuL4kvep",
+    "url": "https://x.com/bentossell/status/1983634080181948477",
+    "timestamp": "2025-10-29T20:36:33.000Z",
+    "metadata": {
+      "conversation_id": "1983634080181948477",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983633923684057516",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@kylezantos @every @FactoryAI see you there!",
+    "url": "https://x.com/bentossell/status/1983633923684057516",
+    "timestamp": "2025-10-29T20:35:56.000Z",
+    "metadata": {
+      "conversation_id": "1983633923684057516",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983632635223273521",
+    "source": "twitter",
+    "author": "perpetualtalk",
+    "content": "@mitchellh @Ampcode, I've never heard about it.\n\nHow does it compare with @FactoryAI droids?\n\nDid you try using Claude directly? If yes, how does it compare?",
+    "url": "https://x.com/perpetualtalk/status/1983632635223273521",
+    "timestamp": "2025-10-29T20:30:49.000Z",
+    "metadata": {
+      "conversation_id": "1983632635223273521",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983632140404453468",
     "source": "twitter",
     "author": "bentossell",
@@ -8,7 +68,7 @@
     "timestamp": "2025-10-29T20:28:51.000Z",
     "metadata": {
       "conversation_id": "1983632140404453468",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,9 +113,9 @@
     "timestamp": "2025-10-29T19:57:30.000Z",
     "metadata": {
       "conversation_id": "1983624251983974419",
-      "likes": 14,
+      "likes": 15,
       "retweets": 2,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -68,7 +128,7 @@
     "timestamp": "2025-10-29T19:53:42.000Z",
     "metadata": {
       "conversation_id": "1983623296152404076",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -253,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1983572644000612361",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Tekhenra @FactoryAI were you using cli or web? lots of changes with web happening v soon (incl bridge)\n\n400 errors are being investigated+fixed\n\nhmm context is definitely something we've spent a lot of time on. it may be the setup, agents . md etc",
-    "url": "https://x.com/bentossell/status/1983572644000612361",
-    "timestamp": "2025-10-29T16:32:25.000Z",
-    "metadata": {
-      "conversation_id": "1983572644000612361",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983571279220535447",
-    "source": "twitter",
-    "author": "maheshnani122",
-    "content": "@TylerHallDevOps @FactoryAI Oh😯",
-    "url": "https://x.com/maheshnani122/status/1983571279220535447",
-    "timestamp": "2025-10-29T16:27:00.000Z",
-    "metadata": {
-      "conversation_id": "1983571279220535447",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_281",
     "source": "github",
     "author": "KostaGorod",
@@ -293,36 +323,6 @@
       "type": "issue",
       "labels": [],
       "number": 281
-    }
-  },
-  {
-    "id": "twitter_1983571120612855830",
-    "source": "twitter",
-    "author": "maheshnani122",
-    "content": "@TylerHallDevOps @FactoryAI Yeah",
-    "url": "https://x.com/maheshnani122/status/1983571120612855830",
-    "timestamp": "2025-10-29T16:26:22.000Z",
-    "metadata": {
-      "conversation_id": "1983571120612855830",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983570560303948224",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@noelhatem @FactoryAI Those are superpowers from Claude Code https://t.co/koRRz2DMgm",
-    "url": "https://x.com/pascallammers_/status/1983570560303948224",
-    "timestamp": "2025-10-29T16:24:09.000Z",
-    "metadata": {
-      "conversation_id": "1983570560303948224",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }

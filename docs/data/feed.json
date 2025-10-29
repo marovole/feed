@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983500340449202345",
+    "source": "twitter",
+    "author": "metaforismoo",
+    "content": "@FactoryAI I love Factory, I'm working on some incredible projects. I'd only tried AMP because it had a free plan, and @cursor_ai and also @warpdotdev, I never tried Claude Code and Codex because I'm a student and I don't have all that money for subscriptions, but Factory is worth it.",
+    "url": "https://x.com/metaforismoo/status/1983500340449202345",
+    "timestamp": "2025-10-29T11:45:07.000Z",
+    "metadata": {
+      "conversation_id": "1983500340449202345",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983495424175435850",
     "source": "twitter",
     "author": "claudeusmaximus",
@@ -23,7 +38,7 @@
     "timestamp": "2025-10-29T11:18:04.000Z",
     "metadata": {
       "conversation_id": "1983493533622321509",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1983413180648014242",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@launchaddict @FactoryAI yeah shared",
-    "url": "https://x.com/bentossell/status/1983413180648014242",
-    "timestamp": "2025-10-29T05:58:46.000Z",
-    "metadata": {
-      "conversation_id": "1983413180648014242",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oipsqf",
     "source": "reddit",
     "author": "StrixGGUY",
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -684,8 +684,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -700,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {

@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983639484974739701",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@danshipper @FactoryAI 🫡",
+    "url": "https://x.com/bentossell/status/1983639484974739701",
+    "timestamp": "2025-10-29T20:58:02.000Z",
+    "metadata": {
+      "conversation_id": "1983639484974739701",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983635448275857490",
     "source": "twitter",
     "author": "petergostev",
@@ -113,9 +128,9 @@
     "timestamp": "2025-10-29T19:57:30.000Z",
     "metadata": {
       "conversation_id": "1983624251983974419",
-      "likes": 15,
-      "retweets": 2,
-      "replies": 1,
+      "likes": 16,
+      "retweets": 3,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -233,7 +248,7 @@
     "timestamp": "2025-10-29T17:35:38.000Z",
     "metadata": {
       "conversation_id": "1983588550093537332",
-      "likes": 6,
+      "likes": 7,
       "retweets": 0,
       "replies": 2,
       "quotes": 1
@@ -281,21 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983585340402057511",
-    "source": "twitter",
-    "author": "Tekhenra",
-    "content": "I only used CLI, couldn't use web due to bridge not finishing indexing the project -> Already DM'd a few days ago: https://t.co/j7L8oDAmUi\n\nRegarding context: For sure it could be due to the setup and agents . md. I burned half of the tokens without even knowing how to properly manage agents... My bad!",
-    "url": "https://x.com/Tekhenra/status/1983585340402057511",
-    "timestamp": "2025-10-29T17:22:53.000Z",
-    "metadata": {
-      "conversation_id": "1983585340402057511",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
       "quotes": 0
     }
   },
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }

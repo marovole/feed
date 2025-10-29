@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1983560698274927085",
+    "source": "twitter",
+    "author": "kylezantos",
+    "content": "@every @FactoryAI @bentossell @danshipper Was very pleased to see the announcement about this in my 📨 — love the expansion of the scope of Camps!",
+    "url": "https://x.com/kylezantos/status/1983560698274927085",
+    "timestamp": "2025-10-29T15:44:57.000Z",
+    "metadata": {
+      "conversation_id": "1983560698274927085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983559698151620888",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Tekhenra @FactoryAI how was your experience :)",
+    "url": "https://x.com/bentossell/status/1983559698151620888",
+    "timestamp": "2025-10-29T15:40:59.000Z",
+    "metadata": {
+      "conversation_id": "1983559698151620888",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983559076794564918",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AVGVSTVS96 @pascallammers_ @jkudish @FactoryAI no they are not built in",
+    "url": "https://x.com/bentossell/status/1983559076794564918",
+    "timestamp": "2025-10-29T15:38:31.000Z",
+    "metadata": {
+      "conversation_id": "1983559076794564918",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983559050035098008",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@reyneill_ @FactoryAI haha power stance",
+    "url": "https://x.com/bentossell/status/1983559050035098008",
+    "timestamp": "2025-10-29T15:38:24.000Z",
+    "metadata": {
+      "conversation_id": "1983559050035098008",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983558369400045778",
+    "source": "twitter",
+    "author": "ilyatkcv",
+    "content": "@alvinsng @FactoryAI We’re building the tooling to make this easy and accessible to all developers. Writing linter rules is pretty hard + time consuming. Especially if you make breaking code changes and the linter rule is now broken.",
+    "url": "https://x.com/ilyatkcv/status/1983558369400045778",
+    "timestamp": "2025-10-29T15:35:42.000Z",
+    "metadata": {
+      "conversation_id": "1983558369400045778",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983556430499324346",
     "source": "twitter",
     "author": "AVGVSTVS96",
@@ -10,7 +85,7 @@
       "conversation_id": "1983556430499324346",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -25,7 +100,7 @@
       "conversation_id": "1983555845347852528",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -40,7 +115,7 @@
       "conversation_id": "1983551100377571750",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -231,84 +306,9 @@
     "timestamp": "2025-10-29T14:02:18.000Z",
     "metadata": {
       "conversation_id": "1983534862557663599",
-      "likes": 10,
+      "likes": 13,
       "retweets": 2,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983530144816898149",
-    "source": "twitter",
-    "author": "BlakeFolgado",
-    "content": "@FactoryAI have set spec model to gpt-5 high but always shows as medium in ide extension https://t.co/Ooqcvkq5Nn",
-    "url": "https://x.com/BlakeFolgado/status/1983530144816898149",
-    "timestamp": "2025-10-29T13:43:33.000Z",
-    "metadata": {
-      "conversation_id": "1983530144816898149",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983527651848712310",
-    "source": "twitter",
-    "author": "ejc3",
-    "content": "@ben_rapaport @FactoryAI @AmpCode Everyone is happy enough with claude code.",
-    "url": "https://x.com/ejc3/status/1983527651848712310",
-    "timestamp": "2025-10-29T13:33:39.000Z",
-    "metadata": {
-      "conversation_id": "1983527651848712310",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983523048037994748",
-    "source": "twitter",
-    "author": "YourDesigncoza",
-    "content": "@FactoryAI I love your product, I REALY would love to move on to Subscription, here's the thing, $20 not enough tokens, $200 way tooo many tokens a plan in-between would be GREAT !",
-    "url": "https://x.com/YourDesigncoza/status/1983523048037994748",
-    "timestamp": "2025-10-29T13:15:21.000Z",
-    "metadata": {
-      "conversation_id": "1983523048037994748",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983511956137910432",
-    "source": "twitter",
-    "author": "EddieBe",
-    "content": "ah makes sense now. i canceled my cursor and switched to straight cli, using @FactoryAI which i’m pretty happy with.",
-    "url": "https://x.com/EddieBe/status/1983511956137910432",
-    "timestamp": "2025-10-29T12:31:16.000Z",
-    "metadata": {
-      "conversation_id": "1983511956137910432",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983511363264614594",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@jkudish @FactoryAI https://t.co/koRRz2DeqO sorry it was those",
-    "url": "https://x.com/pascallammers_/status/1983511363264614594",
-    "timestamp": "2025-10-29T12:28:55.000Z",
-    "metadata": {
-      "conversation_id": "1983511363264614594",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
+      "replies": 4,
       "quotes": 0
     }
   },

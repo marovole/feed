@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1983389216768978992",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@pascallammers_ @RayFernando1337 @FactoryAI Actually, this should more properly  be a \n/command",
+    "url": "https://x.com/mikez93/status/1983389216768978992",
+    "timestamp": "2025-10-29T04:23:33.000Z",
+    "metadata": {
+      "conversation_id": "1983389216768978992",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983388960924504271",
+    "source": "twitter",
+    "author": "dhasandev",
+    "content": "@alvinsng @FactoryAI Love the aesthetic",
+    "url": "https://x.com/dhasandev/status/1983388960924504271",
+    "timestamp": "2025-10-29T04:22:32.000Z",
+    "metadata": {
+      "conversation_id": "1983388960924504271",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983387488443134045",
+    "source": "twitter",
+    "author": "MullerNavas",
+    "content": "@FactoryAI Wow!",
+    "url": "https://x.com/MullerNavas/status/1983387488443134045",
+    "timestamp": "2025-10-29T04:16:41.000Z",
+    "metadata": {
+      "conversation_id": "1983387488443134045",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983383946760262000",
+    "source": "twitter",
+    "author": "connortbot",
+    "content": "@ben_rapaport @FactoryAI @AmpCode I still see it everyday, can't escape the factory glaze\n\nseems deserved",
+    "url": "https://x.com/connortbot/status/1983383946760262000",
+    "timestamp": "2025-10-29T04:02:37.000Z",
+    "metadata": {
+      "conversation_id": "1983383946760262000",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983376090501657067",
     "source": "twitter",
     "author": "alvinsng",
@@ -158,9 +218,9 @@
     "timestamp": "2025-10-29T00:45:46.000Z",
     "metadata": {
       "conversation_id": "1983334409647599841",
-      "likes": 30,
+      "likes": 34,
       "retweets": 2,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -249,66 +309,6 @@
       "likes": 4,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983311704890192091",
-    "source": "twitter",
-    "author": "EddieBe",
-    "content": "@francesca_lab @matanSF @FactoryAI is it something i said/did that got my org flagged? i used it for like maybe an hour. less.",
-    "url": "https://x.com/EddieBe/status/1983311704890192091",
-    "timestamp": "2025-10-28T23:15:33.000Z",
-    "metadata": {
-      "conversation_id": "1983311704890192091",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983311424723267893",
-    "source": "twitter",
-    "author": "fredrivett",
-    "content": "@FrancoE114696 @aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @reui_io @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mastra_ai ai is moving super fast and i’ve only used it for a couple months but it’s been a useful level up from ai sdk",
-    "url": "https://x.com/fredrivett/status/1983311424723267893",
-    "timestamp": "2025-10-28T23:14:26.000Z",
-    "metadata": {
-      "conversation_id": "1983311424723267893",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983302723966841232",
-    "source": "twitter",
-    "author": "EddieBe",
-    "content": "@francesca_lab @matanSF @FactoryAI thanks!! id8labs",
-    "url": "https://x.com/EddieBe/status/1983302723966841232",
-    "timestamp": "2025-10-28T22:39:52.000Z",
-    "metadata": {
-      "conversation_id": "1983302723966841232",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983302553271185820",
-    "source": "twitter",
-    "author": "francesca_lab",
-    "content": "@EddieBe @matanSF @FactoryAI Can you send me your org name? Will look into this",
-    "url": "https://x.com/francesca_lab/status/1983302553271185820",
-    "timestamp": "2025-10-28T22:39:11.000Z",
-    "metadata": {
-      "conversation_id": "1983302553271185820",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
       "quotes": 0
     }
   },
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }

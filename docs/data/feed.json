@@ -233,7 +233,7 @@
     "timestamp": "2025-10-30T03:09:02.000Z",
     "metadata": {
       "conversation_id": "1983732852626997555",
-      "likes": 1,
+      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -265,7 +265,7 @@
       "conversation_id": "1983724090835005767",
       "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

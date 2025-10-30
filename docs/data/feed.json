@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1984000347325788376",
+    "source": "twitter",
+    "author": "every",
+    "content": "@DannyAziz97 @FactoryAI Ready to try Droid yourself?\n\nJoin @bentossell and the @every team for a live hands-on camp tomorrow: https://t.co/V5bAR6PDTv",
+    "url": "https://x.com/every/status/1984000347325788376",
+    "timestamp": "2025-10-30T20:51:58.000Z",
+    "metadata": {
+      "conversation_id": "1984000347325788376",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984000272365146468",
+    "source": "twitter",
+    "author": "every",
+    "content": "@DannyAziz97 @FactoryAI Ready to try Droid yourself?\n\nJoin @bentossell and the @every team for a live hands-on camp tomorrow: https://t.co/V5bAR6PDTv",
+    "url": "https://x.com/every/status/1984000272365146468",
+    "timestamp": "2025-10-30T20:51:40.000Z",
+    "metadata": {
+      "conversation_id": "1984000272365146468",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983999453293105574",
+    "source": "twitter",
+    "author": "whitellm",
+    "content": "@explosivesox @FactoryAI @BlinkOnChain CA?",
+    "url": "https://x.com/whitellm/status/1983999453293105574",
+    "timestamp": "2025-10-30T20:48:25.000Z",
+    "metadata": {
+      "conversation_id": "1983999453293105574",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983998379614187776",
+    "source": "twitter",
+    "author": "ankurkumarz",
+    "content": "@JuiceSharp @FactoryAI Difficult to choose - seems so similar to Claude Code 🤔",
+    "url": "https://x.com/ankurkumarz/status/1983998379614187776",
+    "timestamp": "2025-10-30T20:44:09.000Z",
+    "metadata": {
+      "conversation_id": "1983998379614187776",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983986837644628137",
     "source": "twitter",
     "author": "tsi_org",
@@ -23,7 +83,7 @@
     "timestamp": "2025-10-30T19:41:58.000Z",
     "metadata": {
       "conversation_id": "1983982733379694969",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -130,7 +190,7 @@
       "conversation_id": "1983971479516778825",
       "likes": 6,
       "retweets": 1,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -203,7 +263,7 @@
     "timestamp": "2025-10-30T18:38:02.000Z",
     "metadata": {
       "conversation_id": "1983966643350118665",
-      "likes": 27,
+      "likes": 28,
       "retweets": 1,
       "replies": 4,
       "quotes": 0
@@ -234,66 +294,6 @@
     "metadata": {
       "conversation_id": "1983949156222955702",
       "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983946210261319863",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "I canceled my Claude Max plan for @FactoryAI's Droid.\n\nDroid runs Anthropic and OpenAI models in one terminal and somehow the same models perform better than in their own harnesses.\n\nFull vibe check for @every here: \n\nhttps://t.co/KNiennT6NH",
-    "url": "https://x.com/DannyAziz97/status/1983946210261319863",
-    "timestamp": "2025-10-30T17:16:51.000Z",
-    "metadata": {
-      "conversation_id": "1983946210261319863",
-      "likes": 63,
-      "retweets": 11,
-      "replies": 2,
-      "quotes": 2
-    }
-  },
-  {
-    "id": "twitter_1983940611104195011",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@smithstephen @every @FactoryAI @danshipper 🔥",
-    "url": "https://x.com/bentossell/status/1983940611104195011",
-    "timestamp": "2025-10-30T16:54:36.000Z",
-    "metadata": {
-      "conversation_id": "1983940611104195011",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983939529690980767",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@alvinjamur @FactoryAI oh damn - dming",
-    "url": "https://x.com/bentossell/status/1983939529690980767",
-    "timestamp": "2025-10-30T16:50:18.000Z",
-    "metadata": {
-      "conversation_id": "1983939529690980767",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983938315444236426",
-    "source": "twitter",
-    "author": "alvinjamur",
-    "content": "@bentossell @FactoryAI have done that. no replies after 4-6 days. am a big fan/user of droid. also evangelist.",
-    "url": "https://x.com/alvinjamur/status/1983938315444236426",
-    "timestamp": "2025-10-30T16:45:28.000Z",
-    "metadata": {
-      "conversation_id": "1983938315444236426",
-      "likes": 0,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

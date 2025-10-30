@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983742629323141434",
+    "source": "twitter",
+    "author": "kageiit",
+    "content": "@alvinsng @FactoryAI You can write linter rules in natural language using @gitarcode to run on all your prs",
+    "url": "https://x.com/kageiit/status/1983742629323141434",
+    "timestamp": "2025-10-30T03:47:53.000Z",
+    "metadata": {
+      "conversation_id": "1983742629323141434",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983740413791047965",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@kr0der @windsurf i tried both but they dont listen to my https://t.co/3DrYPK14wM. i use @FactoryAI",
+    "url": "https://x.com/nest_elf/status/1983740413791047965",
+    "timestamp": "2025-10-30T03:39:05.000Z",
+    "metadata": {
+      "conversation_id": "1983740413791047965",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983736180786282717",
     "source": "twitter",
     "author": "nest_elf",
@@ -158,7 +188,7 @@
     "timestamp": "2025-10-30T01:30:25.000Z",
     "metadata": {
       "conversation_id": "1983708035303231513",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -263,36 +293,6 @@
     "timestamp": "2025-10-30T00:22:23.000Z",
     "metadata": {
       "conversation_id": "1983690912564965887",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983689860134449537",
-    "source": "twitter",
-    "author": "Social_Quotient",
-    "content": "Coded a small util I constantly find myself wishing I had, use the web or api. \n\nhttps://t.co/jQsB1ILiXJ\n\nCoded with @FactoryAI  … I’ll add model selections in the next couple days.",
-    "url": "https://x.com/Social_Quotient/status/1983689860134449537",
-    "timestamp": "2025-10-30T00:18:12.000Z",
-    "metadata": {
-      "conversation_id": "1983689860134449537",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983689100176847049",
-    "source": "twitter",
-    "author": "1Bexly",
-    "content": "@francesca_lab @FactoryAI 🫡🫡",
-    "url": "https://x.com/1Bexly/status/1983689100176847049",
-    "timestamp": "2025-10-30T00:15:11.000Z",
-    "metadata": {
-      "conversation_id": "1983689100176847049",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

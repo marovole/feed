@@ -8,7 +8,7 @@
     "timestamp": "2025-10-30T17:45:24.000Z",
     "metadata": {
       "conversation_id": "1983953397104406868",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,10 +38,10 @@
     "timestamp": "2025-10-30T17:16:51.000Z",
     "metadata": {
       "conversation_id": "1983946210261319863",
-      "likes": 16,
+      "likes": 18,
       "retweets": 2,
       "replies": 1,
-      "quotes": 1
+      "quotes": 2
     }
   },
   {
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

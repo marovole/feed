@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1984038397850308645",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@alvinsng @FactoryAI That's some cool stuff, Alvin! Seeing the process from that perspective is quite something, no?",
+    "url": "https://x.com/codewithimanshu/status/1984038397850308645",
+    "timestamp": "2025-10-30T23:23:10.000Z",
+    "metadata": {
+      "conversation_id": "1984038397850308645",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984037867606413343",
+    "source": "twitter",
+    "author": "_Shark_byte",
+    "content": "@AshwinRamaswami @FactoryAI Omgggg so cool!",
+    "url": "https://x.com/_Shark_byte/status/1984037867606413343",
+    "timestamp": "2025-10-30T23:21:03.000Z",
+    "metadata": {
+      "conversation_id": "1984037867606413343",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984037719966929353",
+    "source": "twitter",
+    "author": "AshwinRamaswami",
+    "content": "Super excited to partner with @FactoryAI !!",
+    "url": "https://x.com/AshwinRamaswami/status/1984037719966929353",
+    "timestamp": "2025-10-30T23:20:28.000Z",
+    "metadata": {
+      "conversation_id": "1984037719966929353",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984036514372972690",
+    "source": "twitter",
+    "author": "darrenjr",
+    "content": "@CorridorSecure @FactoryAI would love to get this working in @tembo",
+    "url": "https://x.com/darrenjr/status/1984036514372972690",
+    "timestamp": "2025-10-30T23:15:41.000Z",
+    "metadata": {
+      "conversation_id": "1984036514372972690",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984034379858124889",
+    "source": "twitter",
+    "author": "CorridorSecure",
+    "content": "@FactoryAI Learn more and set up Corridor with Factory: https://t.co/kCBZUo68FY",
+    "url": "https://x.com/CorridorSecure/status/1984034379858124889",
+    "timestamp": "2025-10-30T23:07:12.000Z",
+    "metadata": {
+      "conversation_id": "1984034379858124889",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984034205752492104",
+    "source": "twitter",
+    "author": "CorridorSecure",
+    "content": "The future of software development will be powered by intelligent agents, but only if those agents can build securely.\n\nThat’s why we’re excited to share our Corridor MCP integration with @FactoryAI and their work to bring true autonomy to software engineering. Factory’s Droids let developers delegate complete tasks directly within their existing tools.\n\nWith Corridor’s security layer, those Droids can now write more secure code by default.\n\nTogether, Corridor and Factory are shaping a new era of software engineering — one where autonomous development is both fast and secure.\n\nAutonomy without security is risk at scale. With Corridor + Factory, teams can confidently delegate to Droids knowing every change meets their security standards.",
+    "url": "https://x.com/CorridorSecure/status/1984034205752492104",
+    "timestamp": "2025-10-30T23:06:30.000Z",
+    "metadata": {
+      "conversation_id": "1984034205752492104",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 2
+    }
+  },
+  {
     "id": "twitter_1984017323767034333",
     "source": "twitter",
     "author": "CloudTrader4",
@@ -98,7 +188,7 @@
     "timestamp": "2025-10-30T21:03:23.000Z",
     "metadata": {
       "conversation_id": "1984003220558246405",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -210,96 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983977755449479306",
-    "source": "twitter",
-    "author": "ronaldmannak",
-    "content": "@alvinsng @FactoryAI So after all the tweeting, meetings, coffee, lunch, and waiting for Droid to finish, your productive output was only one email?\nRelatable for sure, but I don’t make a highlight reel out of it 😂",
-    "url": "https://x.com/ronaldmannak/status/1983977755449479306",
-    "timestamp": "2025-10-30T19:22:12.000Z",
-    "metadata": {
-      "conversation_id": "1983977755449479306",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983975900078338081",
-    "source": "twitter",
-    "author": "davidrsdlife",
-    "content": "@alvinsng @FactoryAI caramel one is so good",
-    "url": "https://x.com/davidrsdlife/status/1983975900078338081",
-    "timestamp": "2025-10-30T19:14:49.000Z",
-    "metadata": {
-      "conversation_id": "1983975900078338081",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983974324689367219",
-    "source": "twitter",
-    "author": "alvinsng",
-    "content": "@davidrsdlife @FactoryAI Soo good yet soo bad 🤤",
-    "url": "https://x.com/alvinsng/status/1983974324689367219",
-    "timestamp": "2025-10-30T19:08:34.000Z",
-    "metadata": {
-      "conversation_id": "1983974324689367219",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983974115532009944",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@DannyAziz97 @FactoryAI @every ❤️❤️",
-    "url": "https://x.com/bentossell/status/1983974115532009944",
-    "timestamp": "2025-10-30T19:07:44.000Z",
-    "metadata": {
-      "conversation_id": "1983974115532009944",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983972498308743257",
-    "source": "twitter",
-    "author": "davidrsdlife",
-    "content": "@alvinsng @FactoryAI brooo the chobabi creamers are bangers",
-    "url": "https://x.com/davidrsdlife/status/1983972498308743257",
-    "timestamp": "2025-10-30T19:01:18.000Z",
-    "metadata": {
-      "conversation_id": "1983972498308743257",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983971479516778825",
-    "source": "twitter",
-    "author": "every",
-    "content": "@DannyAziz97 @FactoryAI \"The bottom line: Droid keeps me in flow.\" @DannyAziz97 https://t.co/Ddmx7WIT7a",
-    "url": "https://x.com/every/status/1983971479516778825",
-    "timestamp": "2025-10-30T18:57:15.000Z",
-    "metadata": {
-      "conversation_id": "1983971479516778825",
-      "likes": 6,
-      "retweets": 2,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_289",
+    "source": "github",
+    "author": "v-senninha-v",
+    "content": "[Issue] MCP cannot be used in Windows environments (v0.22.6 and later)\n\nStarting from v0.22.6, MCP is no longer functional on Windows environments (excluding WSL). This issue persists in v0.22.7 as well.  \nIt worked correctly in the previous version.\n\n*Note: MCP continues to work properly in WSL environments even after v0.22.6, suggesting this is specific to native Windows.*\n\nBelow is an excerpt from the logs:\n\n```\n[2025-10-31T06:47:39.298Z] WARN: [McpService] Error reloading MCP servers | Context: {\"cause\":{\"name\":\"MetaError\",\"message\":\"Failed to start MCP OAuth ca",
+    "url": "https://github.com/Factory-AI/factory/issues/289",
+    "timestamp": "2025-10-31T07:07:45Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 289
+    }
+  },
+  {
     "id": "twitter_1984151347583758563",
     "source": "twitter",
     "author": "dawid_jordaan",
@@ -359,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -612,19 +625,6 @@
     }
   },
   {
-    "id": "github_issue_250",
-    "source": "github",
-    "author": "byJim",
-    "content": "[Issue] Droid CLI crashes on CPUs without AVX2\n\nDroid CLI v0.22.x crashes with `SIGILL` (Illegal Instruction) on CPUs that don't support AVX2. Older versions worked fine on the same hardware.\n\n### Environment\n- **OS:** Arch Linux\n- **CPU:** Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz\n- **CPU Features:** AVX but **NO AVX2**\n- **Droid Version:** 0.22.2\n\n### Error\n```\npanic(main thread): Illegal instruction at address 0x3E8000018C1\nFeatures: ... no_avx2 ...\noh no: Bun has crashed.\n```\n\nBun v1.3.0 (embedded in Droid) requires AVX2, but my CPU only ha",
-    "url": "https://github.com/Factory-AI/factory/issues/250",
-    "timestamp": "2025-10-24T02:57:11Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 250
-    }
-  },
-  {
     "id": "reddit_1oegs4w",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -673,6 +673,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },

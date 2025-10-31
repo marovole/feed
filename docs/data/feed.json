@@ -291,7 +291,7 @@
     "timestamp": "2025-10-31T16:04:15.000Z",
     "metadata": {
       "conversation_id": "1984290327243743303",
-      "likes": 8,
+      "likes": 10,
       "retweets": 1,
       "replies": 1,
       "quotes": 3
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }

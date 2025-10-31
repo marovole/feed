@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984362361197588764",
+    "source": "twitter",
+    "author": "Tgerighty",
+    "content": "@bentossell @pascallammers_ @FactoryAI Love this design. 👏",
+    "url": "https://x.com/Tgerighty/status/1984362361197588764",
+    "timestamp": "2025-10-31T20:50:29.000Z",
+    "metadata": {
+      "conversation_id": "1984362361197588764",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984362341648023774",
+    "source": "twitter",
+    "author": "tridentasia",
+    "content": "@fire @FactoryAI It is very expensive.",
+    "url": "https://x.com/tridentasia/status/1984362341648023774",
+    "timestamp": "2025-10-31T20:50:24.000Z",
+    "metadata": {
+      "conversation_id": "1984362341648023774",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984359444176830951",
     "source": "twitter",
     "author": "CloudTrader4",
@@ -8,7 +38,7 @@
     "timestamp": "2025-10-31T20:38:53.000Z",
     "metadata": {
       "conversation_id": "1984359444176830951",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,9 +113,9 @@
     "timestamp": "2025-10-31T20:05:55.000Z",
     "metadata": {
       "conversation_id": "1984351145561899045",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +143,7 @@
     "timestamp": "2025-10-31T20:04:30.000Z",
     "metadata": {
       "conversation_id": "1984350788945395794",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984309448848867356",
-    "source": "twitter",
-    "author": "martia_es",
-    "content": "Research and plan only is my favorite feature in Droid @FactoryAI https://t.co/VbrTFWWfqC",
-    "url": "https://x.com/martia_es/status/1984309448848867356",
-    "timestamp": "2025-10-31T17:20:13.000Z",
-    "metadata": {
-      "conversation_id": "1984309448848867356",
-      "likes": 10,
-      "retweets": 2,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984306957633585355",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@henrywdennis @FactoryAI whats that",
-    "url": "https://x.com/bentossell/status/1984306957633585355",
-    "timestamp": "2025-10-31T17:10:19.000Z",
-    "metadata": {
-      "conversation_id": "1984306957633585355",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1okwodb",
     "source": "reddit",
     "author": "Uzeii",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -690,6 +690,19 @@
     }
   },
   {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1ocpe9w",
     "source": "reddit",
     "author": "FocusResponsible4499",
@@ -713,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {

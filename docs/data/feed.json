@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984166061256929291",
+    "source": "twitter",
+    "author": "CryptoSolana_OG",
+    "content": "@DannyAziz97 @FactoryAI @every how good is the context engine. Does it enhance prompt",
+    "url": "https://x.com/CryptoSolana_OG/status/1984166061256929291",
+    "timestamp": "2025-10-31T07:50:27.000Z",
+    "metadata": {
+      "conversation_id": "1984166061256929291",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_290",
     "source": "github",
     "author": "tongguang",
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1984133826814341514",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@yusufg @FactoryAI coming!",
-    "url": "https://x.com/bentossell/status/1984133826814341514",
-    "timestamp": "2025-10-31T05:42:22.000Z",
-    "metadata": {
-      "conversation_id": "1984133826814341514",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

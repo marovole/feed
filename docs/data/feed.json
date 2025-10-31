@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984223988793651547",
+    "source": "twitter",
+    "author": "hasantoxr",
+    "content": "@NathanLands @FactoryAI The way FactoryAI brings together the best from different labs is so good.",
+    "url": "https://x.com/hasantoxr/status/1984223988793651547",
+    "timestamp": "2025-10-31T11:40:38.000Z",
+    "metadata": {
+      "conversation_id": "1984223988793651547",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984223003862032752",
+    "source": "twitter",
+    "author": "CipherVectors",
+    "content": "@FactoryAI Show examples. Not only writing",
+    "url": "https://x.com/CipherVectors/status/1984223003862032752",
+    "timestamp": "2025-10-31T11:36:43.000Z",
+    "metadata": {
+      "conversation_id": "1984223003862032752",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984214347477062037",
     "source": "twitter",
     "author": "bentossell",
@@ -322,36 +352,6 @@
     }
   },
   {
-    "id": "twitter_1984142781909279044",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@elie2222 @nest_elf @windsurf @FactoryAI give us a go - lmk if you need help/how it goes",
-    "url": "https://x.com/bentossell/status/1984142781909279044",
-    "timestamp": "2025-10-31T06:17:57.000Z",
-    "metadata": {
-      "conversation_id": "1984142781909279044",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984142739450306948",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@_01010101 @donvito @FactoryAI ❤️",
-    "url": "https://x.com/bentossell/status/1984142739450306948",
-    "timestamp": "2025-10-31T06:17:47.000Z",
-    "metadata": {
-      "conversation_id": "1984142739450306948",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 3,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

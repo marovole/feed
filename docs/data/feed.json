@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1984247879079456894",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "Join @bentossell, @kieranklaassen, @danshipper and I as we walk through we use @FactoryAI's Droid CLI agent\n\nWe may or may not be dressed up for halloween",
+    "url": "https://x.com/DannyAziz97/status/1984247879079456894",
+    "timestamp": "2025-10-31T13:15:34.000Z",
+    "metadata": {
+      "conversation_id": "1984247879079456894",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984247505643778535",
+    "source": "twitter",
+    "author": "1Bexly",
+    "content": "@alvinsng @FactoryAI I think you’re missing something..",
+    "url": "https://x.com/1Bexly/status/1984247505643778535",
+    "timestamp": "2025-10-31T13:14:05.000Z",
+    "metadata": {
+      "conversation_id": "1984247505643778535",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984246406094479872",
+    "source": "twitter",
+    "author": "itsMeBennyB",
+    "content": "@every @bentossell @FactoryAI See you there! 🫡",
+    "url": "https://x.com/itsMeBennyB/status/1984246406094479872",
+    "timestamp": "2025-10-31T13:09:43.000Z",
+    "metadata": {
+      "conversation_id": "1984246406094479872",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984243718296367478",
+    "source": "twitter",
+    "author": "every",
+    "content": "Happening today: Join @bentossell and the @Every team for Droid Camp—a live session on @FactoryAI’s coding agents.\n\nRSVP: https://t.co/H1YT7HBJrG",
+    "url": "https://x.com/every/status/1984243718296367478",
+    "timestamp": "2025-10-31T12:59:02.000Z",
+    "metadata": {
+      "conversation_id": "1984243718296367478",
+      "likes": 7,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1984242142483775591",
+    "source": "twitter",
+    "author": "1Bexly",
+    "content": "@FactoryAI 🤝🤝",
+    "url": "https://x.com/1Bexly/status/1984242142483775591",
+    "timestamp": "2025-10-31T12:52:46.000Z",
+    "metadata": {
+      "conversation_id": "1984242142483775591",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984240266103173311",
+    "source": "twitter",
+    "author": "1Bexly",
+    "content": "The @FactoryAI team just can’t stop shipppinggg 🔥🔥\n\nDo you guys even leave the office 😆🤞🤝",
+    "url": "https://x.com/1Bexly/status/1984240266103173311",
+    "timestamp": "2025-10-31T12:45:19.000Z",
+    "metadata": {
+      "conversation_id": "1984240266103173311",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984239343473709414",
     "source": "twitter",
     "author": "CyprianWetende",
@@ -53,7 +143,7 @@
     "timestamp": "2025-10-31T12:03:38.000Z",
     "metadata": {
       "conversation_id": "1984229777344200896",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -223,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984178153976365449",
-    "source": "twitter",
-    "author": "cukil_com",
-    "content": "On Oct 13 2025, I had $227 in credits, and now they're all gone.\nWhat's wrong? Is this a bug?",
-    "url": "https://x.com/cukil_com/status/1984178153976365449",
-    "timestamp": "2025-10-31T08:38:30.000Z",
-    "metadata": {
-      "conversation_id": "1984178153976365449",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_291",
     "source": "github",
     "author": "zzkkui",
@@ -248,51 +323,6 @@
       "type": "issue",
       "labels": [],
       "number": 291
-    }
-  },
-  {
-    "id": "twitter_1984169192560717975",
-    "source": "twitter",
-    "author": "AdamDittrichOne",
-    "content": "@DannyAziz97 @FactoryAI @every Most underrated feature: assign tasks to AI agents in your project management tool. Smart not just for coders.",
-    "url": "https://x.com/AdamDittrichOne/status/1984169192560717975",
-    "timestamp": "2025-10-31T08:02:54.000Z",
-    "metadata": {
-      "conversation_id": "1984169192560717975",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984168645174686208",
-    "source": "twitter",
-    "author": "fire",
-    "content": "oh right, I forgot @FactoryAI was just a trial\n\nguess I'll find out how good third party models in droid really are soon https://t.co/TJKudqG4UJ",
-    "url": "https://x.com/fire/status/1984168645174686208",
-    "timestamp": "2025-10-31T08:00:43.000Z",
-    "metadata": {
-      "conversation_id": "1984168645174686208",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984166061256929291",
-    "source": "twitter",
-    "author": "CryptoSolana_OG",
-    "content": "@DannyAziz97 @FactoryAI @every how good is the context engine. Does it enhance prompt",
-    "url": "https://x.com/CryptoSolana_OG/status/1984166061256929291",
-    "timestamp": "2025-10-31T07:50:27.000Z",
-    "metadata": {
-      "conversation_id": "1984166061256929291",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -319,36 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 289
-    }
-  },
-  {
-    "id": "twitter_1984151347583758563",
-    "source": "twitter",
-    "author": "dawid_jordaan",
-    "content": "The only coding agent I trust to implement features end-to-end is @FactoryAI’s droids. Using the droid with Codex is good but slow, sometimes taking 15 or even 30 minutes on big features. Planning with Sonnet 4.5 and implementing with GLM 4.6 felt much faster. Still don’t trust GLM on its own though.",
-    "url": "https://x.com/dawid_jordaan/status/1984151347583758563",
-    "timestamp": "2025-10-31T06:51:59.000Z",
-    "metadata": {
-      "conversation_id": "1984151347583758563",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984148677053857929",
-    "source": "twitter",
-    "author": "rezaul_arif",
-    "content": "@archimagos @FactoryAI @MiniMax__AI @chutes_ai @OpenRouterAI True. But pretty hard to beat this https://t.co/WXJ6h8yerq",
-    "url": "https://x.com/rezaul_arif/status/1984148677053857929",
-    "timestamp": "2025-10-31T06:41:22.000Z",
-    "metadata": {
-      "conversation_id": "1984148677053857929",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -713,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {

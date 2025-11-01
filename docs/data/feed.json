@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1984632276844708215",
+    "source": "twitter",
+    "author": "farizkamini",
+    "content": "@FactoryAI He/She/It is becoming more human 😅 https://t.co/LxoaRiGawD",
+    "url": "https://x.com/farizkamini/status/1984632276844708215",
+    "timestamp": "2025-11-01T14:43:02.000Z",
+    "metadata": {
+      "conversation_id": "1984632276844708215",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984631252033441822",
+    "source": "twitter",
+    "author": "markobilal",
+    "content": "@hexawulf @FactoryAI I find the opposite",
+    "url": "https://x.com/markobilal/status/1984631252033441822",
+    "timestamp": "2025-11-01T14:38:57.000Z",
+    "metadata": {
+      "conversation_id": "1984631252033441822",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984630648959635618",
+    "source": "twitter",
+    "author": "kostasbotonakis",
+    "content": "@hexawulf @FactoryAI Definitely just you",
+    "url": "https://x.com/kostasbotonakis/status/1984630648959635618",
+    "timestamp": "2025-11-01T14:36:34.000Z",
+    "metadata": {
+      "conversation_id": "1984630648959635618",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984629936296988718",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@BTConnector_ @immoinulmoin @FactoryAI /mcp \n\nhttps://t.co/aix778SAXx",
+    "url": "https://x.com/bentossell/status/1984629936296988718",
+    "timestamp": "2025-11-01T14:33:44.000Z",
+    "metadata": {
+      "conversation_id": "1984629936296988718",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984629311446319528",
     "source": "twitter",
     "author": "sir4K_zen",
@@ -40,7 +100,7 @@
       "conversation_id": "1984627462051959024",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -240,92 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984601113631265236",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@FactoryAI P.S.: We hade some context engineering/management to build up into this, result is produced in one shot though.",
-    "url": "https://x.com/CloudTrader4/status/1984601113631265236",
-    "timestamp": "2025-11-01T12:39:12.000Z",
-    "metadata": {
-      "conversation_id": "1984601113631265236",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984600854989603285",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "I just ask @FactoryAI droid this:\n\"\nLook up the provided US Dollar Index and Emerging Markets ETF data from @/path/to/data . \n\nAnalyze EEM performance during periods of dollar strength vs weakness. \n\nDeliver a visually appealing report using light Neo-brutalism style. Save it as .png file inside the current working directory.\n\"\n\nAnd delivered this as result. It just makes it too easy.",
-    "url": "https://x.com/CloudTrader4/status/1984600854989603285",
-    "timestamp": "2025-11-01T12:38:10.000Z",
-    "metadata": {
-      "conversation_id": "1984600854989603285",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984600131828937148",
-    "source": "twitter",
-    "author": "uratmangun2",
-    "content": "@fernandooghh @FactoryAI @ollama Wait, how do you do this? Free until when?",
-    "url": "https://x.com/uratmangun2/status/1984600131828937148",
-    "timestamp": "2025-11-01T12:35:18.000Z",
-    "metadata": {
-      "conversation_id": "1984600131828937148",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984599189934756311",
-    "source": "twitter",
-    "author": "matzero6",
-    "content": "@hexawulf @FactoryAI I've been testing this thing extensively on large, real-world open-source codebases, and unfortunately, I haven’t found any situation where Droid is *significantly* better than other agents. It’s not a bad agent, for sure, but I just don’t understand all the YouTube and X hype",
-    "url": "https://x.com/matzero6/status/1984599189934756311",
-    "timestamp": "2025-11-01T12:31:33.000Z",
-    "metadata": {
-      "conversation_id": "1984599189934756311",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "reddit_1oljgx4",
-    "source": "reddit",
-    "author": "steve1215",
-    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
-    "timestamp": "2025-11-01T09:23:30.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_292",
     "source": "github",
     "author": "krit3dvanced",
@@ -401,19 +375,6 @@
       "type": "issue",
       "labels": [],
       "number": 279
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -659,7 +620,7 @@
     "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
       "score": 0,
-      "num_comments": 14,
+      "num_comments": 16,
       "subreddit": "FactoryAi"
     }
   },
@@ -684,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -703,6 +664,32 @@
     }
   },
   {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -713,6 +700,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {

@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1984700052233920760",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@CipherVectors @FactoryAI yes bro yes",
+    "url": "https://x.com/immoinulmoin/status/1984700052233920760",
+    "timestamp": "2025-11-01T19:12:21.000Z",
+    "metadata": {
+      "conversation_id": "1984700052233920760",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984699640877629746",
+    "source": "twitter",
+    "author": "CipherVectors",
+    "content": "@immoinulmoin @FactoryAI Seriously",
+    "url": "https://x.com/CipherVectors/status/1984699640877629746",
+    "timestamp": "2025-11-01T19:10:42.000Z",
+    "metadata": {
+      "conversation_id": "1984699640877629746",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984698118819233966",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "Droid from @FactoryAI is like Minecraft for adults.\n\nI could just watch it invoke tools all day. https://t.co/WsQcOF70ox",
+    "url": "https://x.com/MickeyShaughnes/status/1984698118819233966",
+    "timestamp": "2025-11-01T19:04:40.000Z",
+    "metadata": {
+      "conversation_id": "1984698118819233966",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984697863834910955",
+    "source": "twitter",
+    "author": "ruchernchong",
+    "content": "@hexawulf @FactoryAI System instructions.",
+    "url": "https://x.com/ruchernchong/status/1984697863834910955",
+    "timestamp": "2025-11-01T19:03:39.000Z",
+    "metadata": {
+      "conversation_id": "1984697863834910955",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984696966853366262",
+    "source": "twitter",
+    "author": "ngmarley",
+    "content": "@bentossell @FactoryAI Thanks Ben. I have set up in Ghostty `keybind = shift+enter=text:\\x1b\\r` and working in Claude Code, so IDK.",
+    "url": "https://x.com/ngmarley/status/1984696966853366262",
+    "timestamp": "2025-11-01T19:00:05.000Z",
+    "metadata": {
+      "conversation_id": "1984696966853366262",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984696586702889150",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@SaidAitmbarek @FactoryAI fr",
+    "url": "https://x.com/immoinulmoin/status/1984696586702889150",
+    "timestamp": "2025-11-01T18:58:34.000Z",
+    "metadata": {
+      "conversation_id": "1984696586702889150",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984696196695236966",
+    "source": "twitter",
+    "author": "SaidAitmbarek",
+    "content": "@immoinulmoin @FactoryAI it always does",
+    "url": "https://x.com/SaidAitmbarek/status/1984696196695236966",
+    "timestamp": "2025-11-01T18:57:01.000Z",
+    "metadata": {
+      "conversation_id": "1984696196695236966",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984696138105041221",
+    "source": "twitter",
+    "author": "SaidAitmbarek",
+    "content": "@dawid_jordaan @FactoryAI agreed, sota agentic xp",
+    "url": "https://x.com/SaidAitmbarek/status/1984696138105041221",
+    "timestamp": "2025-11-01T18:56:47.000Z",
+    "metadata": {
+      "conversation_id": "1984696138105041221",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984693205267575208",
     "source": "twitter",
     "author": "contxtkng",
@@ -40,7 +160,7 @@
       "conversation_id": "1984689983379169281",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -193,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984661621374140424",
-    "source": "twitter",
-    "author": "visy_ani",
-    "content": "@ShreyanshSing23 @FactoryAI Crazy bro!",
-    "url": "https://x.com/visy_ani/status/1984661621374140424",
-    "timestamp": "2025-11-01T16:39:38.000Z",
-    "metadata": {
-      "conversation_id": "1984661621374140424",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_298",
     "source": "github",
     "author": "tgerighty",
@@ -221,66 +326,6 @@
     }
   },
   {
-    "id": "twitter_1984659583655440584",
-    "source": "twitter",
-    "author": "ShreyanshSing23",
-    "content": "@venky1701 @FactoryAI Yeah sure I will keep updating on X",
-    "url": "https://x.com/ShreyanshSing23/status/1984659583655440584",
-    "timestamp": "2025-11-01T16:31:32.000Z",
-    "metadata": {
-      "conversation_id": "1984659583655440584",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984659416117862893",
-    "source": "twitter",
-    "author": "portforward21",
-    "content": "@hexawulf @FactoryAI Context bloat in Claude Code",
-    "url": "https://x.com/portforward21/status/1984659416117862893",
-    "timestamp": "2025-11-01T16:30:52.000Z",
-    "metadata": {
-      "conversation_id": "1984659416117862893",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984657602492710971",
-    "source": "twitter",
-    "author": "ShreyanshSing23",
-    "content": "I created my own Linear in 2 hours using @FactoryAI.\n\nGoing to use this for my own project management. https://t.co/hj1JGMwttK",
-    "url": "https://x.com/ShreyanshSing23/status/1984657602492710971",
-    "timestamp": "2025-11-01T16:23:40.000Z",
-    "metadata": {
-      "conversation_id": "1984657602492710971",
-      "likes": 6,
-      "retweets": 1,
-      "replies": 4,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984653912058847678",
-    "source": "twitter",
-    "author": "farizkamini",
-    "content": "@FactoryAI 😂😂 https://t.co/gLL6Y7o3MN",
-    "url": "https://x.com/farizkamini/status/1984653912058847678",
-    "timestamp": "2025-11-01T16:09:00.000Z",
-    "metadata": {
-      "conversation_id": "1984653912058847678",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_297",
     "source": "github",
     "author": "crypto-maniac",
@@ -291,51 +336,6 @@
       "type": "issue",
       "labels": [],
       "number": 297
-    }
-  },
-  {
-    "id": "twitter_1984653424324198547",
-    "source": "twitter",
-    "author": "farizkamini",
-    "content": "@FactoryAI Wow... https://t.co/s8effHucRG",
-    "url": "https://x.com/farizkamini/status/1984653424324198547",
-    "timestamp": "2025-11-01T16:07:04.000Z",
-    "metadata": {
-      "conversation_id": "1984653424324198547",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984653091304849517",
-    "source": "twitter",
-    "author": "farizkamini",
-    "content": "@FactoryAI Has he/she/it started to recognize \"Emotions\" and \"Tone of Speech\"? Very interesting https://t.co/a8BDdqzPlb",
-    "url": "https://x.com/farizkamini/status/1984653091304849517",
-    "timestamp": "2025-11-01T16:05:44.000Z",
-    "metadata": {
-      "conversation_id": "1984653091304849517",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984652315991720273",
-    "source": "twitter",
-    "author": "EddieBe",
-    "content": "@fire @FactoryAI https://t.co/63lu6b9TPH",
-    "url": "https://x.com/EddieBe/status/1984652315991720273",
-    "timestamp": "2025-11-01T16:02:39.000Z",
-    "metadata": {
-      "conversation_id": "1984652315991720273",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -690,6 +690,45 @@
     }
   },
   {
+    "id": "reddit_1odatnb",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
+    "timestamp": "2025-10-22T15:06:14.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -713,45 +752,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1ob2dsx",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 11,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oazqru",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
-    "timestamp": "2025-10-19T20:10:35.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {

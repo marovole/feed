@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984507242599891250",
+    "source": "twitter",
+    "author": "CryptoSolana_OG",
+    "content": "@nkgoutham @claudeai @FactoryAI Honestly i was able to make bmad v6 work on it even though its not stated to be compatible",
+    "url": "https://x.com/CryptoSolana_OG/status/1984507242599891250",
+    "timestamp": "2025-11-01T06:26:11.000Z",
+    "metadata": {
+      "conversation_id": "1984507242599891250",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984502805181218823",
+    "source": "twitter",
+    "author": "ChaosCruxFL",
+    "content": "@hexawulf @FactoryAI No it's not just you... I noticed the same and am loving it so far",
+    "url": "https://x.com/ChaosCruxFL/status/1984502805181218823",
+    "timestamp": "2025-11-01T06:08:33.000Z",
+    "metadata": {
+      "conversation_id": "1984502805181218823",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984500781186212174",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@hexawulf @FactoryAI xWulf, that's a keen observation! Cleaner outputs definitely make a difference, and I think you're onto something there.",
+    "url": "https://x.com/codewithimanshu/status/1984500781186212174",
+    "timestamp": "2025-11-01T06:00:31.000Z",
+    "metadata": {
+      "conversation_id": "1984500781186212174",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984498575116767380",
     "source": "twitter",
     "author": "codewithimanshu",
@@ -85,7 +130,7 @@
       "conversation_id": "1984492520056009055",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -188,9 +233,9 @@
     "timestamp": "2025-11-01T01:40:21.000Z",
     "metadata": {
       "conversation_id": "1984435309896220924",
-      "likes": 3,
+      "likes": 5,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -248,51 +293,6 @@
     "timestamp": "2025-11-01T01:09:27.000Z",
     "metadata": {
       "conversation_id": "1984427534625431665",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984425118207263124",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@NathanLands @FactoryAI True, Nathan, Factory AI's approach of combining models is quite a smart move, and it's bound to stay ahead, I think.",
-    "url": "https://x.com/codewithimanshu/status/1984425118207263124",
-    "timestamp": "2025-11-01T00:59:51.000Z",
-    "metadata": {
-      "conversation_id": "1984425118207263124",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984423391768821950",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@tsi_org @FactoryAI Absolutely, Tech! A tutorial on FactoryAI would be super helpful, especially for beginners; it's a great way to learn.",
-    "url": "https://x.com/codewithimanshu/status/1984423391768821950",
-    "timestamp": "2025-11-01T00:53:00.000Z",
-    "metadata": {
-      "conversation_id": "1984423391768821950",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984421659349328367",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@nkgoutham @FactoryAI Wow, Krishna, that's some impressive stuff! Droid sounds like it's truly giving the competition a run for their money, isn't it?",
-    "url": "https://x.com/codewithimanshu/status/1984421659349328367",
-    "timestamp": "2025-11-01T00:46:07.000Z",
-    "metadata": {
-      "conversation_id": "1984421659349328367",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }

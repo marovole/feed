@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984629311446319528",
+    "source": "twitter",
+    "author": "sir4K_zen",
+    "content": "@nkgoutham @claudeai @FactoryAI Sounds like Droid really is a game changer. Nice to hear you’re getting so much done on the free trial! What’s the next big project?",
+    "url": "https://x.com/sir4K_zen/status/1984629311446319528",
+    "timestamp": "2025-11-01T14:31:15.000Z",
+    "metadata": {
+      "conversation_id": "1984629311446319528",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984628700214931763",
+    "source": "twitter",
+    "author": "RayFernando1337",
+    "content": "@hexawulf @FactoryAI Sweet!",
+    "url": "https://x.com/RayFernando1337/status/1984628700214931763",
+    "timestamp": "2025-11-01T14:28:49.000Z",
+    "metadata": {
+      "conversation_id": "1984628700214931763",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984627462051959024",
+    "source": "twitter",
+    "author": "BTConnector_",
+    "content": "@bentossell @immoinulmoin @FactoryAI Could you please direct me to the command to access this mcp registry in the docs?",
+    "url": "https://x.com/BTConnector_/status/1984627462051959024",
+    "timestamp": "2025-11-01T14:23:54.000Z",
+    "metadata": {
+      "conversation_id": "1984627462051959024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984624172312522759",
     "source": "twitter",
     "author": "Louis__Meyer",
@@ -255,48 +300,29 @@
     }
   },
   {
-    "id": "twitter_1984586593433501875",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "anyone who used claude/chatgpt $200 plan and now move to @FactoryAI cli $200 plan, share your thoughts please, like how well its serving and pros and cons?",
-    "url": "https://x.com/immoinulmoin/status/1984586593433501875",
-    "timestamp": "2025-11-01T11:41:30.000Z",
+    "id": "reddit_1oljgx4",
+    "source": "reddit",
+    "author": "steve1215",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
+    "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "conversation_id": "1984586593433501875",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
     }
   },
   {
-    "id": "twitter_1984584133591646439",
-    "source": "twitter",
-    "author": "crypto_vert",
-    "content": "@fire @FactoryAI custom model works very slow. i don’t understand hype at all",
-    "url": "https://x.com/crypto_vert/status/1984584133591646439",
-    "timestamp": "2025-11-01T11:31:43.000Z",
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
     "metadata": {
-      "conversation_id": "1984584133591646439",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984582063412977885",
-    "source": "twitter",
-    "author": "ArchiSoftTech",
-    "content": "@hexawulf @FactoryAI unfortunetely im not able to run the binary on my Mac i7 under Monterey...illegal instruction",
-    "url": "https://x.com/ArchiSoftTech/status/1984582063412977885",
-    "timestamp": "2025-11-01T11:23:30.000Z",
-    "metadata": {
-      "conversation_id": "1984582063412977885",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -375,6 +401,19 @@
       "type": "issue",
       "labels": [],
       "number": 279
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -521,6 +560,19 @@
     }
   },
   {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 10,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1ofh9so",
     "source": "reddit",
     "author": "abecc2",
@@ -573,6 +625,19 @@
     }
   },
   {
+    "id": "reddit_1of1zjv",
+    "source": "reddit",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_254",
     "source": "github",
     "author": "ryzen3100",
@@ -619,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -638,19 +703,6 @@
     }
   },
   {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -664,19 +716,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -687,58 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob2dsx",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 10,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {

@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_299",
+    "source": "github",
+    "author": "Slyvester-cyber",
+    "content": "[Issue] terminal system detacting droid.exe\n\nIs it possible to also get a Windows guide?🙏\nAn also solving the issue of the terminal system/Windows ain't able to find Droid.exe when once downloaded but i can see it's been downloaded into a certain path but still it can't detact it...an fixing the issue\n",
+    "url": "https://github.com/Factory-AI/factory/issues/299",
+    "timestamp": "2025-11-01T17:40:01Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 299
+    }
+  },
+  {
+    "id": "twitter_1984674270182621279",
+    "source": "twitter",
+    "author": "RepoOutline",
+    "content": "@FactoryAI what is this supposed to mean? https://t.co/0YestwIS23",
+    "url": "https://x.com/RepoOutline/status/1984674270182621279",
+    "timestamp": "2025-11-01T17:29:54.000Z",
+    "metadata": {
+      "conversation_id": "1984674270182621279",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984672506494456211",
     "source": "twitter",
     "author": "erd0xbc",
@@ -199,7 +227,7 @@
     "timestamp": "2025-11-01T15:59:09.000Z",
     "metadata": {
       "conversation_id": "1984651434282139743",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -305,21 +333,6 @@
     "metadata": {
       "conversation_id": "1984630648959635618",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984629936296988718",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@BTConnector_ @immoinulmoin @FactoryAI /mcp \n\nhttps://t.co/aix778SAXx",
-    "url": "https://x.com/bentossell/status/1984629936296988718",
-    "timestamp": "2025-11-01T14:33:44.000Z",
-    "metadata": {
-      "conversation_id": "1984629936296988718",
-      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -437,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -625,19 +638,6 @@
     }
   },
   {
-    "id": "github_issue_258",
-    "source": "github",
-    "author": "britannio",
-    "content": "[Issue] `droid exec --output-format stream-json` is missing a matching id in tool_result messages\n\nPreviously, tool calls and tool call results would contain a matching `id` field to correlate tool call results with tool calls.\n\nHere's an example trace taken a few days ago.\nhttps://github.com/BloopAI/vibe-kanban/blob/fa7245c632ac774ec71a98e26094e0fb6d70cf14/crates/executors/tests/droid_snapshots/fixtures/edits-and-execution.jsonl#L3-L4\n\nIn v0.22.2, this `id` field is omitted from the tool result messages. Since tools can be called in parallel and thus tool result ordering isn't stable, it's h",
-    "url": "https://github.com/Factory-AI/factory/issues/258",
-    "timestamp": "2025-10-24T21:13:11Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 258
-    }
-  },
-  {
     "id": "reddit_1of1zjv",
     "source": "reddit",
     "author": "hrdn",
@@ -690,15 +690,15 @@
     }
   },
   {
-    "id": "reddit_1odatnb",
+    "id": "reddit_1ocpe9w",
     "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 3,
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },

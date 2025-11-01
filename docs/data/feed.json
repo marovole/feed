@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1984520526581424558",
+    "source": "twitter",
+    "author": "explosivesox",
+    "content": "$BETTER getting better, thanks to @FactoryAI 🫶\n(Grok for droid when?!)\nI had no idea front end dev is more painful than backend.\nAnyone have any tips on deploying latency-sensitive signals from in Rust to a website? Some smart cookies have followed recently, would love tips! https://t.co/7VwcnMY8iS",
+    "url": "https://x.com/explosivesox/status/1984520526581424558",
+    "timestamp": "2025-11-01T07:18:58.000Z",
+    "metadata": {
+      "conversation_id": "1984520526581424558",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984519889718297075",
+    "source": "twitter",
+    "author": "0xDerekLao",
+    "content": "@hexawulf @FactoryAI Do you use CC's subscription within Droid CLI or the model directly from Droid? Not sure if its a CC endpoint issue",
+    "url": "https://x.com/0xDerekLao/status/1984519889718297075",
+    "timestamp": "2025-11-01T07:16:26.000Z",
+    "metadata": {
+      "conversation_id": "1984519889718297075",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984519755685118393",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "some handy shortcuts to know about Droid by @FactoryAI \n\ni didn't know we could use a \"new line\" while prompting. For someone who does most of his prompting in XML or markdown format, having a new line is useful. \n\nwill keep sharing what i discover, with droid! https://t.co/fdgtOn0nsP",
+    "url": "https://x.com/nkgoutham/status/1984519755685118393",
+    "timestamp": "2025-11-01T07:15:55.000Z",
+    "metadata": {
+      "conversation_id": "1984519755685118393",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984517179266777104",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@hampsonw @aicodeking @Zai_org @AnthropicAI @FactoryAI what inference provider did you use for GLM-4.6 BYOK ?",
+    "url": "https://x.com/SvenMeyer/status/1984517179266777104",
+    "timestamp": "2025-11-01T07:05:40.000Z",
+    "metadata": {
+      "conversation_id": "1984517179266777104",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984515514404913430",
     "source": "twitter",
     "author": "NilkhanVaibhav",
@@ -8,7 +68,7 @@
     "timestamp": "2025-11-01T06:59:03.000Z",
     "metadata": {
       "conversation_id": "1984515514404913430",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,7 +83,7 @@
     "timestamp": "2025-11-01T06:53:01.000Z",
     "metadata": {
       "conversation_id": "1984513993160212627",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +98,7 @@
     "timestamp": "2025-11-01T06:43:30.000Z",
     "metadata": {
       "conversation_id": "1984511600561438838",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -158,7 +218,7 @@
     "timestamp": "2025-11-01T05:28:27.000Z",
     "metadata": {
       "conversation_id": "1984492712503235000",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -236,66 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984438622406525421",
-    "source": "twitter",
-    "author": "arnaud_breton",
-    "content": "I'm switching between different coding agents (Claude Code, @FactoryAI , @opencode , Codex, etc), and it's a bit annoying to reconfigure MCP everytime. Is there a good centralized proxy to configure once-for-all? Meaning I'd just give access to the clients once and it'd dispatch",
-    "url": "https://x.com/arnaud_breton/status/1984438622406525421",
-    "timestamp": "2025-11-01T01:53:31.000Z",
-    "metadata": {
-      "conversation_id": "1984438622406525421",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984438361294254244",
-    "source": "twitter",
-    "author": "sirshibaninja",
-    "content": "@immoinulmoin @FactoryAI @Zai_org Awesome tool",
-    "url": "https://x.com/sirshibaninja/status/1984438361294254244",
-    "timestamp": "2025-11-01T01:52:29.000Z",
-    "metadata": {
-      "conversation_id": "1984438361294254244",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984435309896220924",
-    "source": "twitter",
-    "author": "hexawulf",
-    "content": "Is it just me, or does Sonnet 4.5 inside droid @FactoryAI  outperform Claude Code for most tasks? \nSame model, different wrapper, but the outputs feel cleaner. Anyone else seeing this? https://t.co/aitPp0Pok1",
-    "url": "https://x.com/hexawulf/status/1984435309896220924",
-    "timestamp": "2025-11-01T01:40:21.000Z",
-    "metadata": {
-      "conversation_id": "1984435309896220924",
-      "likes": 9,
-      "retweets": 0,
-      "replies": 4,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984433882033504751",
-    "source": "twitter",
-    "author": "doodlestein",
-    "content": "@chirping_ai @FactoryAI It works with any agent that supports MCP, so it almost certainly already supports it!",
-    "url": "https://x.com/doodlestein/status/1984433882033504751",
-    "timestamp": "2025-11-01T01:34:41.000Z",
-    "metadata": {
-      "conversation_id": "1984433882033504751",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

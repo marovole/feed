@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984706804798853528",
+    "source": "twitter",
+    "author": "davidrsdlife",
+    "content": "@hexawulf @FactoryAI Not just you.",
+    "url": "https://x.com/davidrsdlife/status/1984706804798853528",
+    "timestamp": "2025-11-01T19:39:10.000Z",
+    "metadata": {
+      "conversation_id": "1984706804798853528",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984702728325775675",
     "source": "twitter",
     "author": "CipherVectors",
@@ -98,7 +113,7 @@
     "timestamp": "2025-11-01T19:04:40.000Z",
     "metadata": {
       "conversation_id": "1984698118819233966",
-      "likes": 2,
+      "likes": 4,
       "retweets": 1,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984678169765642425",
-    "source": "twitter",
-    "author": "explorersofai",
-    "content": "My top AI tools 2025\n\n@pixio_ai \n@myaitutor \n@midjourney \n@FactoryAI \n@the_machine_ai \n@ComfyUI \n\nStarting a Channel on YouTube where I show you how to create with AI\n\nYou don't want to miss this! https://t.co/CcvTcEfcBB",
-    "url": "https://x.com/explorersofai/status/1984678169765642425",
-    "timestamp": "2025-11-01T17:45:23.000Z",
-    "metadata": {
-      "conversation_id": "1984678169765642425",
-      "likes": 7,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_299",
     "source": "github",
     "author": "Slyvester-cyber",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }

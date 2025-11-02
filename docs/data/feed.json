@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1985032659836272642",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@roshan_mishra @FactoryAI ❤️",
+    "url": "https://x.com/bentossell/status/1985032659836272642",
+    "timestamp": "2025-11-02T17:14:00.000Z",
+    "metadata": {
+      "conversation_id": "1985032659836272642",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985030941111468313",
+    "source": "twitter",
+    "author": "REDACTED_WEB3ML",
+    "content": "@hexawulf @FactoryAI Droid is an S+ AI Application in my personal opinion. I use any model in it and it performs extremely well",
+    "url": "https://x.com/REDACTED_WEB3ML/status/1985030941111468313",
+    "timestamp": "2025-11-02T17:07:11.000Z",
+    "metadata": {
+      "conversation_id": "1985030941111468313",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985027886986797443",
     "source": "twitter",
     "author": "edhumbling",
@@ -171,9 +201,9 @@
     "timestamp": "2025-11-02T16:01:23.000Z",
     "metadata": {
       "conversation_id": "1985014385182462138",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -186,7 +216,7 @@
     "timestamp": "2025-11-02T16:01:14.000Z",
     "metadata": {
       "conversation_id": "1985014343885287737",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984996437537505721",
-    "source": "twitter",
-    "author": "shahaayush1999",
-    "content": "@dvcrn @FactoryAI How did you make your droid use your Claude Max plan? Can you help with the steps?",
-    "url": "https://x.com/shahaayush1999/status/1984996437537505721",
-    "timestamp": "2025-11-02T14:50:04.000Z",
-    "metadata": {
-      "conversation_id": "1984996437537505721",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984995170564071886",
-    "source": "twitter",
-    "author": "harveyfullstack",
-    "content": "@curiouslychase @FactoryAI Check for yourself! https://t.co/AmH2dSflx2",
-    "url": "https://x.com/harveyfullstack/status/1984995170564071886",
-    "timestamp": "2025-11-02T14:45:02.000Z",
-    "metadata": {
-      "conversation_id": "1984995170564071886",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -677,19 +677,6 @@
     }
   },
   {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 18,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -700,6 +687,19 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
+    }
+  },
+  {
+    "id": "reddit_1odjcfl",
+    "source": "reddit",
+    "author": "Hassan_A2H",
+    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
+    "timestamp": "2025-10-22T20:20:05.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
     }
   },
   {

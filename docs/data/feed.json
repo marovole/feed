@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984952995495440398",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@1saifj @claudeai @FactoryAI https://t.co/uSvgTRmn7n",
+    "url": "https://x.com/nkgoutham/status/1984952995495440398",
+    "timestamp": "2025-11-02T11:57:27.000Z",
+    "metadata": {
+      "conversation_id": "1984952995495440398",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984952898057568460",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@amans_twt @FactoryAI I'm using Sonnet 4.5 for almost every prompt - just to see how long I can last.",
+    "url": "https://x.com/nkgoutham/status/1984952898057568460",
+    "timestamp": "2025-11-02T11:57:04.000Z",
+    "metadata": {
+      "conversation_id": "1984952898057568460",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984952791782379705",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@Aymen94Jelassi @FactoryAI Sign up here -- https://t.co/uic5lmadnb\n\nonce you sign up, go to Billing &amp; Usage, you should see your trial tokens there https://t.co/ZMtwEgdPdo",
+    "url": "https://x.com/nkgoutham/status/1984952791782379705",
+    "timestamp": "2025-11-02T11:56:38.000Z",
+    "metadata": {
+      "conversation_id": "1984952791782379705",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_1984942029940384146",
     "source": "twitter",
     "author": "Aymen94Jelassi",
@@ -8,9 +53,9 @@
     "timestamp": "2025-11-02T11:13:53.000Z",
     "metadata": {
       "conversation_id": "1984942029940384146",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -51,9 +96,9 @@
     "timestamp": "2025-11-02T10:08:03.000Z",
     "metadata": {
       "conversation_id": "1984925464826421286",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984875578491896284",
-    "source": "twitter",
-    "author": "JuiceSharp",
-    "content": "@CipherVectors @RayFernando1337 @FactoryAI I meant Pro in droid",
-    "url": "https://x.com/JuiceSharp/status/1984875578491896284",
-    "timestamp": "2025-11-02T06:49:49.000Z",
-    "metadata": {
-      "conversation_id": "1984875578491896284",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984874346104447141",
-    "source": "twitter",
-    "author": "JuiceSharp",
-    "content": "@CipherVectors @RayFernando1337 @FactoryAI I actually also have a Pro plan but for a different reason. I just believe the good effort must be paid well. They crafted a very good product under the given constraints.",
-    "url": "https://x.com/JuiceSharp/status/1984874346104447141",
-    "timestamp": "2025-11-02T06:44:55.000Z",
-    "metadata": {
-      "conversation_id": "1984874346104447141",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984870437164368234",
-    "source": "twitter",
-    "author": "CipherVectors",
-    "content": "@JuiceSharp @RayFernando1337 @FactoryAI I did for the Pro Plan but was not satisfied with the speed of it during working hours that is why I switched to droid.",
-    "url": "https://x.com/CipherVectors/status/1984870437164368234",
-    "timestamp": "2025-11-02T06:29:23.000Z",
-    "metadata": {
-      "conversation_id": "1984870437164368234",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -697,21 +697,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1odatnb",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

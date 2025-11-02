@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985083661939851774",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@the_ido_levi @FactoryAI Thank you!!!",
+    "url": "https://x.com/mikez93/status/1985083661939851774",
+    "timestamp": "2025-11-02T20:36:40.000Z",
+    "metadata": {
+      "conversation_id": "1985083661939851774",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985076846380376452",
     "source": "twitter",
     "author": "contxtkng",
@@ -156,7 +171,7 @@
     "timestamp": "2025-11-02T17:51:59.000Z",
     "metadata": {
       "conversation_id": "1985042216625009131",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985027886986797443",
-    "source": "twitter",
-    "author": "edhumbling",
-    "content": "@FactoryAI ur code env is very confusing to navigate, decided to try today and gave up",
-    "url": "https://x.com/edhumbling/status/1985027886986797443",
-    "timestamp": "2025-11-02T16:55:02.000Z",
-    "metadata": {
-      "conversation_id": "1985027886986797443",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }

@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1984853519636050138",
+    "source": "twitter",
+    "author": "solanker_ai",
+    "content": "Sorry, there was an error processing your request.",
+    "url": "https://x.com/solanker_ai/status/1984853519636050138",
+    "timestamp": "2025-11-02T05:22:10.000Z",
+    "metadata": {
+      "conversation_id": "1984853519636050138",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984853457581588636",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@DowClem @CipherVectors @FactoryAI i said cursor, not claude, it has better ui/ux that can impress the non/less tech guy more than devs",
+    "url": "https://x.com/immoinulmoin/status/1984853457581588636",
+    "timestamp": "2025-11-02T05:21:55.000Z",
+    "metadata": {
+      "conversation_id": "1984853457581588636",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984852993674735968",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@nelwin_catalogo @FactoryAI I could argue, but I am avoiding, keep using what works best fr u",
+    "url": "https://x.com/immoinulmoin/status/1984852993674735968",
+    "timestamp": "2025-11-02T05:20:05.000Z",
+    "metadata": {
+      "conversation_id": "1984852993674735968",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984850766738190578",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@immoinulmoin @FactoryAI I’d love to see Factory bring GPT-5 Pro to Droid. I want to use it for spec mode.",
+    "url": "https://x.com/geo_anima/status/1984850766738190578",
+    "timestamp": "2025-11-02T05:11:14.000Z",
+    "metadata": {
+      "conversation_id": "1984850766738190578",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984848042886091237",
+    "source": "twitter",
+    "author": "nelwin_catalogo",
+    "content": "@immoinulmoin @FactoryAI they all sucks.. the only worthy for production codebase is augmentcode.. as it learns the code pattern in the codebase.. the only downside is the price.. it's too much",
+    "url": "https://x.com/nelwin_catalogo/status/1984848042886091237",
+    "timestamp": "2025-11-02T05:00:24.000Z",
+    "metadata": {
+      "conversation_id": "1984848042886091237",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984846775807533423",
     "source": "twitter",
     "author": "LevJampolsky",
@@ -143,7 +218,7 @@
     "timestamp": "2025-11-02T02:55:11.000Z",
     "metadata": {
       "conversation_id": "1984816528320315607",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -234,81 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984801460920668589",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@CipherVectors @immoinulmoin @FactoryAI just run DROID within cursor 🤷‍♂️",
-    "url": "https://x.com/SvenMeyer/status/1984801460920668589",
-    "timestamp": "2025-11-02T01:55:18.000Z",
-    "metadata": {
-      "conversation_id": "1984801460920668589",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984799067080442194",
-    "source": "twitter",
-    "author": "farizkamini",
-    "content": "@GitMaxd @FactoryAI yes 😄",
-    "url": "https://x.com/farizkamini/status/1984799067080442194",
-    "timestamp": "2025-11-02T01:45:48.000Z",
-    "metadata": {
-      "conversation_id": "1984799067080442194",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984797121887744274",
-    "source": "twitter",
-    "author": "JuiceSharp",
-    "content": "@CipherVectors @RayFernando1337 @FactoryAI You can always subscribe to the coding plan on https://t.co/Q7hZHDGYt6 and use as much as you want with a droid. The chip is $3.00, but with web search, it is fast and 3x of CC Max for as low as $15.00 per month. If you need help, I will guide you to set it up.",
-    "url": "https://x.com/JuiceSharp/status/1984797121887744274",
-    "timestamp": "2025-11-02T01:38:04.000Z",
-    "metadata": {
-      "conversation_id": "1984797121887744274",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984789381287194890",
-    "source": "twitter",
-    "author": "nest_elf",
-    "content": "m2 through ollama cloud on @FactoryAI  acts dumber than m2 on openrouter. same model, different routing, worse output. check your inference params",
-    "url": "https://x.com/nest_elf/status/1984789381287194890",
-    "timestamp": "2025-11-02T01:07:18.000Z",
-    "metadata": {
-      "conversation_id": "1984789381287194890",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984787967462826321",
-    "source": "twitter",
-    "author": "servasyy",
-    "content": "@iamzhihui @hexawulf @FactoryAI 看到最重要的了",
-    "url": "https://x.com/servasyy/status/1984787967462826321",
-    "timestamp": "2025-11-02T01:01:41.000Z",
-    "metadata": {
-      "conversation_id": "1984787967462826321",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

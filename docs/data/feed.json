@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985042216625009131",
+    "source": "twitter",
+    "author": "AndersEastgrove",
+    "content": "@SvenMeyer @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI The OpenRouter connection with MiniMax M2 has been fixed for a good while now 🤷‍♂️👍",
+    "url": "https://x.com/AndersEastgrove/status/1985042216625009131",
+    "timestamp": "2025-11-02T17:51:59.000Z",
+    "metadata": {
+      "conversation_id": "1985042216625009131",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985040513238794435",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -23,7 +38,7 @@
     "timestamp": "2025-11-02T17:44:52.000Z",
     "metadata": {
       "conversation_id": "1985040427574313334",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -233,7 +248,7 @@
     "timestamp": "2025-11-02T16:31:43.000Z",
     "metadata": {
       "conversation_id": "1985022018409156939",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -294,21 +309,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985014385182462138",
-    "source": "twitter",
-    "author": "roshan_mishra",
-    "content": "I started to use Droid- @FactoryAI last week and was surprised by how good it is. Not paid to say this, btw.\n\nI had reached out to @bentossell before the workshop. He was very helpful in making it available. Thank you.\n\nI had a great time introducing droid &amp; not just for coding.",
-    "url": "https://x.com/roshan_mishra/status/1985014385182462138",
-    "timestamp": "2025-11-02T16:01:23.000Z",
-    "metadata": {
-      "conversation_id": "1985014385182462138",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +700,19 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
+    }
+  },
+  {
+    "id": "reddit_1odjcfl",
+    "source": "reddit",
+    "author": "Hassan_A2H",
+    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
+    "timestamp": "2025-10-22T20:20:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
     }
   },
   {

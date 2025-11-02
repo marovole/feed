@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1985024461951885757",
+    "source": "twitter",
+    "author": "dannysuarez",
+    "content": "and btw finally using @FactoryAI droid :) https://t.co/Gtxq9DM91L",
+    "url": "https://x.com/dannysuarez/status/1985024461951885757",
+    "timestamp": "2025-11-02T16:41:26.000Z",
+    "metadata": {
+      "conversation_id": "1985024461951885757",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985022521071014102",
+    "source": "twitter",
+    "author": "AndyBeard",
+    "content": "@Similarweb @cursor_ai @lovable_dev @base_44 Well as an example @FactoryAI should be in this group, and not lumped in with more general AI chatbots\n\n@Cognition make @devinai and now own @windsurf = 3 different domains\n\nThere are so many others - \"all other\" could easily be 30%+",
+    "url": "https://x.com/AndyBeard/status/1985022521071014102",
+    "timestamp": "2025-11-02T16:33:43.000Z",
+    "metadata": {
+      "conversation_id": "1985022521071014102",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985022322638757996",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@ak_kim0 @FactoryAI I also use Claude Code and Amp depending on the task/what my token usage is for Droid.\n\nClaude Code is great for me for general document sense making (I use it with my Obsidian Vault).\n\n@AmpCode, imo, has the best *product* and I like the hand-feel of it.",
+    "url": "https://x.com/curiouslychase/status/1985022322638757996",
+    "timestamp": "2025-11-02T16:32:56.000Z",
+    "metadata": {
+      "conversation_id": "1985022322638757996",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985022018409156939",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@ak_kim0 @FactoryAI Model optionality, general quality, overall I've found it better at task completion without over-working.\n\nThey have a great benchmark compared to others: \nhttps://t.co/KtMkO4MbwS",
+    "url": "https://x.com/curiouslychase/status/1985022018409156939",
+    "timestamp": "2025-11-02T16:31:43.000Z",
+    "metadata": {
+      "conversation_id": "1985022018409156939",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985021023297667088",
+    "source": "twitter",
+    "author": "ak_kim0",
+    "content": "@curiouslychase @FactoryAI Why droid over codex or cc",
+    "url": "https://x.com/ak_kim0/status/1985021023297667088",
+    "timestamp": "2025-11-02T16:27:46.000Z",
+    "metadata": {
+      "conversation_id": "1985021023297667088",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985018759254294728",
     "source": "twitter",
     "author": "peterbowyer",
@@ -238,81 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984993158007341243",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@the_ido_levi @opencode Can we use it in @FactoryAI  Droids?",
-    "url": "https://x.com/pascallammers_/status/1984993158007341243",
-    "timestamp": "2025-11-02T14:37:02.000Z",
-    "metadata": {
-      "conversation_id": "1984993158007341243",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984992221935120491",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@harveyfullstack @FactoryAI What's the extension ecosystem like?",
-    "url": "https://x.com/curiouslychase/status/1984992221935120491",
-    "timestamp": "2025-11-02T14:33:19.000Z",
-    "metadata": {
-      "conversation_id": "1984992221935120491",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984992139215073465",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@harveyfullstack @FactoryAI Cool. I'll poke at it some in the next few weeks!",
-    "url": "https://x.com/curiouslychase/status/1984992139215073465",
-    "timestamp": "2025-11-02T14:33:00.000Z",
-    "metadata": {
-      "conversation_id": "1984992139215073465",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984991623520964860",
-    "source": "twitter",
-    "author": "harveyfullstack",
-    "content": "@curiouslychase @FactoryAI In my opinion: easier learning curve, more intuitive hotkeys via \"modes\" like vim, floating panes, and also native plugin support! I only ever have one terminal window open thanks to Zellij sessions -&gt; tabs -&gt; panes.\n\nI use it over SSH so I can code on the go. Great out the box",
-    "url": "https://x.com/harveyfullstack/status/1984991623520964860",
-    "timestamp": "2025-11-02T14:30:57.000Z",
-    "metadata": {
-      "conversation_id": "1984991623520964860",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984991349285023815",
-    "source": "twitter",
-    "author": "phpmeow",
-    "content": "@nkgoutham @FactoryAI really? i jusst said it to push to remote ../ ; as a regular claude user i thought it would move to child and commit the changes; indeed it did went to child folders found .git removed them and created .git at ../ 😭 https://t.co/zKK5ch9ddX",
-    "url": "https://x.com/phpmeow/status/1984991349285023815",
-    "timestamp": "2025-11-02T14:29:51.000Z",
-    "metadata": {
-      "conversation_id": "1984991349285023815",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -664,15 +664,15 @@
     }
   },
   {
-    "id": "reddit_1oegs4w",
+    "id": "reddit_1of1zjv",
     "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
     "metadata": {
-      "score": 0,
-      "num_comments": 18,
+      "score": 1,
+      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
@@ -690,15 +690,15 @@
     }
   },
   {
-    "id": "reddit_1odjcfl",
+    "id": "reddit_1odatnb",
     "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
+    "author": "Conscious-Fee7844",
+    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
+    "timestamp": "2025-10-22T15:06:14.000Z",
     "metadata": {
-      "score": 5,
-      "num_comments": 9,
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

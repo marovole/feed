@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985057194363265364",
+    "source": "twitter",
+    "author": "aislepartnersai",
+    "content": "@corbin_braun what's the difference between what Cursor just released, and the capabilities of @FactoryAI or Claude's agent / sub-agent parallelisation features?",
+    "url": "https://x.com/aislepartnersai/status/1985057194363265364",
+    "timestamp": "2025-11-02T18:51:30.000Z",
+    "metadata": {
+      "conversation_id": "1985057194363265364",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985044251592282353",
     "source": "twitter",
     "author": "AntonioJASmith",
@@ -12,6 +27,19 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -285,18 +313,16 @@
     }
   },
   {
-    "id": "twitter_1985018759254294728",
-    "source": "twitter",
-    "author": "peterbowyer",
-    "content": "@FactoryAI Hi, is there a way to do sandboxing like https://t.co/mSS2Fk2o6W provides? I want to let Droid loose but have some protection!",
-    "url": "https://x.com/peterbowyer/status/1985018759254294728",
-    "timestamp": "2025-11-02T16:18:46.000Z",
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "conversation_id": "1985018759254294728",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -482,6 +508,19 @@
     }
   },
   {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -606,8 +645,34 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -651,6 +716,19 @@
     }
   },
   {
+    "id": "reddit_1odjcfl",
+    "source": "reddit",
+    "author": "Hassan_A2H",
+    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
+    "timestamp": "2025-10-22T20:20:05.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -661,19 +739,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -690,19 +755,6 @@
     }
   },
   {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -713,32 +765,6 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
-  },
-  {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
     }
   },
   {

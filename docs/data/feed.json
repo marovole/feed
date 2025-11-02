@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1984992221935120491",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@harveyfullstack @FactoryAI What's the extension ecosystem like?",
+    "url": "https://x.com/curiouslychase/status/1984992221935120491",
+    "timestamp": "2025-11-02T14:33:19.000Z",
+    "metadata": {
+      "conversation_id": "1984992221935120491",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984992139215073465",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@harveyfullstack @FactoryAI Cool. I'll poke at it some in the next few weeks!",
+    "url": "https://x.com/curiouslychase/status/1984992139215073465",
+    "timestamp": "2025-11-02T14:33:00.000Z",
+    "metadata": {
+      "conversation_id": "1984992139215073465",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984991623520964860",
+    "source": "twitter",
+    "author": "harveyfullstack",
+    "content": "@curiouslychase @FactoryAI In my opinion: easier learning curve, more intuitive hotkeys via \"modes\" like vim, floating panes, and also native plugin support! I only ever have one terminal window open thanks to Zellij sessions -&gt; tabs -&gt; panes.\n\nI use it over SSH so I can code on the go. Great out the box",
+    "url": "https://x.com/harveyfullstack/status/1984991623520964860",
+    "timestamp": "2025-11-02T14:30:57.000Z",
+    "metadata": {
+      "conversation_id": "1984991623520964860",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984991349285023815",
+    "source": "twitter",
+    "author": "phpmeow",
+    "content": "@nkgoutham @FactoryAI really? i jusst said it to push to remote ../ ; as a regular claude user i thought it would move to child and commit the changes; indeed it did went to child folders found .git removed them and created .git at ../ 😭 https://t.co/zKK5ch9ddX",
+    "url": "https://x.com/phpmeow/status/1984991349285023815",
+    "timestamp": "2025-11-02T14:29:51.000Z",
+    "metadata": {
+      "conversation_id": "1984991349285023815",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984990023306072085",
+    "source": "twitter",
+    "author": "malikwas1f",
+    "content": "@SkylerMiao7 @SvenMeyer @FactoryAI @MiniMax__AI @OpenRouterAI When I played with droid and M2, it would crash occasionally using anthropic endpoint, and on openrouter endpoint I faced issues with the missing thinking tags. I've since moved onto using Claude code until droid fix the crashes.",
+    "url": "https://x.com/malikwas1f/status/1984990023306072085",
+    "timestamp": "2025-11-02T14:24:35.000Z",
+    "metadata": {
+      "conversation_id": "1984990023306072085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984986444985926035",
     "source": "twitter",
     "author": "curiouslychase",
@@ -8,9 +83,9 @@
     "timestamp": "2025-11-02T14:10:22.000Z",
     "metadata": {
       "conversation_id": "1984986444985926035",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -225,81 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984960604130464152",
-    "source": "twitter",
-    "author": "jonhillymakes",
-    "content": "@nkgoutham @FactoryAI I had a hard time with Droid, I have to admit.  the bugs it introduced cost me hours of debugging time.",
-    "url": "https://x.com/jonhillymakes/status/1984960604130464152",
-    "timestamp": "2025-11-02T12:27:41.000Z",
-    "metadata": {
-      "conversation_id": "1984960604130464152",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984958427341398043",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@thinkbuildnext @xai @FactoryAI I do the same and love it",
-    "url": "https://x.com/martin_ict_algo/status/1984958427341398043",
-    "timestamp": "2025-11-02T12:19:02.000Z",
-    "metadata": {
-      "conversation_id": "1984958427341398043",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984952995495440398",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@1saifj @claudeai @FactoryAI https://t.co/uSvgTRmn7n",
-    "url": "https://x.com/nkgoutham/status/1984952995495440398",
-    "timestamp": "2025-11-02T11:57:27.000Z",
-    "metadata": {
-      "conversation_id": "1984952995495440398",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984952898057568460",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@amans_twt @FactoryAI I'm using Sonnet 4.5 for almost every prompt - just to see how long I can last.",
-    "url": "https://x.com/nkgoutham/status/1984952898057568460",
-    "timestamp": "2025-11-02T11:57:04.000Z",
-    "metadata": {
-      "conversation_id": "1984952898057568460",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984952791782379705",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@Aymen94Jelassi @FactoryAI Sign up here -- https://t.co/uic5lmadnb\n\nonce you sign up, go to Billing &amp; Usage, you should see your trial tokens there https://t.co/ZMtwEgdPdo",
-    "url": "https://x.com/nkgoutham/status/1984952791782379705",
-    "timestamp": "2025-11-02T11:56:38.000Z",
-    "metadata": {
-      "conversation_id": "1984952791782379705",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 1
-    }
-  },
-  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 4,
       "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1odatnb",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

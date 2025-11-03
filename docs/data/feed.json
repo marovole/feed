@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_1985284533202386946",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@malikwas1f @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI changed it to 'anthropic' after a post from @MiniMax__AI team even set a very low number of (output) tokens, like 16384 ?🤔, but that is likely enough anyway.",
+    "url": "https://x.com/SvenMeyer/status/1985284533202386946",
+    "timestamp": "2025-11-03T09:54:52.000Z",
+    "metadata": {
+      "conversation_id": "1985284533202386946",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985283095952527740",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mrchris_ai @RayFernando1337 @FactoryAI ❤️",
+    "url": "https://x.com/bentossell/status/1985283095952527740",
+    "timestamp": "2025-11-03T09:49:09.000Z",
+    "metadata": {
+      "conversation_id": "1985283095952527740",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985283060351603032",
+    "source": "twitter",
+    "author": "malikwas1f",
+    "content": "@SvenMeyer @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI Glad to know that, did you use anthropic endpoint for M2 or openai?",
+    "url": "https://x.com/malikwas1f/status/1985283060351603032",
+    "timestamp": "2025-11-03T09:49:01.000Z",
+    "metadata": {
+      "conversation_id": "1985283060351603032",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985282995784171835",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@aerionmm @FactoryAI fix in progress!",
+    "url": "https://x.com/bentossell/status/1985282995784171835",
+    "timestamp": "2025-11-03T09:48:45.000Z",
+    "metadata": {
+      "conversation_id": "1985282995784171835",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985282923273269368",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@paulbettner @FactoryAI @opencode ❤️",
+    "url": "https://x.com/bentossell/status/1985282923273269368",
+    "timestamp": "2025-11-03T09:48:28.000Z",
+    "metadata": {
+      "conversation_id": "1985282923273269368",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985282882462429660",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@jdryguy @FactoryAI 🧠",
+    "url": "https://x.com/bentossell/status/1985282882462429660",
+    "timestamp": "2025-11-03T09:48:18.000Z",
+    "metadata": {
+      "conversation_id": "1985282882462429660",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985282805824467414",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@launchaddict @FactoryAI fix in progress",
+    "url": "https://x.com/bentossell/status/1985282805824467414",
+    "timestamp": "2025-11-03T09:48:00.000Z",
+    "metadata": {
+      "conversation_id": "1985282805824467414",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985282765034524804",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@launchaddict @FactoryAI you can add your own mcps :)\n\nnot sure on our plans to keep adding more but yes these are v popular ones. may add :)",
+    "url": "https://x.com/bentossell/status/1985282765034524804",
+    "timestamp": "2025-11-03T09:47:50.000Z",
+    "metadata": {
+      "conversation_id": "1985282765034524804",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985282546637107338",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@launchaddict @FactoryAI looking :",
+    "url": "https://x.com/bentossell/status/1985282546637107338",
+    "timestamp": "2025-11-03T09:46:58.000Z",
+    "metadata": {
+      "conversation_id": "1985282546637107338",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985279797040447994",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -23,9 +158,9 @@
     "timestamp": "2025-11-03T09:33:32.000Z",
     "metadata": {
       "conversation_id": "1985279165420167326",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -68,9 +203,9 @@
     "timestamp": "2025-11-03T08:59:02.000Z",
     "metadata": {
       "conversation_id": "1985270484725060095",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -85,7 +220,7 @@
       "conversation_id": "1985269882460741813",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -115,7 +250,7 @@
       "conversation_id": "1985267486946927063",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -128,7 +263,7 @@
     "timestamp": "2025-11-03T08:30:32.000Z",
     "metadata": {
       "conversation_id": "1985263310191866346",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -165,141 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985210685626708221",
-    "source": "twitter",
-    "author": "jdryguy",
-    "content": "I'm surprised I don't see more posts about @FactoryAI . It is very cool. It seems to really keep GPT Codex and Claude focused",
-    "url": "https://x.com/jdryguy/status/1985210685626708221",
-    "timestamp": "2025-11-03T05:01:25.000Z",
-    "metadata": {
-      "conversation_id": "1985210685626708221",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985205371158368742",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@AIWorkflowsLab @claudeai @FactoryAI Yes - though I think its all about the different variations in context management. So far, I've not had any issues with Droid, and I intend to test it out fully, and share more feedback.",
-    "url": "https://x.com/nkgoutham/status/1985205371158368742",
-    "timestamp": "2025-11-03T04:40:18.000Z",
-    "metadata": {
-      "conversation_id": "1985205371158368742",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985205176773603464",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@tdh_02 @FactoryAI Yes - will do shortly - right after I get approvals to be able to share them publicly! 😃",
-    "url": "https://x.com/nkgoutham/status/1985205176773603464",
-    "timestamp": "2025-11-03T04:39:32.000Z",
-    "metadata": {
-      "conversation_id": "1985205176773603464",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985204799445295121",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "Ah I totally get the sentiment man. I think \"being in the wrong mindset\" while vibe-coding, often leads to bad prompts. I experienced this too - I observed that my prompts become shorter, vague when I am a bit pissed off or not in the mindspace! I thought I was the only one - thanks for sharing this!",
-    "url": "https://x.com/nkgoutham/status/1985204799445295121",
-    "timestamp": "2025-11-03T04:38:02.000Z",
-    "metadata": {
-      "conversation_id": "1985204799445295121",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985204181339136044",
-    "source": "twitter",
-    "author": "paulbettner",
-    "content": "well it's time to admit it:\n\n@FactoryAI's Droid is far and away my new favorite coding tui  \n\ni typically bounce all over the place (mainly between @opencode and just-every/code)... but recently, i'm fed up with tuis that try to capture the whole terminal window, it just messes with too many of my workflows  \n\n@claudeai, @OpenAICodexCli, @CodebuffAI and now droid get it right: append only tui ux is The Way  \n\n(also, droid's harness ROCKS and their inference prices are great too - or can byok)",
-    "url": "https://x.com/paulbettner/status/1985204181339136044",
-    "timestamp": "2025-11-03T04:35:34.000Z",
-    "metadata": {
-      "conversation_id": "1985204181339136044",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985192621955068251",
-    "source": "twitter",
-    "author": "acoustik",
-    "content": "@maddiehfaulkner @FactoryAI ha, fair enough",
-    "url": "https://x.com/acoustik/status/1985192621955068251",
-    "timestamp": "2025-11-03T03:49:38.000Z",
-    "metadata": {
-      "conversation_id": "1985192621955068251",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985192121415127125",
-    "source": "twitter",
-    "author": "LoomisLoud",
-    "content": "Anyone building with Droid from @FactoryAI ?\n\nHow does it compare with other coding agents, for me it's the best by far",
-    "url": "https://x.com/LoomisLoud/status/1985192121415127125",
-    "timestamp": "2025-11-03T03:47:39.000Z",
-    "metadata": {
-      "conversation_id": "1985192121415127125",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985190174398320998",
-    "source": "twitter",
-    "author": "aerionmm",
-    "content": "@FactoryAI can’t authenticate with figma mcp server https://t.co/BzhAZ2opmL",
-    "url": "https://x.com/aerionmm/status/1985190174398320998",
-    "timestamp": "2025-11-03T03:39:55.000Z",
-    "metadata": {
-      "conversation_id": "1985190174398320998",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985189001372831876",
-    "source": "twitter",
-    "author": "Ramaneumann",
-    "content": "@malikwas1f @SkylerMiao7 @SvenMeyer @FactoryAI @MiniMax__AI @OpenRouterAI at least tag them @FactoryAI",
-    "url": "https://x.com/Ramaneumann/status/1985189001372831876",
-    "timestamp": "2025-11-03T03:35:15.000Z",
-    "metadata": {
-      "conversation_id": "1985189001372831876",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -310,32 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 302
-    }
-  },
-  {
-    "id": "reddit_1omo14j",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
-    "timestamp": "2025-11-02T17:56:04.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omlc3f",
-    "source": "reddit",
-    "author": "IslandOceanWater",
-    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
-    "timestamp": "2025-11-02T16:11:56.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -362,19 +336,6 @@
       "type": "issue",
       "labels": [],
       "number": 300
-    }
-  },
-  {
-    "id": "reddit_1om3tvt",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
-    "timestamp": "2025-11-02T00:38:45.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 7,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -414,19 +375,6 @@
       "type": "issue",
       "labels": [],
       "number": 297
-    }
-  },
-  {
-    "id": "reddit_1oljgx4",
-    "source": "reddit",
-    "author": "steve1215",
-    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
-    "timestamp": "2025-11-01T09:23:30.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -645,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -677,15 +625,15 @@
     }
   },
   {
-    "id": "reddit_1of1zjv",
+    "id": "reddit_1oegs4w",
     "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
+    "author": "Warm_Sandwich3769",
+    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
+    "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 5,
+      "score": 0,
+      "num_comments": 18,
       "subreddit": "FactoryAi"
     }
   },
@@ -703,6 +651,19 @@
     }
   },
   {
+    "id": "reddit_1odjcfl",
+    "source": "reddit",
+    "author": "Hassan_A2H",
+    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
+    "timestamp": "2025-10-22T20:20:05.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -713,6 +674,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -729,6 +703,19 @@
     }
   },
   {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -739,6 +726,19 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {

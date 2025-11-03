@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985459790760292472",
+    "source": "twitter",
+    "author": "harlleydev",
+    "content": "@thepatwalls @FactoryAI has MinMax M2 free",
+    "url": "https://x.com/harlleydev/status/1985459790760292472",
+    "timestamp": "2025-11-03T21:31:16.000Z",
+    "metadata": {
+      "conversation_id": "1985459790760292472",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985455611891630362",
     "source": "twitter",
     "author": "sleepundefined",
@@ -38,7 +53,7 @@
     "timestamp": "2025-11-03T20:51:53.000Z",
     "metadata": {
       "conversation_id": "1985449877375979844",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985410986526838796",
-    "source": "twitter",
-    "author": "tinkerersanky",
-    "content": "@thepatwalls Add @FactoryAI you would be surprised and may cancel all 3 😀",
-    "url": "https://x.com/tinkerersanky/status/1985410986526838796",
-    "timestamp": "2025-11-03T18:17:20.000Z",
-    "metadata": {
-      "conversation_id": "1985410986526838796",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_307",
     "source": "github",
     "author": "humanjesse",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 13,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

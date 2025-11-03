@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1985405608036569311",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@nkgoutham @FactoryAI forcing youself to work efficently. love the mindset! keep it going!",
+    "url": "https://x.com/draslan_eth/status/1985405608036569311",
+    "timestamp": "2025-11-03T17:55:58.000Z",
+    "metadata": {
+      "conversation_id": "1985405608036569311",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985404976177549809",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@bentossell @FactoryAI Ledge. :adore:",
+    "url": "https://x.com/launchaddict/status/1985404976177549809",
+    "timestamp": "2025-11-03T17:53:28.000Z",
+    "metadata": {
+      "conversation_id": "1985404976177549809",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985402169819086918",
     "source": "twitter",
     "author": "MickeyShaughnes",
@@ -68,9 +98,9 @@
     "timestamp": "2025-11-03T17:05:00.000Z",
     "metadata": {
       "conversation_id": "1985392780852744213",
-      "likes": 2,
+      "likes": 5,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985297908640747675",
-    "source": "twitter",
-    "author": "juanmackie",
-    "content": "@SvenMeyer @ivanfioravanti @FactoryAI Not as yet as I took the simple route and switching the whole config file.... But thanks. For the idea 💡",
-    "url": "https://x.com/juanmackie/status/1985297908640747675",
-    "timestamp": "2025-11-03T10:48:01.000Z",
-    "metadata": {
-      "conversation_id": "1985297908640747675",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985291866888134966",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "hey Ray, @RayFernando1337  i have been binging on the past few sessions with factory, graphite and others!\n\ni knew droid is cooking with some serious secret sauce - but here's my session is 2h 22m and look at the costs (apprx. $4.5)! 🤯🤯\n\n... p.s: Cache 55.4M tokens!\n\n@FactoryAI - thx for attending Ray's stream to explain the context handling was awesome.",
-    "url": "https://x.com/5aikat/status/1985291866888134966",
-    "timestamp": "2025-11-03T10:24:00.000Z",
-    "metadata": {
-      "conversation_id": "1985291866888134966",
-      "likes": 2,
-      "retweets": 1,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }

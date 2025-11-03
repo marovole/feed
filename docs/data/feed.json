@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1985343741498961985",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@RayFernando1337 @FactoryAI I'm using gpt-5-codex, it's slower but more deliberate than CC.\n\nDid try the spec: Claude 4.5 high/ core:glm4.6, didn't work so well for complex but absurdly fast for smaller changes.",
+    "url": "https://x.com/5aikat/status/1985343741498961985",
+    "timestamp": "2025-11-03T13:50:08.000Z",
+    "metadata": {
+      "conversation_id": "1985343741498961985",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985343720695447807",
+    "source": "twitter",
+    "author": "RayFernando1337",
+    "content": "@JoelDeTeves @FactoryAI I didn’t think about testing this! Wow brilliant idea.",
+    "url": "https://x.com/RayFernando1337/status/1985343720695447807",
+    "timestamp": "2025-11-03T13:50:03.000Z",
+    "metadata": {
+      "conversation_id": "1985343720695447807",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985343056191873157",
+    "source": "twitter",
+    "author": "RayFernando1337",
+    "content": "@5aikat @FactoryAI Insane!! What model did you use?",
+    "url": "https://x.com/RayFernando1337/status/1985343056191873157",
+    "timestamp": "2025-11-03T13:47:25.000Z",
+    "metadata": {
+      "conversation_id": "1985343056191873157",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985339694901841937",
     "source": "twitter",
     "author": "pascallammers_",
@@ -83,7 +128,7 @@
     "timestamp": "2025-11-03T10:24:00.000Z",
     "metadata": {
       "conversation_id": "1985291866888134966",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +218,7 @@
     "timestamp": "2025-11-03T09:49:09.000Z",
     "metadata": {
       "conversation_id": "1985283095952527740",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985282765034524804",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@launchaddict @FactoryAI you can add your own mcps :)\n\nnot sure on our plans to keep adding more but yes these are v popular ones. may add :)",
-    "url": "https://x.com/bentossell/status/1985282765034524804",
-    "timestamp": "2025-11-03T09:47:50.000Z",
-    "metadata": {
-      "conversation_id": "1985282765034524804",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985282546637107338",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@launchaddict @FactoryAI looking :",
-    "url": "https://x.com/bentossell/status/1985282546637107338",
-    "timestamp": "2025-11-03T09:46:58.000Z",
-    "metadata": {
-      "conversation_id": "1985282546637107338",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985279797040447994",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@malikwas1f @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI Actually, i switched to @MiniMax__AI M2 today because @OpenAI  GPT-5/Codex were just unbearable slow today and a few request I cancelled after 5 min and had to resend the prompt.",
-    "url": "https://x.com/SvenMeyer/status/1985279797040447994",
-    "timestamp": "2025-11-03T09:36:02.000Z",
-    "metadata": {
-      "conversation_id": "1985279797040447994",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
@@ -424,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 13,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -700,19 +700,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
-  },
-  {
-    "id": "reddit_1odatnb",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {

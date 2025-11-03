@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985379302670536993",
+    "source": "twitter",
+    "author": "AntonioJASmith",
+    "content": "@nkgoutham @FactoryAI Free trial till I use all credits then will subscribe. I've finished 2 of my projects I was stuck on for a while using Claude and Cursor, so happy days.",
+    "url": "https://x.com/AntonioJASmith/status/1985379302670536993",
+    "timestamp": "2025-11-03T16:11:26.000Z",
+    "metadata": {
+      "conversation_id": "1985379302670536993",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985370473010458809",
     "source": "twitter",
     "author": "bentossell",
@@ -23,7 +38,7 @@
     "timestamp": "2025-11-03T15:20:27.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -51,9 +66,9 @@
     "timestamp": "2025-11-03T14:33:23.000Z",
     "metadata": {
       "conversation_id": "1985354625722241141",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985282995784171835",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@aerionmm @FactoryAI fix in progress!",
-    "url": "https://x.com/bentossell/status/1985282995784171835",
-    "timestamp": "2025-11-03T09:48:45.000Z",
-    "metadata": {
-      "conversation_id": "1985282995784171835",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -347,7 +347,7 @@
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
       "score": 7,
-      "num_comments": 7,
+      "num_comments": 8,
       "subreddit": "FactoryAi"
     }
   },
@@ -424,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -687,6 +687,19 @@
       "type": "issue",
       "labels": [],
       "number": 258
+    }
+  },
+  {
+    "id": "reddit_1of1zjv",
+    "source": "reddit",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {

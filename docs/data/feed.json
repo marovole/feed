@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_1985756147454980343",
+    "source": "twitter",
+    "author": "billyvision",
+    "content": "@nest_elf @FactoryAI Gpt 5 pro ?",
+    "url": "https://x.com/billyvision/status/1985756147454980343",
+    "timestamp": "2025-11-04T17:08:53.000Z",
+    "metadata": {
+      "conversation_id": "1985756147454980343",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985753772237148194",
+    "source": "twitter",
+    "author": "Francesco_Oddo",
+    "content": "@bentossell @FactoryAI @Hailuo_AI @Zai_org @OpenRouterAI Maybe I should read the docs at this point 😂",
+    "url": "https://x.com/Francesco_Oddo/status/1985753772237148194",
+    "timestamp": "2025-11-04T16:59:27.000Z",
+    "metadata": {
+      "conversation_id": "1985753772237148194",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985753654515662865",
+    "source": "twitter",
+    "author": "Francesco_Oddo",
+    "content": "@bentossell @FactoryAI @Hailuo_AI @Zai_org @OpenRouterAI Oh...",
+    "url": "https://x.com/Francesco_Oddo/status/1985753654515662865",
+    "timestamp": "2025-11-04T16:58:59.000Z",
+    "metadata": {
+      "conversation_id": "1985753654515662865",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985753543249445278",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@ericbahn @cursor_ai @AmpCode @FactoryAI Thank you 😭",
+    "url": "https://x.com/brexton/status/1985753543249445278",
+    "timestamp": "2025-11-04T16:58:32.000Z",
+    "metadata": {
+      "conversation_id": "1985753543249445278",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985753475012313520",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@mlejva @cursor_ai @AmpCode @FactoryAI Powered by @e2b :)",
+    "url": "https://x.com/brexton/status/1985753475012313520",
+    "timestamp": "2025-11-04T16:58:16.000Z",
+    "metadata": {
+      "conversation_id": "1985753475012313520",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985753356338708803",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@haridigresses @cursor_ai @AmpCode @FactoryAI :) let me know what other agents or other categories of agents (PR review, security, text-to-app, etc.) that you'd like to see!",
+    "url": "https://x.com/brexton/status/1985753356338708803",
+    "timestamp": "2025-11-04T16:57:48.000Z",
+    "metadata": {
+      "conversation_id": "1985753356338708803",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985753286281138445",
+    "source": "twitter",
+    "author": "MaxBrodeurUrbas",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI ‼️",
+    "url": "https://x.com/MaxBrodeurUrbas/status/1985753286281138445",
+    "timestamp": "2025-11-04T16:57:31.000Z",
+    "metadata": {
+      "conversation_id": "1985753286281138445",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985752944281862435",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@regulatorynerd @sonofalli @cursor_ai @AmpCode @FactoryAI Will likely need to have real baked goods to get anyone to enjoy it!",
+    "url": "https://x.com/brexton/status/1985752944281862435",
+    "timestamp": "2025-11-04T16:56:10.000Z",
+    "metadata": {
+      "conversation_id": "1985752944281862435",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985752703298126150",
+    "source": "twitter",
+    "author": "regulatorynerd",
+    "content": "@brexton @sonofalli @cursor_ai @AmpCode @FactoryAI Let me know if you’re going to do a live bake-off agent coding event in SF.  Kids and I will actually bake and show up to watch.",
+    "url": "https://x.com/regulatorynerd/status/1985752703298126150",
+    "timestamp": "2025-11-04T16:55:12.000Z",
+    "metadata": {
+      "conversation_id": "1985752703298126150",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985752413190476116",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Francesco_Oddo @FactoryAI @Hailuo_AI @Zai_org @OpenRouterAI easy just press 'i' on the droids or commands menus :)",
+    "url": "https://x.com/bentossell/status/1985752413190476116",
+    "timestamp": "2025-11-04T16:54:03.000Z",
+    "metadata": {
+      "conversation_id": "1985752413190476116",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985751915418763706",
     "source": "twitter",
     "author": "haridigresses",
@@ -8,9 +158,9 @@
     "timestamp": "2025-11-04T16:52:04.000Z",
     "metadata": {
       "conversation_id": "1985751915418763706",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,9 +173,9 @@
     "timestamp": "2025-11-04T16:51:58.000Z",
     "metadata": {
       "conversation_id": "1985751890894979225",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,9 +203,9 @@
     "timestamp": "2025-11-04T16:44:20.000Z",
     "metadata": {
       "conversation_id": "1985749969224286567",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -68,9 +218,9 @@
     "timestamp": "2025-11-04T16:42:24.000Z",
     "metadata": {
       "conversation_id": "1985749481581920331",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -83,7 +233,7 @@
     "timestamp": "2025-11-04T16:31:55.000Z",
     "metadata": {
       "conversation_id": "1985746842089664665",
-      "likes": 4,
+      "likes": 6,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -98,10 +248,10 @@
     "timestamp": "2025-11-04T16:30:17.000Z",
     "metadata": {
       "conversation_id": "1985746432859726217",
-      "likes": 18,
-      "retweets": 5,
-      "replies": 6,
-      "quotes": 3
+      "likes": 27,
+      "retweets": 9,
+      "replies": 7,
+      "quotes": 4
     }
   },
   {
@@ -128,9 +278,9 @@
     "timestamp": "2025-11-04T16:25:30.000Z",
     "metadata": {
       "conversation_id": "1985745228054036561",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -143,159 +293,9 @@
     "timestamp": "2025-11-04T16:23:18.000Z",
     "metadata": {
       "conversation_id": "1985744675936911411",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985744470885671078",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Francesco_Oddo @FactoryAI @Hailuo_AI @Zai_org @OpenRouterAI twitter likes links again - i wanna see :)",
-    "url": "https://x.com/bentossell/status/1985744470885671078",
-    "timestamp": "2025-11-04T16:22:29.000Z",
-    "metadata": {
-      "conversation_id": "1985744470885671078",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985740596019937724",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@zeinersyad @FactoryAI Me neither just saw that one yesterday and I’m curious to try",
-    "url": "https://x.com/pascallammers_/status/1985740596019937724",
-    "timestamp": "2025-11-04T16:07:06.000Z",
-    "metadata": {
-      "conversation_id": "1985740596019937724",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985736028515082504",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@AntonioJASmith @JCodesMore @nkgoutham @FactoryAI ❤️",
-    "url": "https://x.com/bentossell/status/1985736028515082504",
-    "timestamp": "2025-11-04T15:48:57.000Z",
-    "metadata": {
-      "conversation_id": "1985736028515082504",
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985735438099685597",
-    "source": "twitter",
-    "author": "AntonioJASmith",
-    "content": "@bentossell @JCodesMore @nkgoutham @FactoryAI Hahahah, this was fun reading this. I am a nobody on Twitter. Have no affiliations with any company. I just used the tool and it fixed some long standing issues on personal projects I stalled and I thought I'd tweet about it. That's as far as it goes.",
-    "url": "https://x.com/AntonioJASmith/status/1985735438099685597",
-    "timestamp": "2025-11-04T15:46:36.000Z",
-    "metadata": {
-      "conversation_id": "1985735438099685597",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985735091860226248",
-    "source": "twitter",
-    "author": "zeinersyad",
-    "content": "@pascallammers_ @FactoryAI so Factory AI agent does async code in the cloud? I never tried this",
-    "url": "https://x.com/zeinersyad/status/1985735091860226248",
-    "timestamp": "2025-11-04T15:45:13.000Z",
-    "metadata": {
-      "conversation_id": "1985735091860226248",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985734159206400476",
-    "source": "twitter",
-    "author": "Francesco_Oddo",
-    "content": "Coding with @FactoryAI using Minimax M2 from @Hailuo_AI &amp; GLM 4.6 from @Zai_org using @OpenRouterAI as Provider...\n\nWow imagine if this was an add, I would be a millionaire 😂\n\nSadly is not, but I'm in love with all 4 those products so I think is worth sharing. https://t.co/SI0NQzMvcr",
-    "url": "https://x.com/Francesco_Oddo/status/1985734159206400476",
-    "timestamp": "2025-11-04T15:41:31.000Z",
-    "metadata": {
-      "conversation_id": "1985734159206400476",
-      "likes": 2,
-      "retweets": 1,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985733836584493424",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JCodesMore @AntonioJASmith @nkgoutham @FactoryAI fair enough",
-    "url": "https://x.com/bentossell/status/1985733836584493424",
-    "timestamp": "2025-11-04T15:40:14.000Z",
-    "metadata": {
-      "conversation_id": "1985733836584493424",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985733665603928186",
-    "source": "twitter",
-    "author": "JCodesMore",
-    "content": "@bentossell @AntonioJASmith @nkgoutham @FactoryAI Hard to distinguish",
-    "url": "https://x.com/JCodesMore/status/1985733665603928186",
-    "timestamp": "2025-11-04T15:39:33.000Z",
-    "metadata": {
-      "conversation_id": "1985733665603928186",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985733521520894041",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JCodesMore @AntonioJASmith @nkgoutham @FactoryAI and also just enthusiastic people talking about tools they like",
-    "url": "https://x.com/bentossell/status/1985733521520894041",
-    "timestamp": "2025-11-04T15:38:59.000Z",
-    "metadata": {
-      "conversation_id": "1985733521520894041",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985733435777044494",
-    "source": "twitter",
-    "author": "JCodesMore",
-    "content": "@bentossell @AntonioJASmith @nkgoutham @FactoryAI Yes. The platform that has hidden paid promo and influencer marketing everywhere.",
-    "url": "https://x.com/JCodesMore/status/1985733435777044494",
-    "timestamp": "2025-11-04T15:38:38.000Z",
-    "metadata": {
-      "conversation_id": "1985733435777044494",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 7,
+      "score": 9,
       "num_comments": 12,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -699,32 +699,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 18,
       "subreddit": "FactoryAi"
     }
   },

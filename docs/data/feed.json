@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1985824542758240400",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@swyxio @cursor_ai @AmpCode @FactoryAI We’re figuring out how to expose it publicly!\n\nEarly evals internally are amazing for everything @windsurf has been releasing lately too",
+    "url": "https://x.com/brexton/status/1985824542758240400",
+    "timestamp": "2025-11-04T21:40:40.000Z",
+    "metadata": {
+      "conversation_id": "1985824542758240400",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985824330786488462",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@Nick_Prince12 @cursor_ai @AmpCode @FactoryAI We are prepping a special credits system for  @askModuAI for everyone building on @base",
+    "url": "https://x.com/brexton/status/1985824330786488462",
+    "timestamp": "2025-11-04T21:39:49.000Z",
+    "metadata": {
+      "conversation_id": "1985824330786488462",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985817162779652303",
     "source": "twitter",
     "author": "brexton",
@@ -38,7 +68,7 @@
     "timestamp": "2025-11-04T20:55:24.000Z",
     "metadata": {
       "conversation_id": "1985813152970514723",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,9 +203,9 @@
     "timestamp": "2025-11-04T19:49:29.000Z",
     "metadata": {
       "conversation_id": "1985796564024017034",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985788512822837747",
-    "source": "twitter",
-    "author": "offchan420",
-    "content": "@EashanSinha @windsurf Now I don't know whether I should try @windsurf or @verdent_ai next. Currently trying Droid from @FactoryAI.\nCan Windsurf fix the opaque recognition of user activity? How can I say \"Continue my work\" when I don't even know what actions the agent saw me doing?",
-    "url": "https://x.com/offchan420/status/1985788512822837747",
-    "timestamp": "2025-11-04T19:17:30.000Z",
-    "metadata": {
-      "conversation_id": "1985788512822837747",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985787549915177063",
-    "source": "twitter",
-    "author": "lakergreat1",
-    "content": "@every @DannyAziz97 @kieranklaassen @danshipper @FactoryAI @bentossell are these Droid Camp's recorded?  If I become a subscriber can I watch the replay?\n\nThanks!",
-    "url": "https://x.com/lakergreat1/status/1985787549915177063",
-    "timestamp": "2025-11-04T19:13:40.000Z",
-    "metadata": {
-      "conversation_id": "1985787549915177063",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_314",
     "source": "github",
     "author": "lifeisnphard",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -424,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 13,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

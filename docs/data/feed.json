@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1985751915418763706",
+    "source": "twitter",
+    "author": "haridigresses",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI Gonna be a power user of this 👀",
+    "url": "https://x.com/haridigresses/status/1985751915418763706",
+    "timestamp": "2025-11-04T16:52:04.000Z",
+    "metadata": {
+      "conversation_id": "1985751915418763706",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985751890894979225",
+    "source": "twitter",
+    "author": "mlejva",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI Congrats @brexton!",
+    "url": "https://x.com/mlejva/status/1985751890894979225",
+    "timestamp": "2025-11-04T16:51:58.000Z",
+    "metadata": {
+      "conversation_id": "1985751890894979225",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985750465041035729",
+    "source": "twitter",
+    "author": "HanifCarroll",
+    "content": "Committing to trying out @FactoryAI Droid for the next week.\n\nI've been hearing so much about it lately, so might as well see what all the hype is about.\n\nComing from Codex CLI and Claude Code. I'll be posting my thoughts as I continue to use it, then I'll most likely do the same thing with Amp.",
+    "url": "https://x.com/HanifCarroll/status/1985750465041035729",
+    "timestamp": "2025-11-04T16:46:18.000Z",
+    "metadata": {
+      "conversation_id": "1985750465041035729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985749969224286567",
+    "source": "twitter",
+    "author": "ericbahn",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI Let's goo!",
+    "url": "https://x.com/ericbahn/status/1985749969224286567",
+    "timestamp": "2025-11-04T16:44:20.000Z",
+    "metadata": {
+      "conversation_id": "1985749969224286567",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985749481581920331",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@sonofalli @cursor_ai @AmpCode @FactoryAI don't tell anyone",
+    "url": "https://x.com/brexton/status/1985749481581920331",
+    "timestamp": "2025-11-04T16:42:24.000Z",
+    "metadata": {
+      "conversation_id": "1985749481581920331",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985746842089664665",
+    "source": "twitter",
+    "author": "sonofalli",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI omg you bake??",
+    "url": "https://x.com/sonofalli/status/1985746842089664665",
+    "timestamp": "2025-11-04T16:31:55.000Z",
+    "metadata": {
+      "conversation_id": "1985746842089664665",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985746432859726217",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "Meet Agent Bake-Off: blind side by side tests for coding agents like Claude Code, @cursor_ai , @AmpCode , @FactoryAI , Codex, &amp; more.\n\nWe've been building the largest real world benchmarks for coding agents, and we're excited share an early preview of our open community tooling. https://t.co/FNKIrqRnXt",
+    "url": "https://x.com/brexton/status/1985746432859726217",
+    "timestamp": "2025-11-04T16:30:17.000Z",
+    "metadata": {
+      "conversation_id": "1985746432859726217",
+      "likes": 18,
+      "retweets": 5,
+      "replies": 6,
+      "quotes": 3
+    }
+  },
+  {
     "id": "twitter_1985746231986114815",
     "source": "twitter",
     "author": "LyceumCloud",
@@ -195,111 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985732029741191660",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@nkgoutham @cirucetam @FactoryAI awesome! - teams in sf so waking up soon",
-    "url": "https://x.com/bentossell/status/1985732029741191660",
-    "timestamp": "2025-11-04T15:33:03.000Z",
-    "metadata": {
-      "conversation_id": "1985732029741191660",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985731959016862180",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JCodesMore @AntonioJASmith @nkgoutham @FactoryAI hardly. this is twitter.",
-    "url": "https://x.com/bentossell/status/1985731959016862180",
-    "timestamp": "2025-11-04T15:32:46.000Z",
-    "metadata": {
-      "conversation_id": "1985731959016862180",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985731051705286785",
-    "source": "twitter",
-    "author": "amans_twt",
-    "content": "@elliotarledge Drop the synthwave music link and also try https://t.co/7NCe2m6Rr3 sometime it's realllly good, it's a CLI tool, basically models work exceptionally better than they do in cursor. @FactoryAI",
-    "url": "https://x.com/amans_twt/status/1985731051705286785",
-    "timestamp": "2025-11-04T15:29:10.000Z",
-    "metadata": {
-      "conversation_id": "1985731051705286785",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985730563316339078",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@bentossell @cirucetam @FactoryAI Okay - i did that. I’ll wait for a response there. Thanks man! Super eager to put some of those new droid workflows to use and hence the urgency :)",
-    "url": "https://x.com/nkgoutham/status/1985730563316339078",
-    "timestamp": "2025-11-04T15:27:14.000Z",
-    "metadata": {
-      "conversation_id": "1985730563316339078",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985730504407335132",
-    "source": "twitter",
-    "author": "JCodesMore",
-    "content": "@bentossell @AntonioJASmith @nkgoutham @FactoryAI I mean... come on. You can't say this doesn't look scripted. https://t.co/ayMk9oUtE1",
-    "url": "https://x.com/JCodesMore/status/1985730504407335132",
-    "timestamp": "2025-11-04T15:26:59.000Z",
-    "metadata": {
-      "conversation_id": "1985730504407335132",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985730290010956126",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@nkgoutham @cirucetam @FactoryAI hey - for account stuff, best to email support@factory.ai :)",
-    "url": "https://x.com/bentossell/status/1985730290010956126",
-    "timestamp": "2025-11-04T15:26:08.000Z",
-    "metadata": {
-      "conversation_id": "1985730290010956126",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985726469310758930",
-    "source": "twitter",
-    "author": "xxx04710739",
-    "content": "@nest_elf @FactoryAI How to use GPT5 Pro in FactoryAI",
-    "url": "https://x.com/xxx04710739/status/1985726469310758930",
-    "timestamp": "2025-11-04T15:10:57.000Z",
-    "metadata": {
-      "conversation_id": "1985726469310758930",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_309",
     "source": "github",
     "author": "msneijders",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 13,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -699,6 +699,32 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1of1zjv",
+    "source": "reddit",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oegs4w",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
+    "timestamp": "2025-10-23T22:10:56.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 18,
       "subreddit": "FactoryAi"
     }
   },

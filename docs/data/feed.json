@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1985712191526649918",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@JCodesMore @AntonioJASmith @FactoryAI haha - i wish it were. would've made some money on the side - but no, this is a genuine observation that i felt like sharing",
+    "url": "https://x.com/nkgoutham/status/1985712191526649918",
+    "timestamp": "2025-11-04T14:14:13.000Z",
+    "metadata": {
+      "conversation_id": "1985712191526649918",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985709059262087231",
+    "source": "twitter",
+    "author": "i_can_manage",
+    "content": "I was starting to wonder how long I was going to enjoy all this free coding with @FactoryAI. So far, probably much more reliable code produced than the competition.",
+    "url": "https://x.com/i_can_manage/status/1985709059262087231",
+    "timestamp": "2025-11-04T14:01:47.000Z",
+    "metadata": {
+      "conversation_id": "1985709059262087231",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985708422629617759",
+    "source": "twitter",
+    "author": "EvanDeKim",
+    "content": "MCPs are AI-product agnostic. I can port multi-database analytics workflows between @OpenAI codex, @claudeai code, and @FactoryAI cli depending on my use cases:\n* codex cli for tool call visualization and context management\n* droid to power agents for gpt models\n* claude code for anything that codex and droid don't have",
+    "url": "https://x.com/EvanDeKim/status/1985708422629617759",
+    "timestamp": "2025-11-04T13:59:15.000Z",
+    "metadata": {
+      "conversation_id": "1985708422629617759",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985699920964207017",
     "source": "twitter",
     "author": "MoizIbnYousaf",
@@ -23,9 +68,9 @@
     "timestamp": "2025-11-04T12:58:59.000Z",
     "metadata": {
       "conversation_id": "1985693257787957606",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -68,7 +113,7 @@
     "timestamp": "2025-11-04T11:57:34.000Z",
     "metadata": {
       "conversation_id": "1985677799680852249",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985611926781771823",
-    "source": "twitter",
-    "author": "garymjr",
-    "content": "@AntonioJASmith @FactoryAI i think somewhere between $60-$100 would be a good middle ground",
-    "url": "https://x.com/garymjr/status/1985611926781771823",
-    "timestamp": "2025-11-04T07:35:48.000Z",
-    "metadata": {
-      "conversation_id": "1985611926781771823",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985603804641779924",
-    "source": "twitter",
-    "author": "kierishere",
-    "content": "@supportindel @hexawulf @FactoryAI this guy knows",
-    "url": "https://x.com/kierishere/status/1985603804641779924",
-    "timestamp": "2025-11-04T07:03:32.000Z",
-    "metadata": {
-      "conversation_id": "1985603804641779924",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985603683745489230",
-    "source": "twitter",
-    "author": "Tirthhh30",
-    "content": "@nkgoutham @FactoryAI Sounds like a solid way to test the limits and see what sticks",
-    "url": "https://x.com/Tirthhh30/status/1985603683745489230",
-    "timestamp": "2025-11-04T07:03:03.000Z",
-    "metadata": {
-      "conversation_id": "1985603683745489230",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_308",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 12,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 13,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1of1zjv",
     "source": "reddit",
     "author": "hrdn",
@@ -712,19 +699,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 18,
       "subreddit": "FactoryAi"
     }
   },

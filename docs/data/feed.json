@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985854714676912519",
+    "source": "twitter",
+    "author": "dogancanbaris",
+    "content": "@5aikat @FactoryAI Droid is straight garbage. Like tried all the models, in very different ways it is far worse than codex and cc. It is sometimes so bad that no matter how smart models are being used in droid, it won’t still work for users",
+    "url": "https://x.com/dogancanbaris/status/1985854714676912519",
+    "timestamp": "2025-11-04T23:40:34.000Z",
+    "metadata": {
+      "conversation_id": "1985854714676912519",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985791019716325687",
-    "source": "twitter",
-    "author": "EashanSinha",
-    "content": "@offchan420 @windsurf @verdent_ai @FactoryAI Yup it can. @windsurf can see your recent changes, file edits, chats, etc. which all give helpful implicit context to the agent on what work you’re doing. We also have a pretty generous free tier if you want to try it out :)",
-    "url": "https://x.com/EashanSinha/status/1985791019716325687",
-    "timestamp": "2025-11-04T19:27:27.000Z",
-    "metadata": {
-      "conversation_id": "1985791019716325687",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_314",
     "source": "github",
     "author": "lifeisnphard",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -698,6 +698,19 @@
     "timestamp": "2025-10-25T03:21:56.000Z",
     "metadata": {
       "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }

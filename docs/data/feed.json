@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1985579773100478827",
+    "source": "twitter",
+    "author": "Aristotleless",
+    "content": "@FactoryAI droid: Error: 400 Floating point NaN (not-a-number) is detected in generation. It's likely a model issue leading to overflow. Please contact\n   Fireworks if it's a Fireworks-hosted model or check your model weights if it's a custom model.",
+    "url": "https://x.com/Aristotleless/status/1985579773100478827",
+    "timestamp": "2025-11-04T05:28:02.000Z",
+    "metadata": {
+      "conversation_id": "1985579773100478827",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985577241074610267",
+    "source": "twitter",
+    "author": "acoustik",
+    "content": "@matanSF @FactoryAI OK I am stuck on the \"Set up an authenticator app\" step. \n\nNot sure why this is necessary?\n\nI'm probably doing something dumb. \n\nWill tackle again in the morning.",
+    "url": "https://x.com/acoustik/status/1985577241074610267",
+    "timestamp": "2025-11-04T05:17:59.000Z",
+    "metadata": {
+      "conversation_id": "1985577241074610267",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985571646909137000",
     "source": "twitter",
     "author": "_vu",
@@ -23,8 +53,8 @@
     "timestamp": "2025-11-04T04:50:37.000Z",
     "metadata": {
       "conversation_id": "1985570357441396843",
-      "likes": 2,
-      "retweets": 1,
+      "likes": 7,
+      "retweets": 2,
       "replies": 0,
       "quotes": 0
     }
@@ -53,7 +83,7 @@
     "timestamp": "2025-11-04T04:03:26.000Z",
     "metadata": {
       "conversation_id": "1985558479659287032",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -160,7 +190,7 @@
       "conversation_id": "1985531661015187938",
       "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -190,7 +220,7 @@
       "conversation_id": "1985516634933788983",
       "likes": 1,
       "retweets": 0,
-      "replies": 2,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985465404232474959",
-    "source": "twitter",
-    "author": "NathanLands",
-    "content": "@edels0n @matanSF @FactoryAI Awesome",
-    "url": "https://x.com/NathanLands/status/1985465404232474959",
-    "timestamp": "2025-11-03T21:53:35.000Z",
-    "metadata": {
-      "conversation_id": "1985465404232474959",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985459790760292472",
-    "source": "twitter",
-    "author": "harlleydev",
-    "content": "@thepatwalls @FactoryAI has MinMax M2 free",
-    "url": "https://x.com/harlleydev/status/1985459790760292472",
-    "timestamp": "2025-11-03T21:31:16.000Z",
-    "metadata": {
-      "conversation_id": "1985459790760292472",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_308",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

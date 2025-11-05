@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985992944252600684",
+    "source": "twitter",
+    "author": "rtheoryxyz",
+    "content": "@hexawulf @FactoryAI The wrapper actually matters. Context window handling, token streaming, and prompt injection resistance can vary significantly even with the same model. Cleaner outputs usually mean better error recovery in the agent loop. Have you benchmarked on identical problem sets yet?",
+    "url": "https://x.com/rtheoryxyz/status/1985992944252600684",
+    "timestamp": "2025-11-05T08:49:50.000Z",
+    "metadata": {
+      "conversation_id": "1985992944252600684",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985987392910852296",
     "source": "twitter",
     "author": "Ra1kshit",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985899577296539903",
-    "source": "twitter",
-    "author": "morganlinton",
-    "content": "@brexton @cursor_ai @AmpCode @FactoryAI Super cool 😎",
-    "url": "https://x.com/morganlinton/status/1985899577296539903",
-    "timestamp": "2025-11-05T02:38:50.000Z",
-    "metadata": {
-      "conversation_id": "1985899577296539903",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }

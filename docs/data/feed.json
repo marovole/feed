@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1986209621212864562",
+    "source": "twitter",
+    "author": "darshil",
+    "content": "@anthonyronning_ @FactoryAI @snyksec and this\n\nhttps://t.co/MwIBVuAcEU",
+    "url": "https://x.com/darshil/status/1986209621212864562",
+    "timestamp": "2025-11-05T23:10:50.000Z",
+    "metadata": {
+      "conversation_id": "1986209621212864562",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986209577483051382",
+    "source": "twitter",
+    "author": "darshil",
+    "content": "@anthonyronning_ @FactoryAI @snyksec i found this\n\nhttps://t.co/IRZehQFMBR",
+    "url": "https://x.com/darshil/status/1986209577483051382",
+    "timestamp": "2025-11-05T23:10:39.000Z",
+    "metadata": {
+      "conversation_id": "1986209577483051382",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986209196480606222",
+    "source": "twitter",
+    "author": "Compound_Intel",
+    "content": "@samuelekpe @bentossell @FactoryAI @claudeai @OpenAI @GoogleDeepMind Yes, please!",
+    "url": "https://x.com/Compound_Intel/status/1986209196480606222",
+    "timestamp": "2025-11-05T23:09:09.000Z",
+    "metadata": {
+      "conversation_id": "1986209196480606222",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986209154785288467",
+    "source": "twitter",
+    "author": "darshil",
+    "content": "@FactoryAI @snyksec this is huge",
+    "url": "https://x.com/darshil/status/1986209154785288467",
+    "timestamp": "2025-11-05T23:08:59.000Z",
+    "metadata": {
+      "conversation_id": "1986209154785288467",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986203009315926471",
     "source": "twitter",
     "author": "lurklaughlaunch",
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986137743949504979",
-    "source": "twitter",
-    "author": "acoustik",
-    "content": "@NLilichenko @matanSF @FactoryAI Thanks! Will do. User error or bug?",
-    "url": "https://x.com/acoustik/status/1986137743949504979",
-    "timestamp": "2025-11-05T18:25:13.000Z",
-    "metadata": {
-      "conversation_id": "1986137743949504979",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986137720662495479",
-    "source": "twitter",
-    "author": "dawid_jordaan",
-    "content": "@rezaul_arif @FactoryAI What a refreshing version of \"You're absolutely right\" 😉 \n\nWell done on the code base though sure there was merit to this statement.",
-    "url": "https://x.com/dawid_jordaan/status/1986137720662495479",
-    "timestamp": "2025-11-05T18:25:07.000Z",
-    "metadata": {
-      "conversation_id": "1986137720662495479",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986137213168722234",
-    "source": "twitter",
-    "author": "NLilichenko",
-    "content": "@acoustik @matanSF @FactoryAI @acoustik apologies for the issue! Should be resolved now, feel free to try again and let us know if you have any other issues/questions!",
-    "url": "https://x.com/NLilichenko/status/1986137213168722234",
-    "timestamp": "2025-11-05T18:23:06.000Z",
-    "metadata": {
-      "conversation_id": "1986137213168722234",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986132600319058025",
-    "source": "twitter",
-    "author": "taishifromjapan",
-    "content": "thanks @FactoryAI\ndroid’s doing the work, so I get to enjoy some family time 🥳 https://t.co/EznlA0uQYK",
-    "url": "https://x.com/taishifromjapan/status/1986132600319058025",
-    "timestamp": "2025-11-05T18:04:47.000Z",
-    "metadata": {
-      "conversation_id": "1986132600319058025",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 1
-    }
-  },
-  {
     "id": "reddit_1op6njm",
     "source": "reddit",
     "author": "Sakrilegi0us",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }

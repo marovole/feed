@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1985922655279857822",
+    "source": "twitter",
+    "author": "garyfung",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI no for gemini too dumb. Cheap is cheap with pro 2.5. Waiting for Sir Demis to give us 3.0 ultra",
+    "url": "https://x.com/garyfung/status/1985922655279857822",
+    "timestamp": "2025-11-05T04:10:32.000Z",
+    "metadata": {
+      "conversation_id": "1985922655279857822",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985922101438791906",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@garyfung @cursor_ai @AmpCode @FactoryAI Factory has been really good recently and they’re super generous with credits\n\nIf you’re looking for super cost effective I would try Gemini CLI too!!",
+    "url": "https://x.com/brexton/status/1985922101438791906",
+    "timestamp": "2025-11-05T04:08:20.000Z",
+    "metadata": {
+      "conversation_id": "1985922101438791906",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985922073253073226",
+    "source": "twitter",
+    "author": "turnedninja",
+    "content": "@5aikat @FactoryAI How much did they pay you to post this? \n\nMy 3 hours session consumed all $20. Just like previous cursor. If you’re not careful, then the billing would go wild.",
+    "url": "https://x.com/turnedninja/status/1985922073253073226",
+    "timestamp": "2025-11-05T04:08:13.000Z",
+    "metadata": {
+      "conversation_id": "1985922073253073226",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985921608977092801",
+    "source": "twitter",
+    "author": "garyfung",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI interesting! Factory seems like a winner on quality code and cost efficiency",
+    "url": "https://x.com/garyfung/status/1985921608977092801",
+    "timestamp": "2025-11-05T04:06:22.000Z",
+    "metadata": {
+      "conversation_id": "1985921608977092801",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985920641749696770",
+    "source": "twitter",
+    "author": "LeeLeepenkman",
+    "content": "@MickeyShaughnes @FactoryAI yea nice that worked asking it to self test :D",
+    "url": "https://x.com/LeeLeepenkman/status/1985920641749696770",
+    "timestamp": "2025-11-05T04:02:32.000Z",
+    "metadata": {
+      "conversation_id": "1985920641749696770",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985916677918507172",
     "source": "twitter",
     "author": "MickeyShaughnes",
@@ -8,9 +83,9 @@
     "timestamp": "2025-11-05T03:46:47.000Z",
     "metadata": {
       "conversation_id": "1985916677918507172",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -238,81 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985832275964280857",
-    "source": "twitter",
-    "author": "AVGVSTVS96",
-    "content": "@nest_elf @FactoryAI Do you have it set up as a custom model? Not available for me, I have a custom model using openrouter but that doesn’t work.",
-    "url": "https://x.com/AVGVSTVS96/status/1985832275964280857",
-    "timestamp": "2025-11-04T22:11:24.000Z",
-    "metadata": {
-      "conversation_id": "1985832275964280857",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985824542758240400",
-    "source": "twitter",
-    "author": "brexton",
-    "content": "@swyxio @cursor_ai @AmpCode @FactoryAI We’re figuring out how to expose it publicly!\n\nEarly evals internally are amazing for everything @windsurf has been releasing lately too",
-    "url": "https://x.com/brexton/status/1985824542758240400",
-    "timestamp": "2025-11-04T21:40:40.000Z",
-    "metadata": {
-      "conversation_id": "1985824542758240400",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985824330786488462",
-    "source": "twitter",
-    "author": "brexton",
-    "content": "@Nick_Prince12 @cursor_ai @AmpCode @FactoryAI We are prepping a special credits system for  @askModuAI for everyone building on @base",
-    "url": "https://x.com/brexton/status/1985824330786488462",
-    "timestamp": "2025-11-04T21:39:49.000Z",
-    "metadata": {
-      "conversation_id": "1985824330786488462",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985817162779652303",
-    "source": "twitter",
-    "author": "brexton",
-    "content": "@KryptoAno @cursor_ai @AmpCode @FactoryAI Please try it out and let us know what you think!",
-    "url": "https://x.com/brexton/status/1985817162779652303",
-    "timestamp": "2025-11-04T21:11:20.000Z",
-    "metadata": {
-      "conversation_id": "1985817162779652303",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985816831790080242",
-    "source": "twitter",
-    "author": "KryptoAno",
-    "content": "@brexton @cursor_ai @AmpCode @FactoryAI Great work guys! Really happy to see this as a developer!",
-    "url": "https://x.com/KryptoAno/status/1985816831790080242",
-    "timestamp": "2025-11-04T21:10:02.000Z",
-    "metadata": {
-      "conversation_id": "1985816831790080242",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_314",
     "source": "github",
     "author": "lifeisnphard",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 7,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -698,6 +698,19 @@
     "timestamp": "2025-10-25T03:21:56.000Z",
     "metadata": {
       "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }

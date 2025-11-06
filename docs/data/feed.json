@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986431482127102104",
+    "source": "twitter",
+    "author": "BillQueens",
+    "content": "@FactoryAI can you add kimi ?",
+    "url": "https://x.com/BillQueens/status/1986431482127102104",
+    "timestamp": "2025-11-06T13:52:26.000Z",
+    "metadata": {
+      "conversation_id": "1986431482127102104",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986419961854582817",
     "source": "twitter",
     "author": "bentossell",
@@ -158,7 +173,7 @@
     "timestamp": "2025-11-06T09:55:15.000Z",
     "metadata": {
       "conversation_id": "1986371793414680840",
-      "likes": 14,
+      "likes": 16,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986310856788103188",
-    "source": "twitter",
-    "author": "heySoumyo",
-    "content": "@abhi1thakur @FactoryAI is missing from the list.",
-    "url": "https://x.com/heySoumyo/status/1986310856788103188",
-    "timestamp": "2025-11-06T05:53:06.000Z",
-    "metadata": {
-      "conversation_id": "1986310856788103188",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1op6njm",
     "source": "reddit",
     "author": "Sakrilegi0us",
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -703,6 +703,32 @@
     }
   },
   {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1of1zjv",
+    "source": "reddit",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -739,6 +765,32 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {

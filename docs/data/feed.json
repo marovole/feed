@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1986320112635552217",
+    "source": "twitter",
+    "author": "alecpow",
+    "content": "Great event ft. leaders like @Justin_Digs from @modal tonight at the @FactoryAI office.\n\nI attend many events in SF &amp; this was the most genuinely well prepared and curated - @vibescaling team are building a great community.\n\nTechnical GTM is on🔥 https://t.co/0k7KPKsuAb",
+    "url": "https://x.com/alecpow/status/1986320112635552217",
+    "timestamp": "2025-11-06T06:29:53.000Z",
+    "metadata": {
+      "conversation_id": "1986320112635552217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986316858598040040",
+    "source": "twitter",
+    "author": "acoustik",
+    "content": "@NLilichenko @matanSF @FactoryAI Thanks! Looks like it's working now.",
+    "url": "https://x.com/acoustik/status/1986316858598040040",
+    "timestamp": "2025-11-06T06:16:57.000Z",
+    "metadata": {
+      "conversation_id": "1986316858598040040",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986310856788103188",
     "source": "twitter",
     "author": "heySoumyo",
@@ -25,7 +55,7 @@
       "conversation_id": "1986308789549895854",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986209196480606222",
-    "source": "twitter",
-    "author": "Compound_Intel",
-    "content": "@samuelekpe @bentossell @FactoryAI @claudeai @OpenAI @GoogleDeepMind Yes, please!",
-    "url": "https://x.com/Compound_Intel/status/1986209196480606222",
-    "timestamp": "2025-11-05T23:09:09.000Z",
-    "metadata": {
-      "conversation_id": "1986209196480606222",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986209154785288467",
-    "source": "twitter",
-    "author": "darshil",
-    "content": "@FactoryAI @snyksec this is huge",
-    "url": "https://x.com/darshil/status/1986209154785288467",
-    "timestamp": "2025-11-05T23:08:59.000Z",
-    "metadata": {
-      "conversation_id": "1986209154785288467",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1op6njm",
     "source": "reddit",
     "author": "Sakrilegi0us",
@@ -308,7 +308,7 @@
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
       "score": 2,
-      "num_comments": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 13,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

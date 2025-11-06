@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1986419961854582817",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@asensitivedev @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1986419961854582817",
+    "timestamp": "2025-11-06T13:06:39.000Z",
+    "metadata": {
+      "conversation_id": "1986419961854582817",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986419807671968214",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@contxtkng @immoinulmoin @FactoryAI we link to it in our repo :)",
+    "url": "https://x.com/bentossell/status/1986419807671968214",
+    "timestamp": "2025-11-06T13:06:02.000Z",
+    "metadata": {
+      "conversation_id": "1986419807671968214",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986419738583462122",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@sha_sujin @hqmank @FactoryAI we have bring your own keys :)",
+    "url": "https://x.com/bentossell/status/1986419738583462122",
+    "timestamp": "2025-11-06T13:05:46.000Z",
+    "metadata": {
+      "conversation_id": "1986419738583462122",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986419378888249379",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@kn_neeraj1 @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1986419378888249379",
+    "timestamp": "2025-11-06T13:04:20.000Z",
+    "metadata": {
+      "conversation_id": "1986419378888249379",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986419118031925345",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@anthonyronning_ @FactoryAI @snyksec https://t.co/toDkYqKv5Z",
+    "url": "https://x.com/bentossell/status/1986419118031925345",
+    "timestamp": "2025-11-06T13:03:18.000Z",
+    "metadata": {
+      "conversation_id": "1986419118031925345",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986418701491487192",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@lghtneon @FactoryAI will take a look - if you can email over a bug report by running /bug ben @ factory . ai",
+    "url": "https://x.com/bentossell/status/1986418701491487192",
+    "timestamp": "2025-11-06T13:01:38.000Z",
+    "metadata": {
+      "conversation_id": "1986418701491487192",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986394722152091822",
     "source": "twitter",
     "author": "asensitivedev",
@@ -38,9 +128,9 @@
     "timestamp": "2025-11-06T11:23:11.000Z",
     "metadata": {
       "conversation_id": "1986393924332585285",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -53,7 +143,7 @@
     "timestamp": "2025-11-06T11:20:41.000Z",
     "metadata": {
       "conversation_id": "1986393294247718945",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +158,7 @@
     "timestamp": "2025-11-06T09:55:15.000Z",
     "metadata": {
       "conversation_id": "1986371793414680840",
-      "likes": 9,
+      "likes": 13,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +263,7 @@
     "timestamp": "2025-11-06T06:29:53.000Z",
     "metadata": {
       "conversation_id": "1986320112635552217",
-      "likes": 2,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -210,96 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986308789549895854",
-    "source": "twitter",
-    "author": "NLilichenko",
-    "content": "@acoustik @matanSF @FactoryAI Small bug on our end! Shouldn’t be an issue anymore.",
-    "url": "https://x.com/NLilichenko/status/1986308789549895854",
-    "timestamp": "2025-11-06T05:44:53.000Z",
-    "metadata": {
-      "conversation_id": "1986308789549895854",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986303165827035448",
-    "source": "twitter",
-    "author": "contxtkng",
-    "content": "@immoinulmoin @FactoryAI Don’t tell em about the proxy man. I don’t want them to shut it down lol",
-    "url": "https://x.com/contxtkng/status/1986303165827035448",
-    "timestamp": "2025-11-06T05:22:33.000Z",
-    "metadata": {
-      "conversation_id": "1986303165827035448",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986299882332954918",
-    "source": "twitter",
-    "author": "sha_sujin",
-    "content": "@hqmank @FactoryAI Is it possible to use factory droid freely",
-    "url": "https://x.com/sha_sujin/status/1986299882332954918",
-    "timestamp": "2025-11-06T05:09:30.000Z",
-    "metadata": {
-      "conversation_id": "1986299882332954918",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986288598279463186",
-    "source": "twitter",
-    "author": "nathanpareo",
-    "content": "By the way, coded 100% by @FactoryAI's Droid.",
-    "url": "https://x.com/nathanpareo/status/1986288598279463186",
-    "timestamp": "2025-11-06T04:24:39.000Z",
-    "metadata": {
-      "conversation_id": "1986288598279463186",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986272784452911152",
-    "source": "twitter",
-    "author": "duru_tobe",
-    "content": "@FactoryAI @snyksec sounds like a game changer for devs",
-    "url": "https://x.com/duru_tobe/status/1986272784452911152",
-    "timestamp": "2025-11-06T03:21:49.000Z",
-    "metadata": {
-      "conversation_id": "1986272784452911152",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986254735993938084",
-    "source": "twitter",
-    "author": "garymjr",
-    "content": "@kylantomita @FactoryAI just guessing but you’re using sonnet 4.5 high which means there was reasoning done before the reply. droid doesn’t show reasoning tokens so it looks like it was less tokens used then actually were.",
-    "url": "https://x.com/garymjr/status/1986254735993938084",
-    "timestamp": "2025-11-06T02:10:06.000Z",
-    "metadata": {
-      "conversation_id": "1986254735993938084",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1op6njm",
     "source": "reddit",
     "author": "Sakrilegi0us",
@@ -308,7 +308,7 @@
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
       "score": 3,
-      "num_comments": 2,
+      "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -489,8 +489,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -544,6 +557,19 @@
       "type": "issue",
       "labels": [],
       "number": 282
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -664,41 +690,15 @@
     }
   },
   {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
+    "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 0,
-      "num_comments": 21,
+      "score": 12,
+      "num_comments": 11,
       "subreddit": "FactoryAi"
     }
   },
@@ -716,58 +716,6 @@
     }
   },
   {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1odatnb",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -778,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {

@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1986492610639503729",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@bentossell @immoinulmoin @FactoryAI Holy shit I love this company so much. Never change",
+    "url": "https://x.com/contxtkng/status/1986492610639503729",
+    "timestamp": "2025-11-06T17:55:20.000Z",
+    "metadata": {
+      "conversation_id": "1986492610639503729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986490650980982798",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Is it just me or is\nClaude Code &gt;&gt; Claude Code (web)\n\nPS - my preference would probably change once my subscription issue's fixed - then it would be \n\n@FactoryAI &gt;&gt;&gt; Claude Code &gt;&gt; Claude Code (web)",
+    "url": "https://x.com/nkgoutham/status/1986490650980982798",
+    "timestamp": "2025-11-06T17:47:33.000Z",
+    "metadata": {
+      "conversation_id": "1986490650980982798",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1986490425100890611",
+    "source": "twitter",
+    "author": "kylantomita",
+    "content": "@bentossell @FactoryAI WILD\n\nGLM was about 5k tokens while sonnet (reasoning off) was about 47k tokens still\n\nno changes to my mcp server configs https://t.co/HgxjrKF8lz",
+    "url": "https://x.com/kylantomita/status/1986490425100890611",
+    "timestamp": "2025-11-06T17:46:39.000Z",
+    "metadata": {
+      "conversation_id": "1986490425100890611",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986475564212101322",
     "source": "twitter",
     "author": "colesmcintosh",
@@ -25,7 +70,7 @@
       "conversation_id": "1986473370641441123",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -173,7 +218,7 @@
     "timestamp": "2025-11-06T14:28:46.000Z",
     "metadata": {
       "conversation_id": "1986440627312001303",
-      "likes": 15,
+      "likes": 17,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -251,51 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986431482127102104",
-    "source": "twitter",
-    "author": "BillQueens",
-    "content": "@FactoryAI can you add kimi ?",
-    "url": "https://x.com/BillQueens/status/1986431482127102104",
-    "timestamp": "2025-11-06T13:52:26.000Z",
-    "metadata": {
-      "conversation_id": "1986431482127102104",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986419961854582817",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@asensitivedev @FactoryAI 🔥",
-    "url": "https://x.com/bentossell/status/1986419961854582817",
-    "timestamp": "2025-11-06T13:06:39.000Z",
-    "metadata": {
-      "conversation_id": "1986419961854582817",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986419807671968214",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@contxtkng @immoinulmoin @FactoryAI we link to it in our repo :)",
-    "url": "https://x.com/bentossell/status/1986419807671968214",
-    "timestamp": "2025-11-06T13:06:02.000Z",
-    "metadata": {
-      "conversation_id": "1986419807671968214",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

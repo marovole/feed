@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986926119187046605",
+    "source": "twitter",
+    "author": "gilhildebrand",
+    "content": "I am starting to like the Composer model developed by @cursor_ai. It's very fast and has solved some problems the other models failed to.\n\nStill using Claude Code as my daily driver, and @FactoryAI for the hard stuff.\n\nCodex is hands down the best for complex front end JS.",
+    "url": "https://x.com/gilhildebrand/status/1986926119187046605",
+    "timestamp": "2025-11-07T22:37:56.000Z",
+    "metadata": {
+      "conversation_id": "1986926119187046605",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986920439570985336",
     "source": "twitter",
     "author": "thedanifrim",
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1986885705625395489",
-    "source": "twitter",
-    "author": "mikez93",
-    "content": "@RepoPrompt @FactoryAI @pvncher do you mind taking a look at the above question when you have a sec?",
-    "url": "https://x.com/mikez93/status/1986885705625395489",
-    "timestamp": "2025-11-07T19:57:21.000Z",
-    "metadata": {
-      "conversation_id": "1986885705625395489",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_319",
     "source": "github",
     "author": "Bladed3d",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }

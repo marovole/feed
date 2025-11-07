@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1986781549556334923",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "Hey @FactoryAI  \nLoving Droid with Claude Sonnet 4.5. It’s been killer for my coding and debugging the last month.  \nBut the past 4-5 days? Outputs are all over the place, more bugs, and it gives totally different answers if I ask it to check the same thing twice. Any tweak?",
+    "url": "https://x.com/NilkhanVaibhav/status/1986781549556334923",
+    "timestamp": "2025-11-07T13:03:28.000Z",
+    "metadata": {
+      "conversation_id": "1986781549556334923",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986780859085496643",
+    "source": "twitter",
+    "author": "RepoPrompt",
+    "content": "@strickvl @mikez93 @FactoryAI If you have that ui visible it is enabled. Yes they're mututally exclusive. I'll add some ui to qualify that",
+    "url": "https://x.com/RepoPrompt/status/1986780859085496643",
+    "timestamp": "2025-11-07T13:00:44.000Z",
+    "metadata": {
+      "conversation_id": "1986780859085496643",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986776590387188146",
     "source": "twitter",
     "author": "strickvl",
@@ -10,7 +40,7 @@
       "conversation_id": "1986776590387188146",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -27,19 +57,6 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
-  },
-  {
-    "id": "github_issue_321",
-    "source": "github",
-    "author": "nilzzzzzz",
-    "content": "[Issue] Droid exec --output-format debug is not returning the result\n\nWe rely heavily on `droid exec` but since one of the last updates there is a huge issue. Running `droid exec --output-format debug` does not return anymore the result but just the debug outputs before:\n\nReproduction:\n\n```\ndroid exec \"which services does the backend have\" --output-format debug\n\n{\"type\":\"system\",\"subtype\":\"init\",\"cwd\":\"/Users/nilz/Repositories/awork-backend\",\"session_id\":\"273c1ae2-ffec-4ef5-b748-e04d713000fa\",\"tools\":[\"Read\",\"LS\",\"Execute\",\"Edit\",\"ApplyPatch\",\"Grep\",\"Glob\",\"Create",
-    "url": "https://github.com/Factory-AI/factory/issues/321",
-    "timestamp": "2025-11-07T12:11:44Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 321
     }
   },
   {
@@ -203,7 +220,7 @@
       "conversation_id": "1986680836045902066",
       "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -283,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986620315469029526",
-    "source": "twitter",
-    "author": "CudaSlayer",
-    "content": "@garymjr @decruz @laup30 Yep, yep!! Happened to me as well on @FactoryAI droid core!",
-    "url": "https://x.com/CudaSlayer/status/1986620315469029526",
-    "timestamp": "2025-11-07T02:22:47.000Z",
-    "metadata": {
-      "conversation_id": "1986620315469029526",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986619703754973461",
-    "source": "twitter",
-    "author": "CudaSlayer",
-    "content": "@dontlockmyacc0 Interesting? Never had this issue with Droid Core, Droid with @OpenRouterAI GLM4.6 or @FactoryAI droid GLM coding plan!",
-    "url": "https://x.com/CudaSlayer/status/1986619703754973461",
-    "timestamp": "2025-11-07T02:20:21.000Z",
-    "metadata": {
-      "conversation_id": "1986619703754973461",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_319",
     "source": "github",
     "author": "Bladed3d",
@@ -333,8 +320,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
-      "num_comments": 6,
+      "score": 4,
+      "num_comments": 7,
       "subreddit": "FactoryAi"
     }
   },
@@ -476,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -687,6 +674,19 @@
       "type": "issue",
       "labels": [],
       "number": 268
+    }
+  },
+  {
+    "id": "github_issue_265",
+    "source": "github",
+    "author": "VTSTG233",
+    "content": "[Issue] The same model name is provided by two providers, but only the first model name is displayed in the CLI.\n\n<img width=\"981\" height=\"1145\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5a4701b9-fe41-40ea-b47a-fa8ca54936cd\" />\n\n<img width=\"669\" height=\"656\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6e5b6716-61fc-49aa-92ad-73aaebe01ed1\" />\n\n\nThere are two providers for the same model name, but the humanized name of the model displayed in the CLI is only the first one. The final use will not use the second provider, so this is a bug!",
+    "url": "https://github.com/Factory-AI/factory/issues/265",
+    "timestamp": "2025-10-27T03:59:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 265
     }
   },
   {

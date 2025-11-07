@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1986776590387188146",
+    "source": "twitter",
+    "author": "strickvl",
+    "content": "@RepoPrompt @mikez93 @FactoryAI how to enable 'agent edit mode'? I see these two panes but nothing about a mode. also are 'agent' and 'model' the different 'modes', then? i.e. are these menus mutually exclusive? https://t.co/3KNrw4NqH9",
+    "url": "https://x.com/strickvl/status/1986776590387188146",
+    "timestamp": "2025-11-07T12:43:46.000Z",
+    "metadata": {
+      "conversation_id": "1986776590387188146",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986769217891323954",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@abhagsain @AmpCode @FactoryAI understand the struggle with coding agent switches, sometimes it takes a bit to find the fit.",
+    "url": "https://x.com/BillCrosby/status/1986769217891323954",
+    "timestamp": "2025-11-07T12:14:28.000Z",
+    "metadata": {
+      "conversation_id": "1986769217891323954",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_321",
+    "source": "github",
+    "author": "nilzzzzzz",
+    "content": "[Issue] Droid exec --output-format debug is not returning the result\n\nWe rely heavily on `droid exec` but since one of the last updates there is a huge issue. Running `droid exec --output-format debug` does not return anymore the result but just the debug outputs before:\n\nReproduction:\n\n```\ndroid exec \"which services does the backend have\" --output-format debug\n\n{\"type\":\"system\",\"subtype\":\"init\",\"cwd\":\"/Users/nilz/Repositories/awork-backend\",\"session_id\":\"273c1ae2-ffec-4ef5-b748-e04d713000fa\",\"tools\":[\"Read\",\"LS\",\"Execute\",\"Edit\",\"ApplyPatch\",\"Grep\",\"Glob\",\"Create",
+    "url": "https://github.com/Factory-AI/factory/issues/321",
+    "timestamp": "2025-11-07T12:11:44Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 321
+    }
+  },
+  {
     "id": "twitter_1986763721520169331",
     "source": "twitter",
     "author": "bentossell",
@@ -8,7 +51,7 @@
     "timestamp": "2025-11-07T11:52:38.000Z",
     "metadata": {
       "conversation_id": "1986763721520169331",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1986608136250364036",
-    "source": "twitter",
-    "author": "aerionmm",
-    "content": "@FactoryAI  still can't authenticate with figma mcp ... lol let me submit a pr to fix this if yall need to",
-    "url": "https://x.com/aerionmm/status/1986608136250364036",
-    "timestamp": "2025-11-07T01:34:23.000Z",
-    "metadata": {
-      "conversation_id": "1986608136250364036",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986603770315243878",
-    "source": "twitter",
-    "author": "PrinceJuni22547",
-    "content": "EVEN THOU droid BY @FactoryAI  is using 3.7 under the hood ,it's way better than @OpenAI  codex !  or anything out right now !! ANYTHING ! @OpenAIDevs",
-    "url": "https://x.com/PrinceJuni22547/status/1986603770315243878",
-    "timestamp": "2025-11-07T01:17:02.000Z",
-    "metadata": {
-      "conversation_id": "1986603770315243878",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_319",
     "source": "github",
     "author": "Bladed3d",
@@ -320,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -463,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -502,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -677,19 +690,6 @@
     }
   },
   {
-    "id": "github_issue_265",
-    "source": "github",
-    "author": "VTSTG233",
-    "content": "[Issue] The same model name is provided by two providers, but only the first model name is displayed in the CLI.\n\n<img width=\"981\" height=\"1145\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5a4701b9-fe41-40ea-b47a-fa8ca54936cd\" />\n\n<img width=\"669\" height=\"656\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6e5b6716-61fc-49aa-92ad-73aaebe01ed1\" />\n\n\nThere are two providers for the same model name, but the humanized name of the model displayed in the CLI is only the first one. The final use will not use the second provider, so this is a bug!",
-    "url": "https://github.com/Factory-AI/factory/issues/265",
-    "timestamp": "2025-10-27T03:59:02Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 265
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1987093207994311068",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nazar44444444 @FactoryAI coming 👀",
+    "url": "https://x.com/bentossell/status/1987093207994311068",
+    "timestamp": "2025-11-08T09:41:53.000Z",
+    "metadata": {
+      "conversation_id": "1987093207994311068",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987093116529353031",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@softcoda @FactoryAI Really glad to hear that! Let us know if you have any feedback or suggestions :)",
+    "url": "https://x.com/EnoReyes/status/1987093116529353031",
+    "timestamp": "2025-11-08T09:41:32.000Z",
+    "metadata": {
+      "conversation_id": "1987093116529353031",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987084751522386320",
     "source": "twitter",
     "author": "LignoL23",
@@ -55,7 +85,7 @@
       "conversation_id": "1987069822644220388",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -83,7 +113,7 @@
     "timestamp": "2025-11-08T07:09:43.000Z",
     "metadata": {
       "conversation_id": "1987054913734500768",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +203,7 @@
     "timestamp": "2025-11-08T05:08:46.000Z",
     "metadata": {
       "conversation_id": "1987024476505247779",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -220,7 +250,7 @@
       "conversation_id": "1987000265137136007",
       "likes": 3,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -263,36 +293,6 @@
     "timestamp": "2025-11-08T01:17:42.000Z",
     "metadata": {
       "conversation_id": "1986966326544638230",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986965680680476691",
-    "source": "twitter",
-    "author": "darshil",
-    "content": "@FactoryAI @TheChainsmokers this is so good",
-    "url": "https://x.com/darshil/status/1986965680680476691",
-    "timestamp": "2025-11-08T01:15:08.000Z",
-    "metadata": {
-      "conversation_id": "1986965680680476691",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986964416244470221",
-    "source": "twitter",
-    "author": "adlonymous",
-    "content": "@creatine_cycle @FactoryAI @TheChainsmokers mfs at the end of the 10 hours https://t.co/Lz10WoN0ZU",
-    "url": "https://x.com/adlonymous/status/1986964416244470221",
-    "timestamp": "2025-11-08T01:10:07.000Z",
-    "metadata": {
-      "conversation_id": "1986964416244470221",
       "likes": 3,
       "retweets": 0,
       "replies": 0,
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }

@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 9,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -664,19 +664,6 @@
     }
   },
   {
-    "id": "github_issue_272",
-    "source": "github",
-    "author": "alphatheory-ccarneiro",
-    "content": "[Issue] Custom models loading failed with BYOK LiteLLM Key\n\nI configured custom model to use LiteLLM hosted model but I get this message:\n\nCustom models loading failed: All custom models were filtered out due to placeholder API keys. Please replace YOUR_OPENAI_API_KEY or YOUR_API_KEY with valid values in your config.\n\n```\n{\n        \"custom_models\": [\n                {\"model_display_name\":\"litellm-sonnet-4\"},\n                {\"model\":\"bedrock/us.anthropic.claude-sonnet-4-20250514-v1:0\"},\n                {\"base_url\":\"https://litellm.xxx.net\"},\n            ",
-    "url": "https://github.com/Factory-AI/factory/issues/272",
-    "timestamp": "2025-10-28T04:01:23Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 272
-    }
-  },
-  {
     "id": "github_issue_269",
     "source": "github",
     "author": "acomarcho",
@@ -700,6 +687,19 @@
       "type": "issue",
       "labels": [],
       "number": 268
+    }
+  },
+  {
+    "id": "github_issue_265",
+    "source": "github",
+    "author": "VTSTG233",
+    "content": "[Issue] The same model name is provided by two providers, but only the first model name is displayed in the CLI.\n\n<img width=\"981\" height=\"1145\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5a4701b9-fe41-40ea-b47a-fa8ca54936cd\" />\n\n<img width=\"669\" height=\"656\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6e5b6716-61fc-49aa-92ad-73aaebe01ed1\" />\n\n\nThere are two providers for the same model name, but the humanized name of the model displayed in the CLI is only the first one. The final use will not use the second provider, so this is a bug!",
+    "url": "https://github.com/Factory-AI/factory/issues/265",
+    "timestamp": "2025-10-27T03:59:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 265
     }
   },
   {

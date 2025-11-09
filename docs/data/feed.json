@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_330",
+    "source": "github",
+    "author": "olsavmic",
+    "content": "[Issue] Feature Request: Implement Statusline Support\n\n  Add support for customizable statuslines in Factory's CLI interface, as documented in [Claude Code's statusline\n  feature](https://code.claude.com/docs/en/statusline).\n\n  Motivation\n\n  Statuslines provide persistent contextual information at the bottom of the interface, which is incredibly helpful for:\n   •  Git awareness: Immediately see the current branch without running git status\n   •  Directory context: Know your current working directory at a glance\n   •  Session info: Display the curren",
+    "url": "https://github.com/Factory-AI/factory/issues/330",
+    "timestamp": "2025-11-09T11:34:21Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 330
+    }
+  },
+  {
     "id": "twitter_1987455002374545562",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -463,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -625,6 +638,19 @@
     }
   },
   {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -687,19 +713,6 @@
       "type": "issue",
       "labels": [],
       "number": 269
-    }
-  },
-  {
-    "id": "github_issue_268",
-    "source": "github",
-    "author": "tickideas",
-    "content": "[Issue] Markdown file not generated for spec and plan when explicitly requested with custom model\n\nWhen I run Factory AI Droid with a custom model and request the output of spec and plan to a markdown file, the file is not generated. This behavior occurs even when I specify the output option. The same option works as expected with predefined models, but fails with a custom model.",
-    "url": "https://github.com/Factory-AI/factory/issues/268",
-    "timestamp": "2025-10-27T14:53:28Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 268
     }
   },
   {

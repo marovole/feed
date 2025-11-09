@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1987401318953308522",
+    "source": "twitter",
+    "author": "coyotevn",
+    "content": "Thing I tells @FactoryAI #Droid these days. and it works magic. 🪄 https://t.co/iHwZduOlpP",
+    "url": "https://x.com/coyotevn/status/1987401318953308522",
+    "timestamp": "2025-11-09T06:06:13.000Z",
+    "metadata": {
+      "conversation_id": "1987401318953308522",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987371442401370469",
     "source": "twitter",
     "author": "dgrreen",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1987237502860861886",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@hqmank @FactoryAI Did you use openrouter or kimi themselves, tried with openeouter but had network issues and it was very slow",
-    "url": "https://x.com/martin_ict_algo/status/1987237502860861886",
-    "timestamp": "2025-11-08T19:15:16.000Z",
-    "metadata": {
-      "conversation_id": "1987237502860861886",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_328",
     "source": "github",
     "author": "a112121788",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }

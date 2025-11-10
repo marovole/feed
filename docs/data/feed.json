@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_337",
+    "source": "github",
+    "author": "etwk",
+    "content": "[Issue] Make Copy Smooth\n\nDroid UI looks nice, but when I try to copy text to a editor to work further on it, there are some formatting issues:\n  - Frequent un-intended line breaks\n  - Empty space before each lines\n\nCan we make the transaction more smooth? It'll be huge UX enhancement.",
+    "url": "https://github.com/Factory-AI/factory/issues/337",
+    "timestamp": "2025-11-10T23:07:38Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 337
+    }
+  },
+  {
     "id": "twitter_1987985544517722380",
     "source": "twitter",
     "author": "nathanpareo",
@@ -463,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -690,16 +703,16 @@
     }
   },
   {
-    "id": "github_issue_282",
-    "source": "github",
-    "author": "DkRsrl",
-    "content": "[Issue] PhpStorm: Droid CLI doesn’t activate IDE-level integration when launched from integrated terminal\n\n**Description**\nAfter installing Droid CLI and configuring `PATH`, running `droid` inside PhpStorm’s integrated terminal starts the TUI, but IDE-level features don’t engage (selection context, diagnostics sharing, IDE diff viewer, etc.). The Factory docs say JetBrains IDEs require no plugin and that running `droid` in the integrated terminal should enable all features, but that’s not happening in my setup. ([[docs.factory.ai](https://docs.factory.ai/cli/configuration/ide-integrations)][1])\n\n**St",
-    "url": "https://github.com/Factory-AI/factory/issues/282",
-    "timestamp": "2025-10-29T17:01:40Z",
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 282
+      "score": 12,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
     }
   },
   {

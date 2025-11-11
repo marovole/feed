@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1988390181465190838",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "@melodykoh @FactoryAI @claudeai @OpenAI I found GPT-5 high slow but good at deep context, refactoring, and longer tasks in Droid, while Sonnet 4.5 is better at speed and UI/UX improvements.",
+    "url": "https://x.com/NilkhanVaibhav/status/1988390181465190838",
+    "timestamp": "2025-11-11T23:35:36.000Z",
+    "metadata": {
+      "conversation_id": "1988390181465190838",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988390062489555203",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "@melodykoh @FactoryAI @claudeai @OpenAI Droid also lets you test on local mobiles by configuring your IP address, and I'm using it for mobile application testing. I found hallucinations in Droid sometimes when it has to check references across multiple repos, where Claude outperforms Droid.",
+    "url": "https://x.com/NilkhanVaibhav/status/1988390062489555203",
+    "timestamp": "2025-11-11T23:35:08.000Z",
+    "metadata": {
+      "conversation_id": "1988390062489555203",
+      "likes": 0,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988389581088264685",
+    "source": "twitter",
+    "author": "EvanDeKim",
+    "content": "@melodykoh @FactoryAI @claudeai @OpenAI Have you tried the  droid agents yet?",
+    "url": "https://x.com/EvanDeKim/status/1988389581088264685",
+    "timestamp": "2025-11-11T23:33:13.000Z",
+    "metadata": {
+      "conversation_id": "1988389581088264685",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988387173381640464",
     "source": "twitter",
     "author": "darshil",
@@ -8,7 +53,7 @@
     "timestamp": "2025-11-11T23:23:39.000Z",
     "metadata": {
       "conversation_id": "1988387173381640464",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1988298980867117362",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@bentossell @FactoryAI @claudeai @OpenAI Thanks for the point-by-point response! on 3. - interesting. I'll keep testing. \n\nAlso thanks for doing the camp with the @every team - that prompted me to give this a try.",
-    "url": "https://x.com/melodykoh/status/1988298980867117362",
-    "timestamp": "2025-11-11T17:33:12.000Z",
-    "metadata": {
-      "conversation_id": "1988298980867117362",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988295626434769333",
-    "source": "twitter",
-    "author": "Alberto8793",
-    "content": "My advent calendar is model drops: GPT-5.1, Gemini 3, Grok 4.2. \n\nManifesting a budget-friendly Claude and advancements in agent harnesses. @FactoryAI @OpenAIDevs https://t.co/qbshTn9S3N",
-    "url": "https://x.com/Alberto8793/status/1988295626434769333",
-    "timestamp": "2025-11-11T17:19:52.000Z",
-    "metadata": {
-      "conversation_id": "1988295626434769333",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_340",
     "source": "github",
     "author": "korallis",
@@ -295,21 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 340
-    }
-  },
-  {
-    "id": "twitter_1988292676765315241",
-    "source": "twitter",
-    "author": "lovedashmatcher",
-    "content": "@bentossell @FactoryAI It's Borland in iTerm2. I've got my shell configured to select one of ~12 color themes on startup, but half the time it's this one, my favorite ☺️",
-    "url": "https://x.com/lovedashmatcher/status/1988292676765315241",
-    "timestamp": "2025-11-11T17:08:09.000Z",
-    "metadata": {
-      "conversation_id": "1988292676765315241",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +700,19 @@
       "type": "issue",
       "labels": [],
       "number": 282
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 11,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
     }
   },
   {

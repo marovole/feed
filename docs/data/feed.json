@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_340",
+    "source": "github",
+    "author": "korallis",
+    "content": "[Issue] Multi Agent Issues in regards to aggrigated RPC\n\n 1. Describe the behavior\n     •  When you invoke multiple tools via the parallel wrapper, you get no output until every sub-task completes.\n     •  If any sub-task fails, the entire batch is reported as failed even though the other tasks actually ran.\n\n   2. Explain why it’s a problem\n     •  You can’t see partial results or errors in real time.\n     •  One failing branch masks useful output from the others, slowing triage and forcing retries.\n\n   3. Request the remedy\n     •  Ask for streaming",
+    "url": "https://github.com/Factory-AI/factory/issues/340",
+    "timestamp": "2025-11-11T17:16:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 340
+    }
+  },
+  {
+    "id": "twitter_1988292676765315241",
+    "source": "twitter",
+    "author": "lovedashmatcher",
+    "content": "@bentossell @FactoryAI It's Borland in iTerm2. I've got my shell configured to select one of ~12 color themes on startup, but half the time it's this one, my favorite ☺️",
+    "url": "https://x.com/lovedashmatcher/status/1988292676765315241",
+    "timestamp": "2025-11-11T17:08:09.000Z",
+    "metadata": {
+      "conversation_id": "1988292676765315241",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988291671302566260",
     "source": "twitter",
     "author": "bentossell",
@@ -70,7 +98,7 @@
       "conversation_id": "1988289955312136713",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -278,21 +306,6 @@
     "timestamp": "2025-11-11T14:33:02.000Z",
     "metadata": {
       "conversation_id": "1988253641963340237",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988248138964996168",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@NilkhanVaibhav @FactoryAI @francesca_lab hey sorry about this, could you email support@factory.ai and they'll be able to see what happened",
-    "url": "https://x.com/bentossell/status/1988248138964996168",
-    "timestamp": "2025-11-11T14:11:10.000Z",
-    "metadata": {
-      "conversation_id": "1988248138964996168",
       "likes": 0,
       "retweets": 0,
       "replies": 1,
@@ -619,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -687,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 282
-    }
-  },
-  {
-    "id": "github_issue_278",
-    "source": "github",
-    "author": "jakob1379",
-    "content": "[Issue] easier way to show current plan and task tracker\n\nIt seems a waste of token to have the llm make a tool calling to show what could just be a regular command - to be able to see the plan and task tracker, it would be easier to keep the overview or help navigate on focus of the agent.",
-    "url": "https://github.com/Factory-AI/factory/issues/278",
-    "timestamp": "2025-10-28T18:17:08Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 278
     }
   },
   {

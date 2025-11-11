@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1988184780996046999",
+    "source": "twitter",
+    "author": "ArchiSoftTech",
+    "content": "@FactoryAI please fix the binary problem for laptop that does not support  AVX2 (im on i7 Intel and it does not work ) https://t.co/JwJ9EBa7QF  because im tempted to switch to Claude as i need higer level tools like this one assap...",
+    "url": "https://x.com/ArchiSoftTech/status/1988184780996046999",
+    "timestamp": "2025-11-11T09:59:25.000Z",
+    "metadata": {
+      "conversation_id": "1988184780996046999",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988184298818855139",
+    "source": "twitter",
+    "author": "_fbbp",
+    "content": "岡山でAI駆動開発をやっていく会 vol.4 を公開しました！  今回は @FactoryAI のDroid CLIによるAIコーディングハンズオンもあります！是非ご参加下さい！ https://t.co/soQhPLX7YW #OkayamaAiDrivenDev",
+    "url": "https://x.com/_fbbp/status/1988184298818855139",
+    "timestamp": "2025-11-11T09:57:30.000Z",
+    "metadata": {
+      "conversation_id": "1988184298818855139",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988178911075987616",
     "source": "twitter",
     "author": "AdhamAlkhaja",
@@ -322,36 +352,6 @@
     }
   },
   {
-    "id": "twitter_1987534120252035379",
-    "source": "twitter",
-    "author": "truffle",
-    "content": "@SvenMeyer @luongnv89 @lucas_montano @FactoryAI @ollama Claude code limitations? My heart hurts every time I use other CLIs.",
-    "url": "https://x.com/truffle/status/1987534120252035379",
-    "timestamp": "2025-11-09T14:53:55.000Z",
-    "metadata": {
-      "conversation_id": "1987534120252035379",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987534039126012080",
-    "source": "twitter",
-    "author": "coyotevn",
-    "content": "@bentossell @FactoryAI Yeah. Would love to know more of your agents .md file too. \n\nI’m switching from Claude, and Droid is super wonderful and easy to use for a semi-non tech :D",
-    "url": "https://x.com/coyotevn/status/1987534039126012080",
-    "timestamp": "2025-11-09T14:53:36.000Z",
-    "metadata": {
-      "conversation_id": "1987534039126012080",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_330",
     "source": "github",
     "author": "olsavmic",
@@ -362,19 +362,6 @@
       "type": "issue",
       "labels": [],
       "number": 330
-    }
-  },
-  {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -417,19 +404,6 @@
     }
   },
   {
-    "id": "reddit_1or5cow",
-    "source": "reddit",
-    "author": "Durst123",
-    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
-    "timestamp": "2025-11-07T20:29:10.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -453,19 +427,6 @@
       "type": "issue",
       "labels": [],
       "number": 319
-    }
-  },
-  {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 14,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -554,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +661,45 @@
       "type": "issue",
       "labels": [],
       "number": 282
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 11,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {

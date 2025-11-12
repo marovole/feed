@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1988753334820544789",
+    "source": "twitter",
+    "author": "basedanarki",
+    "content": "@FactoryAI give us back shift enter please. \\ enter is weird",
+    "url": "https://x.com/basedanarki/status/1988753334820544789",
+    "timestamp": "2025-11-12T23:38:38.000Z",
+    "metadata": {
+      "conversation_id": "1988753334820544789",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988752306624725395",
+    "source": "twitter",
+    "author": "raroque",
+    "content": "@captaink99 @FactoryAI How is it so far?",
+    "url": "https://x.com/raroque/status/1988752306624725395",
+    "timestamp": "2025-11-12T23:34:33.000Z",
+    "metadata": {
+      "conversation_id": "1988752306624725395",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988749439792771543",
     "source": "twitter",
     "author": "captaink99",
@@ -10,7 +40,7 @@
       "conversation_id": "1988749439792771543",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1988706965393142000",
-    "source": "twitter",
-    "author": "1Bexly",
-    "content": "The team at @FactoryAI never sleeps lol\n\nAnother update to an already amazing product! Thank you 🫡🔥🔥",
-    "url": "https://x.com/1Bexly/status/1988706965393142000",
-    "timestamp": "2025-11-12T20:34:23.000Z",
-    "metadata": {
-      "conversation_id": "1988706965393142000",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988706129980092737",
-    "source": "twitter",
-    "author": "kuba_shev",
-    "content": "you know she's a keeper when you come home from work and she serves you the brilliant feature you've been lowkey waiting for @FactoryAI https://t.co/s84SXVVl67",
-    "url": "https://x.com/kuba_shev/status/1988706129980092737",
-    "timestamp": "2025-11-12T20:31:04.000Z",
-    "metadata": {
-      "conversation_id": "1988706129980092737",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ovbn7q",
     "source": "reddit",
     "author": "UrAn8",
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }

@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988714738445173209",
+    "source": "twitter",
+    "author": "Ashish_Soni08",
+    "content": "@leerob How do I get the desgin of the UI to a level that is just magical? Like @FactoryAI  and @hcompany_ai!",
+    "url": "https://x.com/Ashish_Soni08/status/1988714738445173209",
+    "timestamp": "2025-11-12T21:05:16.000Z",
+    "metadata": {
+      "conversation_id": "1988714738445173209",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988707049891319909",
     "source": "twitter",
     "author": "1Bexly",
@@ -38,7 +53,7 @@
     "timestamp": "2025-11-12T20:31:04.000Z",
     "metadata": {
       "conversation_id": "1988706129980092737",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -83,7 +98,7 @@
     "timestamp": "2025-11-12T20:02:59.000Z",
     "metadata": {
       "conversation_id": "1988699061541802445",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1988637203350614467",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "uh ho ... did I break @FactoryAI 🧐 https://t.co/dhiiMzVSPb",
-    "url": "https://x.com/5aikat/status/1988637203350614467",
-    "timestamp": "2025-11-12T15:57:11.000Z",
-    "metadata": {
-      "conversation_id": "1988637203350614467",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_341",
     "source": "github",
     "author": "580ai",
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }

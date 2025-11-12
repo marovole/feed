@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988671493371490435",
+    "source": "twitter",
+    "author": "agent_wrap",
+    "content": "@farizkamini @FactoryAI have you tried editing the spec? lmk if you have any cool ideas :)",
+    "url": "https://x.com/agent_wrap/status/1988671493371490435",
+    "timestamp": "2025-11-12T18:13:26.000Z",
+    "metadata": {
+      "conversation_id": "1988671493371490435",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988662341484048470",
     "source": "twitter",
     "author": "MickeyShaughnes",
@@ -23,7 +38,7 @@
     "timestamp": "2025-11-12T17:34:16.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -96,7 +111,7 @@
     "timestamp": "2025-11-12T16:52:50.000Z",
     "metadata": {
       "conversation_id": "1988651211218907255",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1988603564781101444",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@joshwagenbach @FactoryAI https://t.co/n5po3QeWKQ this may help!",
-    "url": "https://x.com/bentossell/status/1988603564781101444",
-    "timestamp": "2025-11-12T13:43:30.000Z",
-    "metadata": {
-      "conversation_id": "1988603564781101444",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_341",
     "source": "github",
     "author": "580ai",
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }

@@ -248,7 +248,7 @@
     "timestamp": "2025-11-12T20:34:23.000Z",
     "metadata": {
       "conversation_id": "1988706965393142000",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -263,7 +263,7 @@
     "timestamp": "2025-11-12T20:31:04.000Z",
     "metadata": {
       "conversation_id": "1988706129980092737",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -660,6 +660,19 @@
     "metadata": {
       "score": 5,
       "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

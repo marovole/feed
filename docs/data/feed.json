@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988491678722691533",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@melodykoh @FactoryAI @claudeai @OpenAI Great write up!",
+    "url": "https://x.com/erd0xbc/status/1988491678722691533",
+    "timestamp": "2025-11-12T06:18:55.000Z",
+    "metadata": {
+      "conversation_id": "1988491678722691533",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988484767944192396",
     "source": "twitter",
     "author": "erd0xbc",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-12T05:51:27.000Z",
     "metadata": {
       "conversation_id": "1988484767944192396",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +188,7 @@
     "timestamp": "2025-11-12T02:17:12.000Z",
     "metadata": {
       "conversation_id": "1988430848383729897",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1988410087069938011",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988409761805869214",
-    "source": "twitter",
-    "author": "AVGVSTVS96",
-    "content": "@theo have you tried @FactoryAI Droid yet?\n \ncurious to hear your thoughts on it, the harness feels like a real step up for CLI agents",
-    "url": "https://x.com/AVGVSTVS96/status/1988409761805869214",
-    "timestamp": "2025-11-12T00:53:24.000Z",
-    "metadata": {
-      "conversation_id": "1988409761805869214",
-      "likes": 8,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +700,19 @@
       "type": "issue",
       "labels": [],
       "number": 282
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 13,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
     }
   },
   {

@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1988766673764336100",
+    "source": "twitter",
+    "author": "nahcrof",
+    "content": "@fire @FactoryAI I'll check it out, thank you for letting me know",
+    "url": "https://x.com/nahcrof/status/1988766673764336100",
+    "timestamp": "2025-11-13T00:31:39.000Z",
+    "metadata": {
+      "conversation_id": "1988766673764336100",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988765285789405259",
+    "source": "twitter",
+    "author": "withmegg",
+    "content": "New drop from @FactoryAI: 1.10 🦾\nLess config, more personality",
+    "url": "https://x.com/withmegg/status/1988765285789405259",
+    "timestamp": "2025-11-13T00:26:08.000Z",
+    "metadata": {
+      "conversation_id": "1988765285789405259",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988763547355214167",
     "source": "twitter",
     "author": "fire",
@@ -8,9 +38,9 @@
     "timestamp": "2025-11-13T00:19:13.000Z",
     "metadata": {
       "conversation_id": "1988763547355214167",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -158,7 +188,7 @@
     "timestamp": "2025-11-12T23:38:38.000Z",
     "metadata": {
       "conversation_id": "1988753334820544789",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -203,7 +233,7 @@
     "timestamp": "2025-11-12T23:21:58.000Z",
     "metadata": {
       "conversation_id": "1988749136808862090",
-      "likes": 3,
+      "likes": 4,
       "retweets": 1,
       "replies": 0,
       "quotes": 0
@@ -263,36 +293,6 @@
     "timestamp": "2025-11-12T22:14:07.000Z",
     "metadata": {
       "conversation_id": "1988732065790206033",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988730478602694805",
-    "source": "twitter",
-    "author": "farizkamini",
-    "content": "@agent_wrap @FactoryAI when switch to editor, and sometimes when i type \"/\", or is this because i am in tmux?",
-    "url": "https://x.com/farizkamini/status/1988730478602694805",
-    "timestamp": "2025-11-12T22:07:49.000Z",
-    "metadata": {
-      "conversation_id": "1988730478602694805",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988729593826799649",
-    "source": "twitter",
-    "author": "agent_wrap",
-    "content": "@farizkamini @FactoryAI The visual glitch where the session scrolls to the top and the droid headers appear for a hot second? or something else?",
-    "url": "https://x.com/agent_wrap/status/1988729593826799649",
-    "timestamp": "2025-11-12T22:04:18.000Z",
-    "metadata": {
-      "conversation_id": "1988729593826799649",
       "likes": 0,
       "retweets": 0,
       "replies": 1,
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -658,8 +658,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1988953411228954961",
+    "source": "twitter",
+    "author": "Auronix_AI",
+    "content": "I have to say @OpenAI  GPT-5-Codex has been sucking lately even on @FactoryAI",
+    "url": "https://x.com/Auronix_AI/status/1988953411228954961",
+    "timestamp": "2025-11-13T12:53:40.000Z",
+    "metadata": {
+      "conversation_id": "1988953411228954961",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988951674397028677",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@FactoryAI @bentossell my spec files are being saved even with the setting off.\n\nI've never used it before and its actually been pretty useful but my spec folder is starting to fill up with unwanted specs 👻😅 https://t.co/99wFKaUAfG",
+    "url": "https://x.com/Ricardo_Nth/status/1988951674397028677",
+    "timestamp": "2025-11-13T12:46:46.000Z",
+    "metadata": {
+      "conversation_id": "1988951674397028677",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1ow0203",
+    "source": "reddit",
+    "author": "vargalas",
+    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
+    "timestamp": "2025-11-13T12:42:42.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1988947524913361291",
     "source": "twitter",
     "author": "AdhamAlkhaja",
@@ -23,7 +66,7 @@
     "timestamp": "2025-11-13T12:27:09.000Z",
     "metadata": {
       "conversation_id": "1988946734576464271",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -270,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1988912146101551533",
-    "source": "twitter",
-    "author": "Mattslayga",
-    "content": "@AVGVSTVS96 @theo @FactoryAI Droid Mode 🙌",
-    "url": "https://x.com/Mattslayga/status/1988912146101551533",
-    "timestamp": "2025-11-13T10:09:42.000Z",
-    "metadata": {
-      "conversation_id": "1988912146101551533",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988910444304556488",
-    "source": "twitter",
-    "author": "Social_Quotient",
-    "content": "Ah geez @FactoryAI got hooks!!! 🔥 \n\n9 of them! I’ll be posting my top hook migrations from @AnthropicAI Cc to Droid in the next few days. https://t.co/d5Fm346yfR",
-    "url": "https://x.com/Social_Quotient/status/1988910444304556488",
-    "timestamp": "2025-11-13T10:02:56.000Z",
-    "metadata": {
-      "conversation_id": "1988910444304556488",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_348",
     "source": "github",
     "author": "aranej",
@@ -528,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -648,19 +661,6 @@
       "type": "issue",
       "labels": [],
       "number": 300
-    }
-  },
-  {
-    "id": "reddit_1om3tvt",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
-    "timestamp": "2025-11-02T00:38:45.000Z",
-    "metadata": {
-      "score": 9,
-      "num_comments": 13,
-      "subreddit": "FactoryAi"
     }
   },
   {

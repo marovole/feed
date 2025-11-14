@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989231877056786755",
+    "source": "twitter",
+    "author": "m0nle0z",
+    "content": "@CloudTrader4 @OpenAI @FactoryAI Yeah, wanna know how it stacks up.",
+    "url": "https://x.com/m0nle0z/status/1989231877056786755",
+    "timestamp": "2025-11-14T07:20:12.000Z",
+    "metadata": {
+      "conversation_id": "1989231877056786755",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989229318871089319",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@CloudTrader4 @FactoryAI Cloud, that's a brilliant test setup! I'm curious to see how well GPT-5.1-Codex handles the web scraping challenges, you know.",
+    "url": "https://x.com/codewithimanshu/status/1989229318871089319",
+    "timestamp": "2025-11-14T07:10:02.000Z",
+    "metadata": {
+      "conversation_id": "1989229318871089319",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989223364087669232",
     "source": "twitter",
     "author": "bentossell",
@@ -36,7 +66,7 @@
     "timestamp": "2025-11-14T06:40:49.000Z",
     "metadata": {
       "conversation_id": "1989221967166337500",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -276,36 +306,6 @@
     "timestamp": "2025-11-14T02:38:46.000Z",
     "metadata": {
       "conversation_id": "1989161054019154058",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989157695841280468",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@FactoryAI Despite the AI router, looks like again we have to deal with a zoo of @OpenAI models, however at least the naming scheme became more structured 😂\nhttps://t.co/kgxNqeSxGU",
-    "url": "https://x.com/SvenMeyer/status/1989157695841280468",
-    "timestamp": "2025-11-14T02:25:26.000Z",
-    "metadata": {
-      "conversation_id": "1989157695841280468",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989156663312761165",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@FactoryAI Thanks for the speedy implementation, however according to this benchmark, Sonnet-4.5 (for frontend) and \"plain\" GPT-5 (High) for backend and difficult stuff are still the top choices. Hopefully we can keep them around for a while.\nhttps://t.co/jJk4XWjaLs",
-    "url": "https://x.com/SvenMeyer/status/1989156663312761165",
-    "timestamp": "2025-11-14T02:21:19.000Z",
-    "metadata": {
-      "conversation_id": "1989156663312761165",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

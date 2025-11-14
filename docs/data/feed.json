@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1989367049798463950",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@ben_vargas @HanifCarroll @FactoryAI Yeah true, It does feel like using factory models themselves does provide better integration/planning/execution than using like BYOK I have found, or at least using grok code fast and grok 4 fast, havent tried chatcpt as a BYOK yet.",
+    "url": "https://x.com/martin_ict_algo/status/1989367049798463950",
+    "timestamp": "2025-11-14T16:17:19.000Z",
+    "metadata": {
+      "conversation_id": "1989367049798463950",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989364869175685580",
+    "source": "twitter",
+    "author": "HanifCarroll",
+    "content": "@martin_ict_algo @ben_vargas @FactoryAI Yep, exactly! But someone in another comment said that it Factory uses more tokens so you'll hit the rate limit more quickly. Something to keep in mind.",
+    "url": "https://x.com/HanifCarroll/status/1989364869175685580",
+    "timestamp": "2025-11-14T16:08:40.000Z",
+    "metadata": {
+      "conversation_id": "1989364869175685580",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989364860011118661",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@HanifCarroll @martin_ict_algo @FactoryAI Exactly... this setup allows using ChatGPT and Claude subscription use, but with the Factory/Droid harness - so not paying per token.\n\nTLDR; same reason you'd buy a sub vs use API key billing.",
+    "url": "https://x.com/ben_vargas/status/1989364860011118661",
+    "timestamp": "2025-11-14T16:08:37.000Z",
+    "metadata": {
+      "conversation_id": "1989364860011118661",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989364571539402887",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@HanifCarroll @ben_vargas @FactoryAI Aah so you have a chatgpt $20 or so plan and use that but through droid?",
+    "url": "https://x.com/martin_ict_algo/status/1989364571539402887",
+    "timestamp": "2025-11-14T16:07:29.000Z",
+    "metadata": {
+      "conversation_id": "1989364571539402887",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989363817952997447",
     "source": "twitter",
     "author": "HanifCarroll",
@@ -8,9 +68,9 @@
     "timestamp": "2025-11-14T16:04:29.000Z",
     "metadata": {
       "conversation_id": "1989363817952997447",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989331866202329450",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@ben_vargas @FactoryAI Ah, interesting tech updates, Ben! These new models could definitely change the game, no?",
-    "url": "https://x.com/codewithimanshu/status/1989331866202329450",
-    "timestamp": "2025-11-14T13:57:31.000Z",
-    "metadata": {
-      "conversation_id": "1989331866202329450",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989331387397091551",
-    "source": "twitter",
-    "author": "AIgentAGI",
-    "content": "@CloudTrader4 @FactoryAI Nice summary!\n\nFor front end, did you consider getting 5.1 to prompt Codex? I did that last night and got some very nice results.",
-    "url": "https://x.com/AIgentAGI/status/1989331387397091551",
-    "timestamp": "2025-11-14T13:55:37.000Z",
-    "metadata": {
-      "conversation_id": "1989331387397091551",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989326982908109229",
-    "source": "twitter",
-    "author": "munoncode",
-    "content": "@bentossell @ben_vargas @FactoryAI are you planning to add support for claude code subscription in droid?\n\nHonestly i'm willing to pay JUST for the agent. Literally Droid is so much better than claude code itself.\n\nI haven't converted to the $200 factory ai credits plan cuz it feels expensive compared to cc usage",
-    "url": "https://x.com/munoncode/status/1989326982908109229",
-    "timestamp": "2025-11-14T13:38:07.000Z",
-    "metadata": {
-      "conversation_id": "1989326982908109229",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989324504326140145",
-    "source": "twitter",
-    "author": "AntonioJASmith",
-    "content": "@bentossell @FactoryAI I like the sound of this, I will set this up for my next project and report back.",
-    "url": "https://x.com/AntonioJASmith/status/1989324504326140145",
-    "timestamp": "2025-11-14T13:28:16.000Z",
-    "metadata": {
-      "conversation_id": "1989324504326140145",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

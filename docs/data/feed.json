@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989411336737231350",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@prannoy_p @dakshgup @FactoryAI as we intend it to 😊",
+    "url": "https://x.com/bentossell/status/1989411336737231350",
+    "timestamp": "2025-11-14T19:13:18.000Z",
+    "metadata": {
+      "conversation_id": "1989411336737231350",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989411109582114938",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@laplacian_demon @FactoryAI 🔔",
+    "url": "https://x.com/bentossell/status/1989411109582114938",
+    "timestamp": "2025-11-14T19:12:24.000Z",
+    "metadata": {
+      "conversation_id": "1989411109582114938",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989410925430837614",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@melodykoh @AnthropicAI @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1989410925430837614",
+    "timestamp": "2025-11-14T19:11:40.000Z",
+    "metadata": {
+      "conversation_id": "1989410925430837614",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989409263526228440",
     "source": "twitter",
     "author": "tridentasia",
@@ -38,8 +83,8 @@
     "timestamp": "2025-11-14T18:40:25.000Z",
     "metadata": {
       "conversation_id": "1989403060578521468",
-      "likes": 1,
-      "retweets": 0,
+      "likes": 3,
+      "retweets": 1,
       "replies": 1,
       "quotes": 0
     }
@@ -98,9 +143,9 @@
     "timestamp": "2025-11-14T17:50:47.000Z",
     "metadata": {
       "conversation_id": "1989390567948914957",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,10 +158,10 @@
     "timestamp": "2025-11-14T17:45:01.000Z",
     "metadata": {
       "conversation_id": "1989389117633818643",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
+      "quotes": 1
     }
   },
   {
@@ -128,9 +173,9 @@
     "timestamp": "2025-11-14T17:40:22.000Z",
     "metadata": {
       "conversation_id": "1989387947809148950",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 2,
+      "retweets": 1,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -143,7 +188,7 @@
     "timestamp": "2025-11-14T17:39:30.000Z",
     "metadata": {
       "conversation_id": "1989387729965388189",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,8 +218,8 @@
     "timestamp": "2025-11-14T16:45:55.000Z",
     "metadata": {
       "conversation_id": "1989374246393713038",
-      "likes": 31,
-      "retweets": 5,
+      "likes": 32,
+      "retweets": 6,
       "replies": 2,
       "quotes": 0
     }
@@ -218,7 +263,7 @@
     "timestamp": "2025-11-14T16:29:45.000Z",
     "metadata": {
       "conversation_id": "1989370174668165444",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -251,51 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989368377278603752",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "I worked on a side project last week and weekend with AI coding agents (both @AnthropicAI’s Claude Code and @FactoryAI’s Droid alternating). It took me 3-4 hours of active QA plus 3 hours of active energy  reviewing plans, decision-making, checking AI's logic. \n\nAfter I pushed the V1 to production, I asked ChatGPT to estimate how long would a senior software engineer take to finish something that has about 130 story points (estimated both by reviewing the repo/code to do raw estimates, as well as using the project plans Epic/Task breakdown)? \n\nAnd the answer is roughly 5 sprints, which would mean 2.5 months. And I'm not even an engineer. This is pretty stunning.\n\nOh, by the way, the app works. Granted small user base (<5) but it works.",
-    "url": "https://x.com/melodykoh/status/1989368377278603752",
-    "timestamp": "2025-11-14T16:22:36.000Z",
-    "metadata": {
-      "conversation_id": "1989368377278603752",
-      "likes": 20,
-      "retweets": 0,
-      "replies": 5,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989367049798463950",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@ben_vargas @HanifCarroll @FactoryAI Yeah true, It does feel like using factory models themselves does provide better integration/planning/execution than using like BYOK I have found, or at least using grok code fast and grok 4 fast, havent tried chatcpt as a BYOK yet.",
-    "url": "https://x.com/martin_ict_algo/status/1989367049798463950",
-    "timestamp": "2025-11-14T16:17:19.000Z",
-    "metadata": {
-      "conversation_id": "1989367049798463950",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989364869175685580",
-    "source": "twitter",
-    "author": "HanifCarroll",
-    "content": "@martin_ict_algo @ben_vargas @FactoryAI Yep, exactly! But someone in another comment said that it Factory uses more tokens so you'll hit the rate limit more quickly. Something to keep in mind.",
-    "url": "https://x.com/HanifCarroll/status/1989364869175685580",
-    "timestamp": "2025-11-14T16:08:40.000Z",
-    "metadata": {
-      "conversation_id": "1989364869175685580",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -648,6 +648,19 @@
       "type": "issue",
       "labels": [],
       "number": 308
+    }
+  },
+  {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {

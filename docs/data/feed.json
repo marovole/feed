@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989461969720823879",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "If you're an engineering leader and you're not enabling your engineering teams to use @ampcode or @factoryai Droid or @cursor, you're leaving massive productivity gains on the table.",
+    "url": "https://x.com/curiouslychase/status/1989461969720823879",
+    "timestamp": "2025-11-14T22:34:30.000Z",
+    "metadata": {
+      "conversation_id": "1989461969720823879",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989461566379737449",
+    "source": "twitter",
+    "author": "davidrsdlife",
+    "content": "@jackfriks @UltraLinx droid from @FactoryAI though…\n\nreally, really good.",
+    "url": "https://x.com/davidrsdlife/status/1989461566379737449",
+    "timestamp": "2025-11-14T22:32:54.000Z",
+    "metadata": {
+      "conversation_id": "1989461566379737449",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989461400482357617",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@ben_vargas @FactoryAI this is big man!",
+    "url": "https://x.com/bradvangelder/status/1989461400482357617",
+    "timestamp": "2025-11-14T22:32:14.000Z",
+    "metadata": {
+      "conversation_id": "1989461400482357617",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989460040328384888",
     "source": "twitter",
     "author": "captaink99",
@@ -307,51 +352,6 @@
     }
   },
   {
-    "id": "twitter_1989395393852117288",
-    "source": "twitter",
-    "author": "Mng64218162",
-    "content": "@melodykoh @AnthropicAI @FactoryAI there're a lot of stuff missing here \nwhen engineers work on a new project, there're a lot of stuff happening like selecting the language/framework and considering pros/cons for each choice, designing the database for scaling, writing tons of tests, thinking about edge cases etc",
-    "url": "https://x.com/Mng64218162/status/1989395393852117288",
-    "timestamp": "2025-11-14T18:09:57.000Z",
-    "metadata": {
-      "conversation_id": "1989395393852117288",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989391173044273526",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@melodykoh @AnthropicAI @FactoryAI Nice work Melody",
-    "url": "https://x.com/martin_ict_algo/status/1989391173044273526",
-    "timestamp": "2025-11-14T17:53:11.000Z",
-    "metadata": {
-      "conversation_id": "1989391173044273526",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989390567948914957",
-    "source": "twitter",
-    "author": "prannoy_p",
-    "content": "@dakshgup I personally think sonnet 4.5 does much better in @FactoryAI than CC",
-    "url": "https://x.com/prannoy_p/status/1989390567948914957",
-    "timestamp": "2025-11-14T17:50:47.000Z",
-    "metadata": {
-      "conversation_id": "1989390567948914957",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -635,32 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 319
-    }
-  },
-  {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oomptx",
-    "source": "reddit",
-    "author": "samplifyk",
-    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
-    "timestamp": "2025-11-04T23:17:50.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
     }
   },
   {

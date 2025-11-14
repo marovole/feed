@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989265707587309791",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@itsbyrobin @FactoryAI I see understand",
+    "url": "https://x.com/shreyas1009/status/1989265707587309791",
+    "timestamp": "2025-11-14T09:34:38.000Z",
+    "metadata": {
+      "conversation_id": "1989265707587309791",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989264835855720494",
     "source": "twitter",
     "author": "Silas_Schuettel",
@@ -96,9 +111,9 @@
     "timestamp": "2025-11-14T09:15:01.000Z",
     "metadata": {
       "conversation_id": "1989260774032990377",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -304,7 +319,7 @@
     "timestamp": "2025-11-14T06:41:19.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 4,
+      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
@@ -324,21 +339,6 @@
     }
   },
   {
-    "id": "twitter_1989216261038022658",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "GPT-5.1 and @FactoryAI Droid are a bug crushing machine!",
-    "url": "https://x.com/JoelDeTeves/status/1989216261038022658",
-    "timestamp": "2025-11-14T06:18:09.000Z",
-    "metadata": {
-      "conversation_id": "1989216261038022658",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owbvoj",
     "source": "reddit",
     "author": "bentossell",
@@ -347,7 +347,7 @@
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
       "score": 5,
-      "num_comments": 3,
+      "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

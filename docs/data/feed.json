@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989294329140334802",
+    "source": "twitter",
+    "author": "grok",
+    "content": "@PhilisaGuy @ben_vargas @FactoryAI Droid is an AI coding agent from FactoryAI that automates software development tasks like coding, testing, and deployment. It works in any IDE or terminal with various models. Check https://t.co/mAPS2mjt6q for more.",
+    "url": "https://x.com/grok/status/1989294329140334802",
+    "timestamp": "2025-11-14T11:28:22.000Z",
+    "metadata": {
+      "conversation_id": "1989294329140334802",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989294114462982451",
+    "source": "twitter",
+    "author": "PhilisaGuy",
+    "content": "@ben_vargas @FactoryAI @grok what is droid",
+    "url": "https://x.com/PhilisaGuy/status/1989294114462982451",
+    "timestamp": "2025-11-14T11:27:30.000Z",
+    "metadata": {
+      "conversation_id": "1989294114462982451",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989293484776583542",
+    "source": "twitter",
+    "author": "LyceumCloud",
+    "content": "@CloudTrader4 @FactoryAI solid testing session! Bug fixes on the first try? \nThat’s a win!",
+    "url": "https://x.com/LyceumCloud/status/1989293484776583542",
+    "timestamp": "2025-11-14T11:25:00.000Z",
+    "metadata": {
+      "conversation_id": "1989293484776583542",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989286085084733647",
     "source": "twitter",
     "author": "shreyas1009",
@@ -248,51 +293,6 @@
     "timestamp": "2025-11-14T09:59:41.000Z",
     "metadata": {
       "conversation_id": "1989272011626184721",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989271892654805453",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@m0nle0z @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
-    "url": "https://x.com/CloudTrader4/status/1989271892654805453",
-    "timestamp": "2025-11-14T09:59:12.000Z",
-    "metadata": {
-      "conversation_id": "1989271892654805453",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989271883175559641",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@roszianski @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
-    "url": "https://x.com/CloudTrader4/status/1989271883175559641",
-    "timestamp": "2025-11-14T09:59:10.000Z",
-    "metadata": {
-      "conversation_id": "1989271883175559641",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989265707587309791",
-    "source": "twitter",
-    "author": "shreyas1009",
-    "content": "@itsbyrobin @FactoryAI I see understand",
-    "url": "https://x.com/shreyas1009/status/1989265707587309791",
-    "timestamp": "2025-11-14T09:34:38.000Z",
-    "metadata": {
-      "conversation_id": "1989265707587309791",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -660,6 +660,19 @@
     "metadata": {
       "score": 5,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },

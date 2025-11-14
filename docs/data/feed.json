@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989254295993381237",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@itsbyrobin @FactoryAI guess i need to try it out myself but anything more you could tell about what features are better than claude code? or what abilities like better instruction following and better quality/architecture/design code output?",
+    "url": "https://x.com/shreyas1009/status/1989254295993381237",
+    "timestamp": "2025-11-14T08:49:17.000Z",
+    "metadata": {
+      "conversation_id": "1989254295993381237",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989254170948542946",
+    "source": "twitter",
+    "author": "roszianski",
+    "content": "@CloudTrader4 @OpenAI @FactoryAI how is it?",
+    "url": "https://x.com/roszianski/status/1989254170948542946",
+    "timestamp": "2025-11-14T08:48:47.000Z",
+    "metadata": {
+      "conversation_id": "1989254170948542946",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989253422525333638",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "Yes, as long as you have a subscription to the provider it wants to use. If you don't sub to both/all providers Amp is attempting to use, you wont have it configured in CLIProxyAPI and it will fall back to routing through the Amp proxy (where they charge/deduct the token use from your wallet balance), but it will still work.\n\nI sub to both openai and anthropic, so smart mode (currently sonnet 4.5) routes to anthropic with subscription oauth use and if i invoke oracle, it routes to openai gpt-5 using sub oauth.\n\n But, if you have a 0 balance in Amp, of course the model call for provider not authenticated/configured in CLIProxyAPI would fail in the Amp proxy.\n\nYou can see the models and providers for the modes and subagents here: https://t.co/zbLRhQshqI",
+    "url": "https://x.com/ben_vargas/status/1989253422525333638",
+    "timestamp": "2025-11-14T08:45:49.000Z",
+    "metadata": {
+      "conversation_id": "1989253422525333638",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989249749657276753",
     "source": "twitter",
     "author": "ben_vargas",
@@ -68,7 +113,7 @@
       "conversation_id": "1989242914338402705",
       "likes": 2,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -281,51 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989173482715054469",
-    "source": "twitter",
-    "author": "contxtkng",
-    "content": "@CloudTrader4 @OpenAI @FactoryAI What did you think? It felt worse to me ngl",
-    "url": "https://x.com/contxtkng/status/1989173482715054469",
-    "timestamp": "2025-11-14T03:28:09.000Z",
-    "metadata": {
-      "conversation_id": "1989173482715054469",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989172853099622450",
-    "source": "twitter",
-    "author": "raulsaavedra_",
-    "content": "@ben_vargas @FactoryAI Wow I might try this out! Thanks for sharing Ben!",
-    "url": "https://x.com/raulsaavedra_/status/1989172853099622450",
-    "timestamp": "2025-11-14T03:25:39.000Z",
-    "metadata": {
-      "conversation_id": "1989172853099622450",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989172333953839483",
-    "source": "twitter",
-    "author": "drabdullahijaz",
-    "content": "@CloudTrader4 @FactoryAI What actually do you use for creating plans?",
-    "url": "https://x.com/drabdullahijaz/status/1989172333953839483",
-    "timestamp": "2025-11-14T03:23:36.000Z",
-    "metadata": {
-      "conversation_id": "1989172333953839483",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owbvoj",
     "source": "reddit",
     "author": "bentossell",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -664,19 +664,6 @@
     }
   },
   {
-    "id": "reddit_1oneja7",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
-    "timestamp": "2025-11-03T15:20:27.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1omo14j",
     "source": "reddit",
     "author": "HanSkin-reynard",
@@ -686,19 +673,6 @@
     "metadata": {
       "score": 5,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omlc3f",
-    "source": "reddit",
-    "author": "IslandOceanWater",
-    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
-    "timestamp": "2025-11-02T16:11:56.000Z",
-    "metadata": {
-      "score": 8,
-      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },

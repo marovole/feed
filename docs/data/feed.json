@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989374246393713038",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "set up hooks to manage @Context7AI mcp in @FactoryAI https://t.co/f0BC4RSlKn",
+    "url": "https://x.com/bentossell/status/1989374246393713038",
+    "timestamp": "2025-11-14T16:45:55.000Z",
+    "metadata": {
+      "conversation_id": "1989374246393713038",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989373336615620820",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@melodykoh @AnthropicAI @FactoryAI what was the project about?",
+    "url": "https://x.com/shreyas1009/status/1989373336615620820",
+    "timestamp": "2025-11-14T16:42:18.000Z",
+    "metadata": {
+      "conversation_id": "1989373336615620820",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989373280613273920",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@melodykoh @AnthropicAI @FactoryAI Great job!",
+    "url": "https://x.com/shreyas1009/status/1989373280613273920",
+    "timestamp": "2025-11-14T16:42:05.000Z",
+    "metadata": {
+      "conversation_id": "1989373280613273920",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989370174668165444",
     "source": "twitter",
     "author": "ben_vargas",
@@ -53,9 +98,9 @@
     "timestamp": "2025-11-14T16:22:36.000Z",
     "metadata": {
       "conversation_id": "1989368377278603752",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989347150413922339",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@nexiumship @FactoryAI we have a new web product coming in the next few weeks",
-    "url": "https://x.com/bentossell/status/1989347150413922339",
-    "timestamp": "2025-11-14T14:58:15.000Z",
-    "metadata": {
-      "conversation_id": "1989347150413922339",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989340430237143158",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@CloudTrader4 @OpenAI @FactoryAI Right, Cloud, let's see how well GPT-5.1-Codex performs with FactoryAI; it'll be interesting to watch the results, no?",
-    "url": "https://x.com/codewithimanshu/status/1989340430237143158",
-    "timestamp": "2025-11-14T14:31:33.000Z",
-    "metadata": {
-      "conversation_id": "1989340430237143158",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989338868987133981",
-    "source": "twitter",
-    "author": "nexiumship",
-    "content": "@FactoryAI I love droid trying to get agents on web to work as good as the CLI has been a challenge let me know any pointers.",
-    "url": "https://x.com/nexiumship/status/1989338868987133981",
-    "timestamp": "2025-11-14T14:25:21.000Z",
-    "metadata": {
-      "conversation_id": "1989338868987133981",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }

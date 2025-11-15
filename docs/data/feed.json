@@ -1,14 +1,89 @@
 [
   {
-    "id": "twitter_1989579577929470231",
+    "id": "twitter_1989581099924697258",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@ben_vargas @aeitroc @Star_Knight12 @FactoryAI it’s coming just ironing out thinking for custom models",
+    "url": "https://x.com/bentossell/status/1989581099924697258",
+    "timestamp": "2025-11-15T06:27:53.000Z",
+    "metadata": {
+      "conversation_id": "1989581099924697258",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989580941753249809",
+    "source": "twitter",
+    "author": "NZT2048",
+    "content": "@FactoryAI @bentossell That’s a big jump in pricing. Is there a breakdown of what makes the Ultra Plan different?",
+    "url": "https://x.com/NZT2048/status/1989580941753249809",
+    "timestamp": "2025-11-15T06:27:15.000Z",
+    "metadata": {
+      "conversation_id": "1989580941753249809",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989580282417000591",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@FactoryAI Sick",
+    "url": "https://x.com/draslan_eth/status/1989580282417000591",
+    "timestamp": "2025-11-15T06:24:38.000Z",
+    "metadata": {
+      "conversation_id": "1989580282417000591",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989580277555859581",
+    "source": "twitter",
+    "author": "Mattslayga",
+    "content": "Bugger this. \n\nThought I'd see how @OpenAIDevs were going...\n\nBack to droid mode @FactoryAI https://t.co/iy8408qomR",
+    "url": "https://x.com/Mattslayga/status/1989580277555859581",
+    "timestamp": "2025-11-15T06:24:37.000Z",
+    "metadata": {
+      "conversation_id": "1989580277555859581",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989579904896167996",
     "source": "twitter",
     "author": "kuilenren",
-    "content": "@FactoryAI 天啊!20亿tokens每月$2000?!😱 这简直太疯狂了!能跨模型使用Sonnet 4.5、GPT-5.1、Opus 4.1...这个Ultra计划的规格完全超出预期!Factory这是要重新定义AI工作流的游戏规则啊!",
-    "url": "https://x.com/kuilenren/status/1989579577929470231",
-    "timestamp": "2025-11-15T06:21:50.000Z",
+    "content": "@FactoryAI Holy moly! 2B tokens per month for $2000?! 😱 This is absolutely INSANE! Cross-model usage for Sonnet 4.5, GPT-5.1, Opus 4.1... The scale of this Ultra plan is completely mind-blowing! Factory is literally rewriting the rules of AI workflows! 🚀",
+    "url": "https://x.com/kuilenren/status/1989579904896167996",
+    "timestamp": "2025-11-15T06:23:08.000Z",
     "metadata": {
-      "conversation_id": "1989579577929470231",
-      "likes": 0,
+      "conversation_id": "1989579904896167996",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989579699199382010",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@DanielW_Kiwi @AmpCode @FactoryAI @Cursor Totally. I think codex, copilot and Claude code seem to be more prevalent and easy to get approvals for.",
+    "url": "https://x.com/curiouslychase/status/1989579699199382010",
+    "timestamp": "2025-11-15T06:22:19.000Z",
+    "metadata": {
+      "conversation_id": "1989579699199382010",
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -128,7 +203,7 @@
       "conversation_id": "1989568847150813633",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -238,81 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989536616562704400",
-    "source": "twitter",
-    "author": "traskjd",
-    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor Put more simply: they’re not leaders.\n\nI’m already advising C-suites to fire their CTOs if they’ve not adopted and got an AI plan.",
-    "url": "https://x.com/traskjd/status/1989536616562704400",
-    "timestamp": "2025-11-15T03:31:07.000Z",
-    "metadata": {
-      "conversation_id": "1989536616562704400",
-      "likes": 7,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989535053538542035",
-    "source": "twitter",
-    "author": "fred_pope",
-    "content": "@melodykoh @AnthropicAI @FactoryAI Chat tends to overestimate time. But you can fly with the agents. And if you really learn how to use CC, then you can do everything there with the agent-sdk. Worth your time to learn. You'll approach things differently.",
-    "url": "https://x.com/fred_pope/status/1989535053538542035",
-    "timestamp": "2025-11-15T03:24:55.000Z",
-    "metadata": {
-      "conversation_id": "1989535053538542035",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989530488579789229",
-    "source": "twitter",
-    "author": "Osantobi",
-    "content": "@FactoryAI Fuck this shit",
-    "url": "https://x.com/Osantobi/status/1989530488579789229",
-    "timestamp": "2025-11-15T03:06:46.000Z",
-    "metadata": {
-      "conversation_id": "1989530488579789229",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989527435059327266",
-    "source": "twitter",
-    "author": "Chaos2Cured",
-    "content": "@FactoryAI Is it tied in any way with OpenAI? \n\nIf so, I won’t touch it. \n\nWhich API base? •",
-    "url": "https://x.com/Chaos2Cured/status/1989527435059327266",
-    "timestamp": "2025-11-15T02:54:38.000Z",
-    "metadata": {
-      "conversation_id": "1989527435059327266",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989526005963526464",
-    "source": "twitter",
-    "author": "m0nle0z",
-    "content": "@FactoryAI Valid for anyone needing that kind of scale.",
-    "url": "https://x.com/m0nle0z/status/1989526005963526464",
-    "timestamp": "2025-11-15T02:48:58.000Z",
-    "metadata": {
-      "conversation_id": "1989526005963526464",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ox98ue",
     "source": "reddit",
     "author": "bentossell",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

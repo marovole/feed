@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989687809909686293",
+    "source": "twitter",
+    "author": "C72Al",
+    "content": "Agreed. I switched to droid to test it for a complex video creation tool and it was faster and had less bugs when it completed tasks plus the documentation was 🔥.\n\nI won’t even begin to understand how this works. Hopefully not by some sophistication that is losing money as a customer acquisition!\n\nMy thoughts were that it is managing token use and compaction in the background so that it is more knowledgeable as it proceeds through complex workflows?",
+    "url": "https://x.com/C72Al/status/1989687809909686293",
+    "timestamp": "2025-11-15T13:31:55.000Z",
+    "metadata": {
+      "conversation_id": "1989687809909686293",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989687176662323298",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "@IceSolst try droid from @factoryAI",
+    "url": "https://x.com/MickeyShaughnes/status/1989687176662323298",
+    "timestamp": "2025-11-15T13:29:24.000Z",
+    "metadata": {
+      "conversation_id": "1989687176662323298",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989684975097037293",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@5aikat @iannuttall @shadcn @FactoryAI you need to restart droid for it to show in the /menu",
+    "url": "https://x.com/bentossell/status/1989684975097037293",
+    "timestamp": "2025-11-15T13:20:39.000Z",
+    "metadata": {
+      "conversation_id": "1989684975097037293",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989684452939976764",
     "source": "twitter",
     "author": "codewithimanshu",
@@ -25,7 +70,7 @@
       "conversation_id": "1989683068056093173",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989678060535521456",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@cjayls @AdhamAlkhaja @FactoryAI yes",
-    "url": "https://x.com/bentossell/status/1989678060535521456",
-    "timestamp": "2025-11-15T12:53:10.000Z",
-    "metadata": {
-      "conversation_id": "1989678060535521456",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989677466827526325",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Bogorad @FactoryAI not a lie. you get the bonus every month too - so every month you have 2B tokens to use",
-    "url": "https://x.com/bentossell/status/1989677466827526325",
-    "timestamp": "2025-11-15T12:50:49.000Z",
-    "metadata": {
-      "conversation_id": "1989677466827526325",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989673890327806268",
-    "source": "twitter",
-    "author": "kksrini89",
-    "content": "@bentossell @Context7AI @FactoryAI Just watched the video. Really helpful to see this in action! Thanks for sharing 🙏",
-    "url": "https://x.com/kksrini89/status/1989673890327806268",
-    "timestamp": "2025-11-15T12:36:36.000Z",
-    "metadata": {
-      "conversation_id": "1989673890327806268",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }

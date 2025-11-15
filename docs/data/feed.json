@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989740415365648860",
+    "source": "twitter",
+    "author": "nuspy",
+    "content": "@bentossell @FactoryAI found it... https://t.co/nZ1AGNtfM4\nThx.. joined. :)",
+    "url": "https://x.com/nuspy/status/1989740415365648860",
+    "timestamp": "2025-11-15T17:00:57.000Z",
+    "metadata": {
+      "conversation_id": "1989740415365648860",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989737978667933864",
     "source": "twitter",
     "author": "nuspy",
@@ -98,7 +113,7 @@
     "timestamp": "2025-11-15T15:54:05.000Z",
     "metadata": {
       "conversation_id": "1989723590644887707",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -276,7 +291,7 @@
     "timestamp": "2025-11-15T15:12:57.000Z",
     "metadata": {
       "conversation_id": "1989713238477738008",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -294,21 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989707640532767031",
-    "source": "twitter",
-    "author": "doesdatmaksense",
-    "content": "it’s crazy to think how so less people knows about @FactoryAI droid\nit’s one heck of a coding agent and excels in context management!!",
-    "url": "https://x.com/doesdatmaksense/status/1989707640532767031",
-    "timestamp": "2025-11-15T14:50:43.000Z",
-    "metadata": {
-      "conversation_id": "1989707640532767031",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 2,
       "quotes": 0
     }
   },
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -596,6 +596,19 @@
       "type": "issue",
       "labels": [],
       "number": 330
+    }
+  },
+  {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {

@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1989612481078333471",
+    "source": "twitter",
+    "author": "degenhours",
+    "content": "@bentossell @yzx396 @FactoryAI when trying to get the 10M tokens to try out droid I get this error after submitting my card details: {\"detail\":\"Vercel BotId check failed. Ensure your browser or network firewall is not blocking BotId scripts.\",\"\n\nCan you please look into it",
+    "url": "https://x.com/degenhours/status/1989612481078333471",
+    "timestamp": "2025-11-15T08:32:35.000Z",
+    "metadata": {
+      "conversation_id": "1989612481078333471",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989612143621132297",
+    "source": "twitter",
+    "author": "Ethan_Smartsys",
+    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor Feels like the 'no-code' moment all over again. Powerful tools, but the real bottleneck is still strategy.",
+    "url": "https://x.com/Ethan_Smartsys/status/1989612143621132297",
+    "timestamp": "2025-11-15T08:31:14.000Z",
+    "metadata": {
+      "conversation_id": "1989612143621132297",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989610284453904755",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@magma_man_dd @FactoryAI cute",
+    "url": "https://x.com/bentossell/status/1989610284453904755",
+    "timestamp": "2025-11-15T08:23:51.000Z",
+    "metadata": {
+      "conversation_id": "1989610284453904755",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989610170389868758",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AdhamAlkhaja @FactoryAI max plan? :)",
+    "url": "https://x.com/bentossell/status/1989610170389868758",
+    "timestamp": "2025-11-15T08:23:24.000Z",
+    "metadata": {
+      "conversation_id": "1989610170389868758",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989609109230932026",
     "source": "twitter",
     "author": "aspenwokeley",
@@ -25,7 +85,7 @@
       "conversation_id": "1989607651173646777",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -100,7 +160,7 @@
       "conversation_id": "1989605298638631336",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -143,7 +203,7 @@
     "timestamp": "2025-11-15T07:57:43.000Z",
     "metadata": {
       "conversation_id": "1989603706149777905",
-      "likes": 4,
+      "likes": 5,
       "retweets": 2,
       "replies": 2,
       "quotes": 0
@@ -233,66 +293,6 @@
     "timestamp": "2025-11-15T07:30:49.000Z",
     "metadata": {
       "conversation_id": "1989596939147776297",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989596647295521171",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "I assume you mean warp - I did look at it but there wasn't an immediate way I saw to set a baseURL and have it route to proxy first - someone would have to capture the requests and see how requests are structured and re-map them, I don't use warp personally so I didn't put too much effort into that one.",
-    "url": "https://x.com/ben_vargas/status/1989596647295521171",
-    "timestamp": "2025-11-15T07:29:40.000Z",
-    "metadata": {
-      "conversation_id": "1989596647295521171",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989596568723263785",
-    "source": "twitter",
-    "author": "aeitroc",
-    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor An Engineer with cursor is not an engineer,is a waiter who is learning.",
-    "url": "https://x.com/aeitroc/status/1989596568723263785",
-    "timestamp": "2025-11-15T07:29:21.000Z",
-    "metadata": {
-      "conversation_id": "1989596568723263785",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989594791701876864",
-    "source": "twitter",
-    "author": "iamRamavar",
-    "content": "@ben_vargas @trungns95vn @FactoryAI Okay, let me check - how can I use wrap dev using proxy?",
-    "url": "https://x.com/iamRamavar/status/1989594791701876864",
-    "timestamp": "2025-11-15T07:22:17.000Z",
-    "metadata": {
-      "conversation_id": "1989594791701876864",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989592481986482220",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@theodorvaryag @FactoryAI looks like vercel blocked your email. ping support@factory.ai and they should get you unblocked",
-    "url": "https://x.com/bentossell/status/1989592481986482220",
-    "timestamp": "2025-11-15T07:13:07.000Z",
-    "metadata": {
-      "conversation_id": "1989592481986482220",
       "likes": 1,
       "retweets": 0,
       "replies": 0,
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

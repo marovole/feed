@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1989658060588290158",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "Just had a chat with a friend of mine yesterday and we agreed it’s more effective to spend money on those max plans from @FactoryAI @claudeai and @OpenAI Codex than getting a new employee \n\nSo much more powerful to have AI to build things in parallel",
+    "url": "https://x.com/pascallammers_/status/1989658060588290158",
+    "timestamp": "2025-11-15T11:33:42.000Z",
+    "metadata": {
+      "conversation_id": "1989658060588290158",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_366",
+    "source": "github",
+    "author": "nikolas-sturm",
+    "content": "[Issue] Extension not working in WSL\n\nHi, my usual setup consists of VSC connecting to WSL Debian where all my projects reside. The Claude Code extension for VSC works perfectly fine in this setup, however I found that the droid extension is not recognized by the CLI when a WSL workspace is open. It instantly starts working when i open the windows native droid CLI in a non WSL workspace in VSC. I also found that trying to install the extension through the `/settings` menu simply fails when inside WSL. ",
+    "url": "https://github.com/Factory-AI/factory/issues/366",
+    "timestamp": "2025-11-15T11:29:55Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 366
+    }
+  },
+  {
     "id": "twitter_1989646526478737764",
     "source": "twitter",
     "author": "cjayls",
@@ -285,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989607127090893214",
-    "source": "twitter",
-    "author": "Scobleizer",
-    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor Totally agree",
-    "url": "https://x.com/Scobleizer/status/1989607127090893214",
-    "timestamp": "2025-11-15T08:11:18.000Z",
-    "metadata": {
-      "conversation_id": "1989607127090893214",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -398,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -612,6 +625,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -635,6 +661,19 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -700,19 +739,6 @@
       "type": "issue",
       "labels": [],
       "number": 300
-    }
-  },
-  {
-    "id": "github_issue_298",
-    "source": "github",
-    "author": "tgerighty",
-    "content": "[Issue] bug: droids using custom model with same name as a built-in model use the built-in model\n\nI have a number of droids defined and they all use the custom model defined in the droid. However, instead of using the custom model, they're being remapped to use the factory built-in model instead. This happens when your custom model has the same name as a factory model, which in my case I want to use my GLM-4.6 account with z.ai rather than using the factory model. \n\n**1. Droid Configuration Evidence (Custom Models Defined):**\n\ndroids/code-reviewer-droid-forge.md`\n\n   yaml\n     ---\n     name:",
-    "url": "https://github.com/Factory-AI/factory/issues/298",
-    "timestamp": "2025-11-01T16:36:44Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 298
     }
   },
   {

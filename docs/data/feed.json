@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1989721429307257231",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "This is a side project with small number of users so the test coverage is definitely not the most robust. In retrospect I could’ve spent more time have CC write up robust testing plans that it can do itself without me, but I wanted to get to production and have my son started using it, so I think I ended up spending a bit more cycle doing the back and forth w manual bug finding > fixes.",
+    "url": "https://x.com/melodykoh/status/1989721429307257231",
+    "timestamp": "2025-11-15T15:45:30.000Z",
+    "metadata": {
+      "conversation_id": "1989721429307257231",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989720973025710346",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "@codewithimanshu @AnthropicAI @FactoryAI If you think about it, it’s the similar type of work a traditional PM would do - creating robust specs, discussing and reviewing key technical decisions w engineers, manual QA (some things just have to be manually verified despite test coverage).",
+    "url": "https://x.com/melodykoh/status/1989720973025710346",
+    "timestamp": "2025-11-15T15:43:41.000Z",
+    "metadata": {
+      "conversation_id": "1989720973025710346",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989720685850087616",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "@pascallammers_ @FactoryAI @claudeai @OpenAI Context dependent, but the best would be fewer engineers or product types who are very fluent with these tools as each of them can be 5-10x leveraged. Or subject-matter expert who can learn this and goes from 0 to 1x engineer",
+    "url": "https://x.com/melodykoh/status/1989720685850087616",
+    "timestamp": "2025-11-15T15:42:33.000Z",
+    "metadata": {
+      "conversation_id": "1989720685850087616",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989720283486257594",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "@alemart87 @AnthropicAI @FactoryAI Interesting. Is it CLI or IDE? Or something else?",
+    "url": "https://x.com/melodykoh/status/1989720283486257594",
+    "timestamp": "2025-11-15T15:40:57.000Z",
+    "metadata": {
+      "conversation_id": "1989720283486257594",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989720158542201006",
+    "source": "twitter",
+    "author": "haojun222",
+    "content": "@melodykoh @AnthropicAI @FactoryAI More like 1000X engineers",
+    "url": "https://x.com/haojun222/status/1989720158542201006",
+    "timestamp": "2025-11-15T15:40:27.000Z",
+    "metadata": {
+      "conversation_id": "1989720158542201006",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989720154343608526",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "@fred_pope @AnthropicAI @FactoryAI I just started using some CC plugins by the @every folks and wow the power of super robust planning/reviewing, and setting up worktrees and multiple agents to crank through issues in parallel is amazing",
+    "url": "https://x.com/melodykoh/status/1989720154343608526",
+    "timestamp": "2025-11-15T15:40:26.000Z",
+    "metadata": {
+      "conversation_id": "1989720154343608526",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989719802634457244",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "The ones that know how to use these tools are going to be 10x engineers, so they’ll command just as much if not more. Even more for those who can think product and just become “product engineers,” and same the other way around (ie PMs who can stretch into engineering).\n\nThe ones that don’t I think are the ones that will be left behind.",
+    "url": "https://x.com/melodykoh/status/1989719802634457244",
+    "timestamp": "2025-11-15T15:39:02.000Z",
+    "metadata": {
+      "conversation_id": "1989719802634457244",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_370",
     "source": "github",
     "author": "aranej",
@@ -126,7 +231,7 @@
       "conversation_id": "1989699172581151107",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -221,111 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989694466555273513",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@mhadtk @jcurtis @FactoryAI 🔥",
-    "url": "https://x.com/bentossell/status/1989694466555273513",
-    "timestamp": "2025-11-15T13:58:22.000Z",
-    "metadata": {
-      "conversation_id": "1989694466555273513",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989693400879095854",
-    "source": "twitter",
-    "author": "tinkerersanky",
-    "content": "@bentossell @FactoryAI That would be amazing.",
-    "url": "https://x.com/tinkerersanky/status/1989693400879095854",
-    "timestamp": "2025-11-15T13:54:08.000Z",
-    "metadata": {
-      "conversation_id": "1989693400879095854",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989689812744368263",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "yep - hit and miss; doesn't always do so. \n\nthat has not stopped me from keeping on building hooks .. 😅\n\nits built on Ryan's @ryancarson 2-file harness of generating prd & tasks, with couple of home grown \n\n> design validator (no ai-slop purple/shade etc) \n> cutting spec/feature creep and deploy every few hours (perfection is enemy of done)\n\nthese are few which will revolutionise my workflow 👇",
-    "url": "https://x.com/5aikat/status/1989689812744368263",
-    "timestamp": "2025-11-15T13:39:52.000Z",
-    "metadata": {
-      "conversation_id": "1989689812744368263",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989689469415432537",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@FactoryAI Factory, that's a steep price for tokens! But imagine the possibilities, eh?",
-    "url": "https://x.com/codewithimanshu/status/1989689469415432537",
-    "timestamp": "2025-11-15T13:38:30.000Z",
-    "metadata": {
-      "conversation_id": "1989689469415432537",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989689381637267802",
-    "source": "twitter",
-    "author": "kksrini89",
-    "content": "@bentossell @Context7AI @FactoryAI @AmpCode Sure!",
-    "url": "https://x.com/kksrini89/status/1989689381637267802",
-    "timestamp": "2025-11-15T13:38:09.000Z",
-    "metadata": {
-      "conversation_id": "1989689381637267802",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989688841855176946",
-    "source": "twitter",
-    "author": "magma_man_dd",
-    "content": "@bentossell @FactoryAI I disagree with them too bro. Same for claude code or codex. We are all waiting for oss to reach gpt 5 tier so we can leave this bs behind.",
-    "url": "https://x.com/magma_man_dd/status/1989688841855176946",
-    "timestamp": "2025-11-15T13:36:01.000Z",
-    "metadata": {
-      "conversation_id": "1989688841855176946",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989688646652309777",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@kksrini89 @Context7AI @FactoryAI @AmpCode awesome - im all ears to hear how it could be even better for you",
-    "url": "https://x.com/bentossell/status/1989688646652309777",
-    "timestamp": "2025-11-15T13:35:14.000Z",
-    "metadata": {
-      "conversation_id": "1989688646652309777",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -648,6 +648,19 @@
       "type": "issue",
       "labels": [],
       "number": 325
+    }
+  },
+  {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {

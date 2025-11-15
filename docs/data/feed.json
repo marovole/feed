@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1989779083765387330",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@constantin_e21 @FactoryAI coming soon",
+    "url": "https://x.com/bentossell/status/1989779083765387330",
+    "timestamp": "2025-11-15T19:34:36.000Z",
+    "metadata": {
+      "conversation_id": "1989779083765387330",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989778892639687094",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@brooksjordan @FactoryAI 👀",
+    "url": "https://x.com/bentossell/status/1989778892639687094",
+    "timestamp": "2025-11-15T19:33:50.000Z",
+    "metadata": {
+      "conversation_id": "1989778892639687094",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989778846162264206",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@OlivierDDR @FactoryAI sorry yeah hit a few of these today, teams fixing!",
+    "url": "https://x.com/bentossell/status/1989778846162264206",
+    "timestamp": "2025-11-15T19:33:39.000Z",
+    "metadata": {
+      "conversation_id": "1989778846162264206",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989777552685277280",
+    "source": "twitter",
+    "author": "hatchprop",
+    "content": "@ChrisVanDerKlau @FactoryAI https://t.co/sV1hCgpKH2",
+    "url": "https://x.com/hatchprop/status/1989777552685277280",
+    "timestamp": "2025-11-15T19:28:31.000Z",
+    "metadata": {
+      "conversation_id": "1989777552685277280",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989776189074846037",
     "source": "twitter",
     "author": "ChrisVanDerKlau",
@@ -10,7 +70,7 @@
       "conversation_id": "1989776189074846037",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +113,7 @@
     "timestamp": "2025-11-15T18:35:54.000Z",
     "metadata": {
       "conversation_id": "1989764313037647906",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +128,7 @@
     "timestamp": "2025-11-15T18:25:12.000Z",
     "metadata": {
       "conversation_id": "1989761617068744814",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,7 +143,7 @@
     "timestamp": "2025-11-15T18:24:13.000Z",
     "metadata": {
       "conversation_id": "1989761371287032085",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -130,7 +190,7 @@
       "conversation_id": "1989755126454882534",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -173,9 +233,9 @@
     "timestamp": "2025-11-15T17:07:52.000Z",
     "metadata": {
       "conversation_id": "1989742156802920667",
-      "likes": 3,
+      "likes": 5,
       "retweets": 1,
-      "replies": 1,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -220,7 +280,7 @@
       "conversation_id": "1989732805673160860",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -234,66 +294,6 @@
     "metadata": {
       "conversation_id": "1989731724067270809",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989729465665257564",
-    "source": "twitter",
-    "author": "doesdatmaksense",
-    "content": "@manthanguptaa @FactoryAI you definitely contributed to the tweet, par doh din mei mujhe 4-5 log mile😂",
-    "url": "https://x.com/doesdatmaksense/status/1989729465665257564",
-    "timestamp": "2025-11-15T16:17:26.000Z",
-    "metadata": {
-      "conversation_id": "1989729465665257564",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989729221229646131",
-    "source": "twitter",
-    "author": "manthanguptaa",
-    "content": "@doesdatmaksense @FactoryAI Aisa subtweet after our call",
-    "url": "https://x.com/manthanguptaa/status/1989729221229646131",
-    "timestamp": "2025-11-15T16:16:28.000Z",
-    "metadata": {
-      "conversation_id": "1989729221229646131",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989726265410977878",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@alemart87 @AnthropicAI @FactoryAI Oh I see. I never learned to use IDE so once I started using CC in terminal I didn’t feel the need to learn it so I just stayed in CLI",
-    "url": "https://x.com/melodykoh/status/1989726265410977878",
-    "timestamp": "2025-11-15T16:04:43.000Z",
-    "metadata": {
-      "conversation_id": "1989726265410977878",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989723590644887707",
-    "source": "twitter",
-    "author": "athleticKoder",
-    "content": "@doesdatmaksense @FactoryAI @matanSF cooked",
-    "url": "https://x.com/athleticKoder/status/1989723590644887707",
-    "timestamp": "2025-11-15T15:54:05.000Z",
-    "metadata": {
-      "conversation_id": "1989723590644887707",
-      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }

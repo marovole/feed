@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989600585726005426",
+    "source": "twitter",
+    "author": "iamRamavar",
+    "content": "@ben_vargas @trungns95vn @FactoryAI Okay thanks @ben_vargas seems amp got updated - I did login first - then set proxy still unable to get it working - can you may be update setting or docs or an video with latest cli will help please",
+    "url": "https://x.com/iamRamavar/status/1989600585726005426",
+    "timestamp": "2025-11-15T07:45:19.000Z",
+    "metadata": {
+      "conversation_id": "1989600585726005426",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989599862279528529",
     "source": "twitter",
     "author": "NZT2048",
@@ -55,7 +70,7 @@
       "conversation_id": "1989596647295521171",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989579904896167996",
-    "source": "twitter",
-    "author": "kuilenren",
-    "content": "@FactoryAI Holy moly! 2B tokens per month for $2000?! 😱 This is absolutely INSANE! Cross-model usage for Sonnet 4.5, GPT-5.1, Opus 4.1... The scale of this Ultra plan is completely mind-blowing! Factory is literally rewriting the rules of AI workflows! 🚀",
-    "url": "https://x.com/kuilenren/status/1989579904896167996",
-    "timestamp": "2025-11-15T06:23:08.000Z",
-    "metadata": {
-      "conversation_id": "1989579904896167996",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

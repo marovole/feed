@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1989764313037647906",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "@mahaniok Still haven’t seen any real numbers on these GEO for their customers moving the needle. \n\nWe’ve been able to simulate this just using @FactoryAI Droid and having Claude write new content.  Lower risk and cost.",
+    "url": "https://x.com/KirkMarple/status/1989764313037647906",
+    "timestamp": "2025-11-15T18:35:54.000Z",
+    "metadata": {
+      "conversation_id": "1989764313037647906",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989761617068744814",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@drabdullahijaz @FactoryAI Model: GPT-5.1-Codex\nPrompt was explicity telling the tech stack, desired features and some other specifications.",
+    "url": "https://x.com/CloudTrader4/status/1989761617068744814",
+    "timestamp": "2025-11-15T18:25:12.000Z",
+    "metadata": {
+      "conversation_id": "1989761617068744814",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989761371287032085",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@AIgentAGI @FactoryAI I used Claude Skills for design which droid v0.26 release nake it possible and it was pretty good actually.\n\nWill trt 5.1 to prompt Codex too thanks for the tip",
+    "url": "https://x.com/CloudTrader4/status/1989761371287032085",
+    "timestamp": "2025-11-15T18:24:13.000Z",
+    "metadata": {
+      "conversation_id": "1989761371287032085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989760955044303174",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@RayFernando1337 @FactoryAI Thanks!",
+    "url": "https://x.com/CloudTrader4/status/1989760955044303174",
+    "timestamp": "2025-11-15T18:22:34.000Z",
+    "metadata": {
+      "conversation_id": "1989760955044303174",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989757634350911871",
     "source": "twitter",
     "author": "OlivierDDR",
@@ -38,9 +98,9 @@
     "timestamp": "2025-11-15T17:36:43.000Z",
     "metadata": {
       "conversation_id": "1989749416493027747",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989720685850087616",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@pascallammers_ @FactoryAI @claudeai @OpenAI Context dependent, but the best would be fewer engineers or product types who are very fluent with these tools as each of them can be 5-10x leveraged. Or subject-matter expert who can learn this and goes from 0 to 1x engineer",
-    "url": "https://x.com/melodykoh/status/1989720685850087616",
-    "timestamp": "2025-11-15T15:42:33.000Z",
-    "metadata": {
-      "conversation_id": "1989720685850087616",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989720283486257594",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@alemart87 @AnthropicAI @FactoryAI Interesting. Is it CLI or IDE? Or something else?",
-    "url": "https://x.com/melodykoh/status/1989720283486257594",
-    "timestamp": "2025-11-15T15:40:57.000Z",
-    "metadata": {
-      "conversation_id": "1989720283486257594",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989720158542201006",
-    "source": "twitter",
-    "author": "haojun222",
-    "content": "@melodykoh @AnthropicAI @FactoryAI More like 1000X engineers",
-    "url": "https://x.com/haojun222/status/1989720158542201006",
-    "timestamp": "2025-11-15T15:40:27.000Z",
-    "metadata": {
-      "conversation_id": "1989720158542201006",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989720154343608526",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@fred_pope @AnthropicAI @FactoryAI I just started using some CC plugins by the @every folks and wow the power of super robust planning/reviewing, and setting up worktrees and multiple agents to crank through issues in parallel is amazing",
-    "url": "https://x.com/melodykoh/status/1989720154343608526",
-    "timestamp": "2025-11-15T15:40:26.000Z",
-    "metadata": {
-      "conversation_id": "1989720154343608526",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_370",
     "source": "github",
     "author": "aranej",
@@ -336,19 +336,6 @@
       "type": "issue",
       "labels": [],
       "number": 366
-    }
-  },
-  {
-    "id": "reddit_1oxk7bb",
-    "source": "reddit",
-    "author": "EggNo4904",
-    "content": "Anybody else getting the pretty-print? vercel security etc. dk why it wont accept my card.\n\nThumbnail: self\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oxk7bb/anybody_else_getting_the_prettyprint_vercel/",
-    "timestamp": "2025-11-15T06:07:46.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -391,41 +378,15 @@
     }
   },
   {
-    "id": "reddit_1ox6p07",
-    "source": "reddit",
-    "author": "ShipSpecialist6727",
-    "content": "Being charge for all limit overage while having credit balance\n\nhttps://preview.redd.it/apq9eqc22a1g1.png?width=713&amp;format=png&amp;auto=webp&amp;s=b55698314d83f7e933e7c750576ab10285a54f3a\n\nhttps://preview.redd.it/c4n0ms032a1g1.png?width=1088&amp;format=png&amp;auto=webp&amp;s=4c124b65440a28c118b9d8a714f0da7618eaf4aa\n\nhttps://preview.redd.it/h2scb4072a1g1.png?width=1226&amp;format=png&amp;auto=webp&amp;s=7fbc4d224122903a737d9f9b4ed0c2092e03ce72\n\n  \nI'm being charge for 40$ limit overage while having my credit balance from my referral .  \nThe support is to",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox6p07/being_charge_for_all_limit_overage_while_having/",
-    "timestamp": "2025-11-14T19:54:09.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1owpdgs",
-    "source": "reddit",
-    "author": "Informal-Spinach-345",
-    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
-    "timestamp": "2025-11-14T06:41:19.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1owbvoj",
+    "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
-    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
-    "timestamp": "2025-11-13T20:22:54.000Z",
+    "content": "how to set up custom models with Groq in &lt;1 min\n\nhttps://reddit.com/link/1owv5gf/video/vfpxccohu71g1/player\n\nvideo above  \ndocs: [https://docs.factory.ai/cli/byok/groq](https://docs.factory.ai/cli/byok/groq)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owv5gf/how_to_set_up_custom_models_with_groq_in_1_min/",
+    "timestamp": "2025-11-14T12:27:05.000Z",
     "metadata": {
-      "score": 7,
-      "num_comments": 4,
+      "score": 1,
+      "num_comments": 0,
       "subreddit": "FactoryAi"
     }
   },
@@ -453,6 +414,19 @@
       "type": "issue",
       "labels": [],
       "number": 345
+    }
+  },
+  {
+    "id": "reddit_1ovbn7q",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
+    "timestamp": "2025-11-12T17:34:16.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -547,6 +521,19 @@
     }
   },
   {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -586,6 +573,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -609,6 +609,32 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -651,6 +677,19 @@
     }
   },
   {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -658,60 +697,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
   {
-    "id": "reddit_1om3tvt",
+    "id": "reddit_1oljgx4",
     "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
-    "timestamp": "2025-11-02T00:38:45.000Z",
+    "author": "steve1215",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
+    "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 9,
-      "num_comments": 13,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofmunx",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
-    "metadata": {
-      "score": 13,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 21,
+      "score": 4,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },

@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990079239232614642",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@stuartinzg @FactoryAI best email is support@factory.ai to help unblock account issues",
+    "url": "https://x.com/bentossell/status/1990079239232614642",
+    "timestamp": "2025-11-16T15:27:19.000Z",
+    "metadata": {
+      "conversation_id": "1990079239232614642",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990072382359285995",
     "source": "twitter",
     "author": "melodykoh",
@@ -40,7 +55,7 @@
       "conversation_id": "1990066834163347472",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -281,21 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989939791652061558",
-    "source": "twitter",
-    "author": "kcosr",
-    "content": "@SvenMeyer @FactoryAI If I had to speculate, I'd say it seems like the initial instructions might have been pruned from context by the time the task finished. I don't see how to check context usage but here are the token counts, compared to codex (codex has the bars). https://t.co/v61Y7lfSma",
-    "url": "https://x.com/kcosr/status/1989939791652061558",
-    "timestamp": "2025-11-16T06:13:12.000Z",
-    "metadata": {
-      "conversation_id": "1989939791652061558",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -635,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 330
-    }
-  },
-  {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {

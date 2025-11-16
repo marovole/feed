@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990085950785929696",
+    "source": "twitter",
+    "author": "jacobferus",
+    "content": "@FactoryAI Tried to sign up, but just got an error when entering my number. Are you not available in EU or something?",
+    "url": "https://x.com/jacobferus/status/1990085950785929696",
+    "timestamp": "2025-11-16T15:53:59.000Z",
+    "metadata": {
+      "conversation_id": "1990085950785929696",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990085860428026302",
     "source": "twitter",
     "author": "MickeyShaughnes",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-16T15:53:37.000Z",
     "metadata": {
       "conversation_id": "1990085860428026302",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989956708052222214",
-    "source": "twitter",
-    "author": "b1rkh0ff",
-    "content": "@87xysr @NickADobos @FactoryAI I use anywhere between 80-190m tokens per day with claude code. Thats well over 2b tokens per month.",
-    "url": "https://x.com/b1rkh0ff/status/1989956708052222214",
-    "timestamp": "2025-11-16T07:20:25.000Z",
-    "metadata": {
-      "conversation_id": "1989956708052222214",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -635,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 330
-    }
-  },
-  {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {

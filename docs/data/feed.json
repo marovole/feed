@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989934021284171900",
+    "source": "twitter",
+    "author": "tzu1_",
+    "content": "@FactoryAI I can't register, Why I always get an error like this? @FactoryAI https://t.co/YyxCE0GPxW",
+    "url": "https://x.com/tzu1_/status/1989934021284171900",
+    "timestamp": "2025-11-16T05:50:16.000Z",
+    "metadata": {
+      "conversation_id": "1989934021284171900",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989833934079770965",
-    "source": "twitter",
-    "author": "C72Al",
-    "content": "That’s very interesting. I spent hours developing parent > children Claude rules for the main projects folder and its sub project folders so Sites > project 1 etc\n\nYet these needed careful control to prevent that child rules being ignored or superseded by Claude updating the local Claude rules. \n\nThen the doc management took up so much context that to build ongoing changelog and project_plan me files meant that I was seeing compacting far more frequently and therefore lost context and more mistakes.\n\nDroid ‘seems’ to handle the compaction far more intelligently and retains more knowledge.\n\nLastly Droid seems to handle complex cases - for example using multiple APIs and different processes based on api response more intelligently- which is the real magic.\n\nHowever you did this my estimate is that my efficiency is up 30% and output quality in both code and correct ‘one time’ output is up 60%+\n\nSo… congrats 🙌",
-    "url": "https://x.com/C72Al/status/1989833934079770965",
-    "timestamp": "2025-11-15T23:12:33.000Z",
-    "metadata": {
-      "conversation_id": "1989833934079770965",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_372",
     "source": "github",
     "author": "presidentoor",
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

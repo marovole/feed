@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990495663759753486",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@ain3sh @CloudTrader4 @FactoryAI Super interesting! it's more of a proactive skill loading situation. Our implementation basically loads the skills available at droid start (as a tool description)",
+    "url": "https://x.com/EnoReyes/status/1990495663759753486",
+    "timestamp": "2025-11-17T19:02:02.000Z",
+    "metadata": {
+      "conversation_id": "1990495663759753486",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990489680358621392",
     "source": "twitter",
     "author": "jonnydahorse",
@@ -55,7 +70,7 @@
       "conversation_id": "1990486571364311061",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -233,7 +248,7 @@
     "timestamp": "2025-11-17T13:54:59.000Z",
     "metadata": {
       "conversation_id": "1990418394060055035",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -281,21 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990396104886702095",
-    "source": "twitter",
-    "author": "BillCrosby",
-    "content": "@steipete @FactoryAI blueemi's update to trimmy is worth its weight in gold. real time saver.",
-    "url": "https://x.com/BillCrosby/status/1990396104886702095",
-    "timestamp": "2025-11-17T12:26:25.000Z",
-    "metadata": {
-      "conversation_id": "1990396104886702095",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }

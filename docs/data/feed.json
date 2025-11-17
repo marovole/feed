@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990555381240844336",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@ain3sh @CloudTrader4 @FactoryAI We add a bit more guidance for discover, but it’s definitely hard to get it to be proactive without compromising the UX.",
+    "url": "https://x.com/EnoReyes/status/1990555381240844336",
+    "timestamp": "2025-11-17T22:59:20.000Z",
+    "metadata": {
+      "conversation_id": "1990555381240844336",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990550671750541762",
     "source": "twitter",
     "author": "francesca_lab",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-17T22:40:37.000Z",
     "metadata": {
       "conversation_id": "1990550671750541762",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +68,7 @@
     "timestamp": "2025-11-17T21:51:22.000Z",
     "metadata": {
       "conversation_id": "1990538277355729072",
-      "likes": 4,
+      "likes": 6,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990443927267357015",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@DeaNHtiD99 Droid from @FactoryAI",
-    "url": "https://x.com/pascallammers_/status/1990443927267357015",
-    "timestamp": "2025-11-17T15:36:27.000Z",
-    "metadata": {
-      "conversation_id": "1990443927267357015",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

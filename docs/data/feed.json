@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990407005463257534",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "@fred_pope @AnthropicAI @FactoryAI @every Would love to check it out! Did you write the skills yourself? Do you find that you don’t need to explicitly call out the skills for them to be used?",
+    "url": "https://x.com/melodykoh/status/1990407005463257534",
+    "timestamp": "2025-11-17T13:09:44.000Z",
+    "metadata": {
+      "conversation_id": "1990407005463257534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990400390026670168",
     "source": "twitter",
     "author": "CryptoSolana_OG",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990324689840095734",
-    "source": "twitter",
-    "author": "explosivesox",
-    "content": "Dropped the bot. \n\nJust $BETTER. It's cleaner that way. \n\nBuilt with Droid by @FactoryAI \nNear zero latency thanks to @getdomeapi \nPartnered with @openservai \nPowered + co-located with @Polymarket in SF\nAlpha from @hash_dive  \n\nTrader risk scores.\n\n(copy trading beta soon) https://t.co/xBdN66odTA",
-    "url": "https://x.com/explosivesox/status/1990324689840095734",
-    "timestamp": "2025-11-17T07:42:39.000Z",
-    "metadata": {
-      "conversation_id": "1990324689840095734",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 3,
-      "quotes": 1
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }

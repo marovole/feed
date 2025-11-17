@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990564746324828478",
+    "source": "twitter",
+    "author": "Mattslayga",
+    "content": "@bentossell Probably just the @FactoryAI devs tbh",
+    "url": "https://x.com/Mattslayga/status/1990564746324828478",
+    "timestamp": "2025-11-17T23:36:33.000Z",
+    "metadata": {
+      "conversation_id": "1990564746324828478",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990563324506091923",
+    "source": "twitter",
+    "author": "caleyhui",
+    "content": "Super frustrated but pushing through.\nGot further along building out a web and iOS app using @genspark_ai then I had using @boltdotnew  or @Replit but now having issues with @RevenueCat.  Once I get that sorted, looking forward to trying @FactoryAI to check the code for bugs.",
+    "url": "https://x.com/caleyhui/status/1990563324506091923",
+    "timestamp": "2025-11-17T23:30:54.000Z",
+    "metadata": {
+      "conversation_id": "1990563324506091923",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990555381240844336",
     "source": "twitter",
     "author": "EnoReyes",
@@ -264,36 +294,6 @@
     "metadata": {
       "conversation_id": "1990469645221179423",
       "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990453668798492720",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@samuel_spitz @FactoryAI",
-    "url": "https://x.com/bentossell/status/1990453668798492720",
-    "timestamp": "2025-11-17T16:15:10.000Z",
-    "metadata": {
-      "conversation_id": "1990453668798492720",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990453078663835999",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@fred_pope @AnthropicAI @FactoryAI @every Ah makes sense. Have to take a look at hooks",
-    "url": "https://x.com/melodykoh/status/1990453078663835999",
-    "timestamp": "2025-11-17T16:12:49.000Z",
-    "metadata": {
-      "conversation_id": "1990453078663835999",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -570,19 +570,6 @@
       "type": "issue",
       "labels": [],
       "number": 345
-    }
-  },
-  {
-    "id": "reddit_1ovbn7q",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
-    "timestamp": "2025-11-12T17:34:16.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {

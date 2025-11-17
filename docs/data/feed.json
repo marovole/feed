@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990542505767751924",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@maishsk Okay this looks good.  @FactoryAI",
+    "url": "https://x.com/captaink99/status/1990542505767751924",
+    "timestamp": "2025-11-17T22:08:10.000Z",
+    "metadata": {
+      "conversation_id": "1990542505767751924",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990542024710193409",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "Confident that tools like @warpdotdev, @cursor_ai Agents and @FactoryAI will spawn a huge new cohort of \"developers\".\n\nPeople who wouldn't consider themselves \"coders\" but know how to speak the lingo and build product can now contribute in big way.\n\nSimple example will be to just talk with Warp, pull the repo, create a new branch and chat through a new feature or tweak to a product and commit it.\n\nOr if you're building something new from scratch, all you need to do is talk and it'll build for you.\n\nDictating directly into it with Agent mode and auto-accept it the most fun!\n\nOne tip for using Warp (as it's model agnostic) is to use gpt-5 or 5.1 for planning out what it is you want to build in tons of detail then switch to glm 4.6 to bring the cost way down.\n\nOh and slash commands are great to (or claude skills) for you claude code enjoyers.",
+    "url": "https://x.com/tomosman/status/1990542024710193409",
+    "timestamp": "2025-11-17T22:06:15.000Z",
+    "metadata": {
+      "conversation_id": "1990542024710193409",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990538277355729072",
     "source": "twitter",
     "author": "nathanpareo",
@@ -8,7 +38,7 @@
     "timestamp": "2025-11-17T21:51:22.000Z",
     "metadata": {
       "conversation_id": "1990538277355729072",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990429746333725147",
-    "source": "twitter",
-    "author": "fred_pope",
-    "content": "@melodykoh @AnthropicAI @FactoryAI @every Skills are like context on demand. Hooks trigger them",
-    "url": "https://x.com/fred_pope/status/1990429746333725147",
-    "timestamp": "2025-11-17T14:40:06.000Z",
-    "metadata": {
-      "conversation_id": "1990429746333725147",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990422509913579561",
-    "source": "twitter",
-    "author": "acoolcss03",
-    "content": "Current SOTA imho:\n\n@FactoryAI with Gpt 5.1 for building\n\n@cursor_ai and Sonnet 4.5 with built in browser for UI tweaks https://t.co/EQ3SlGRdGH",
-    "url": "https://x.com/acoolcss03/status/1990422509913579561",
-    "timestamp": "2025-11-17T14:11:21.000Z",
-    "metadata": {
-      "conversation_id": "1990422509913579561",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -570,6 +570,19 @@
       "type": "issue",
       "labels": [],
       "number": 345
+    }
+  },
+  {
+    "id": "reddit_1ovbn7q",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
+    "timestamp": "2025-11-12T17:34:16.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {

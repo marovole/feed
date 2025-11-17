@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990524414430228941",
+    "source": "twitter",
+    "author": "mudassir_siddi",
+    "content": "Kylan, love the 2-reviewer rule with Droid and Codex, keeps things tight without endless loops. We've got something similar in Hikaflow for PRs plus post-merge impact scans to flag regressions early. Fits your 'rinse and repeat' vibe? \nWould be fun to compare setups: https://t.co/hICfvFSkqx",
+    "url": "https://x.com/mudassir_siddi/status/1990524414430228941",
+    "timestamp": "2025-11-17T20:56:17.000Z",
+    "metadata": {
+      "conversation_id": "1990524414430228941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990518267719660008",
     "source": "twitter",
     "author": "duru_tobe",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990418831030759457",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JoelDeTeves @FactoryAI trying my best!",
-    "url": "https://x.com/bentossell/status/1990418831030759457",
-    "timestamp": "2025-11-17T13:56:44.000Z",
-    "metadata": {
-      "conversation_id": "1990418831030759457",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -530,19 +530,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow0203",
-    "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -661,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 330
-    }
-  },
-  {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {

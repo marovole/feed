@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990281115224137784",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@EnoReyes @CloudTrader4 @FactoryAI Feels very close :) https://t.co/NdEUG0j2Gq",
+    "url": "https://x.com/GitMaxd/status/1990281115224137784",
+    "timestamp": "2025-11-17T04:49:30.000Z",
+    "metadata": {
+      "conversation_id": "1990281115224137784",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990271659002204338",
     "source": "twitter",
     "author": "EnoReyes",
@@ -8,9 +23,9 @@
     "timestamp": "2025-11-17T04:11:55.000Z",
     "metadata": {
       "conversation_id": "1990271659002204338",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -83,9 +98,9 @@
     "timestamp": "2025-11-17T03:10:19.000Z",
     "metadata": {
       "conversation_id": "1990256155608957338",
-      "likes": 8,
-      "retweets": 1,
-      "replies": 2,
+      "likes": 9,
+      "retweets": 2,
+      "replies": 3,
       "quotes": 1
     }
   },
@@ -128,7 +143,7 @@
     "timestamp": "2025-11-17T01:14:34.000Z",
     "metadata": {
       "conversation_id": "1990227025093931196",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1990144107008909617",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "If you want to reset and try again...\n1. Delete the cloned git repo\n2. Delete ~/.cliproxyapi or whatever you had defined in your yaml\n3. Re-clone and go through setup.\n\nHere's a gist with my current config files for Factory with CLIProxyAPI (probably matches the md in repo). https://t.co/RBlquPIkP4\n\nWith auth setup your ~/.cli-proxy-api or whatever you have setup as your CLIProxyAPI auth key dir should look like this screenshot for the various providers auth'd.",
-    "url": "https://x.com/ben_vargas/status/1990144107008909617",
-    "timestamp": "2025-11-16T19:45:04.000Z",
-    "metadata": {
-      "conversation_id": "1990144107008909617",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oys5f5",
     "source": "reddit",
     "author": "SensitiveUpstairs803",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }

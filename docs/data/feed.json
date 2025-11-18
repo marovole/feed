@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990802164974043564",
+    "source": "twitter",
+    "author": "andreihasna",
+    "content": "@iannuttall @FactoryAI is factory cli better than codex?",
+    "url": "https://x.com/andreihasna/status/1990802164974043564",
+    "timestamp": "2025-11-18T15:19:58.000Z",
+    "metadata": {
+      "conversation_id": "1990802164974043564",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990798315936788742",
     "source": "twitter",
     "author": "nathanpareo",

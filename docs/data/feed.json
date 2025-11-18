@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1990914139993039076",
+    "source": "twitter",
+    "author": "AImpactArtist",
+    "content": "@jcurtis @GoogleAIStudio @FactoryAI so made subagents for whole teck stack. interesting",
+    "url": "https://x.com/AImpactArtist/status/1990914139993039076",
+    "timestamp": "2025-11-18T22:44:55.000Z",
+    "metadata": {
+      "conversation_id": "1990914139993039076",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990911727165161833",
+    "source": "twitter",
+    "author": "beffjezos",
+    "content": "@OfficialLoganK @FactoryAI Love it when the homies team up",
+    "url": "https://x.com/beffjezos/status/1990911727165161833",
+    "timestamp": "2025-11-18T22:35:19.000Z",
+    "metadata": {
+      "conversation_id": "1990911727165161833",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990911179678503255",
+    "source": "twitter",
+    "author": "ChaosCruxFL",
+    "content": "@nathanpareo @FactoryAI That feature is fire🔥 - I just learned about it today, used it five minutes ago.  Such a game changer for my workflow! /sessions in the CLI or web = awesome!",
+    "url": "https://x.com/ChaosCruxFL/status/1990911179678503255",
+    "timestamp": "2025-11-18T22:33:09.000Z",
+    "metadata": {
+      "conversation_id": "1990911179678503255",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990905705948234073",
     "source": "twitter",
     "author": "Klaudioz",

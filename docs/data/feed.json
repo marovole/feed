@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990725593957052580",
+    "source": "twitter",
+    "author": "buggyDcode",
+    "content": "@FactoryAI is there demand to use droid on zed :) , i might find some time to build a zed extension , for droid using ACP , can i get paid to do this hahaha or some free tokens :)p sweet!",
+    "url": "https://x.com/buggyDcode/status/1990725593957052580",
+    "timestamp": "2025-11-18T10:15:42.000Z",
+    "metadata": {
+      "conversation_id": "1990725593957052580",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990725207879717002",
+    "source": "twitter",
+    "author": "buggyDcode",
+    "content": "@FactoryAI do you guys plan to create an extension for zed? zed has some nifty protocol called ACP. Ive been using droid so far im impress , but i really like to use zed ui as i can have rewind functionality or revert changes made by any agent ...",
+    "url": "https://x.com/buggyDcode/status/1990725207879717002",
+    "timestamp": "2025-11-18T10:14:10.000Z",
+    "metadata": {
+      "conversation_id": "1990725207879717002",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -39,6 +69,19 @@
     }
   },
   {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1okwodb",
     "source": "reddit",
     "author": "Uzeii",
@@ -74,6 +117,19 @@
     "metadata": {
       "score": 12,
       "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   }

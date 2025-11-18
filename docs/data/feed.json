@@ -1,5 +1,185 @@
 [
   {
+    "id": "twitter_1990834640874021007",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@nathanpareo @FactoryAI ahh .. gotcha. \n\n1. we are all trying to trying to explain the proverbial elephant (i.e. AI CLI tools) as blind person at this point 😅\n\n2. that's fair point, never went back to chats from past week. i'd much rather restart just for the reason you mentioned .. 🙈",
+    "url": "https://x.com/5aikat/status/1990834640874021007",
+    "timestamp": "2025-11-18T17:29:00.000Z",
+    "metadata": {
+      "conversation_id": "1990834640874021007",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990834456702160926",
+    "source": "twitter",
+    "author": "roberto94610589",
+    "content": "@OfficialLoganK @danshipper @every @FactoryAI Keep improving Gemini's writing Logan pls",
+    "url": "https://x.com/roberto94610589/status/1990834456702160926",
+    "timestamp": "2025-11-18T17:28:17.000Z",
+    "metadata": {
+      "conversation_id": "1990834456702160926",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990833947698212909",
+    "source": "twitter",
+    "author": "andreihasna",
+    "content": "@bentossell @iannuttall @FactoryAI might as well.",
+    "url": "https://x.com/andreihasna/status/1990833947698212909",
+    "timestamp": "2025-11-18T17:26:15.000Z",
+    "metadata": {
+      "conversation_id": "1990833947698212909",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990833513848099116",
+    "source": "twitter",
+    "author": "imlinosuarez",
+    "content": "@FactoryAI We need project level MCP configuration. This is one of the greatest features Droid is missing.",
+    "url": "https://x.com/imlinosuarez/status/1990833513848099116",
+    "timestamp": "2025-11-18T17:24:32.000Z",
+    "metadata": {
+      "conversation_id": "1990833513848099116",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990832881292202151",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "You're right, but context:  \n1. Literally just found out about this today \n2. Web portal is still easier for certain scenarios  \n\nWhen I have 10 sessions from a week ago and need to find one specific conversation? Web portal lets me scan/filter visually vs scrolling through CLI output.  \n\nBoth have their place.",
+    "url": "https://x.com/nathanpareo/status/1990832881292202151",
+    "timestamp": "2025-11-18T17:22:01.000Z",
+    "metadata": {
+      "conversation_id": "1990832881292202151",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990832807598264439",
+    "source": "twitter",
+    "author": "_jus_nate",
+    "content": "@nathanpareo @FactoryAI It would be sick esp with how Factory often comes out on top it would be sick",
+    "url": "https://x.com/_jus_nate/status/1990832807598264439",
+    "timestamp": "2025-11-18T17:21:43.000Z",
+    "metadata": {
+      "conversation_id": "1990832807598264439",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990832739160121669",
+    "source": "twitter",
+    "author": "sporadica",
+    "content": "@creatine_cycle @FactoryAI talk your book, king",
+    "url": "https://x.com/sporadica/status/1990832739160121669",
+    "timestamp": "2025-11-18T17:21:27.000Z",
+    "metadata": {
+      "conversation_id": "1990832739160121669",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990832567776653818",
+    "source": "twitter",
+    "author": "creatine_cycle",
+    "content": "@sporadica @FactoryAI droid 🤝 new media",
+    "url": "https://x.com/creatine_cycle/status/1990832567776653818",
+    "timestamp": "2025-11-18T17:20:46.000Z",
+    "metadata": {
+      "conversation_id": "1990832567776653818",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990832189525926121",
+    "source": "twitter",
+    "author": "sporadica",
+    "content": "@FactoryAI great way to spend 2 billion tokens 👀",
+    "url": "https://x.com/sporadica/status/1990832189525926121",
+    "timestamp": "2025-11-18T17:19:16.000Z",
+    "metadata": {
+      "conversation_id": "1990832189525926121",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990831977839353947",
+    "source": "twitter",
+    "author": "sporadica",
+    "content": "@creatine_cycle @FactoryAI this is literally how i found out about Gemini 3\n\nDroid is the Media Now",
+    "url": "https://x.com/sporadica/status/1990831977839353947",
+    "timestamp": "2025-11-18T17:18:26.000Z",
+    "metadata": {
+      "conversation_id": "1990831977839353947",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990831903386317085",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@FactoryAI appreciation post. 9:17 am and they already have this shit wired up. I’m so excited for today. https://t.co/REEXJznB50",
+    "url": "https://x.com/contxtkng/status/1990831903386317085",
+    "timestamp": "2025-11-18T17:18:08.000Z",
+    "metadata": {
+      "conversation_id": "1990831903386317085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990830200645407176",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@nathanpareo @FactoryAI well ... i'm a bit stumped, I thought /sessions command for exactly that, or am I missing something? 🙃",
+    "url": "https://x.com/5aikat/status/1990830200645407176",
+    "timestamp": "2025-11-18T17:11:22.000Z",
+    "metadata": {
+      "conversation_id": "1990830200645407176",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990829941639033046",
     "source": "twitter",
     "author": "mikez93",

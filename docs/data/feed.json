@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990708022772122095",
+    "source": "twitter",
+    "author": "hakemer",
+    "content": "#ChangeMyMind\n\n@FactoryAI is amazing when you use the free tokens. When you actually start paying for it, starts sucking big time.",
+    "url": "https://x.com/hakemer/status/1990708022772122095",
+    "timestamp": "2025-11-18T09:05:52.000Z",
+    "metadata": {
+      "conversation_id": "1990708022772122095",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990706765261123777",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@ben_vargas @FactoryAI thank you mate",
+    "url": "https://x.com/immoinulmoin/status/1990706765261123777",
+    "timestamp": "2025-11-18T09:00:53.000Z",
+    "metadata": {
+      "conversation_id": "1990706765261123777",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990703250497208368",
     "source": "twitter",
     "author": "bentossell",
@@ -23,9 +53,9 @@
     "timestamp": "2025-11-18T08:44:34.000Z",
     "metadata": {
       "conversation_id": "1990702660014780754",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990585140612071715",
-    "source": "twitter",
-    "author": "MullerNavas",
-    "content": "Finished  trial of @FactoryAI 's Droids &amp; I'm genuinely impressed! \n\nI've been showing friends what's possible with it, but now I'm missing access.\n\nWould love to continue exploring what Droids can do. I'm eager to keep building with it.\n@EnoReyes\n \n#AI #Agents #Droids",
-    "url": "https://x.com/MullerNavas/status/1990585140612071715",
-    "timestamp": "2025-11-18T00:57:35.000Z",
-    "metadata": {
-      "conversation_id": "1990585140612071715",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990583460512055336",
-    "source": "twitter",
-    "author": "jcurtis",
-    "content": "Clients are getting stricter about third-party bots (Firefly/Notion AI/etc now getting blocked… stuck in the waiting room 😤)\n\nSo I finally built the “nothing can stop me” meeting-notes pipeline I always wanted… fully compliant, zero forbidden tools, using @FactoryAI + @warpdotdev\n\nLocal-first path (100% on my machine, no data ever leaves):\n• Drop the recording into a watch folder\n• launchd fires →@NVIDIAAI Parakeet ASR (runs locally …zero impact on machine performance) \n• Transcript ready → Mistral-7B-Instruct extracts every action item + everything I casually committed to when no PM was looking 😂\n\nWhen the client explicitly allows cloud transcription:\n• Same trigger → @MistralAI grabs speaker labels + key topics in seconds\n• Audio + that metadata → @AssemblyAI \n→ diarization and accuracy become really good\n\nAll stitched together with launchd + a few Python lines. I drop the file, go make coffee, come back to perfect todos.\n\nReply/DM if you want the scripts…  just need to polish a few things before I share. I’ll make sure you get notified.",
-    "url": "https://x.com/jcurtis/status/1990583460512055336",
-    "timestamp": "2025-11-18T00:50:54.000Z",
-    "metadata": {
-      "conversation_id": "1990583460512055336",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -530,19 +530,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow0203",
-    "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },

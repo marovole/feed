@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991152472195231970",
+    "source": "twitter",
+    "author": "andupoto",
+    "content": "@bentossell @hightbunker @FactoryAI I'm using Cursor, thought it's meant for those users.",
+    "url": "https://x.com/andupoto/status/1991152472195231970",
+    "timestamp": "2025-11-19T14:31:57.000Z",
+    "metadata": {
+      "conversation_id": "1991152472195231970",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991152113649377667",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@andupoto @hightbunker @FactoryAI which is why i sent you the quickstart!\n\nstep one - open terminal\nstep two - copy/paste this command + hit enter\nstep three - type droid\n\nthis isnt a vibe-coder tool intended to be used by lovable-type folks",
+    "url": "https://x.com/bentossell/status/1991152113649377667",
+    "timestamp": "2025-11-19T14:30:32.000Z",
+    "metadata": {
+      "conversation_id": "1991152113649377667",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991151420590969178",
+    "source": "twitter",
+    "author": "andupoto",
+    "content": "@bentossell @hightbunker @FactoryAI As I said Ben, the onboarding needs to take me through the flow (just as you won't be there to hand hold me). So stuff like \"curl -fsSL https://t.co/qYnfmPdovy | sh\" is already above my pay grade. As a vibe coder I need to see english, and be taken step by step through the flow.",
+    "url": "https://x.com/andupoto/status/1991151420590969178",
+    "timestamp": "2025-11-19T14:27:47.000Z",
+    "metadata": {
+      "conversation_id": "1991151420590969178",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991148177752256698",
     "source": "twitter",
     "author": "bentossell",

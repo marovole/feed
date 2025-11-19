@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991049936310530294",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@pascallammers_ @FactoryAI All I said was can you make this site look better? My inspirations are X Y and Z brands.",
+    "url": "https://x.com/NathanLands/status/1991049936310530294",
+    "timestamp": "2025-11-19T07:44:31.000Z",
+    "metadata": {
+      "conversation_id": "1991049936310530294",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991049873039503449",
+    "source": "twitter",
+    "author": "darshil",
+    "content": "@NathanLands @FactoryAI giving early signs of agi for web dev",
+    "url": "https://x.com/darshil/status/1991049873039503449",
+    "timestamp": "2025-11-19T07:44:16.000Z",
+    "metadata": {
+      "conversation_id": "1991049873039503449",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991047381320868307",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@NathanLands @FactoryAI Will try it in a few minutes \nWhat prompt did you use?",
+    "url": "https://x.com/pascallammers_/status/1991047381320868307",
+    "timestamp": "2025-11-19T07:34:22.000Z",
+    "metadata": {
+      "conversation_id": "1991047381320868307",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991044196526858465",
     "source": "twitter",
     "author": "damoosmann",

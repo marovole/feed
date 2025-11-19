@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991242363025383623",
+    "source": "twitter",
+    "author": "FrancoE114696",
+    "content": "Gemini 3 Pro (High) costs x0.5 standard tokens in the @FactoryAI CLI, this is crazy! \n\nWe're going to test it a lot this coming week. https://t.co/i6hIzPY65Q",
+    "url": "https://x.com/FrancoE114696/status/1991242363025383623",
+    "timestamp": "2025-11-19T20:29:09.000Z",
+    "metadata": {
+      "conversation_id": "1991242363025383623",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991240330243416380",
+    "source": "twitter",
+    "author": "gr8specul8r",
+    "content": "@darshil @NathanLands @FactoryAI web dev is not agi no matter what",
+    "url": "https://x.com/gr8specul8r/status/1991240330243416380",
+    "timestamp": "2025-11-19T20:21:04.000Z",
+    "metadata": {
+      "conversation_id": "1991240330243416380",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991239615353876686",
     "source": "twitter",
     "author": "ben_vargas",

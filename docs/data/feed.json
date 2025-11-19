@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1991286168026062918",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "@matanSF Thx for the @FactoryAI - really cool product! I use it not only as a coding assistant, also directly on the project server to configure security, environment, and other important things. It's very convenient🤝👍",
+    "url": "https://x.com/MihailVarich/status/1991286168026062918",
+    "timestamp": "2025-11-19T23:23:13.000Z",
+    "metadata": {
+      "conversation_id": "1991286168026062918",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991284886515380326",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@minheo93698092 @FactoryAI Love Droid CLI and haven;'t been able to replicate even their spec mode with Sonnet/Gemini with like claude skills or any custom agent, amazing!",
+    "url": "https://x.com/martin_ict_algo/status/1991284886515380326",
+    "timestamp": "2025-11-19T23:18:07.000Z",
+    "metadata": {
+      "conversation_id": "1991284886515380326",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991283560259678525",
+    "source": "twitter",
+    "author": "maddiehfaulkner",
+    "content": "After nearly a decade attending #NeurIPS, it remains my favorite event in AI, led by AI researchers. Join us in San Diego along with top minds from @Databricks, @FactoryAI, @twelve_labs and @NEA to discuss topical research. RSVP by application for the Cocktails & Code Happy Hour: https://t.co/uJTdpJMY8I",
+    "url": "https://x.com/maddiehfaulkner/status/1991283560259678525",
+    "timestamp": "2025-11-19T23:12:51.000Z",
+    "metadata": {
+      "conversation_id": "1991283560259678525",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1991283401450746249",
+    "source": "twitter",
+    "author": "StressarN",
+    "content": "@benhylak @FactoryAI It's frontend capabilities is unreal, these two are just using a simple prompt, miles ahead of the purple hues we used to get 😂 https://t.co/UXadsAwVOB",
+    "url": "https://x.com/StressarN/status/1991283401450746249",
+    "timestamp": "2025-11-19T23:12:13.000Z",
+    "metadata": {
+      "conversation_id": "1991283401450746249",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991282303532667166",
+    "source": "twitter",
+    "author": "StressarN",
+    "content": "@benhylak @FactoryAI makes Gemini a powerhouse, ngl!",
+    "url": "https://x.com/StressarN/status/1991282303532667166",
+    "timestamp": "2025-11-19T23:07:52.000Z",
+    "metadata": {
+      "conversation_id": "1991282303532667166",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991280740731113514",
     "source": "twitter",
     "author": "M_S_Rabi",

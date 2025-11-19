@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991280740731113514",
+    "source": "twitter",
+    "author": "M_S_Rabi",
+    "content": "@FactoryAI @PaloAltoNtwks so now the robots check their own homework, neat",
+    "url": "https://x.com/M_S_Rabi/status/1991280740731113514",
+    "timestamp": "2025-11-19T23:01:39.000Z",
+    "metadata": {
+      "conversation_id": "1991280740731113514",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991280336710582769",
+    "source": "twitter",
+    "author": "GoodFarmingAdam",
+    "content": "@rafiulm_ @FactoryAI yeah, droid might actually be well structured enough to bring our the power of gemini as a cli tool.",
+    "url": "https://x.com/GoodFarmingAdam/status/1991280336710582769",
+    "timestamp": "2025-11-19T23:00:03.000Z",
+    "metadata": {
+      "conversation_id": "1991280336710582769",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991277922368565423",
     "source": "twitter",
     "author": "AImpactArtist",

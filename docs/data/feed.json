@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1991261775787094073",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "On early use, Gemini 3 Pro seems pretty solid inside @FactoryAI Droid CLI. \n\nCompared to my daily driver, Sonnet 4.5, it’s like an introvert compared to extrovert. \n\nGemini doesn’t say much until it’s all done. \n\nWill set Sonnet as the “spec model” to get that collaboration but Gemini may be a better replacement for coding.",
+    "url": "https://x.com/KirkMarple/status/1991261775787094073",
+    "timestamp": "2025-11-19T21:46:17.000Z",
+    "metadata": {
+      "conversation_id": "1991261775787094073",
+      "likes": 4,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991260528816140733",
     "source": "twitter",
     "author": "makerfounder",

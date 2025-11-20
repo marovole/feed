@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1991577582484247032",
+    "source": "twitter",
+    "author": "narrocracy",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI Life has become Neuromancer",
+    "url": "https://x.com/narrocracy/status/1991577582484247032",
+    "timestamp": "2025-11-20T18:41:12.000Z",
+    "metadata": {
+      "conversation_id": "1991577582484247032",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991576964273172499",
+    "source": "twitter",
+    "author": "TheRealRobV921",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI And now the AI will know what not to do next time. I don’t see this ending well.",
+    "url": "https://x.com/TheRealRobV921/status/1991576964273172499",
+    "timestamp": "2025-11-20T18:38:44.000Z",
+    "metadata": {
+      "conversation_id": "1991576964273172499",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991576093548331393",
+    "source": "twitter",
+    "author": "shaunmmaguire",
+    "content": "\"AI is now operational in cyber-crime\"\n\n@FactoryAI is reporting that a sophisticated actor tried to exploit its model for free compute at scale\n\nThere are similarities to the report @AnthropicAI put out last week\n\nWe will see insane things in AI security in the near future",
+    "url": "https://x.com/shaunmmaguire/status/1991576093548331393",
+    "timestamp": "2025-11-20T18:35:17.000Z",
+    "metadata": {
+      "conversation_id": "1991576093548331393",
+      "likes": 20,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1991575656128467281",
+    "source": "twitter",
+    "author": "TheAhmadOsman",
+    "content": "@FactoryAI bruh, someone just reverse‑engineered their API to use it as a proxy lol",
+    "url": "https://x.com/TheAhmadOsman/status/1991575656128467281",
+    "timestamp": "2025-11-20T18:33:32.000Z",
+    "metadata": {
+      "conversation_id": "1991575656128467281",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991573445939982374",
+    "source": "twitter",
+    "author": "ptr_steve",
+    "content": "@JohnONolan @FactoryAI In what world is that a sane default? I can't think of a possible benefit.",
+    "url": "https://x.com/ptr_steve/status/1991573445939982374",
+    "timestamp": "2025-11-20T18:24:45.000Z",
+    "metadata": {
+      "conversation_id": "1991573445939982374",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991571516006203666",
     "source": "twitter",
     "author": "RMladek",

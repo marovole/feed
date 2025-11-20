@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991651538641776743",
+    "source": "twitter",
+    "author": "JustinMar32",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI I think the cyber industry rushed to securing AI usage in companies too fast. Massively overlooked that people are using AI for malicious purposes such as executing advanced social engineering attacks or agent driven breaches",
+    "url": "https://x.com/JustinMar32/status/1991651538641776743",
+    "timestamp": "2025-11-20T23:35:04.000Z",
+    "metadata": {
+      "conversation_id": "1991651538641776743",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991651102648070151",
+    "source": "twitter",
+    "author": "BowTiedGroundHo",
+    "content": "@bradvangelder @FactoryAI Looks like the e2b-dev link is a 404.",
+    "url": "https://x.com/BowTiedGroundHo/status/1991651102648070151",
+    "timestamp": "2025-11-20T23:33:20.000Z",
+    "metadata": {
+      "conversation_id": "1991651102648070151",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991647378084946136",
     "source": "twitter",
     "author": "iam_gls",

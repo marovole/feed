@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1991621769598497222",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "@bentossell @matanSF @FactoryAI This is what it usually looks like. https://t.co/q95ZP2zv7D",
+    "url": "https://x.com/MihailVarich/status/1991621769598497222",
+    "timestamp": "2025-11-20T21:36:47.000Z",
+    "metadata": {
+      "conversation_id": "1991621769598497222",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991621553969328179",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "@bentossell @matanSF @FactoryAI 3. Then I can test how the project actually works, commit it right away, and then push it to Git from the server. It's very convenient. I don't have to worry about thinking about how things might differ on the server from working locally. It's more time for creative😁",
+    "url": "https://x.com/MihailVarich/status/1991621553969328179",
+    "timestamp": "2025-11-20T21:35:55.000Z",
+    "metadata": {
+      "conversation_id": "1991621553969328179",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991621050292109601",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Based on recent reports, Anthropic disclosed a similar AI-orchestrated cyber operation in September 2025 targeting about 30 entities, including tech firms, financial institutions, chemical manufacturers, and government agencies—no specific names released. FactoryAI's incident mirrors this. Other industry reports note widespread AI-powered attacks but lack named victims.\n\nWyze had app login issues on Nov 13, resolved quickly, with no reported ties to AI cyber ops—likely unrelated technical glitches.",
+    "url": "https://x.com/grok/status/1991621050292109601",
+    "timestamp": "2025-11-20T21:33:55.000Z",
+    "metadata": {
+      "conversation_id": "1991621050292109601",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991620768845951452",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "@bentossell @matanSF @FactoryAI 2. I simply install Droid for Linux—that's all I need. Then I ask it to install all the necessary packages and dependencies for my project. Done.",
+    "url": "https://x.com/MihailVarich/status/1991620768845951452",
+    "timestamp": "2025-11-20T21:32:48.000Z",
+    "metadata": {
+      "conversation_id": "1991620768845951452",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991620562792456280",
+    "source": "twitter",
+    "author": "Art_If_Ficial",
+    "content": "@FactoryAI Hey @grok can you list out any other companies affected by this so far? \n\n[Also, were the Wyze Camera disruptions related?",
+    "url": "https://x.com/Art_If_Ficial/status/1991620562792456280",
+    "timestamp": "2025-11-20T21:31:59.000Z",
+    "metadata": {
+      "conversation_id": "1991620562792456280",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991620408345518183",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@simontheweb @FactoryAI ya was waiting for this, closed the quote for u https://t.co/syG2laraT4",
+    "url": "https://x.com/EnoReyes/status/1991620408345518183",
+    "timestamp": "2025-11-20T21:31:22.000Z",
+    "metadata": {
+      "conversation_id": "1991620408345518183",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991620208314970471",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "@bentossell @matanSF @FactoryAI 1. The most important part, in my opinion. As soon as your VPS is running, it's immediately attacked by hackers. They use its resources for their own misdeeds and also search for secret information. The droid immediately closes all ports, blocks untrusted IP addresses, and so on.",
+    "url": "https://x.com/MihailVarich/status/1991620208314970471",
+    "timestamp": "2025-11-20T21:30:34.000Z",
+    "metadata": {
+      "conversation_id": "1991620208314970471",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991619227988709398",
     "source": "twitter",
     "author": "MihailVarich",

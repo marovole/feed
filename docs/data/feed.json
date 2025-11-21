@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992009458625437993",
+    "source": "twitter",
+    "author": "Tmeister",
+    "content": "I tried Gemini 3.0 on a Droid by @FactoryAI. I'm not sure if it's an Agent or Model issue.\n\nIn a plan mode, I write, \"let's plan the feature and show me your plan to ... and do not make any changes yet.\"\n\nThe first thing it does is try to start editing files, no asking, no feedback, jumps directly to code.",
+    "url": "https://x.com/Tmeister/status/1992009458625437993",
+    "timestamp": "2025-11-21T23:17:19.000Z",
+    "metadata": {
+      "conversation_id": "1992009458625437993",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992009283375169714",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@FeifanZ @FactoryAI Because they’re growing like crazy",
+    "url": "https://x.com/NathanLands/status/1992009283375169714",
+    "timestamp": "2025-11-21T23:16:37.000Z",
+    "metadata": {
+      "conversation_id": "1992009283375169714",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992004607837618293",
     "source": "twitter",
     "author": "aeitroc",

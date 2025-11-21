@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991913384825311421",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@OscarYaez @FrancoE114696 @FactoryAI you get 10m on signup 😊 (1m on signup + 9m more if you add a credit card - with 14 day free trial)",
+    "url": "https://x.com/bentossell/status/1991913384825311421",
+    "timestamp": "2025-11-21T16:55:33.000Z",
+    "metadata": {
+      "conversation_id": "1991913384825311421",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991912843592237079",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@jcurtis @FactoryAI ty",
+    "url": "https://x.com/bentossell/status/1991912843592237079",
+    "timestamp": "2025-11-21T16:53:24.000Z",
+    "metadata": {
+      "conversation_id": "1991912843592237079",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991911880492032064",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@bentossell @FactoryAI No problem... I'm seeing the same issue in Chrome and on my Mac desktop. I’ve reached out to support and will report back with anything I learn once it’s resolved, in case it helps others.",
+    "url": "https://x.com/jcurtis/status/1991911880492032064",
+    "timestamp": "2025-11-21T16:49:34.000Z",
+    "metadata": {
+      "conversation_id": "1991911880492032064",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991910525832429658",
     "source": "twitter",
     "author": "Tech_AI_Tech",

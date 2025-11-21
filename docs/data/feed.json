@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1991924628131078272",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "Droid just started eating at my CPU recently.\n\nIdle and using any model, starting it up sends my CPU into a frenzy.\n\nI really shouldn't temp watching like this, maybe hiding the menu stats will do me some good, but also maybe this isn't normal..?\n\n@FactoryAI https://t.co/BPG2lBf6Ql",
+    "url": "https://x.com/Ricardo_Nth/status/1991924628131078272",
+    "timestamp": "2025-11-21T17:40:14.000Z",
+    "metadata": {
+      "conversation_id": "1991924628131078272",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_410",
     "source": "github",
     "author": "captjt",

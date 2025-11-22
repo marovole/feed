@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.9,
+      "reason": "Negative sentiment but not a specific bug report or question",
+      "classifiedAt": "2025-11-22T11:35:14.733Z"
     }
   },
   {

@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "User mentions Factory AI in comparison context but no action needed",
+      "classifiedAt": "2025-11-22T12:24:12.618Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.85,
+      "reason": "User mentions Factory AI in conversation but no explicit question or action requested",
+      "classifiedAt": "2025-11-22T12:24:12.618Z"
     }
   },
   {

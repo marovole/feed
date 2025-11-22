@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.9,
+      "reason": "Post uses positive slang 'goated' to praise Factory AI products",
+      "classifiedAt": "2025-11-22T02:09:30.226Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.8,
+      "reason": "Comparative analysis of Factory AI products without emotional sentiment or specific issue",
+      "classifiedAt": "2025-11-22T02:09:30.226Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.7,
+      "reason": "Feature request/suggestion without explicit question format",
+      "classifiedAt": "2025-11-22T02:09:30.226Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.9,
+      "reason": "Clear report of UI bug where task appears finished but interface shows still thinking",
+      "classifiedAt": "2025-11-22T02:09:30.226Z"
     }
   },
   {

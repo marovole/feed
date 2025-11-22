@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.95,
+      "reason": "Positive sentiment expressing praise with emojis and superlatives like 'best' and 'so much better'",
+      "classifiedAt": "2025-11-22T07:06:35.931Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.8,
+      "reason": "Positive reaction using phrase 'smoked it' to indicate excellent performance",
+      "classifiedAt": "2025-11-22T07:06:35.931Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.8,
+      "reason": "Positive outcome announcement showing Droid winning 3-0 benchmark",
+      "classifiedAt": "2025-11-22T07:06:35.931Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.75,
+      "reason": "Excited announcement about shipping benchmark, positive tone with 'finally shipped lol'",
+      "classifiedAt": "2025-11-22T07:06:35.931Z"
     }
   },
   {

@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.95,
+      "reason": "Brief user mention without specific content or action needed",
+      "classifiedAt": "2025-11-22T19:09:32.732Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.9,
+      "reason": "User reports crashing issue requiring attention",
+      "classifiedAt": "2025-11-22T19:09:32.732Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.95,
+      "reason": "User describes technical setup with unhandled exception that needs fixing",
+      "classifiedAt": "2025-11-22T19:09:32.732Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.95,
+      "reason": "Simple mention tagging without substantive content",
+      "classifiedAt": "2025-11-22T19:09:32.732Z"
     }
   },
   {
@@ -72,6 +96,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.85,
+      "reason": "User responding to bug report about specific issue described",
+      "classifiedAt": "2025-11-22T19:09:32.732Z"
     }
   },
   {

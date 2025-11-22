@@ -60,17 +60,29 @@ jobs:
           - 'question' - Explicit question about the product
           - 'other' - None of the above
           
-          Rules:
+          Classification Rules:
           1. Preserve the exact JSON structure and all existing fields
           2. Only add the 'category' field to items that don't have it
           3. Don't modify items that already have a category
           4. Keep all metadata, timestamps, and other fields intact
           5. Maintain proper JSON formatting
           
-          After classification, write a summary to classification-summary.md with:
-          - Total items processed
-          - Breakdown by category
-          - Any items that were challenging to categorize
+          Handling Challenging Cases:
+          - Mixed sentiment (both positive and negative) → classify as 'bug'
+          - Conversational context (replies, discussions) → classify as 'mention'
+          - Sarcasm/humor → assume it's NOT sarcasm unless obvious
+          - Feature requests → classify as 'question'
+          - Technical discussions → classify as 'mention'
+          
+          After classification, write a CONCISE summary to classification-summary.md with ONLY:
+          - Date and time (UTC)
+          - Total items classified (new only, not already classified)
+          - Category breakdown (counts and percentages)
+          
+          Also append to docs/data/classification-history.log in this exact format:
+          [YYYY-MM-DD HH:MM UTC] Classified: X items | mention: X | bug: X | love: X | question: X | other: X
+          
+          Keep it minimal - no verbose explanations.
           "
 
       - name: Verify feed.json is valid JSON
@@ -107,6 +119,7 @@ jobs:
           git pull --rebase --autostash origin main
           git add docs/data/feed.json
           [ -f classification-summary.md ] && git add classification-summary.md || true
+          [ -f docs/data/classification-history.log ] && git add docs/data/classification-history.log || true
           git commit -m "Classify feed items via droid exec
 
           - Classified: ${{ steps.check_changes.outputs.classified_count }} items

@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.9,
+      "reason": "User praises FactoryAI for doing a good job building CLI tools and automating tasks. Expresses positive sentiment about product capabilities.",
+      "classifiedAt": "2025-11-22T05:19:25.758Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "User references FactoryAI in a conversation without expressing specific sentiment or asking a question - just acknowledging something they've seen.",
+      "classifiedAt": "2025-11-22T05:19:25.758Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "User gives approval with 'Approved, this message is' suggesting positive endorsement of FactoryAI.",
+      "classifiedAt": "2025-11-22T05:19:25.758Z"
     }
   },
   {

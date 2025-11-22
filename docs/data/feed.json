@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992111837715005939",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@MihailVarich @FactoryAI @antigravity Good way for you to cross reference this is to check out the tokens per second stat in services like @OpenRouterAI if it's slower that gpt5, then you got issues",
+    "url": "https://x.com/AriesTheCoder/status/1992111837715005939",
+    "timestamp": "2025-11-22T06:04:08.000Z",
+    "metadata": {
+      "conversation_id": "1992111837715005939",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992102545104523524",
     "source": "twitter",
     "author": "sirjoeldean",

@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "FactoryAI is mentioned in a casual conversation without any specific sentiment or question.",
+      "classifiedAt": "2025-11-22T06:54:59.443Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.8,
+      "reason": "Expresses preference for Factory's product over Claude Code with positive comparison and sentiment.",
+      "classifiedAt": "2025-11-22T06:54:59.443Z"
     }
   },
   {

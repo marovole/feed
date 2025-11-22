@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "Positive hype and enthusiasm with 'gotta try it to believe the hype' suggests strong positive sentiment toward FactoryAI",
+      "classifiedAt": "2025-11-22T08:49:30.169Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.75,
+      "reason": "Reports that 'it stops doing what it said it will do' indicating a functional issue or bug with the product",
+      "classifiedAt": "2025-11-22T08:49:30.169Z"
     }
   },
   {
@@ -315,6 +327,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "Direct question asking 'What's the benefit of Droids here?' seeking information about FactoryAI product features",
+      "classifiedAt": "2025-11-22T08:49:30.169Z"
     }
   },
   {

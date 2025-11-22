@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.85,
+      "reason": "User is asking for a comparison between Claude Code and Droid with specific models, which is an explicit question",
+      "classifiedAt": "2025-11-22T09:54:57.592Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.75,
+      "reason": "Post contains emojis and mentions but no clear sentiment, question, or issue - appears to be just acknowledgment",
+      "classifiedAt": "2025-11-22T09:54:57.592Z"
     }
   },
   {

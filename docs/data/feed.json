@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992169194977477097",
+    "source": "twitter",
+    "author": "syqrel",
+    "content": "@makerfounder @FactoryAI try claude code vs droid with same model, Gemini 3 Pro",
+    "url": "https://x.com/syqrel/status/1992169194977477097",
+    "timestamp": "2025-11-22T09:52:03.000Z",
+    "metadata": {
+      "conversation_id": "1992169194977477097",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992167683949793417",
+    "source": "twitter",
+    "author": "Louis__Meyer",
+    "content": "@aeitroc @FactoryAI @OpenRouterAI 💯",
+    "url": "https://x.com/Louis__Meyer/status/1992167683949793417",
+    "timestamp": "2025-11-22T09:46:03.000Z",
+    "metadata": {
+      "conversation_id": "1992167683949793417",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_418",
     "source": "github",
     "author": "WeYaTa-Dev",

@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992277628506767489",
+    "source": "twitter",
+    "author": "osi_fav",
+    "content": "@leoisadev @FactoryAI @cursor_ai Interesting",
+    "url": "https://x.com/osi_fav/status/1992277628506767489",
+    "timestamp": "2025-11-22T17:02:56.000Z",
+    "metadata": {
+      "conversation_id": "1992277628506767489",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992277568343478516",
+    "source": "twitter",
+    "author": "GabrielMBauer",
+    "content": "@neoneue @FactoryAI yeah, me curious",
+    "url": "https://x.com/GabrielMBauer/status/1992277568343478516",
+    "timestamp": "2025-11-22T17:02:41.000Z",
+    "metadata": {
+      "conversation_id": "1992277568343478516",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992276992444567591",
+    "source": "twitter",
+    "author": "Alex_m",
+    "content": "@makerfounder @antigravity @FactoryAI I just don’t like how Droid asks for your phone number and makes you sign up before you can do anything. Even Google doesn’t do that",
+    "url": "https://x.com/Alex_m/status/1992276992444567591",
+    "timestamp": "2025-11-22T17:00:24.000Z",
+    "metadata": {
+      "conversation_id": "1992276992444567591",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992273455723823134",
     "source": "twitter",
     "author": "NickSloggett",

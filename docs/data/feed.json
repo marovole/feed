@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.95,
+      "reason": "User is comparing features between Factory AI's CLI tool and Codex without expressing explicit sentiment or asking a direct question",
+      "classifiedAt": "2025-11-22T10:06:30.571Z"
     }
   },
   {

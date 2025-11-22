@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992344192329355692",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@garyfung @antigravity @FactoryAI 🤯",
+    "url": "https://x.com/makerfounder/status/1992344192329355692",
+    "timestamp": "2025-11-22T21:27:26.000Z",
+    "metadata": {
+      "conversation_id": "1992344192329355692",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992343602476060821",
+    "source": "twitter",
+    "author": "C72Al",
+    "content": "@Ricardo_Nth @FactoryAI I found G to be unusable compared to sonnet. How much reasoning did you let it have ?",
+    "url": "https://x.com/C72Al/status/1992343602476060821",
+    "timestamp": "2025-11-22T21:25:05.000Z",
+    "metadata": {
+      "conversation_id": "1992343602476060821",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992342999033114945",
+    "source": "twitter",
+    "author": "nightmaaan",
+    "content": "@Rasmic That's why you can use @FactoryAI Droid and switch models in one sub.",
+    "url": "https://x.com/nightmaaan/status/1992342999033114945",
+    "timestamp": "2025-11-22T21:22:41.000Z",
+    "metadata": {
+      "conversation_id": "1992342999033114945",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992341050497905119",
     "source": "twitter",
     "author": "garyfung",

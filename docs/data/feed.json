@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992290290246517065",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@VikiVirgon @makerfounder @antigravity @FactoryAI That's interesting, but I don't understand the significance? Isn't this the case for all similar tools?",
+    "url": "https://x.com/JohnThilen/status/1992290290246517065",
+    "timestamp": "2025-11-22T17:53:14.000Z",
+    "metadata": {
+      "conversation_id": "1992290290246517065",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992290086441091207",
+    "source": "twitter",
+    "author": "gootecks",
+    "content": "@bentossell @zaidmukaddam @FactoryAI Beat me to it.\n\nGotta try factory for sure. \n\nThe trial tokens last a LONG time somehow",
+    "url": "https://x.com/gootecks/status/1992290086441091207",
+    "timestamp": "2025-11-22T17:52:26.000Z",
+    "metadata": {
+      "conversation_id": "1992290086441091207",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992289180496560562",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "Working on this app and messing with @FactoryAI droids and skills. \n\nDroids:\n- Planner - Sonnet 4.5\n- Frontend - Gemini 3.0\n- Backend - GPT Codex 5.1\n- Review - GPT 5.1\n\nusing the skills from the cookbook, plus a frontend-design skill https://t.co/2tywYNSmLx",
+    "url": "https://x.com/_BrianKimball/status/1992289180496560562",
+    "timestamp": "2025-11-22T17:48:50.000Z",
+    "metadata": {
+      "conversation_id": "1992289180496560562",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992288162048249955",
     "source": "twitter",
     "author": "FlorianKluge",

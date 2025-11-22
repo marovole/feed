@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "User asks a direct question about Warp being an IDE mentioning FactoryAI",
+      "classifiedAt": "2025-11-22T10:54:21.083Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "User expresses enthusiasm with 'LFG 🔥' and thanks showing positive sentiment",
+      "classifiedAt": "2025-11-22T10:54:21.083Z"
     }
   },
   {

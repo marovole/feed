@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992032132777078922",
+    "source": "twitter",
+    "author": "huntermbown",
+    "content": "Gemini-3 in @FactoryAI Droid feels like magic holy shit",
+    "url": "https://x.com/huntermbown/status/1992032132777078922",
+    "timestamp": "2025-11-22T00:47:25.000Z",
+    "metadata": {
+      "conversation_id": "1992032132777078922",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992027975651635639",
+    "source": "twitter",
+    "author": "farezv",
+    "content": "@FeifanZ @FactoryAI It’s the best harness for mixed model coding",
+    "url": "https://x.com/farezv/status/1992027975651635639",
+    "timestamp": "2025-11-22T00:30:54.000Z",
+    "metadata": {
+      "conversation_id": "1992027975651635639",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992027483303260595",
+    "source": "twitter",
+    "author": "farezv",
+    "content": "@pascallammers_ @FactoryAI Same experience. GPT 5.1 is a beast and gets it done whenever Sonnet 4.5 falls short.",
+    "url": "https://x.com/farezv/status/1992027483303260595",
+    "timestamp": "2025-11-22T00:28:56.000Z",
+    "metadata": {
+      "conversation_id": "1992027483303260595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_1992024201096777920",
     "source": "twitter",
     "author": "FeifanZ",

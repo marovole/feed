@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992314349424087283",
+    "source": "twitter",
+    "author": "nibzard",
+    "content": "@aiDotEngineer @swyx @barry_zyj @AnthropicAI @humanLayer @dexhorthy @leerob @cursor_ai @Meta @jacob_d_kahn @netflix @nayshins @OpenAI @thekitze @aparnadhinak @cline @pashmerepat @appliedcompute @rhythmrg @lindensli @PrimeIntellect @willccbb @StringChaos @EnoReyes @FactoryAI @Sourcegraph @beyang @AmpCode .@nserrino is doing the impossible at @gimletlabs : using llms to write cuda kernels. optimizing pytorch usually takes a phd in hardware; gimlet is proving agents can write low-level gpu code faster than humans. the stack is getting optimized from the bottom up. https://t.co/EjWwDp2yGo",
+    "url": "https://x.com/nibzard/status/1992314349424087283",
+    "timestamp": "2025-11-22T19:28:50.000Z",
+    "metadata": {
+      "conversation_id": "1992314349424087283",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992312629608825168",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@makerfounder @antigravity @FactoryAI Well done. I've had good both. The trick for me was to include a certain level of detail and structure in my prompts... and yes, the harness __absolutely__ matters.",
+    "url": "https://x.com/AriesTheCoder/status/1992312629608825168",
+    "timestamp": "2025-11-22T19:22:00.000Z",
+    "metadata": {
+      "conversation_id": "1992312629608825168",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992312136438284797",
     "source": "twitter",
     "author": "BuildWithAJ",

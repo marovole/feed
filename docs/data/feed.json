@@ -6219,7 +6219,7 @@
       "reason": "User reports an authentication issue with Figma MCP, indicating something is broken and not working as expected.",
       "classifiedAt": "2025-11-22T09:44:13.947Z"
     },
-    "category": "mention"
+    "category": "question"
   },
   {
     "id": "reddit_1p3olcg",
@@ -8339,7 +8339,7 @@
       "category": "Feature requests",
       "number": 309
     },
-    "category": "bug"
+    "category": "other"
   },
   {
     "id": "github_discussion_240",
@@ -8353,7 +8353,7 @@
       "category": "Factory Official",
       "number": 240
     },
-    "category": "other"
+    "category": "mention"
   },
   {
     "id": "github_discussion_225",
@@ -8381,7 +8381,7 @@
       "category": "Feature requests",
       "number": 223
     },
-    "category": "bug"
+    "category": "other"
   },
   {
     "id": "github_discussion_214",
@@ -8395,7 +8395,7 @@
       "category": "Questions",
       "number": 214
     },
-    "category": "other"
+    "category": "question"
   },
   {
     "id": "github_discussion_164",
@@ -8409,7 +8409,7 @@
       "category": "Feature requests",
       "number": 164
     },
-    "category": "question"
+    "category": "other"
   },
   {
     "id": "github_discussion_151",
@@ -8423,7 +8423,7 @@
       "category": "Feature requests",
       "number": 151
     },
-    "category": "mention"
+    "category": "other"
   },
   {
     "id": "github_discussion_108",

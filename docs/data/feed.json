@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1992498918056472642",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@bentossell @FactoryAI Cheers mate! Please and thank you 🙏🏿🙏🏿",
+    "url": "https://x.com/Ricardo_Nth/status/1992498918056472642",
+    "timestamp": "2025-11-23T07:42:15.000Z",
+    "metadata": {
+      "conversation_id": "1992498918056472642",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992498652842242554",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@immoinulmoin @FactoryAI @bentossell Yeah man it would be nice ! The 2 hundo means I’d forgo some of my other tools or api use, but 60 is buy that now and worry about id use it later",
+    "url": "https://x.com/Ricardo_Nth/status/1992498652842242554",
+    "timestamp": "2025-11-23T07:41:12.000Z",
+    "metadata": {
+      "conversation_id": "1992498652842242554",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992498360079786271",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@C72Al @FactoryAI I started on high reasoning but I switched to low and had no drop in output for my particular use case so I stuck with low. Just going by their docs they suggest start with low until you’re not getting what you want and then switch to high so I figured why not use it as intended",
+    "url": "https://x.com/Ricardo_Nth/status/1992498360079786271",
+    "timestamp": "2025-11-23T07:40:02.000Z",
+    "metadata": {
+      "conversation_id": "1992498360079786271",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992498191624007942",
+    "source": "twitter",
+    "author": "farezv",
+    "content": "@pascallammers_ @FactoryAI @bentossell https://t.co/5AuasczGAd",
+    "url": "https://x.com/farezv/status/1992498191624007942",
+    "timestamp": "2025-11-23T07:39:22.000Z",
+    "metadata": {
+      "conversation_id": "1992498191624007942",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992492544366977340",
     "source": "twitter",
     "author": "ofadev",
@@ -5739,6 +5799,19 @@
       "confidence": 0.9,
       "reason": "FactoryAI is referenced in a quote but no specific action or sentiment is directed at Factory",
       "classifiedAt": "2025-11-21T21:47:31.286Z"
+    }
+  },
+  {
+    "id": "reddit_1p0glpz",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Gemini 3 Pro is now on Droid!\n\nhttps://i.redd.it/705cp945m12g1.gif\n\nposted on x [https://x.com/bentossell/status/1990820278339776843?s=20](https://x.com/bentossell/status/1990820278339776843?s=20) ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p0glpz/gemini_3_pro_is_now_on_droid/",
+    "timestamp": "2025-11-18T16:33:30.000Z",
+    "metadata": {
+      "score": 10,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {

@@ -1,14 +1,13 @@
 # Classification Summary
 
-**Date:** 2025-11-23 19:55 UTC  
-**Items Classified:** 1 (new)
+**Date:** 2025-11-23 20:20 UTC
+
+## Results
+- **Total items classified:** 1
 
 ## Category Breakdown
-
-- **mention:** 299 (64.9%)
-- **question:** 74 (16.1%)
-- **love:** 41 (8.9%)
-- **bug:** 37 (8.0%)
-- **other:** 10 (2.2%)
-
-**Total Items:** 461
+- **mention:** 1 (100.0%)
+- **bug:** 0 (0.0%)
+- **love:** 0 (0.0%)
+- **question:** 0 (0.0%)
+- **other:** 0 (0.0%)

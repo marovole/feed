@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992469160123855012",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@AIFlow_ML @FactoryAI The issue above is on mac ssh'd to Ubuntu 24.04.3 LTS",
+    "url": "https://x.com/benvargas/status/1992469160123855012",
+    "timestamp": "2025-11-23T05:44:00.000Z",
+    "metadata": {
+      "conversation_id": "1992469160123855012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992467643295760462",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@JoelDeTeves @FactoryAI @shaunmmaguire Could be interesting once there is some real competition with Gemini 3 out there. Let's see what @AnthropicAI comes up with next",
+    "url": "https://x.com/makerfounder/status/1992467643295760462",
+    "timestamp": "2025-11-23T05:37:59.000Z",
+    "metadata": {
+      "conversation_id": "1992467643295760462",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992465932854390784",
     "source": "twitter",
     "author": "makerfounder",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992675367514243528",
+    "source": "twitter",
+    "author": "iamRamavar",
+    "content": "@benvargas @TSpencer260 @dannyveigatx @FactoryAI Where to add Add these fields to your config.yaml is unclear in docs",
+    "url": "https://x.com/iamRamavar/status/1992675367514243528",
+    "timestamp": "2025-11-23T19:23:24.000Z",
+    "metadata": {
+      "conversation_id": "1992675367514243528",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992675287163695553",
+    "source": "twitter",
+    "author": "LazarevDir",
+    "content": "@_BrianKimball @FactoryAI Love this setup. I’m building an AI travel assistant and leaning into the same idea — each model with a clear job instead of one giant brain doing everything.",
+    "url": "https://x.com/LazarevDir/status/1992675287163695553",
+    "timestamp": "2025-11-23T19:23:05.000Z",
+    "metadata": {
+      "conversation_id": "1992675287163695553",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992669041069310048",
     "source": "twitter",
     "author": "Aristotleless",

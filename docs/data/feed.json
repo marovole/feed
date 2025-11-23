@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992582105222742390",
+    "source": "twitter",
+    "author": "Nelathan",
+    "content": "@bentossell @zaidmukaddam @FactoryAI I tried 2 weeks ago and onboarding failed completely without company info. No way to sidestep",
+    "url": "https://x.com/Nelathan/status/1992582105222742390",
+    "timestamp": "2025-11-23T13:12:48.000Z",
+    "metadata": {
+      "conversation_id": "1992582105222742390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992581188465418724",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Nelathan @zaidmukaddam @FactoryAI incorrect. we have free/20/200/2k mo plans, many idividuals on all - plus enterprise plan too",
+    "url": "https://x.com/bentossell/status/1992581188465418724",
+    "timestamp": "2025-11-23T13:09:10.000Z",
+    "metadata": {
+      "conversation_id": "1992581188465418724",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992570522425782410",
     "source": "twitter",
     "author": "VikiVirgon",

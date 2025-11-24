@@ -1,13 +1,11 @@
-# Classification Summary
+# Feed Classification Summary
 
-**Date:** 2025-11-24 09:00 UTC
+Last Updated: 2025-11-24 08:58 UTC
 
-**Total items classified:** 2 (new)
+## Latest Classification Run
 
-## Category Breakdown
+**Total items classified:** 3
 
-- **bug:** 1 (50.0%)
-- **question:** 1 (50.0%)
-- **mention:** 0 (0.0%)
-- **love:** 0 (0.0%)
-- **other:** 0 (0.0%)
+### Category Breakdown:
+- **bug**: 1 (33.3%)
+- **question**: 2 (66.7%)

@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992768228473663850",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992765987871993936",
@@ -8140,7 +8142,8 @@
       "type": "issue",
       "labels": [],
       "number": 386
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_385",

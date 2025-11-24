@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992927975428214991",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Highly recommend reading this from @FactoryAI \n\n@FactoryAI 's takedown of an AI-powered fraud ring exploiting free LLM trials for a cyberattack.\n\nAttackers used bots for signups, proxies & obfuscation—until Droid fought back with real-time AI detectors, slashing abuse by 95% in hours. \n\nAI native defense against AI native attack. \nFrom blog:\n\"\nIn practice, they were treating coding agents as programmable junior engineers: highly capable, inexpensive, and tireless.\n\"\n\nhttps://t.co/Ap6n7anks3",
+    "url": "https://x.com/CloudTrader4/status/1992927975428214991",
+    "timestamp": "2025-11-24T12:07:10.000Z",
+    "metadata": {
+      "conversation_id": "1992927975428214991",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992927959938924817",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@CloudTrader4 @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1992927959938924817",
+    "timestamp": "2025-11-24T12:07:07.000Z",
+    "metadata": {
+      "conversation_id": "1992927959938924817",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992927476381897017",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AntonioJASmith @FactoryAI haha nice! (same btw)",
+    "url": "https://x.com/bentossell/status/1992927476381897017",
+    "timestamp": "2025-11-24T12:05:11.000Z",
+    "metadata": {
+      "conversation_id": "1992927476381897017",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992922770070757846",
     "source": "twitter",
     "author": "AntonioJASmith",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993038655498154212",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@FactoryAI True, Factory, but will this Droid really deliver the value people expect, you know?",
+    "url": "https://x.com/codewithimanshu/status/1993038655498154212",
+    "timestamp": "2025-11-24T19:26:58.000Z",
+    "metadata": {
+      "conversation_id": "1993038655498154212",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993036443716124710",
+    "source": "twitter",
+    "author": "ain3sh",
+    "content": "@alexalbert__ @FactoryAI https://t.co/b54t9IskF2",
+    "url": "https://x.com/ain3sh/status/1993036443716124710",
+    "timestamp": "2025-11-24T19:18:11.000Z",
+    "metadata": {
+      "conversation_id": "1993036443716124710",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993036124596711624",
     "source": "twitter",
     "author": "ramnanimanan",

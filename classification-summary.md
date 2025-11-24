@@ -1,9 +1,15 @@
-# Classification Summary
+# Feed Classification Summary
 
-**Date:** 2025-11-24 20:55 UTC
+**Date:** 2025-11-24 21:07 UTC
 
-**Total items classified:** 1
+**Total Items Classified:** 7 (new items only)
 
 ## Category Breakdown
 
-- **question**: 1 (100.0%)
+| Category | Count | Percentage |
+|----------|-------|------------|
+| mention  | 3     | 42.9%      |
+| bug      | 0     | 0.0%       |
+| love     | 3     | 42.9%      |
+| question | 1     | 14.3%      |
+| other    | 0     | 0.0%       |

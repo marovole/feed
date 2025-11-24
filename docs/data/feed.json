@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993089655668142487",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@FactoryAI Is there a way to track daily token use better?",
+    "url": "https://x.com/martin_ict_algo/status/1993089655668142487",
+    "timestamp": "2025-11-24T22:49:38.000Z",
+    "metadata": {
+      "conversation_id": "1993089655668142487",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993088145789743424",
     "source": "twitter",
     "author": "bentossell",

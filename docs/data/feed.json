@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993056157431480709",
+    "source": "twitter",
+    "author": "JohnONolan",
+    "content": "@FactoryAI Can you let us know when droid is updated to not load .env into shell anymore",
+    "url": "https://x.com/JohnONolan/status/1993056157431480709",
+    "timestamp": "2025-11-24T20:36:31.000Z",
+    "metadata": {
+      "conversation_id": "1993056157431480709",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993054915384791235",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "Y'all - @FactoryAI and @AnthropicAI is just nasty.",
+    "url": "https://x.com/NickSloggett/status/1993054915384791235",
+    "timestamp": "2025-11-24T20:31:35.000Z",
+    "metadata": {
+      "conversation_id": "1993054915384791235",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1993054914394964103",
+    "source": "twitter",
+    "author": "FeifanZ",
+    "content": "took @FactoryAI for a run yesterday on an agentic task: asked it to do a bunch of web and Github searches and consolidate the results. it did pretty well! excited to keep building with it https://t.co/abV3LVM6pT",
+    "url": "https://x.com/FeifanZ/status/1993054914394964103",
+    "timestamp": "2025-11-24T20:31:35.000Z",
+    "metadata": {
+      "conversation_id": "1993054914394964103",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993048914916950379",
     "source": "twitter",
     "author": "bentossell",

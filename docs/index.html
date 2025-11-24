@@ -1241,6 +1241,9 @@
         <button class="icon-btn" id="archiveToggleBtn" title="View Archived">
           <i data-lucide="archive"></i>
         </button>
+        <button class="icon-btn" id="syncBtn" title="Sync Archived (S)">
+          <i data-lucide="cloud-upload"></i>
+        </button>
         <button class="icon-btn" id="themeBtn" title="Toggle Theme">
           <i data-lucide="moon"></i>
         </button>
@@ -1362,6 +1365,10 @@
             <div class="sidebar-command">
               <kbd>R</kbd>
               <span>Refresh</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>S</kbd>
+              <span>Sync archived</span>
             </div>
             <div class="sidebar-command">
               <kbd>Shift X</kbd>
@@ -1500,8 +1507,79 @@
       state.config = getConfig();
     }
 
+    // Load archived IDs from server and merge with localStorage
+    async function loadServerArchived() {
+      try {
+        const res = await fetch('./data/archived.json?t=' + Date.now());
+        if (!res.ok) return;
+        const serverArchived = await res.json();
+        
+        // Merge server archived with local
+        serverArchived.forEach(id => state.archivedIds.add(id));
+        
+        // Save merged state back to localStorage
+        localStorage.setItem(STORAGE_KEYS.ARCHIVED, JSON.stringify([...state.archivedIds]));
+      } catch (e) {
+        console.error('[Archive] Failed to load server archived:', e);
+      }
+    }
+
+    // Sync archived IDs to server via GitHub API
+    async function syncArchivedToServer() {
+      const token = localStorage.getItem(STORAGE_KEYS.TOKEN);
+      if (!token) {
+        showToast('Access token required to sync', 'error');
+        return false;
+      }
+
+      const archivedArray = [...state.archivedIds];
+      const content = btoa(JSON.stringify(archivedArray, null, 2));
+      
+      try {
+        // Get current file SHA
+        const repoInfo = await fetch('https://api.github.com/repos/bentossell/feed/contents/docs/data/archived.json', {
+          headers: { 'Authorization': `token ${token}` }
+        });
+        
+        let sha = null;
+        if (repoInfo.ok) {
+          const fileData = await repoInfo.json();
+          sha = fileData.sha;
+        }
+
+        // Update file
+        const updateRes = await fetch('https://api.github.com/repos/bentossell/feed/contents/docs/data/archived.json', {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${token}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            message: 'Sync archived items',
+            content: content,
+            sha: sha
+          })
+        });
+
+        if (updateRes.ok) {
+          showToast('Archived items synced to server');
+          return true;
+        } else {
+          const err = await updateRes.json();
+          console.error('[Sync] Failed:', err);
+          showToast('Sync failed - check console', 'error');
+          return false;
+        }
+      } catch (e) {
+        console.error('[Sync] Error:', e);
+        showToast('Sync failed - check console', 'error');
+        return false;
+      }
+    }
+
     async function startApp() {
       elements.accessOverlay.classList.remove('open');
+      await loadServerArchived();
       await fetchFeed();
       setInterval(fetchFeed, 60000);
     }
@@ -2112,6 +2190,8 @@
             render();
         });
 
+        document.getElementById('syncBtn').addEventListener('click', syncArchivedToServer);
+
         document.getElementById('settingsBtn').addEventListener('click', () => {
             // Show config with helpful defaults if empty
             const configToShow = Object.keys(state.config).length > 0 && state.config.hiddenAuthors 
@@ -2203,6 +2283,9 @@
                     break;
                 case 'r':
                     fetchFeed();
+                    break;
+                case 's':
+                    syncArchivedToServer();
                     break;
                 case 'arrowdown':
                     e.preventDefault();

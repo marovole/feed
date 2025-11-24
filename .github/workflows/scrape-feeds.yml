@@ -41,11 +41,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase --autostash origin main
           git add docs/data/feed.json docs/data/seen.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update feed data [skip ci]"
-            git push origin HEAD:main
+            # Try to push, if it fails pull and retry
+            git push origin HEAD:main || (git pull --rebase=false --no-edit origin main && git push origin HEAD:main)
           fi

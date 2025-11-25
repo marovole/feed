@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1993156122489000230",
+    "source": "twitter",
+    "author": "hqmank",
+    "content": "@AskChief_Leo @FactoryAI Anyway, thanks for integrating the new Opus 4.5 model right at the very first moment.",
+    "url": "https://x.com/hqmank/status/1993156122489000230",
+    "timestamp": "2025-11-25T03:13:45.000Z",
+    "metadata": {
+      "conversation_id": "1993156122489000230",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993155348698743198",
+    "source": "twitter",
+    "author": "MullerNavas",
+    "content": "@FactoryAI Let's go💪 my favourite company.\n\nThough I am missing out 🙄",
+    "url": "https://x.com/MullerNavas/status/1993155348698743198",
+    "timestamp": "2025-11-25T03:10:40.000Z",
+    "metadata": {
+      "conversation_id": "1993155348698743198",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993155130854982084",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Feature request @FactoryAI . This bad boy on the CLI as coloured --- or ascii, under Auto - selector. https://t.co/fmwS35Ajzo",
+    "url": "https://x.com/launchaddict/status/1993155130854982084",
+    "timestamp": "2025-11-25T03:09:48.000Z",
+    "metadata": {
+      "conversation_id": "1993155130854982084",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993152978589745403",
+    "source": "twitter",
+    "author": "kylantomita",
+    "content": ".@FactoryAI i love the product, hands down, but actually am finding myself getting token fatigue\n\nmy ask: is there a way to help the users to manage tokens better? \n- a native hook that showcases how much context is left/how much was used (in various tool calls, etc.)?\n- or even more that the team can do to reduce the amount of tokens being used during runtime?\n\nthis is the only complaint",
+    "url": "https://x.com/kylantomita/status/1993152978589745403",
+    "timestamp": "2025-11-25T03:01:15.000Z",
+    "metadata": {
+      "conversation_id": "1993152978589745403",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993152707742613521",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "We all leveled up today\n\n@FactoryAI 🤝 @claudeai Opus 4.5\n\nDroid and Opus 4.5 locked in",
+    "url": "https://x.com/GitMaxd/status/1993152707742613521",
+    "timestamp": "2025-11-25T03:00:11.000Z",
+    "metadata": {
+      "conversation_id": "1993152707742613521",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993150798868759042",
     "source": "twitter",
     "author": "launchaddict",

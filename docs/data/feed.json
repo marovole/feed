@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1993416274953851275",
+    "source": "twitter",
+    "author": "neki_tech",
+    "content": "@FactoryAI Link to grab 10m tokens free: https://t.co/hL2gc33q8u",
+    "url": "https://x.com/neki_tech/status/1993416274953851275",
+    "timestamp": "2025-11-25T20:27:30.000Z",
+    "metadata": {
+      "conversation_id": "1993416274953851275",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993416185551937972",
+    "source": "twitter",
+    "author": "neki_tech",
+    "content": "Free access to Opus 4.5 and Gemini 3 Pro.\n\nDroid (@FactoryAI) gives 10M tokens free for a month via referral - enough to build a solid MVP.\n\nI've been using it instead of Claude Code: \n- All CC features (sub-agents, hooks, skills)\n- Access to ALL models, not just Anthropic\n- Different models per sub-agent\n- Models feel uncrippled (unlike Cursor).\n- Sometimes performs better than the original interfaces.\n- Great agentic behavior, clean tool calling.\n\nSurprisingly underrated tool.",
+    "url": "https://x.com/neki_tech/status/1993416185551937972",
+    "timestamp": "2025-11-25T20:27:09.000Z",
+    "metadata": {
+      "conversation_id": "1993416185551937972",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993414711715807403",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@bentossell @FactoryAI Thanks @bentossell will do my best 😉",
+    "url": "https://x.com/pascallammers_/status/1993414711715807403",
+    "timestamp": "2025-11-25T20:21:17.000Z",
+    "metadata": {
+      "conversation_id": "1993414711715807403",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993414628664394139",
+    "source": "twitter",
+    "author": "codeitlikemiley",
+    "content": "@pascallammers_ @FactoryAI how much project it took to burn it down to 150M tokens and you still havent consumed the 50M , i think on 1 project if you do well its like 10M a day. 50M in a day is not enough lol wasted",
+    "url": "https://x.com/codeitlikemiley/status/1993414628664394139",
+    "timestamp": "2025-11-25T20:20:57.000Z",
+    "metadata": {
+      "conversation_id": "1993414628664394139",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993414594669559954",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@orange_boy @FactoryAI Context management in Droid is so sick \nImplemented 3 major features already with planning, tasks management etc and not even used 25m with opus 4.5 till now 😅",
+    "url": "https://x.com/pascallammers_/status/1993414594669559954",
+    "timestamp": "2025-11-25T20:20:49.000Z",
+    "metadata": {
+      "conversation_id": "1993414594669559954",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993414297557369024",
     "source": "twitter",
     "author": "pascallammers_",
@@ -13000,6 +13075,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p2ce1p",
+    "source": "reddit",
+    "author": "mediumbrownfox",
+    "content": "Error: 413 Request Entity Too Large\n\nI have been getting these issues tonight using Droid with Gemini 3 and GPT-5.1-Codex.  What does it mean and how can I work around this? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p2ce1p/error_413_request_entity_too_large/",
+    "timestamp": "2025-11-20T19:23:20.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 7,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_402",

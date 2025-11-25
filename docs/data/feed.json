@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993432317248082085",
+    "source": "twitter",
+    "author": "martinpcolley",
+    "content": "@bentossell @FactoryAI But then I just went straight into factory flipped the switch and started banging with gemini ;) instant power",
+    "url": "https://x.com/martinpcolley/status/1993432317248082085",
+    "timestamp": "2025-11-25T21:31:15.000Z",
+    "metadata": {
+      "conversation_id": "1993432317248082085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993430461759225898",
     "source": "twitter",
     "author": "bentossell",
@@ -13208,6 +13223,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "github_issue_403",
+    "source": "github",
+    "author": "hurajgor",
+    "content": "[Issue] Using my corporate hosted provider for custom models - Receiving Error: 400 status code (no body)\n\nThought of sharing bug report but the command `/bug` is failing with the below \n\n```\nCreating bug report...\n\n●  Session file not found.\n\n```\n\n<img width=\"361\" height=\"65\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d1562ae3-ee5c-4263-93e6-5ecb1e7d4fe2\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/403",
+    "timestamp": "2025-11-20T20:03:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 403
+    }
   },
   {
     "id": "reddit_1p2ce1p",

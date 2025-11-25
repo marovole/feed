@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993372058286510358",
+    "source": "twitter",
+    "author": "ramnanimanan",
+    "content": "@bentossell @steipete @VibeTunnel @FactoryAI Really excited for that ! Hope its through the factory bridge and not remote dev sandbox :)",
+    "url": "https://x.com/ramnanimanan/status/1993372058286510358",
+    "timestamp": "2025-11-25T17:31:48.000Z",
+    "metadata": {
+      "conversation_id": "1993372058286510358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993370054835290594",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nelwin_catalogo @elonmusk @FactoryAI coming",
+    "url": "https://x.com/bentossell/status/1993370054835290594",
+    "timestamp": "2025-11-25T17:23:50.000Z",
+    "metadata": {
+      "conversation_id": "1993370054835290594",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993369946210906197",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "we dont show context because we handle context management without degradation but we will be adding % left soon\n\nwould love to know more about the tokens used at runtime. there may be setup things to improve (+ product) but just want to understand as much as possible. feel free to dm a video/essay/whatever",
+    "url": "https://x.com/bentossell/status/1993369946210906197",
+    "timestamp": "2025-11-25T17:23:24.000Z",
+    "metadata": {
+      "conversation_id": "1993369946210906197",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993369344999591983",
     "source": "twitter",
     "author": "bentossell",

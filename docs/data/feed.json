@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993423007579267326",
+    "source": "twitter",
+    "author": "DCasota",
+    "content": "@pascallammers_ @FactoryAI App, context, and token growth are correlated.\nCurrent usage: 45m out of 200m tokens over 5 days (~1m tokens/hour for 10 hours each day).\n\nDoes the Anthropic Max plan change user perception?",
+    "url": "https://x.com/DCasota/status/1993423007579267326",
+    "timestamp": "2025-11-25T20:54:15.000Z",
+    "metadata": {
+      "conversation_id": "1993423007579267326",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993422395496185908",
     "source": "twitter",
     "author": "martinpcolley",

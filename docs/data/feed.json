@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993167467271930290",
+    "source": "twitter",
+    "author": "MedonB082602",
+    "content": "Tech shoutouts because they carried:\n@FactoryAi droid cli sped up the build loop like crazy.\nGemini 3.0 helped with rapid ideation + UI iterations.\nOpus 4.5 was clutch for deep product logic and writing polish. https://t.co/9gRbZQxrrm",
+    "url": "https://x.com/MedonB082602/status/1993167467271930290",
+    "timestamp": "2025-11-25T03:58:50.000Z",
+    "metadata": {
+      "conversation_id": "1993167467271930290",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993167317216510231",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "hey @bentossell i reinstalled droid today and added my files back one by one, mcp settings, config for custom models, and skill folder. As soon as i added my skills folders my CPU usage ramped way up - since not having any custom skills in my route ~/.factory/ folder cpu is woking normal only really peaking around 2.9%. Hope this can be of some use if you're still looking into this issue. cheers mate",
+    "url": "https://x.com/Ricardo_Nth/status/1993167317216510231",
+    "timestamp": "2025-11-25T03:58:14.000Z",
+    "metadata": {
+      "conversation_id": "1993167317216510231",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993161393663885670",
     "source": "twitter",
     "author": "MullerNavas",

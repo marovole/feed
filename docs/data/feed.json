@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993807485820674390",
+    "source": "twitter",
+    "author": "Pranav2278",
+    "content": "@swyx @cognition @DevinAI @FactoryAI Totally agree.\n\nDevin is such a life saver in a company full of python devs in need of a well made React app for a PoC to present to a potential client in 2 hours.",
+    "url": "https://x.com/Pranav2278/status/1993807485820674390",
+    "timestamp": "2025-11-26T22:22:02.000Z",
+    "metadata": {
+      "conversation_id": "1993807485820674390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993807271600791938",
+    "source": "twitter",
+    "author": "agent_wrap",
+    "content": "@zkstx @NickSloggett @FactoryAI @AnthropicAI @zkstx it is one of the measures we had to take to avoid fraud prevention. Sadly people were exploiting our free trials to resell token usage\n\nmore context here:\nhttps://t.co/Z2wsVXv0ix",
+    "url": "https://x.com/agent_wrap/status/1993807271600791938",
+    "timestamp": "2025-11-26T22:21:11.000Z",
+    "metadata": {
+      "conversation_id": "1993807271600791938",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993806210475413611",
     "source": "twitter",
     "author": "zkstx",
@@ -15820,6 +15850,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "github_issue_411",
+    "source": "github",
+    "author": "jinsley8",
+    "content": "[Issue] Figma MCP 403 during authentication\n\nI'm trying to add the Figma MCP fro the registry. when I authenticate it returns: `HTTP 403: Invalid OAuth error response: SyntaxError: JSON Parse error: Unexpected identifier \"Forbidden\". Raw body: Forbidden`\n\nOther MCP like Linear have worked.",
+    "url": "https://github.com/Factory-AI/factory/issues/411",
+    "timestamp": "2025-11-21T17:58:44Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 411
+    }
   },
   {
     "id": "github_issue_410",

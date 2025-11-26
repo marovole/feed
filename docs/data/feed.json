@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993756584988614957",
+    "source": "twitter",
+    "author": "aroussi",
+    "content": "@danshipper How much better did you find it compared to sonnet? In my workflow using @FactoryAI I noticed very little difference between the two",
+    "url": "https://x.com/aroussi/status/1993756584988614957",
+    "timestamp": "2025-11-26T18:59:46.000Z",
+    "metadata": {
+      "conversation_id": "1993756584988614957",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993754733006475309",
+    "source": "twitter",
+    "author": "hightbunker",
+    "content": "@orange_boy @FactoryAI And I agree, it’s not their fault, but maybe their responsibility to get a fix for it? idk\n\nI use Cursor for text edits because I like the interface (@ryolu_ did), one of the few things that brings me back to Cursor. As for the rest, CLI-based agents SSHed straight into the VPS",
+    "url": "https://x.com/hightbunker/status/1993754733006475309",
+    "timestamp": "2025-11-26T18:52:25.000Z",
+    "metadata": {
+      "conversation_id": "1993754733006475309",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993753862604534184",
     "source": "twitter",
     "author": "hightbunker",
@@ -15282,6 +15312,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p2wh3j",
+    "source": "reddit",
+    "author": "branik_10",
+    "content": "anyone switched from claude code to factory droid cli?\n\nhey there, thinking about trying factory droid cli after couple months with claude code (z.ai glm coding plan, native Windows) but after checking the documentation I can't find whether droid cli supports the following cc features in some way:\n1. no project scope settings support? documentation only mentions `~/.factory/settings.json`, how would I allow specific permissions/allowed commands per project? this is a very crucial feature imo\n2. no images pasting support? cc can do that\n3. no `/add-di",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p2wh3j/anyone_switched_from_claude_code_to_factory_droid/",
+    "timestamp": "2025-11-21T11:43:52.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "reddit_1p2rbdh",

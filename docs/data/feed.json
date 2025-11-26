@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993795329544917446",
+    "source": "twitter",
+    "author": "bloomindesignim",
+    "content": "@bentossell @figma why wouldn't you have it used by the best! @FactoryAI",
+    "url": "https://x.com/bloomindesignim/status/1993795329544917446",
+    "timestamp": "2025-11-26T21:33:44.000Z",
+    "metadata": {
+      "conversation_id": "1993795329544917446",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993794704299934015",
+    "source": "twitter",
+    "author": "JoshuaThirteen",
+    "content": "@iannuttall @FactoryAI “Nothing works at all… but boy was it beautiful”",
+    "url": "https://x.com/JoshuaThirteen/status/1993794704299934015",
+    "timestamp": "2025-11-26T21:31:15.000Z",
+    "metadata": {
+      "conversation_id": "1993794704299934015",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_442",
     "source": "github",
     "author": "factory-ben",

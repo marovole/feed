@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993621510368743736",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@ChrisVanDerKlau @FactoryAI yep all g if you're fine with rate limits. \n\nyou can use those accounts in droid too btw with CLIproxy",
+    "url": "https://x.com/bentossell/status/1993621510368743736",
+    "timestamp": "2025-11-26T10:03:02.000Z",
+    "metadata": {
+      "conversation_id": "1993621510368743736",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993621341652881900",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AriesTheCoder @EnoReyes @FactoryAI ty ty",
+    "url": "https://x.com/bentossell/status/1993621341652881900",
+    "timestamp": "2025-11-26T10:02:22.000Z",
+    "metadata": {
+      "conversation_id": "1993621341652881900",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993620518725947484",
+    "source": "twitter",
+    "author": "martinpcolley",
+    "content": "I remember it opened in a new tab I think with a different company name but it was accessed from the factory billing/usage that was processing the llm metrics it was like 2/3 months ago. \n\nI could see daily usage and hourly I think I’m not 100% about sessions based. I’m pretty confident cause I remember thinking oh why does it come up with this company on the details but then it’s just they handle your analytics I guess. But it’s not there anymore",
+    "url": "https://x.com/martinpcolley/status/1993620518725947484",
+    "timestamp": "2025-11-26T09:59:05.000Z",
+    "metadata": {
+      "conversation_id": "1993620518725947484",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993619738573062636",
     "source": "twitter",
     "author": "AriesTheCoder",

@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993769197223203287",
+    "source": "twitter",
+    "author": "vatro_vrbanic",
+    "content": "@bentossell @FactoryAI just checked both branches (main and feature) in the cwd, same /sessions output with missing sessions. one of the missing sessions is a pretty huge one (Opus 4.5 on release day), could this be the issue?",
+    "url": "https://x.com/vatro_vrbanic/status/1993769197223203287",
+    "timestamp": "2025-11-26T19:49:53.000Z",
+    "metadata": {
+      "conversation_id": "1993769197223203287",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993768842997493957",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@bentossell @nathanpareo @FactoryAI @FactoryAI need to jump on a share for Xmas limited time feature. Spread some droid love over the holidays 🥳",
+    "url": "https://x.com/launchaddict/status/1993768842997493957",
+    "timestamp": "2025-11-26T19:48:29.000Z",
+    "metadata": {
+      "conversation_id": "1993768842997493957",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993768152312807661",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "@edlzsh @nkgoutham @FactoryAI Yes they seem to be",
+    "url": "https://x.com/_BrianKimball/status/1993768152312807661",
+    "timestamp": "2025-11-26T19:45:44.000Z",
+    "metadata": {
+      "conversation_id": "1993768152312807661",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_439",
     "source": "github",
     "author": "edlsh",

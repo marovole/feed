@@ -1,10 +1,10 @@
 # Classification Summary
 
-**Date:** 2025-11-26 09:51 UTC
+**Date:** 2025-11-26 09:59 UTC
 
-## New Items Classified: 6
+## New Items Classified: 2
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention | 5 | 83.3% |
-| love | 1 | 16.7% |
+| love | 1 | 50.0% |
+| bug | 1 | 50.0% |

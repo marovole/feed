@@ -32,10 +32,10 @@ jobs:
               -f content='+1'
           elif [ -n "${{ github.event.issue.number }}" ]; then
             # Comment on issue
-            gh issue comment ${{ github.event.issue.number }} --body "👍 Working on this now..."
+            gh issue comment ${{ github.event.issue.number }} -R ${{ github.repository }} --body "👍 Working on this now..."
           elif [ -n "${{ github.event.pull_request.number }}" ]; then
             # Comment on PR
-            gh pr comment ${{ github.event.pull_request.number }} --body "👍 Working on this now..."
+            gh pr comment ${{ github.event.pull_request.number }} -R ${{ github.repository }} --body "👍 Working on this now..."
           fi
 
       - name: Checkout repository

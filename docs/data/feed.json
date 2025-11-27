@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994117147321356359",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@bentossell either @FactoryAI droid cli, if you're in plan mode/spec mode, and you iterate over a plan and you basically say to it, \"oh, manually edit the plan\". It still continues on running. Why is that? What is it going todo, implement the plan? I just wanna manually edit the spec and save it.\n\nOr if there could be another option of just saving the spec because what I do is, I plan with one model and I implement with another model on another terminal. So I don't really use the same terminal for both. So to me it's, I have to sort of manually edit it and then I cancel it. Then I copy that link and I give it to the other terminal to go and implement.",
+    "url": "https://x.com/martin_ict_algo/status/1994117147321356359",
+    "timestamp": "2025-11-27T18:52:31.000Z",
+    "metadata": {
+      "conversation_id": "1994117147321356359",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994106661632659842",
     "source": "twitter",
     "author": "malikatifsaleem",

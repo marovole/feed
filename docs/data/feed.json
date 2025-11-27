@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994119918175048091",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@martin_ict_algo @FactoryAI yeh because you can’t switch model families without compressing atm - so you can implement or manually edit and save then point the other model at that spec. you can continue and esc straight away too",
+    "url": "https://x.com/bentossell/status/1994119918175048091",
+    "timestamp": "2025-11-27T19:03:32.000Z",
+    "metadata": {
+      "conversation_id": "1994119918175048091",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994117147321356359",
     "source": "twitter",
     "author": "martin_ict_algo",

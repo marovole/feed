@@ -316,6 +316,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_1993950377511931975",
+    "source": "twitter",
+    "author": "neekdyako",
+    "content": "@Kyler_Lorin @minheo93698092 @FactoryAI 1. Outperforms Claude code/Codex using any of their own models.\n2. Cracked context management. Can code for hours and use 10's millions tokens and it still remembers what you said in beginning without manually compressing context. \n3. More real raw tokens usage than cursor/other",
+    "url": "https://x.com/neekdyako/status/1993950377511931975",
+    "timestamp": "2025-11-27T07:49:50.000Z",
+    "metadata": {
+      "conversation_id": "1993950377511931975",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993947308967481478",
     "source": "twitter",
     "author": "retrovesto",

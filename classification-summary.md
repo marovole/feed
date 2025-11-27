@@ -1,10 +1,9 @@
 # Classification Summary
 
-**Date:** 2025-11-27 04:10 UTC
+**Date:** 2025-11-27 05:35 UTC
 
-**New items classified:** 3
+**New items classified:** 1
 
 | Category | Count | % |
 |----------|-------|---|
-| mention | 2 | 66.7% |
-| question | 1 | 33.3% |
+| question | 1 | 100.0% |

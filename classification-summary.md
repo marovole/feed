@@ -1,17 +1,15 @@
 # Classification Summary
 
-**Date:** 2025-11-27 22:07 UTC
+**Date:** 2025-11-27 22:45 UTC
 
-## Results
+**Items Classified:** 1
 
-- **Total items classified:** 1
-
-### Category Breakdown
+## Category Breakdown
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| love     | 1     | 100.0%     |
-| mention  | 0     | 0%         |
+| mention  | 1     | 100%       |
 | bug      | 0     | 0%         |
+| love     | 0     | 0%         |
 | question | 0     | 0%         |
 | other    | 0     | 0%         |

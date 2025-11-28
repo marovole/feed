@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994330566183804942",
+    "source": "twitter",
+    "author": "flaviocopes",
+    "content": "@jitendravyas @opencode @FactoryAI yes bring your own API key, but not with Claude subscription yet",
+    "url": "https://x.com/flaviocopes/status/1994330566183804942",
+    "timestamp": "2025-11-28T09:00:34.000Z",
+    "metadata": {
+      "conversation_id": "1994330566183804942",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994330252609200476",
+    "source": "twitter",
+    "author": "radeezly",
+    "content": "@bernaferrari @rudrank @FactoryAI How have I never heard of @FactoryAI before? It's so polished and pretty 😍. Thx for sharing.",
+    "url": "https://x.com/radeezly/status/1994330252609200476",
+    "timestamp": "2025-11-28T08:59:19.000Z",
+    "metadata": {
+      "conversation_id": "1994330252609200476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994324167974350885",
     "source": "twitter",
     "author": "faizintfd",

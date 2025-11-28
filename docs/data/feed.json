@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994241267488723033",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@bentossell @iannuttall @FactoryAI Is still flicker I try also in tmux. No way to remove it my side in Cursor",
+    "url": "https://x.com/AIFlow_ML/status/1994241267488723033",
+    "timestamp": "2025-11-28T03:05:44.000Z",
+    "metadata": {
+      "conversation_id": "1994241267488723033",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994237507798520143",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@aeitroc @FactoryAI @antigravity Can you post a gist to setup Quibbler properly in Droids mate?",
+    "url": "https://x.com/AIFlow_ML/status/1994237507798520143",
+    "timestamp": "2025-11-28T02:50:47.000Z",
+    "metadata": {
+      "conversation_id": "1994237507798520143",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994236354197148024",
     "source": "twitter",
     "author": "harveyfullstack",

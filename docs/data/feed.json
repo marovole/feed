@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994481587623530851",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@PierrePaloJrMD @FactoryAI You're welcome man.  For brown field, here are prompts that help me to get started.\n\nTo get started - start in SPEC mode:\n- PROMPT 1 - Analyse this codebase.\n- PROMPT 2 -  List top 5 critical items for improvement. / Help me spec out a feature that [...]\n\nhttps://t.co/SXRVKRtn9B",
+    "url": "https://x.com/AriesTheCoder/status/1994481587623530851",
+    "timestamp": "2025-11-28T19:00:40.000Z",
+    "metadata": {
+      "conversation_id": "1994481587623530851",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994469310434357337",
     "source": "twitter",
     "author": "nkgoutham",

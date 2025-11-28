@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1994236354197148024",
+    "source": "twitter",
+    "author": "harveyfullstack",
+    "content": "@5aikat @mitchellh @WisprFlow @FactoryAI I made it to 100% by ditching VSCode for nvim. Worth the setup!",
+    "url": "https://x.com/harveyfullstack/status/1994236354197148024",
+    "timestamp": "2025-11-28T02:46:12.000Z",
+    "metadata": {
+      "conversation_id": "1994236354197148024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994234665880657934",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@bentossell @FactoryAI Tnks mate",
+    "url": "https://x.com/AIFlow_ML/status/1994234665880657934",
+    "timestamp": "2025-11-28T02:39:30.000Z",
+    "metadata": {
+      "conversation_id": "1994234665880657934",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994230357109972993",
+    "source": "twitter",
+    "author": "bavaria_kush",
+    "content": "Can we get a @FactoryAI mcp",
+    "url": "https://x.com/bavaria_kush/status/1994230357109972993",
+    "timestamp": "2025-11-28T02:22:22.000Z",
+    "metadata": {
+      "conversation_id": "1994230357109972993",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994219222394626506",
     "source": "twitter",
     "author": "JohnThilen",

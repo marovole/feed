@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994381086923927962",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@soumyo @FactoryAI you mean mixing model families right? ie opus for planning and gpt for executing?",
+    "url": "https://x.com/bentossell/status/1994381086923927962",
+    "timestamp": "2025-11-28T12:21:19.000Z",
+    "metadata": {
+      "conversation_id": "1994381086923927962",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994371338539241600",
     "source": "twitter",
     "author": "soumyo",

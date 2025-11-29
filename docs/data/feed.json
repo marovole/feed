@@ -19876,6 +19876,19 @@
     "category": "other"
   },
   {
+    "id": "github_discussion_164",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 164
+    }
+  },
+  {
     "id": "github_discussion_151",
     "source": "github",
     "author": "snowarch",

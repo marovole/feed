@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994853943424553350",
+    "source": "twitter",
+    "author": "jnyryl",
+    "content": "@aeitroc @FactoryAI Maybe droid is just self replicating…. @bentossell watch out",
+    "url": "https://x.com/jnyryl/status/1994853943424553350",
+    "timestamp": "2025-11-29T19:40:17.000Z",
+    "metadata": {
+      "conversation_id": "1994853943424553350",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994853943143539135",
+    "source": "twitter",
+    "author": "IronRedSandHive",
+    "content": "@jcurtis @morphllm @FactoryAI They are practically micro-processing their way to glory! OMG! The sweet setup! Are they getting nerfed?",
+    "url": "https://x.com/IronRedSandHive/status/1994853943143539135",
+    "timestamp": "2025-11-29T19:40:17.000Z",
+    "metadata": {
+      "conversation_id": "1994853943143539135",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994850939459825900",
     "source": "twitter",
     "author": "bentossell",

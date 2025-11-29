@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994845027609317624",
+    "source": "twitter",
+    "author": "marcelkargul",
+    "content": "@aeitroc @FactoryAI In what way did i copy them? It wasn't even on the moodboard",
+    "url": "https://x.com/marcelkargul/status/1994845027609317624",
+    "timestamp": "2025-11-29T19:04:51.000Z",
+    "metadata": {
+      "conversation_id": "1994845027609317624",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994842778547765359",
+    "source": "twitter",
+    "author": "ChaosCruxFL",
+    "content": "I go to https://t.co/zUHv3DriS5 web interface and create a 'Knowledge Droid' for the repo, tasking it with setting up an organization system. Its separate session stays contextual to any file changes, give over to the CLI when needed, and keeps everything tracked. Gives me a good startup prototype session every time.",
+    "url": "https://x.com/ChaosCruxFL/status/1994842778547765359",
+    "timestamp": "2025-11-29T18:55:55.000Z",
+    "metadata": {
+      "conversation_id": "1994842778547765359",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994835310090596707",
     "source": "twitter",
     "author": "launchaddict",

@@ -19873,7 +19873,7 @@
       "category": "Feature requests",
       "number": 164
     },
-    "category": "other"
+    "category": "question"
   },
   {
     "id": "github_discussion_164",
@@ -19886,7 +19886,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 164
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_151",

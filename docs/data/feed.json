@@ -20000,7 +20000,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 99
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_95",
@@ -20027,7 +20028,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 95
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_92",

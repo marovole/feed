@@ -1,12 +1,11 @@
 # Classification Summary
 
-**Date:** 2025-11-29 16:50 UTC
+**Date:** 2025-11-29 18:01 UTC
 
-## Results
-
+## New Classifications
 - **Items classified:** 1
-- **mention:** 1 (100%)
-- **bug:** 0 (0%)
-- **love:** 0 (0%)
-- **question:** 0 (0%)
-- **other:** 0 (0%)
+
+## Category Breakdown
+| Category | Count | Percentage |
+|----------|-------|------------|
+| mention | 1 | 100.0% |

@@ -1,5 +1,31 @@
 [
   {
+    "id": "github_issue_452",
+    "source": "github",
+    "author": "ShubDVS",
+    "content": "[Issue] [Bug] CLI terminates silently on long-running tasks (~6 mins) with custom providers\n\nThe CLI process stops execution unexpectedly when running long tasks, typically around the 6-minute mark. There is no error message provided; the process simply terminates.\n\nTo Reproduce\n\n1. Configure Droid to use cliproxyapi (OpenAI compatible provider).\n\n2. Model: qwen3-coder-plus (or similar large context models).\n\n3. Prompt a complex task requiring extensive generation.\n\n4. Result: The CLI stops processing after a random, short duration (e.g., 2 min, 4 min, 6 min).\n\nExpected behavior The CLI",
+    "url": "https://github.com/Factory-AI/factory/issues/452",
+    "timestamp": "2025-11-29T04:24:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 452
+    }
+  },
+  {
+    "id": "github_issue_451",
+    "source": "github",
+    "author": "ShubDVS",
+    "content": "[Issue] [Feature Request] Allow BYOK usage without Factory AI login or cloud sync\n\nCurrently, the CLI forces a login with a Factory AI account even if the user intends to use their own API keys (BYOK) exclusively. Additionally, local settings are automatically synced to the cloud.\n\nI would like a \"Local Mode\" or \"Offline Mode\" that allows the CLI to function using only a local configuration file and local environment variables for API keys, without requiring an authentication handshake with Factory AI servers.\n\nBenefits: \n- Better support for air-gapped or high-security enviro",
+    "url": "https://github.com/Factory-AI/factory/issues/451",
+    "timestamp": "2025-11-29T04:20:34Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 451
+    }
+  },
+  {
     "id": "github_issue_450",
     "source": "github",
     "author": "ShubDVS",

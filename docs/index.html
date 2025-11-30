@@ -1233,7 +1233,7 @@
         <button class="icon-btn" id="archiveToggleBtn" title="View Archived">
           <i data-lucide="archive"></i>
         </button>
-        <button class="icon-btn" id="syncBtn" title="Sync Archived (S)">
+        <button class="icon-btn" id="syncBtn" title="Sync Archived (S)" style="display: none;">
           <i data-lucide="cloud-upload"></i>
         </button>
         <button class="icon-btn" id="themeBtn" title="Toggle Theme">
@@ -1241,6 +1241,9 @@
         </button>
         <button class="icon-btn" id="settingsBtn" title="Settings">
           <i data-lucide="settings"></i>
+        </button>
+        <button class="icon-btn" id="loginBtn" title="Sign In" style="display: none;">
+          <i data-lucide="log-in"></i>
         </button>
         <button class="icon-btn" id="logoutBtn" title="Sign Out" style="display: none;">
           <i data-lucide="log-out"></i>
@@ -1423,7 +1426,7 @@
     <div class="modal" style="max-width: 600px;">
       <h2>Configuration</h2>
       <p style="font-size: 13px; margin-bottom: 12px; line-height: 1.5;">
-        Configure feed settings using JSON format. Add usernames to <code>hiddenAuthors</code> to hide posts from specific authors. <strong>Settings sync across all your devices.</strong>
+        Add usernames to <code>hiddenAuthors</code> to hide posts. <strong id="settingsSyncNote">Sign in to sync.</strong>
       </p>
       <details style="margin-bottom: 16px; font-size: 12px; color: var(--text-secondary);">
         <summary style="cursor: pointer; font-weight: 600; margin-bottom: 8px;">Example configuration</summary>
@@ -1503,20 +1506,85 @@
         state.user = session.user;
         await startApp();
       } else {
-        // No session, redirect to login
-        window.location.href = './login.html';
-        return;
+        // No session - show public feed without personal state sync
+        await startPublicApp();
       }
       
       // Listen for auth state changes
       supabase.auth.onAuthStateChange(async (event, session) => {
         if (event === 'SIGNED_IN' && session) {
           state.user = session.user;
+          // Migrate localStorage archived items to Supabase if any
+          await migrateLocalStorageToSupabase();
           await startApp();
         } else if (event === 'SIGNED_OUT') {
-          window.location.href = './login.html';
+          state.user = null;
+          state.supabaseReady = false;
+          updateAuthUI();
+          // Keep viewing the feed but use localStorage
+          loadLocalArchivedState();
+          render();
         }
       });
+    }
+    
+    // Start app in public mode (no login)
+    async function startPublicApp() {
+      updateAuthUI();
+      loadLocalArchivedState();
+      await fetchFeed();
+      setInterval(fetchFeed, 60000);
+    }
+    
+    // Load archived state from localStorage for anonymous users
+    function loadLocalArchivedState() {
+      try {
+        const archived = JSON.parse(localStorage.getItem('archivedIds') || '[]');
+        state.archivedIds = new Set(archived);
+      } catch {
+        state.archivedIds = new Set();
+      }
+    }
+    
+    // Save archived state to localStorage for anonymous users
+    function saveLocalArchivedState() {
+      localStorage.setItem('archivedIds', JSON.stringify([...state.archivedIds]));
+    }
+    
+    // Migrate localStorage archived items to Supabase when user logs in
+    async function migrateLocalStorageToSupabase() {
+      if (!state.user) return;
+      
+      try {
+        const localArchived = JSON.parse(localStorage.getItem('archivedIds') || '[]');
+        if (localArchived.length > 0) {
+          console.log('[Migration] Migrating', localArchived.length, 'archived items to Supabase');
+          await Promise.all(
+            localArchived.map(id => updatePostState(id, { is_archived: true }))
+          );
+          // Clear localStorage after successful migration
+          localStorage.removeItem('archivedIds');
+        }
+      } catch (e) {
+        console.error('[Migration] Error migrating localStorage to Supabase:', e);
+      }
+    }
+    
+    // Update UI based on authentication state
+    function updateAuthUI() {
+      const loginBtn = document.getElementById('loginBtn');
+      const logoutBtn = document.getElementById('logoutBtn');
+      const syncBtn = document.getElementById('syncBtn');
+      
+      if (state.user) {
+        loginBtn.style.display = 'none';
+        logoutBtn.style.display = 'flex';
+        syncBtn.style.display = 'flex';
+      } else {
+        loginBtn.style.display = 'flex';
+        logoutBtn.style.display = 'none';
+        syncBtn.style.display = 'none';
+      }
     }
 
     // Load post states from Supabase
@@ -1701,7 +1769,7 @@
       // Prevent double initialization from onAuthStateChange firing after getSession
       if (state.supabaseReady) return;
       
-      elements.logoutBtn.style.display = 'flex';
+      updateAuthUI();
       
       await loadPostStates();
       await loadUserSettings();
@@ -1718,6 +1786,10 @@
     }
 
     elements.logoutBtn.addEventListener('click', signOut);
+    
+    document.getElementById('loginBtn').addEventListener('click', () => {
+      window.location.href = './login.html';
+    });
 
     // --- Data ---
     async function fetchFeed() {
@@ -2003,21 +2075,27 @@
         state.selectedIds.clear();
         render();
         
-        // Sync each to Supabase
-        const results = await Promise.all(
-          idsToArchive.map(id => updatePostState(id, { is_archived: true }))
-        );
-        
-        const successCount = results.filter(r => r).length;
-        if (successCount === count) {
-          showToast(`Archived ${count} items`);
+        // If logged in, sync to Supabase; otherwise use localStorage
+        if (state.user) {
+          const results = await Promise.all(
+            idsToArchive.map(id => updatePostState(id, { is_archived: true }))
+          );
+          
+          const successCount = results.filter(r => r).length;
+          if (successCount === count) {
+            showToast(`Archived ${count} items`);
+          } else {
+            // Revert failed items
+            idsToArchive.forEach((id, i) => {
+              if (!results[i]) state.archivedIds.delete(id);
+            });
+            render();
+            showToast(`Archived ${successCount}/${count} items`, 'warning');
+          }
         } else {
-          // Revert failed items
-          idsToArchive.forEach((id, i) => {
-            if (!results[i]) state.archivedIds.delete(id);
-          });
-          render();
-showToast(`Archived ${successCount}/${count} items`, 'warning');
+          // Anonymous user - save to localStorage
+          saveLocalArchivedState();
+          showToast(`Archived ${count} items`);
         }
     }
 
@@ -2033,20 +2111,26 @@ showToast(`Archived ${successCount}/${count} items`, 'warning');
       }
       render();
       
-      // Sync to Supabase
-      const success = await updatePostState(id, { is_archived: !wasArchived });
-      
-      if (success) {
-        showToast(wasArchived ? 'Post unarchived' : 'Post archived');
-      } else {
-        // Revert on failure
-        if (wasArchived) {
-          state.archivedIds.add(id);
+      // If logged in, sync to Supabase; otherwise use localStorage
+      if (state.user) {
+        const success = await updatePostState(id, { is_archived: !wasArchived });
+        
+        if (success) {
+          showToast(wasArchived ? 'Post unarchived' : 'Post archived');
         } else {
-          state.archivedIds.delete(id);
+          // Revert on failure
+          if (wasArchived) {
+            state.archivedIds.add(id);
+          } else {
+            state.archivedIds.delete(id);
+          }
+          render();
+          showToast('Failed to update - try again', 'error');
         }
-        render();
-        showToast('Failed to update - try again', 'error');
+      } else {
+        // Anonymous user - save to localStorage
+        saveLocalArchivedState();
+        showToast(wasArchived ? 'Post unarchived' : 'Post archived');
       }
     }
 
@@ -2327,7 +2411,11 @@ showToast(`Archived ${successCount}/${count} items`, 'warning');
         });
 
         document.getElementById('syncBtn').addEventListener('click', () => {
-            showToast('Sync is automatic with Supabase!');
+            if (state.user) {
+              showToast('Sync is automatic');
+            } else {
+              showToast('Sign in to sync');
+            }
         });
 
         document.getElementById('settingsBtn').addEventListener('click', () => {
@@ -2339,6 +2427,13 @@ showToast(`Archived ${successCount}/${count} items`, 'warning');
                   ...state.config
                 };
             elements.configInput.value = JSON.stringify(configToShow, null, 2);
+            
+            // Update sync note based on login state
+            const syncNote = document.getElementById('settingsSyncNote');
+            if (syncNote) {
+              syncNote.textContent = state.user ? 'Synced.' : 'Sign in to sync.';
+            }
+            
             elements.settingsModal.classList.add('open');
         });
 
@@ -2351,17 +2446,26 @@ showToast(`Archived ${successCount}/${count} items`, 'warning');
                 const newConfig = JSON.parse(elements.configInput.value);
                 const hiddenAuthors = newConfig.hiddenAuthors || [];
                 
-                // Save to Supabase
-                const success = await saveUserSettings(hiddenAuthors);
-                
-                if (success) {
-                  state.config = newConfig;
-                  elements.settingsModal.classList.remove('open');
-                  showToast('Configuration saved to cloud - syncs across devices!');
-                  // Refresh the feed to apply new filters
-                  render();
+                if (state.user) {
+                  // Save to Supabase for logged-in users
+                  const success = await saveUserSettings(hiddenAuthors);
+                  
+                  if (success) {
+                    state.config = newConfig;
+                    localStorage.setItem(STORAGE_KEYS.CONFIG, JSON.stringify(newConfig));
+                    elements.settingsModal.classList.remove('open');
+                    showToast('Settings saved & synced');
+                    render();
+                  } else {
+                    showToast('Failed to save', 'error');
+                  }
                 } else {
-                  showToast('Failed to save settings - try again', 'error');
+                  // Anonymous users - save to localStorage only
+                  state.config = newConfig;
+                  localStorage.setItem(STORAGE_KEYS.CONFIG, JSON.stringify(newConfig));
+                  elements.settingsModal.classList.remove('open');
+                  showToast('Settings saved locally');
+                  render();
                 }
             } catch {
                 alert('Invalid JSON');
@@ -2431,7 +2535,11 @@ showToast(`Archived ${successCount}/${count} items`, 'warning');
                     fetchFeed();
                     break;
                 case 's':
-                    showToast('Sync is automatic with Supabase!');
+                    if (state.user) {
+                      showToast('Sync is automatic');
+                    } else {
+                      showToast('Sign in to sync');
+                    }
                     break;
                 case 'arrowdown':
                     e.preventDefault();

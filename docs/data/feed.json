@@ -240,6 +240,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_1994867309677318261",
+    "source": "twitter",
+    "author": "marccampbell",
+    "content": "https://t.co/9ymJ2lOgmh is good, been using it all day with BYOK setup",
+    "url": "https://x.com/marccampbell/status/1994867309677318261",
+    "timestamp": "2025-11-29T20:33:24.000Z",
+    "metadata": {
+      "conversation_id": "1994867309677318261",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994863857341489542",
     "source": "twitter",
     "author": "AnkMister",

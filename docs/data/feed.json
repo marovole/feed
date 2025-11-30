@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995274763565187306",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "Using @FactoryAI when @GeminiApp was good, I found that it works w/ checklists and structure. Good for speed, terrible for deep analysis.\n\nI asked G3 for a prompt to get a detailed audit, it gave me 4 \"Torture Tests\". Here's test No. 1.\n\n> The \"Red Team\" Architecture Audit.\n\nRecommend you try running this with @AnthropicAI  Opus 4.5",
+    "url": "https://x.com/AriesTheCoder/status/1995274763565187306",
+    "timestamp": "2025-11-30T23:32:28.000Z",
+    "metadata": {
+      "conversation_id": "1995274763565187306",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995249647947030937",
     "source": "twitter",
     "author": "bierlingm",

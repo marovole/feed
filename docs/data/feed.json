@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995341885574197303",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@uwukko try it in @FactoryAI's harness if you haven't already",
+    "url": "https://x.com/fire/status/1995341885574197303",
+    "timestamp": "2025-12-01T03:59:11.000Z",
+    "metadata": {
+      "conversation_id": "1995341885574197303",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995337103039926481",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@itsbyrobin bro try it in @FactoryAI , fr god sake, please stop judging model harness in some vscode wrapper, same goes fr gemini pro 3, try it in factory cli",
+    "url": "https://x.com/immoinulmoin/status/1995337103039926481",
+    "timestamp": "2025-12-01T03:40:11.000Z",
+    "metadata": {
+      "conversation_id": "1995337103039926481",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995328360709513707",
     "source": "twitter",
     "author": "faizintfd",

@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1995513991041585532",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "github_issue_472",
@@ -40,7 +42,8 @@
       "type": "issue",
       "labels": [],
       "number": 472
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1995511660312719619",
@@ -15172,7 +15175,7 @@
       "labels": [],
       "number": 420
     },
-    "category": "bug"
+    "category": "question"
   },
   {
     "id": "github_issue_420",
@@ -15185,7 +15188,8 @@
       "type": "issue",
       "labels": [],
       "number": 420
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992430718627217485",

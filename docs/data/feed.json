@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_463",
+    "source": "github",
+    "author": "zhaozhongwenzzw",
+    "content": "[Issue] I can't paste images in a Windows environment.\n\nwhy?",
+    "url": "https://github.com/Factory-AI/factory/issues/463",
+    "timestamp": "2025-12-01T05:24:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 463
+    }
+  },
+  {
     "id": "twitter_1995353915303592375",
     "source": "twitter",
     "author": "immoinulmoin",

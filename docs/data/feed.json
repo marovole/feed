@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995460163235451390",
+    "source": "twitter",
+    "author": "lohigowda_in",
+    "content": "Hey @FactoryAI \nI know you auto-compress context when you hit limits — thanks for that! As a user, I don’t know how close I am to the limit. \n\nA small percentage or progress bar showing how much of the model’s token limit is used — like Cursor https://t.co/ZV5L6SxLs4",
+    "url": "https://x.com/lohigowda_in/status/1995460163235451390",
+    "timestamp": "2025-12-01T11:49:11.000Z",
+    "metadata": {
+      "conversation_id": "1995460163235451390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995449073483313474",
     "source": "twitter",
     "author": "Ricardo_Nth",

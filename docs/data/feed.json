@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995353915303592375",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@itsbyrobin @FactoryAI i used it in factory cli, with other models, and found opus 4.5 working best for coding",
+    "url": "https://x.com/immoinulmoin/status/1995353915303592375",
+    "timestamp": "2025-12-01T04:46:59.000Z",
+    "metadata": {
+      "conversation_id": "1995353915303592375",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995353294131364324",
+    "source": "twitter",
+    "author": "itsbyrobin",
+    "content": "@immoinulmoin @FactoryAI still not a fan of droid unfortunately\n\ni used opus in cursor and claude code (max, 5x)",
+    "url": "https://x.com/itsbyrobin/status/1995353294131364324",
+    "timestamp": "2025-12-01T04:44:31.000Z",
+    "metadata": {
+      "conversation_id": "1995353294131364324",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995346639658320168",
     "source": "twitter",
     "author": "jacobgorban",

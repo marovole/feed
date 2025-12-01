@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995505498066751954",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "mate i was in this same conundrum this morning. I've gone for factory cos last time i had claude i hit rate limits and that hurts when i've got 8 hours to flow and my tool gives me 2 haha. also i can still play with my baseten inference models in factory. i'll be honest i think opencode could be my endgame but it needs to be adjusted - it feels like it has the most potential with how custom you can make modes and agents but you need to sit and do that. im actually using my factory plan to begin that. \n\nbottom line tho factory has given me the biggest wins with ease. i still have a $100 per month augment sub and $60 in amp and $30 in kilocode. augment and kilo are awesome in vs code but im spending more and more time in my terminal and droid is clutch. but each to their own.\n\nif you choose a different starter i'll meet you at victory road and we can see which one is doing bits!",
+    "url": "https://x.com/Ricardo_Nth/status/1995505498066751954",
+    "timestamp": "2025-12-01T14:49:20.000Z",
+    "metadata": {
+      "conversation_id": "1995505498066751954",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995503572113670331",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@bentossell @FactoryAI I have difficulty to run them it duplicate the ones in .claude sometimes. Then if they are in my local folder they work if they are in the main user they cause errors \n\nIt can be me Ben I just start use Droids. \nOn local folder all good btw.",
+    "url": "https://x.com/AIFlow_ML/status/1995503572113670331",
+    "timestamp": "2025-12-01T14:41:40.000Z",
+    "metadata": {
+      "conversation_id": "1995503572113670331",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995500710155444502",
     "source": "twitter",
     "author": "bentossell",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995388953063821369",
+    "source": "twitter",
+    "author": "GKannanDev",
+    "content": "Any chance @conductor_build will get support for @FactoryAI’s Droid CLI, @charlieholtz?",
+    "url": "https://x.com/GKannanDev/status/1995388953063821369",
+    "timestamp": "2025-12-01T07:06:13.000Z",
+    "metadata": {
+      "conversation_id": "1995388953063821369",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995375091044290792",
     "source": "twitter",
     "author": "AIFlow_ML",

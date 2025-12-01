@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1995346639658320168",
+    "source": "twitter",
+    "author": "jacobgorban",
+    "content": "@NilkhanVaibhav @FactoryAI I don’t have a Max subscription for Claude, but I’ve been using Opus 4.5 on @FactoryAI today and last evening and I’ve written a huge (for me) amount of code and it worked really well. Developed two small projects in parallel. Nothing to complain about.",
+    "url": "https://x.com/jacobgorban/status/1995346639658320168",
+    "timestamp": "2025-12-01T04:18:05.000Z",
+    "metadata": {
+      "conversation_id": "1995346639658320168",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995343323347980415",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@uwukko @FactoryAI just different flavors of harness realistically",
+    "url": "https://x.com/fire/status/1995343323347980415",
+    "timestamp": "2025-12-01T04:04:54.000Z",
+    "metadata": {
+      "conversation_id": "1995343323347980415",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995342542246691292",
+    "source": "twitter",
+    "author": "uwukko",
+    "content": "@fire @FactoryAI what makes it different from claude code though",
+    "url": "https://x.com/uwukko/status/1995342542246691292",
+    "timestamp": "2025-12-01T04:01:48.000Z",
+    "metadata": {
+      "conversation_id": "1995342542246691292",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995341885574197303",
     "source": "twitter",
     "author": "fire",

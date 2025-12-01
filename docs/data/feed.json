@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1995534632801218997",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "@FactoryAI Hyped to see if GLM 4.6 is worse then Deepseek v3.2",
+    "url": "https://x.com/MirAI_Newz/status/1995534632801218997",
+    "timestamp": "2025-12-01T16:45:06.000Z",
+    "metadata": {
+      "conversation_id": "1995534632801218997",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995534281868017900",
+    "source": "twitter",
+    "author": "lohigowda_in",
+    "content": "@bentossell @FactoryAI Got it. Appreciate the reply 🙂🙌🏻",
+    "url": "https://x.com/lohigowda_in/status/1995534281868017900",
+    "timestamp": "2025-12-01T16:43:42.000Z",
+    "metadata": {
+      "conversation_id": "1995534281868017900",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995533756405612919",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "@martinpcolley @FactoryAI Nice. Sounds like it handled your projects smoothly. I’ll dig deeper and compare both again.",
+    "url": "https://x.com/NilkhanVaibhav/status/1995533756405612919",
+    "timestamp": "2025-12-01T16:41:37.000Z",
+    "metadata": {
+      "conversation_id": "1995533756405612919",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995533579661836540",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "@karthikr3ddy @FactoryAI Got it. Maybe it’s just a workflow difference.",
+    "url": "https://x.com/NilkhanVaibhav/status/1995533579661836540",
+    "timestamp": "2025-12-01T16:40:55.000Z",
+    "metadata": {
+      "conversation_id": "1995533579661836540",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995533343413453014",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "@jacobgorban @FactoryAI Good to know it worked well for you.",
+    "url": "https://x.com/NilkhanVaibhav/status/1995533343413453014",
+    "timestamp": "2025-12-01T16:39:58.000Z",
+    "metadata": {
+      "conversation_id": "1995533343413453014",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995532666154963207",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "@Tgerighty @FactoryAI Have you tried it in CC ?",
+    "url": "https://x.com/NilkhanVaibhav/status/1995532666154963207",
+    "timestamp": "2025-12-01T16:37:17.000Z",
+    "metadata": {
+      "conversation_id": "1995532666154963207",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995520405785006456",
     "source": "twitter",
     "author": "AIFlow_ML",

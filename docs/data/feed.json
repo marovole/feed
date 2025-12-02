@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1995986393206493352",
+    "source": "twitter",
+    "author": "batsirai",
+    "content": "Day 6 of 30. Convex Component - I am a component maker!  Me and @FactoryAI made a component for @replicate that creates image gen request, tracks metrics, handles retries, stores images in @convex  and @Cloudflare R2. Not bad for an afternoons work… for an AI PM. https://t.co/ND12WG2zbD",
+    "url": "https://x.com/batsirai/status/1995986393206493352",
+    "timestamp": "2025-12-02T22:40:14.000Z",
+    "metadata": {
+      "conversation_id": "1995986393206493352",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995986122191605899",
+    "source": "twitter",
+    "author": "DevBredda",
+    "content": "been using @FactoryAI and their CLI Droid tool it has been sooo much fun using it.. \n\nunfortunately its getting close to the end! https://t.co/dDnds4xmWD",
+    "url": "https://x.com/DevBredda/status/1995986122191605899",
+    "timestamp": "2025-12-02T22:39:09.000Z",
+    "metadata": {
+      "conversation_id": "1995986122191605899",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995984522551111815",
+    "source": "twitter",
+    "author": "batsirai",
+    "content": "@elonmusk @FactoryAI why isn’t Grok 4.1 an option?",
+    "url": "https://x.com/batsirai/status/1995984522551111815",
+    "timestamp": "2025-12-02T22:32:48.000Z",
+    "metadata": {
+      "conversation_id": "1995984522551111815",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995978009224909054",
     "source": "twitter",
     "author": "isaac_cullinane",

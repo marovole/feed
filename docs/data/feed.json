@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995963418428473633",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@abhagsain @FactoryAI fix in next release tonight. you can just quit and resume session and it'll work again",
+    "url": "https://x.com/bentossell/status/1995963418428473633",
+    "timestamp": "2025-12-02T21:08:56.000Z",
+    "metadata": {
+      "conversation_id": "1995963418428473633",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995957343046303880",
     "source": "twitter",
     "author": "AIFlow_ML",

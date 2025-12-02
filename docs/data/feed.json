@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1995775362413011077",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@bentossell @FactoryAI @claudeai 👀",
+    "url": "https://x.com/launchaddict/status/1995775362413011077",
+    "timestamp": "2025-12-02T08:41:40.000Z",
+    "metadata": {
+      "conversation_id": "1995775362413011077",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995771545843589374",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@launchaddict @FactoryAI @claudeai boosts are coming. \n\nyou're not really 'allowed' multiple accounts",
+    "url": "https://x.com/bentossell/status/1995771545843589374",
+    "timestamp": "2025-12-02T08:26:30.000Z",
+    "metadata": {
+      "conversation_id": "1995771545843589374",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995771180712653138",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@YangLi_leo @FactoryAI cute anthropic sponsoring our keyword tho",
+    "url": "https://x.com/bentossell/status/1995771180712653138",
+    "timestamp": "2025-12-02T08:25:03.000Z",
+    "metadata": {
+      "conversation_id": "1995771180712653138",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1pc29q7",
     "source": "reddit",
     "author": "bentossell",

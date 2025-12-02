@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995918310438044111",
+    "source": "twitter",
+    "author": "JaymeBuilds",
+    "content": "What’s better @FactoryAI or @warpdotdev for Opus 4.5 ?",
+    "url": "https://x.com/JaymeBuilds/status/1995918310438044111",
+    "timestamp": "2025-12-02T18:09:42.000Z",
+    "metadata": {
+      "conversation_id": "1995918310438044111",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995918146059030972",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "Previously, I talked about how I found a \"Simulation Mode\" while using @FactoryAI and @GeminiApp. \n\nIt also gave me 4 tests to really dig in. Here is test No. 2! \n\nTry it in @AnthropicAI 's Opus 4.5; RT to let me know how you go.\n\n&gt; 2. The \"Junior Dev\" Implementation Simulation https://t.co/jGyI86HnbH",
+    "url": "https://x.com/AriesTheCoder/status/1995918146059030972",
+    "timestamp": "2025-12-02T18:09:03.000Z",
+    "metadata": {
+      "conversation_id": "1995918146059030972",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995910515101700339",
     "source": "twitter",
     "author": "jitendravyas",

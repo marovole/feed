@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1996295777291743639",
+    "source": "twitter",
+    "author": "batsirai",
+    "content": "Thanks for the response. Because I am vibe coding… I’m always on Opus 4.5, but that’s not the most efficient token usage across all tasks. Switching has a cost (compression time). If Droid could switch for me: auto mode. Along with the ability to pick a model. Auto mode would just be at the top of the model list.",
+    "url": "https://x.com/batsirai/status/1996295777291743639",
+    "timestamp": "2025-12-03T19:09:37.000Z",
+    "metadata": {
+      "conversation_id": "1996295777291743639",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996295397447291027",
+    "source": "twitter",
+    "author": "zeddotdev",
+    "content": "@EvanDeKim @FactoryAI @rootlets_nft https://t.co/i37bSvSJre",
+    "url": "https://x.com/zeddotdev/status/1996295397447291027",
+    "timestamp": "2025-12-03T19:08:06.000Z",
+    "metadata": {
+      "conversation_id": "1996295397447291027",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996293104412791188",
     "source": "twitter",
     "author": "bentossell",

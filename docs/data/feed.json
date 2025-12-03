@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1996039160268984417",
+    "source": "twitter",
+    "author": "stringer_kade",
+    "content": "@FactoryAI how much does it cost for me to use the app on my phone?",
+    "url": "https://x.com/stringer_kade/status/1996039160268984417",
+    "timestamp": "2025-12-03T02:09:55.000Z",
+    "metadata": {
+      "conversation_id": "1996039160268984417",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996038365385556050",
+    "source": "twitter",
+    "author": "abhagsain",
+    "content": "@bentossell @FactoryAI thank you",
+    "url": "https://x.com/abhagsain/status/1996038365385556050",
+    "timestamp": "2025-12-03T02:06:45.000Z",
+    "metadata": {
+      "conversation_id": "1996038365385556050",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995992100723466746",
     "source": "twitter",
     "author": "FeifanZ",
@@ -22804,6 +22834,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p0ksg7",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "v0.26.3 changelog - skills, hooks migration, @ mention improvements\n\n    v0.26.3\n\n# New features\n\n* **Skills Enabled by Default** \\- Skills command now enabled for all users\n* **Claude Code Hooks Auto-Migration** \\- Automatically detects and imports hooks from Claude Code CLI with interactive prompts. Smart translation converts `bash_tool` to `Execute` and `CLAUDE_CWD` to `DROID_CWD`, preventing duplicates and tracking migration state\n* **@ Suggestions Improvements** \\- Now includes folders in addition to files with better UI and performance\n\n# Bug fixes\n\n* Fixed",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p0ksg7/v0263_changelog_skills_hooks_migration_mention/",
+    "timestamp": "2025-11-18T19:06:54.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_381",

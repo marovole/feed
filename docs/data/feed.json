@@ -16,6 +16,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1pd56c3",
+    "source": "reddit",
+    "author": "sheesh",
+    "content": "Can't access all my GitHub repos?\n\nI'm on the Pro plan and connected my GitHub to Factory account a while back and was able to create Workspaces for several GitHub repos, but now I can't seem to add any more. They just don't show up in \"Repository Selection\" under GitHub Integration, or under Create Workspace. The integrations settings says \"Connection check successful\" but it just doesn't show them all for some reason.\n\nWhere do I click to access all my repos?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pd56c3/cant_access_all_my_github_repos/",
+    "timestamp": "2025-12-03T14:10:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1996217086859735287",
     "source": "twitter",
     "author": "surim0n",

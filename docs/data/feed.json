@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1996293104412791188",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@RobotServicesX @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1996293104412791188",
+    "timestamp": "2025-12-03T18:59:00.000Z",
+    "metadata": {
+      "conversation_id": "1996293104412791188",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996292950779740180",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@surim0n @FactoryAI @TheChainsmokers ofc!",
+    "url": "https://x.com/bentossell/status/1996292950779740180",
+    "timestamp": "2025-12-03T18:58:23.000Z",
+    "metadata": {
+      "conversation_id": "1996292950779740180",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996292925441905022",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nishanth_who @FactoryAI what do you wanna know?",
+    "url": "https://x.com/bentossell/status/1996292925441905022",
+    "timestamp": "2025-12-03T18:58:17.000Z",
+    "metadata": {
+      "conversation_id": "1996292925441905022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996292857456410691",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@batsirai @FactoryAI i understand this pov but also feel like user-choice is what most folks want! not off the cards tho",
+    "url": "https://x.com/bentossell/status/1996292857456410691",
+    "timestamp": "2025-12-03T18:58:01.000Z",
+    "metadata": {
+      "conversation_id": "1996292857456410691",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996291876937245126",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@matanSF @FactoryAI @TheChainsmokers real ones know fx-ack01",
+    "url": "https://x.com/bentossell/status/1996291876937245126",
+    "timestamp": "2025-12-03T18:54:07.000Z",
+    "metadata": {
+      "conversation_id": "1996291876937245126",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_478",
     "source": "github",
     "author": "jakob1379",

@@ -10,7 +10,8 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_issue_480",
@@ -23,7 +24,8 @@
       "type": "issue",
       "labels": [],
       "number": 480
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1996478813187023142",

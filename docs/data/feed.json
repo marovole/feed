@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1996669110579826916",
+    "source": "twitter",
+    "author": "_drozdgabriel",
+    "content": "@eyenoticeall @FactoryAI 0.5x https://t.co/bzClkHBnbk",
+    "url": "https://x.com/_drozdgabriel/status/1996669110579826916",
+    "timestamp": "2025-12-04T19:53:06.000Z",
+    "metadata": {
+      "conversation_id": "1996669110579826916",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996667456488607833",
+    "source": "twitter",
+    "author": "amankhan",
+    "content": "This is honestly so piped @bentossell incredible look for @FactoryAI",
+    "url": "https://x.com/amankhan/status/1996667456488607833",
+    "timestamp": "2025-12-04T19:46:32.000Z",
+    "metadata": {
+      "conversation_id": "1996667456488607833",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996667310489337975",
+    "source": "twitter",
+    "author": "eyenoticeall",
+    "content": "@FactoryAI pricing multiplier?",
+    "url": "https://x.com/eyenoticeall/status/1996667310489337975",
+    "timestamp": "2025-12-04T19:45:57.000Z",
+    "metadata": {
+      "conversation_id": "1996667310489337975",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996663983680421898",
     "source": "twitter",
     "author": "MirAI_Newz",

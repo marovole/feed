@@ -1,5 +1,31 @@
 [
   {
+    "id": "reddit_1pdufm4",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.30.0 Released - Search hidden files and more\n\n## New features\n\n* **Search hidden files** - Grep and Glob tools now include hidden files in search results\n* **Session search** - Added search functionality to the session selector for quickly finding sessions\n* **Image indicator** - User messages now display an image indicator when images are attached\n\n## Bug fixes\n\n* Fixed EPERM permission errors on certain file operations - Windows file rename retry logic\n* Fixed ESC key navigation in `/review` and `/bg-process` commands for Ghostty terminal",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pdufm4/factory_cli_v0300_released_search_hidden_files/",
+    "timestamp": "2025-12-04T08:03:37.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "github_issue_480",
+    "source": "github",
+    "author": "iota9star",
+    "content": "[Issue] Automatically add a space after @ in the file\n\nAfter the @ file, it should automatically add a space like claude code after selecting the file item. Currently, no space is provided, and when pressing Enter after editing the content, the content will be reset.",
+    "url": "https://github.com/Factory-AI/factory/issues/480",
+    "timestamp": "2025-12-04T08:02:55Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 480
+    }
+  },
+  {
     "id": "twitter_1996478813187023142",
     "source": "twitter",
     "author": "bradvangelder",

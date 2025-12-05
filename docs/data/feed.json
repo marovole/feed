@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1997040363954229465",
+    "source": "twitter",
+    "author": "venkat_systems",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition will there be a TUI linear ?",
+    "url": "https://x.com/venkat_systems/status/1997040363954229465",
+    "timestamp": "2025-12-05T20:28:20.000Z",
+    "metadata": {
+      "conversation_id": "1997040363954229465",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997039056027635837",
+    "source": "twitter",
+    "author": "arnestrickmann",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition Great addition! \nOur users requested this feature early and are using it heavily (@santiarrecif :)) ). Also outsourcing many Linear tickets to CLI-based coding agents through @emdashsh myself. https://t.co/ckGxz6y6Ul",
+    "url": "https://x.com/arnestrickmann/status/1997039056027635837",
+    "timestamp": "2025-12-05T20:23:08.000Z",
+    "metadata": {
+      "conversation_id": "1997039056027635837",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997032982230818954",
     "source": "twitter",
     "author": "chdeist",

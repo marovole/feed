@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1996992849074889159",
+    "source": "twitter",
+    "author": "chdeist",
+    "content": "Change my mind:\n\nPlanning to cancel both Claude Max and Cursor subscriptions in favor of @FactoryAI with my own keys, run from a free Cursor account.\n\nAny downsides?\n\n@DannyAziz97 @bentossell",
+    "url": "https://x.com/chdeist/status/1996992849074889159",
+    "timestamp": "2025-12-05T17:19:32.000Z",
+    "metadata": {
+      "conversation_id": "1996992849074889159",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996992432106291510",
+    "source": "twitter",
+    "author": "CurrySalsicha",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition Claude Code pleeeeeease",
+    "url": "https://x.com/CurrySalsicha/status/1996992432106291510",
+    "timestamp": "2025-12-05T17:17:52.000Z",
+    "metadata": {
+      "conversation_id": "1996992432106291510",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996992321267921308",
+    "source": "twitter",
+    "author": "cjc",
+    "content": "@charlieholtz @karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition @conductor_build If you want your agent listed in our directory, submit your integration here: https://t.co/g8Wa6LSjL7",
+    "url": "https://x.com/cjc/status/1996992321267921308",
+    "timestamp": "2025-12-05T17:17:26.000Z",
+    "metadata": {
+      "conversation_id": "1996992321267921308",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996991285002227848",
+    "source": "twitter",
+    "author": "karrisaarinen",
+    "content": "@kcosr @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition More on the agent platform here:\nhttps://t.co/SLUKbMO9wT",
+    "url": "https://x.com/karrisaarinen/status/1996991285002227848",
+    "timestamp": "2025-12-05T17:13:19.000Z",
+    "metadata": {
+      "conversation_id": "1996991285002227848",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996989455136075832",
     "source": "twitter",
     "author": "kcosr",

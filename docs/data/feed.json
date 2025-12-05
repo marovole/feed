@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1997024987056943369",
+    "source": "twitter",
+    "author": "thecureforblur",
+    "content": "@chdeist @FactoryAI @DannyAziz97 @bentossell i been really happy with claude lately. never tried factoryAi",
+    "url": "https://x.com/thecureforblur/status/1997024987056943369",
+    "timestamp": "2025-12-05T19:27:14.000Z",
+    "metadata": {
+      "conversation_id": "1997024987056943369",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997024751924236716",
+    "source": "twitter",
+    "author": "deeznuts8215",
+    "content": "@explosivesox @getdomeapi @FactoryAI @openservai @Polymarket @hash_dive any latency nums for post orders/each order book get?(in ms)",
+    "url": "https://x.com/deeznuts8215/status/1997024751924236716",
+    "timestamp": "2025-12-05T19:26:18.000Z",
+    "metadata": {
+      "conversation_id": "1997024751924236716",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997023215307444407",
+    "source": "twitter",
+    "author": "karrisaarinen",
+    "content": "@linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition @charlielabs_ai too!",
+    "url": "https://x.com/karrisaarinen/status/1997023215307444407",
+    "timestamp": "2025-12-05T19:20:12.000Z",
+    "metadata": {
+      "conversation_id": "1997023215307444407",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997019659657207879",
     "source": "twitter",
     "author": "charlielabs_ai",

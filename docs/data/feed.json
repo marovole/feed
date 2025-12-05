@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1997026070194016300",
+    "source": "twitter",
+    "author": "darrenjr",
+    "content": "@CurrySalsicha @karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition https://t.co/aMuRrygHEk",
+    "url": "https://x.com/darrenjr/status/1997026070194016300",
+    "timestamp": "2025-12-05T19:31:32.000Z",
+    "metadata": {
+      "conversation_id": "1997026070194016300",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997025972487696468",
+    "source": "twitter",
+    "author": "tembo",
+    "content": "@karrisaarinen @linear @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition 🤝",
+    "url": "https://x.com/tembo/status/1997025972487696468",
+    "timestamp": "2025-12-05T19:31:09.000Z",
+    "metadata": {
+      "conversation_id": "1997025972487696468",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997025701149782236",
+    "source": "twitter",
+    "author": "darrenjr",
+    "content": "@meetalijavid @karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition @tembo supports them all :)\n\nand works inside linear https://t.co/HDz9vDIrlP",
+    "url": "https://x.com/darrenjr/status/1997025701149782236",
+    "timestamp": "2025-12-05T19:30:04.000Z",
+    "metadata": {
+      "conversation_id": "1997025701149782236",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1997025296718221616",
+    "source": "twitter",
+    "author": "connorpaton",
+    "content": "@matthewfarc @karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition @claudeai @tembo supports claude code and most of the coding agents!",
+    "url": "https://x.com/connorpaton/status/1997025296718221616",
+    "timestamp": "2025-12-05T19:28:28.000Z",
+    "metadata": {
+      "conversation_id": "1997025296718221616",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997025169135882456",
+    "source": "twitter",
+    "author": "connorpaton",
+    "content": "@bilal_harouchi @karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition @tembo supports 1:1 claude code in linear",
+    "url": "https://x.com/connorpaton/status/1997025169135882456",
+    "timestamp": "2025-12-05T19:27:57.000Z",
+    "metadata": {
+      "conversation_id": "1997025169135882456",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997024987056943369",
     "source": "twitter",
     "author": "thecureforblur",

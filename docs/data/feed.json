@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1996977323871293574",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "@cmricksen @FactoryAI Kindly check your DM as I am facing an issue setting up my account.",
+    "url": "https://x.com/NilkhanVaibhav/status/1996977323871293574",
+    "timestamp": "2025-12-05T16:17:50.000Z",
+    "metadata": {
+      "conversation_id": "1996977323871293574",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996977296717279727",
+    "source": "twitter",
+    "author": "karrisaarinen",
+    "content": "@linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition Find them all here: https://t.co/n8fwfr9mZy",
+    "url": "https://x.com/karrisaarinen/status/1996977296717279727",
+    "timestamp": "2025-12-05T16:17:44.000Z",
+    "metadata": {
+      "conversation_id": "1996977296717279727",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996976761813585972",
+    "source": "twitter",
+    "author": "karrisaarinen",
+    "content": "Agents on @linear you can now use and delegate engineering tasks to:\n@tembo \n@Sentry\n@codegen\n@cursor_ai\n@FactoryAI\n@github Copilot\n@OpenAI Codex\n@cognition Devin \n+ more https://t.co/63dkGjZl7D",
+    "url": "https://x.com/karrisaarinen/status/1996976761813585972",
+    "timestamp": "2025-12-05T16:15:36.000Z",
+    "metadata": {
+      "conversation_id": "1996976761813585972",
+      "likes": 5,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996976324989407247",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Droid (@FactoryAI ) is so good! Got this knowledge map that connects concepts from one class to the other - showing the prerequisites! \n\nStarted the Knowledge Map function a few days ago but couldn't get to work on this later. \n\nGot back to building again - and was able to implement this in one detailed prompt!!!\n\nWell done, Droid!\n\nMostly ready for a beta launch!",
+    "url": "https://x.com/nkgoutham/status/1996976324989407247",
+    "timestamp": "2025-12-05T16:13:52.000Z",
+    "metadata": {
+      "conversation_id": "1996976324989407247",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996975895928590800",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@LignoL23 @SkylerMiao7 @MiniMax__AI @opencode @thdxr @FactoryAI Thanks 🙏",
+    "url": "https://x.com/CloudTrader4/status/1996975895928590800",
+    "timestamp": "2025-12-05T16:12:10.000Z",
+    "metadata": {
+      "conversation_id": "1996975895928590800",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996975081302687855",
     "source": "twitter",
     "author": "CipherVectors",

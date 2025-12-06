@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1997288078332067940",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Alberto8793 @FactoryAI @mixedbreadai they are model-invoked. but also you can mention in https://t.co/UbRwToH5z7 at the root of your project to help get it to use the skill more often. also worth tweaking fontmatter kinda like seo for the model to know when to use it",
+    "url": "https://x.com/bentossell/status/1997288078332067940",
+    "timestamp": "2025-12-06T12:52:40.000Z",
+    "metadata": {
+      "conversation_id": "1997288078332067940",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997287910178185479",
+    "source": "twitter",
+    "author": "andreihasna",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition Imagine if Linear would have its own coding agent, even a small one for bug fixes.",
+    "url": "https://x.com/andreihasna/status/1997287910178185479",
+    "timestamp": "2025-12-06T12:52:00.000Z",
+    "metadata": {
+      "conversation_id": "1997287910178185479",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997270063007797355",
     "source": "twitter",
     "author": "AriesTheCoder",

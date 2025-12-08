@@ -1722,6 +1722,10 @@
     async function loadPostStates() {
       if (!state.user) return;
       
+      // Keep previous state in case of transient errors
+      const prevArchived = state.archivedIds;
+      const prevBookmarked = state.bookmarkedIds;
+
       try {
         const { data, error } = await supabase
           .from('post_states')
@@ -1733,17 +1737,22 @@
           return;
         }
         
-        state.archivedIds.clear();
-        state.bookmarkedIds.clear();
-        
-        data?.forEach(row => {
-          if (row.is_archived) state.archivedIds.add(row.post_id);
-          if (row.is_bookmarked) state.bookmarkedIds.add(row.post_id);
+        const nextArchived = new Set();
+        const nextBookmarked = new Set();
+        (data || []).forEach(row => {
+          if (row.is_archived) nextArchived.add(row.post_id);
+          if (row.is_bookmarked) nextBookmarked.add(row.post_id);
         });
+
+        state.archivedIds = nextArchived;
+        state.bookmarkedIds = nextBookmarked;
         
         state.supabaseReady = true;
       } catch (e) {
         console.error('[Supabase] Exception loading post states:', e);
+        // Restore previous state on failure to avoid resurfacing archived posts
+        state.archivedIds = prevArchived;
+        state.bookmarkedIds = prevBookmarked;
       }
     }
 

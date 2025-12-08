@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1997975465341165884",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@petergostev @linear Anthropic to acquire @FactoryAI",
+    "url": "https://x.com/marcgregory_/status/1997975465341165884",
+    "timestamp": "2025-12-08T10:24:06.000Z",
+    "metadata": {
+      "conversation_id": "1997975465341165884",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997949652377727057",
     "source": "twitter",
     "author": "bradvangelder",

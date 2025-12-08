@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1998160265746288730",
+    "source": "twitter",
+    "author": "shohih_abdul",
+    "content": "@bentossell @FactoryAI @claudeai thanks!",
+    "url": "https://x.com/shohih_abdul/status/1998160265746288730",
+    "timestamp": "2025-12-08T22:38:26.000Z",
+    "metadata": {
+      "conversation_id": "1998160265746288730",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998159965471867362",
+    "source": "twitter",
+    "author": "pavel_holyavkin",
+    "content": "@claudeai @FactoryAI @Apple It's live! https://t.co/E9T0Smors6",
+    "url": "https://x.com/pavel_holyavkin/status/1998159965471867362",
+    "timestamp": "2025-12-08T22:37:14.000Z",
+    "metadata": {
+      "conversation_id": "1998159965471867362",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998159744893350140",
+    "source": "twitter",
+    "author": "pavel_holyavkin",
+    "content": "New app is live!\n\nI made a 100% offline AI note-taking iOS app.\n\nWill attempt to grow this to 1,000 downloads by Christmas :)\n\nThanks @adamlyttleapps for ASO tips and @RayFernando1337 for suggesting @FactoryAI https://t.co/i4spKXrfbl",
+    "url": "https://x.com/pavel_holyavkin/status/1998159744893350140",
+    "timestamp": "2025-12-08T22:36:21.000Z",
+    "metadata": {
+      "conversation_id": "1998159744893350140",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_1998155303293010263",
     "source": "twitter",
     "author": "claudeusmaximus",

@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1998336482537337289",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Pranav2278 @blackboxai @FactoryAI plesase what? we have a slack integration",
+    "url": "https://x.com/bentossell/status/1998336482537337289",
+    "timestamp": "2025-12-09T10:18:39.000Z",
+    "metadata": {
+      "conversation_id": "1998336482537337289",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1pi3xnq",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.33.0 Released\n\n## Bug fixes\n\n* Fixed autonomy mode not being properly set on tool confirmations\n* Improved @-tagged file truncation by character count to prevent context overflow\n* Updated Opus 4.5 pricing with dismissable notice\n* Restored Figma MCP server to the registry\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pi3xnq/factory_cli_v0330_released/",
+    "timestamp": "2025-12-09T10:18:19.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1998329486115230161",
     "source": "twitter",
     "author": "mxacod",

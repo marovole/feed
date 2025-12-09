@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1998412315658453249",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@rawkode @FactoryAI @LireApp np",
+    "url": "https://x.com/bentossell/status/1998412315658453249",
+    "timestamp": "2025-12-09T15:19:59.000Z",
+    "metadata": {
+      "conversation_id": "1998412315658453249",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998410912097857996",
+    "source": "twitter",
+    "author": "rawkode",
+    "content": "@bentossell @FactoryAI You're right, it's something to do with how @LireApp does their \"Full Text\" extractions from the website.\n\nYour feed is fine, sorry!",
+    "url": "https://x.com/rawkode/status/1998410912097857996",
+    "timestamp": "2025-12-09T15:14:24.000Z",
+    "metadata": {
+      "conversation_id": "1998410912097857996",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998410647256895854",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "@bentossell @supabase @FactoryAI Roger that sir. We had ~200 applicants for Supabase event on last Dec 6th.",
+    "url": "https://x.com/mhadtk/status/1998410647256895854",
+    "timestamp": "2025-12-09T15:13:21.000Z",
+    "metadata": {
+      "conversation_id": "1998410647256895854",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998410488787632264",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@rawkode @FactoryAI can you check your setup bc this link https://t.co/VaZZdFQVGq (which is the rss link from the changelog page) has all the up to date stuff",
+    "url": "https://x.com/bentossell/status/1998410488787632264",
+    "timestamp": "2025-12-09T15:12:43.000Z",
+    "metadata": {
+      "conversation_id": "1998410488787632264",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998410070569173210",
+    "source": "twitter",
+    "author": "rawkode",
+    "content": "@bentossell @FactoryAI Actually, it’s still the same. Weird. https://t.co/ZGkaoZt2sL",
+    "url": "https://x.com/rawkode/status/1998410070569173210",
+    "timestamp": "2025-12-09T15:11:04.000Z",
+    "metadata": {
+      "conversation_id": "1998410070569173210",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998409362499416259",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mhadtk @supabase @FactoryAI go for it 😊",
+    "url": "https://x.com/bentossell/status/1998409362499416259",
+    "timestamp": "2025-12-09T15:08:15.000Z",
+    "metadata": {
+      "conversation_id": "1998409362499416259",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998409225723081149",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@rawkode @FactoryAI odd. havent touched it",
+    "url": "https://x.com/bentossell/status/1998409225723081149",
+    "timestamp": "2025-12-09T15:07:42.000Z",
+    "metadata": {
+      "conversation_id": "1998409225723081149",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998409157209370999",
+    "source": "twitter",
+    "author": "rawkode",
+    "content": "@bentossell @FactoryAI Your post yesterday is the first time it’s worked",
+    "url": "https://x.com/rawkode/status/1998409157209370999",
+    "timestamp": "2025-12-09T15:07:26.000Z",
+    "metadata": {
+      "conversation_id": "1998409157209370999",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998408735518052840",
     "source": "twitter",
     "author": "bentossell",

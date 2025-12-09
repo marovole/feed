@@ -10,7 +10,8 @@
       "type": "issue",
       "labels": [],
       "number": 496
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1998209471978582282",
@@ -25,7 +26,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1998206968985792912",
@@ -40,7 +42,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1998200096262156503",

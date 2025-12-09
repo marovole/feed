@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1998345057925997027",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Actually I can't prove it but in my opinion python fits better with embeddings, retrieval, and LLM orchestration\n\nAlso I used LangChain, LangGraph, DSPy, and RAGAS in this app, all of them have python first implementation.\n\nI am sure LangChain typescript ecosystem is solid too but I learnt it with python, just a habit/laziness also",
+    "url": "https://x.com/CloudTrader4/status/1998345057925997027",
+    "timestamp": "2025-12-09T10:52:43.000Z",
+    "metadata": {
+      "conversation_id": "1998345057925997027",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998344270348976300",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@ce_amit @FactoryAI @claudeai Not yet but it is on the list, doing RAGAS evaluation and will definitely share the metrics.",
+    "url": "https://x.com/CloudTrader4/status/1998344270348976300",
+    "timestamp": "2025-12-09T10:49:36.000Z",
+    "metadata": {
+      "conversation_id": "1998344270348976300",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998340420623884314",
     "source": "twitter",
     "author": "CloudTrader4",

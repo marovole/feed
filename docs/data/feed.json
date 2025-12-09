@@ -1,5 +1,48 @@
 [
   {
+    "id": "github_issue_496",
+    "source": "github",
+    "author": "sheng-di",
+    "content": "[Issue] [Feature Request] Remove Mandatory Login Requirement When Using Custom Models\n\n**Description:**\n\nI am using the `droid` CLI AI Agent from `factory.ai`. I've noticed that when I switch to using a custom model (e.g., a locally hosted model or a third-party API), the system still prompts for and requires a user login.\n\nThis creates an unnecessary barrier and friction for users who prioritize privacy and want to use local or self-hosted models in a fully offline/private environment. The core value of using a custom model, for many, is maintaining complete control and privacy o",
+    "url": "https://github.com/Factory-AI/factory/issues/496",
+    "timestamp": "2025-12-09T02:19:06Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 496
+    }
+  },
+  {
+    "id": "twitter_1998209471978582282",
+    "source": "twitter",
+    "author": "Gregbrenner2",
+    "content": "@BenMacklinn @FactoryAI @queensu @matanSF What’s in the water at Queen’s!! Love to see this, keep up the great work Ben. Only up from here",
+    "url": "https://x.com/Gregbrenner2/status/1998209471978582282",
+    "timestamp": "2025-12-09T01:53:57.000Z",
+    "metadata": {
+      "conversation_id": "1998209471978582282",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998206968985792912",
+    "source": "twitter",
+    "author": "BenMacklinn",
+    "content": "@KalGrinberg @FactoryAI @queensu @matanSF we loved the hats!!! \nsome early ideas were brewing nothing solid though  was mostly just getting everyone introduced to the platform",
+    "url": "https://x.com/BenMacklinn/status/1998206968985792912",
+    "timestamp": "2025-12-09T01:44:00.000Z",
+    "metadata": {
+      "conversation_id": "1998206968985792912",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998200096262156503",
     "source": "twitter",
     "author": "KalGrinberg",

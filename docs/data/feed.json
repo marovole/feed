@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1998800769739583686",
+    "source": "twitter",
+    "author": "HKilset",
+    "content": "@zeroXmusashi @gdb Opus is great, but tbh Claude Code as a harness has great ux but terrible exploration skills, at least for large code bases.\n\n@FactoryAI Droid is really, really good as a harness. And it can use Opus 4.5 AND Gemini 3 pro.",
+    "url": "https://x.com/HKilset/status/1998800769739583686",
+    "timestamp": "2025-12-10T17:03:34.000Z",
+    "metadata": {
+      "conversation_id": "1998800769739583686",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998800733450416459",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@OMGitsRomi @FactoryAI oh there should be a distinction - dm your email pls and i'll escalate",
+    "url": "https://x.com/bentossell/status/1998800733450416459",
+    "timestamp": "2025-12-10T17:03:25.000Z",
+    "metadata": {
+      "conversation_id": "1998800733450416459",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_509",
     "source": "github",
     "author": "MikDal002",

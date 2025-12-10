@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1998857883182588143",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "How I set up @FactoryAI droid for a large documentation crawl and complex project setup:\n\n1. Design the prompt — phased breakdown (discovery → extraction → synthesis), explicit output paths for each phase\n\n2. Create subagents — 3 to 5 focused agents, each owns one task. One crawls URLs, one extracts features, one synthesizes. No overlap.\n\n3. Write AGENTS[.]md —  environment setup, MCP tools (@firecrawl_dev + @Context7AI ), coding rules. No try-except blocks, no logging, no defensive checks. Just functional code.\n\n4. Run in spec mode — verify the full approach before execution. Catch bad assumptions early.\n\nSubagents explore deeply, return summaries.\nMain context stays clean.",
+    "url": "https://x.com/CloudTrader4/status/1998857883182588143",
+    "timestamp": "2025-12-10T20:50:30.000Z",
+    "metadata": {
+      "conversation_id": "1998857883182588143",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998856833482527047",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "Beads: 1.5 weeks on Claude Code, now running on @FactoryAI droids.\n\nGit-synced issue tracker built for agents. Deps, ready work detection, no lost context.\n\nbd init to start https://t.co/Onqw42WXYP \n\nI have not gotten agent-mail working with it yet.. will report back when I do ...",
+    "url": "https://x.com/jcurtis/status/1998856833482527047",
+    "timestamp": "2025-12-10T20:46:20.000Z",
+    "metadata": {
+      "conversation_id": "1998856833482527047",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998840866081742884",
     "source": "twitter",
     "author": "erd0xbc",

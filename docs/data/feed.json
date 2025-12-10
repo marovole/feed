@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998574301751255429",
+    "source": "twitter",
+    "author": "pavel_holyavkin",
+    "content": "@RokasTLB @adamlyttleapps @RayFernando1337 @FactoryAI Thanks! Correct, no connections except when the subscription is being confirmed. You can test it yourself with a proxy app. See this video: https://t.co/dY4xrGO6q7",
+    "url": "https://x.com/pavel_holyavkin/status/1998574301751255429",
+    "timestamp": "2025-12-10T02:03:39.000Z",
+    "metadata": {
+      "conversation_id": "1998574301751255429",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998547034102747482",
     "source": "twitter",
     "author": "HeyClos",

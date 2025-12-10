@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1998860301593358458",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@EyalToledano @FactoryAI buddy you cooked hard on the site for it !\n\nhttps://t.co/9CbdPicqZR\n\nand that terminal demo, so creative! great job... \n\nany reason you can think this wont work in Factory/Droids?",
+    "url": "https://x.com/jcurtis/status/1998860301593358458",
+    "timestamp": "2025-12-10T21:00:07.000Z",
+    "metadata": {
+      "conversation_id": "1998860301593358458",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998858902939775085",
+    "source": "twitter",
+    "author": "EyalToledano",
+    "content": "@jcurtis @FactoryAI oh man. try parsing a prd or running tm export :)\n\nwe made taskmaster multiplayer",
+    "url": "https://x.com/EyalToledano/status/1998858902939775085",
+    "timestamp": "2025-12-10T20:54:34.000Z",
+    "metadata": {
+      "conversation_id": "1998858902939775085",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998858166772342808",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@FactoryAI TBH its nice but it reminds me a lot of the Taskmaster from @EyalToledano which reminds me I need to see what hes been cooking lately!",
+    "url": "https://x.com/jcurtis/status/1998858166772342808",
+    "timestamp": "2025-12-10T20:51:38.000Z",
+    "metadata": {
+      "conversation_id": "1998858166772342808",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998857883182588143",
     "source": "twitter",
     "author": "CloudTrader4",

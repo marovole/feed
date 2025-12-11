@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_510",
+    "source": "github",
+    "author": "jukanntenn",
+    "content": "[Issue] Can not verify phone number\n\n**Error with verifying phone number**\n\nI am located in China—do you restrict access from China?",
+    "url": "https://github.com/Factory-AI/factory/issues/510",
+    "timestamp": "2025-12-11T03:00:08Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 510
+    }
+  },
+  {
     "id": "twitter_1998912338465091891",
     "source": "twitter",
     "author": "maddiehfaulkner",

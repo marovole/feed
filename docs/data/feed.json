@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999184455076810961",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@RuhanPonnada @FactoryAI Claude Agent SDK and Developer Docs",
+    "url": "https://x.com/CloudTrader4/status/1999184455076810961",
+    "timestamp": "2025-12-11T18:28:11.000Z",
+    "metadata": {
+      "conversation_id": "1999184455076810961",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999183650068262972",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mikez93 @GosuCoder @FactoryAI yeh tried reaching out to see what goes into it, as it was odd all 10 points for diff models",
+    "url": "https://x.com/bentossell/status/1999183650068262972",
+    "timestamp": "2025-12-11T18:24:59.000Z",
+    "metadata": {
+      "conversation_id": "1999183650068262972",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999181862485500094",
+    "source": "twitter",
+    "author": "RuhanPonnada",
+    "content": "@CloudTrader4 @FactoryAI what docs did you use to test on?",
+    "url": "https://x.com/RuhanPonnada/status/1999181862485500094",
+    "timestamp": "2025-12-11T18:17:53.000Z",
+    "metadata": {
+      "conversation_id": "1999181862485500094",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999177640079765730",
     "source": "twitter",
     "author": "TheodorDiaconu",

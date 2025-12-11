@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999245262867562938",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "So if @droid has a new account, I assume new products on the way from @FactoryAI ?",
+    "url": "https://x.com/CloudTrader4/status/1999245262867562938",
+    "timestamp": "2025-12-11T22:29:49.000Z",
+    "metadata": {
+      "conversation_id": "1999245262867562938",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999244490712772985",
+    "source": "twitter",
+    "author": "rawkode",
+    "content": "Problems with your email confirmation codes, @FactoryAI ?",
+    "url": "https://x.com/rawkode/status/1999244490712772985",
+    "timestamp": "2025-12-11T22:26:45.000Z",
+    "metadata": {
+      "conversation_id": "1999244490712772985",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999244093680157121",
+    "source": "twitter",
+    "author": "neekdyako",
+    "content": "@JoelDeTeves @FactoryAI How is gpt 5.2? I'm still chillin with Gemini 3 Pro lol",
+    "url": "https://x.com/neekdyako/status/1999244093680157121",
+    "timestamp": "2025-12-11T22:25:10.000Z",
+    "metadata": {
+      "conversation_id": "1999244093680157121",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999240213919674455",
     "source": "twitter",
     "author": "noprocess",

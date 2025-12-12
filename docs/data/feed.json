@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999435777495998869",
+    "source": "twitter",
+    "author": "tinscape",
+    "content": "gpt 5.2 is 🔥\n\nIt solved in 20s a complex problem with coding agent output being stuck due to TTY mode when invoking from a devcontainer.\n\nBut you know what sucks? The harness. Codex CLI feels really inferior to Claude Code / @opencode / @FactoryAI Droid CLI",
+    "url": "https://x.com/tinscape/status/1999435777495998869",
+    "timestamp": "2025-12-12T11:06:51.000Z",
+    "metadata": {
+      "conversation_id": "1999435777495998869",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999435570741936478",
     "source": "twitter",
     "author": "claudeusmaximus",

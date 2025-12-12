@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999589138128077027",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@matanSF @FactoryAI Nit: It's actually higher, 63.1, not 63.0 😏",
+    "url": "https://x.com/alvinsng/status/1999589138128077027",
+    "timestamp": "2025-12-12T21:16:15.000Z",
+    "metadata": {
+      "conversation_id": "1999589138128077027",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999586544752136545",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@FactoryAI droids has reclaimed the #1 spot! \n\nWe're back home again 🏠🏆",
+    "url": "https://x.com/alvinsng/status/1999586544752136545",
+    "timestamp": "2025-12-12T21:05:57.000Z",
+    "metadata": {
+      "conversation_id": "1999586544752136545",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999585708517069178",
     "source": "twitter",
     "author": "lunarcycling",

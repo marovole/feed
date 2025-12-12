@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999471738170802557",
+    "source": "twitter",
+    "author": "MikeCoulbourn",
+    "content": "@JoelDeTeves @FactoryAI Never used it. Been locked in on Claude Code because of all the plugins and systems I set up. \n\nCan Factory CLI do all the same things with agents, commands, skills, hooks, etc?",
+    "url": "https://x.com/MikeCoulbourn/status/1999471738170802557",
+    "timestamp": "2025-12-12T13:29:45.000Z",
+    "metadata": {
+      "conversation_id": "1999471738170802557",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999468946878267610",
     "source": "twitter",
     "author": "BasedCampZH",

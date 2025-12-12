@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999378630627963277",
+    "source": "twitter",
+    "author": "Lukhanyo_19",
+    "content": "@CloudTrader4 @FactoryAI I tried something like this with claude code but i think i will use opus on @FactoryAI for the complex backend and @firecrawl_dev to crawl 23 websites and use Gemini for for the frontend",
+    "url": "https://x.com/Lukhanyo_19/status/1999378630627963277",
+    "timestamp": "2025-12-12T07:19:46.000Z",
+    "metadata": {
+      "conversation_id": "1999378630627963277",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999375563040129534",
     "source": "twitter",
     "author": "ibraheemmsaady",

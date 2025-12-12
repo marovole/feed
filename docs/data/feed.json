@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999532481641410825",
+    "source": "twitter",
+    "author": "SanePentecostal",
+    "content": "@JoelDeTeves @FactoryAI Can you build a mac app with it?",
+    "url": "https://x.com/SanePentecostal/status/1999532481641410825",
+    "timestamp": "2025-12-12T17:31:07.000Z",
+    "metadata": {
+      "conversation_id": "1999532481641410825",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999530400159322272",
+    "source": "twitter",
+    "author": "erikjfritsch",
+    "content": "@benvargas @FactoryAI Good info! 🙌",
+    "url": "https://x.com/erikjfritsch/status/1999530400159322272",
+    "timestamp": "2025-12-12T17:22:51.000Z",
+    "metadata": {
+      "conversation_id": "1999530400159322272",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999530057363280259",
+    "source": "twitter",
+    "author": "prashantmital",
+    "content": "@anthonyronning @charlieholtz @nateliason @AnthropicAI @FactoryAI ngmi?",
+    "url": "https://x.com/prashantmital/status/1999530057363280259",
+    "timestamp": "2025-12-12T17:21:29.000Z",
+    "metadata": {
+      "conversation_id": "1999530057363280259",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999527337415921706",
     "source": "twitter",
     "author": "benvargas",

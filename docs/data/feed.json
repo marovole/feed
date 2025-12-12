@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999272351461179441",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@wan_ruirui @FactoryAI Make sure you have the latest version of Droid",
+    "url": "https://x.com/JoelDeTeves/status/1999272351461179441",
+    "timestamp": "2025-12-12T00:17:27.000Z",
+    "metadata": {
+      "conversation_id": "1999272351461179441",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999269215283609933",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@agent_wrap @bentossell @FactoryAI Oh, that's great news.\n\nI must be coming across artifacts from when it was an issue. Asking Opus to find instances on my dev box most are indeed older. I'll have it delete them if empty and monitor it.\n\nThanks for the response!! https://t.co/QzMKN7G2EH",
+    "url": "https://x.com/benvargas/status/1999269215283609933",
+    "timestamp": "2025-12-12T00:05:00.000Z",
+    "metadata": {
+      "conversation_id": "1999269215283609933",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999267435871109487",
+    "source": "twitter",
+    "author": "agent_wrap",
+    "content": "@benvargas @bentossell @FactoryAI hi @benvargas - this should have been fixed some time ago, are you running the latest droid version? if so, could you try deleting that folder and opening droid again to see if it creates it again? thanks!",
+    "url": "https://x.com/agent_wrap/status/1999267435871109487",
+    "timestamp": "2025-12-11T23:57:55.000Z",
+    "metadata": {
+      "conversation_id": "1999267435871109487",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999257051646607858",
     "source": "twitter",
     "author": "nathanpareo",

@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999618977547370738",
+    "source": "twitter",
+    "author": "MysticEru",
+    "content": "@bentossell @JoelDeTeves @FactoryAI good to know, thanks!",
+    "url": "https://x.com/MysticEru/status/1999618977547370738",
+    "timestamp": "2025-12-12T23:14:50.000Z",
+    "metadata": {
+      "conversation_id": "1999618977547370738",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999618690690769326",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JoelDeTeves @MysticEru @FactoryAI subagents can run in parallel!",
+    "url": "https://x.com/bentossell/status/1999618690690769326",
+    "timestamp": "2025-12-12T23:13:41.000Z",
+    "metadata": {
+      "conversation_id": "1999618690690769326",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999618077143564496",
+    "source": "twitter",
+    "author": "raymtodd",
+    "content": "@matanSF @FactoryAI Where is Amp?",
+    "url": "https://x.com/raymtodd/status/1999618077143564496",
+    "timestamp": "2025-12-12T23:11:15.000Z",
+    "metadata": {
+      "conversation_id": "1999618077143564496",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999617956280684994",
+    "source": "twitter",
+    "author": "joshdbirdwell",
+    "content": "GPT 5.2 worked better in @FactoryAI droid. It more reliably resulted in an output. It had excellent suggestions and plans up front. I was able to get work done in both medium and high reasoning.",
+    "url": "https://x.com/joshdbirdwell/status/1999617956280684994",
+    "timestamp": "2025-12-12T23:10:46.000Z",
+    "metadata": {
+      "conversation_id": "1999617956280684994",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999613228503187940",
     "source": "twitter",
     "author": "TheEcomNomad",

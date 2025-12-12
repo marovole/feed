@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1999553078169686378",
+    "source": "twitter",
+    "author": "BigBagsChaser",
+    "content": "@FactoryAI Referals are  over?",
+    "url": "https://x.com/BigBagsChaser/status/1999553078169686378",
+    "timestamp": "2025-12-12T18:52:58.000Z",
+    "metadata": {
+      "conversation_id": "1999553078169686378",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999552696483770371",
+    "source": "twitter",
+    "author": "EvanDeKim",
+    "content": "@matanSF @FactoryAI The aesthetics are a terrible addiction",
+    "url": "https://x.com/EvanDeKim/status/1999552696483770371",
+    "timestamp": "2025-12-12T18:51:27.000Z",
+    "metadata": {
+      "conversation_id": "1999552696483770371",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999552396347748855",
+    "source": "twitter",
+    "author": "0xTheWay",
+    "content": "Me, a @FactoryAI Droid user https://t.co/jeYuwRb9Ps",
+    "url": "https://x.com/0xTheWay/status/1999552396347748855",
+    "timestamp": "2025-12-12T18:50:15.000Z",
+    "metadata": {
+      "conversation_id": "1999552396347748855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999552395462754596",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@EvanDeKim @FactoryAI this is aesthetically pleasing",
+    "url": "https://x.com/matanSF/status/1999552395462754596",
+    "timestamp": "2025-12-12T18:50:15.000Z",
+    "metadata": {
+      "conversation_id": "1999552395462754596",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999551800022581662",
+    "source": "twitter",
+    "author": "EvanDeKim",
+    "content": "So @FactoryAI can render seemingly arbitrary math formulas now? https://t.co/BfNkTrZvqy",
+    "url": "https://x.com/EvanDeKim/status/1999551800022581662",
+    "timestamp": "2025-12-12T18:47:53.000Z",
+    "metadata": {
+      "conversation_id": "1999551800022581662",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1999551262518358396",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@neekdyako @benvargas @FactoryAI @matanSF @EnoReyes @droid nah dial it upppp",
+    "url": "https://x.com/bentossell/status/1999551262518358396",
+    "timestamp": "2025-12-12T18:45:45.000Z",
+    "metadata": {
+      "conversation_id": "1999551262518358396",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999543624636219465",
     "source": "twitter",
     "author": "EnoReyes",

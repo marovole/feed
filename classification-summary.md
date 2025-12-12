@@ -1,12 +1,12 @@
 # Classification Summary
 
-**Date:** 2025-12-12 18:10 UTC
+**Date:** 2025-12-12 18:26 UTC
 
 ## Results
 
-- **Total classified:** 3 items
-- **mention:** 0 (0.0%)
+- **Total classified:** 2 items
+- **mention:** 2 (100.0%)
 - **bug:** 0 (0.0%)
-- **love:** 2 (66.7%)
-- **question:** 1 (33.3%)
+- **love:** 0 (0.0%)
+- **question:** 0 (0.0%)
 - **other:** 0 (0.0%)

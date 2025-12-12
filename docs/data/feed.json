@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1999487878787928574",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@MikeCoulbourn @FactoryAI 1. Yes",
+    "url": "https://x.com/JoelDeTeves/status/1999487878787928574",
+    "timestamp": "2025-12-12T14:33:53.000Z",
+    "metadata": {
+      "conversation_id": "1999487878787928574",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999487775058629022",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@xingyu_liao @FactoryAI You’d think so but they’re both great at one-shotting and Droid is very token efficient so I’ve found I’m using less tokens than before",
+    "url": "https://x.com/JoelDeTeves/status/1999487775058629022",
+    "timestamp": "2025-12-12T14:33:28.000Z",
+    "metadata": {
+      "conversation_id": "1999487775058629022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999487057312571700",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@akatzzzzz @FactoryAI They’re both good try 5.2 with the /Review command",
+    "url": "https://x.com/JoelDeTeves/status/1999487057312571700",
+    "timestamp": "2025-12-12T14:30:37.000Z",
+    "metadata": {
+      "conversation_id": "1999487057312571700",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999486658509701439",
+    "source": "twitter",
+    "author": "justprompting",
+    "content": "@neekdyako @JoelDeTeves @FactoryAI Glad I’m not the only one still rocking with Gemini lol. It’s time for us to move on though brother 😢😂",
+    "url": "https://x.com/justprompting/status/1999486658509701439",
+    "timestamp": "2025-12-12T14:29:02.000Z",
+    "metadata": {
+      "conversation_id": "1999486658509701439",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999484947955089850",
+    "source": "twitter",
+    "author": "ShvZFR",
+    "content": "@benvargas @FactoryAI Very interesting, what is the hook does? any change to see those?",
+    "url": "https://x.com/ShvZFR/status/1999484947955089850",
+    "timestamp": "2025-12-12T14:22:14.000Z",
+    "metadata": {
+      "conversation_id": "1999484947955089850",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999484324220186736",
     "source": "twitter",
     "author": "dannyscalant",

@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1999835322591428875",
@@ -35497,7 +35498,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 99
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_95",
@@ -35524,7 +35526,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 95
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_92",
@@ -35538,7 +35541,7 @@
       "category": "Feature requests",
       "number": 92
     },
-    "category": "other"
+    "category": "question"
   },
   {
     "id": "github_discussion_92",
@@ -35551,7 +35554,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 92
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_82",
@@ -35578,7 +35582,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 82
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_72",
@@ -35605,7 +35610,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 72
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_66",
@@ -35632,7 +35638,8 @@
       "type": "discussion",
       "category": "Show + tell",
       "number": 66
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_65",
@@ -35646,7 +35653,7 @@
       "category": "Feature requests",
       "number": 65
     },
-    "category": "other"
+    "category": "question"
   },
   {
     "id": "github_discussion_65",
@@ -35659,7 +35666,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 65
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_59",

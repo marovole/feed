@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999830119376986126",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@electroheadfx @FactoryAI @augmentcode @qoder_ai_ide Never heard of qoder- I’ll have to give it a shot! Thanks 🙏",
+    "url": "https://x.com/TheEcomNomad/status/1999830119376986126",
+    "timestamp": "2025-12-13T13:13:50.000Z",
+    "metadata": {
+      "conversation_id": "1999830119376986126",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999829807744393670",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@krl_grn @FactoryAI @augmentcode @opencode It’s been a minute. These are just a list of the ones I’ve tested recently. The full list is much more comprensive. I liked open code in the past but haven’t used it lately.",
+    "url": "https://x.com/TheEcomNomad/status/1999829807744393670",
+    "timestamp": "2025-12-13T13:12:35.000Z",
+    "metadata": {
+      "conversation_id": "1999829807744393670",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999829473139569118",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@shreyas1009 @FactoryAI @augmentcode Tried it and they randomly banned my account. Droid is still better though!",
+    "url": "https://x.com/TheEcomNomad/status/1999829473139569118",
+    "timestamp": "2025-12-13T13:11:16.000Z",
+    "metadata": {
+      "conversation_id": "1999829473139569118",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999826270926876677",
     "source": "twitter",
     "author": "ChrisVanDerKlau",
@@ -35224,6 +35269,19 @@
     "category": "other"
   },
   {
+    "id": "github_discussion_223",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] [Discussion] Droid Exec Headless Streaming with output format (JSON)\n\nDroid Exec (Headless)\r\nIt make sense to use --output-format json if you're running a headless droid exec as that's the best way to programmatically manage the headless droid. The issue for me is i can't see the process and potentially stop it without --output-format debug and i can't run both output format. \r\n\r\nShould we consider having a different parameter for \"streaming\" , it's not so much for debugging but more to manage the task itself. ",
+    "url": "https://github.com/Factory-AI/factory/discussions/223",
+    "timestamp": "2025-10-21T02:46:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 223
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -35236,6 +35294,19 @@
       "number": 214
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_214",
+    "source": "github",
+    "author": "0xStuart",
+    "content": "[Discussion] JetBrains Plugin\n\nThe documentation says there is a JetBrains Plugin in the marketplace, but I can't find it.",
+    "url": "https://github.com/Factory-AI/factory/discussions/214",
+    "timestamp": "2025-10-19T19:55:35Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 214
+    }
   },
   {
     "id": "github_discussion_164",

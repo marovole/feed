@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999914860734538211",
+    "source": "twitter",
+    "author": "ICTStudent2023",
+    "content": "@matanSF @FactoryAI Does prompt caching only works with Factory Provided Models? For custom models I am always seeing:\n\n- Cache Creation: 0 tokens\n- Cache Read: 0 tokens\n\nIs this normal?",
+    "url": "https://x.com/ICTStudent2023/status/1999914860734538211",
+    "timestamp": "2025-12-13T18:50:34.000Z",
+    "metadata": {
+      "conversation_id": "1999914860734538211",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999913375783149753",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@SeeLos @FactoryAI @opencode haha touche",
+    "url": "https://x.com/matanSF/status/1999913375783149753",
+    "timestamp": "2025-12-13T18:44:40.000Z",
+    "metadata": {
+      "conversation_id": "1999913375783149753",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999913208774291515",
+    "source": "twitter",
+    "author": "stefcodes",
+    "content": "@bentossell @matanSF @FactoryAI Are there more benchmarks with different models coming soon?\n\nWhy does the Droid entry not have a checkmark like some others?\n\nPlease excuse the lack of understanding, first time I’ve seen this leaderboard.\n\nhttps://t.co/ddpCpoO7dB",
+    "url": "https://x.com/stefcodes/status/1999913208774291515",
+    "timestamp": "2025-12-13T18:44:00.000Z",
+    "metadata": {
+      "conversation_id": "1999913208774291515",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999913042960920960",
+    "source": "twitter",
+    "author": "SeeLos",
+    "content": "@matanSF @FactoryAI @opencode If they were last you’d post it 🤔",
+    "url": "https://x.com/SeeLos/status/1999913042960920960",
+    "timestamp": "2025-12-13T18:43:20.000Z",
+    "metadata": {
+      "conversation_id": "1999913042960920960",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999912140929745321",
     "source": "twitter",
     "author": "AhmedRezaT",

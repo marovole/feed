@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999792432062648817",
+    "source": "twitter",
+    "author": "Bazixxx",
+    "content": "@ayman_alderson @EnoReyes @FactoryAI @opencode Too expensive",
+    "url": "https://x.com/Bazixxx/status/1999792432062648817",
+    "timestamp": "2025-12-13T10:44:04.000Z",
+    "metadata": {
+      "conversation_id": "1999792432062648817",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999791057220014572",
+    "source": "twitter",
+    "author": "krl_grn",
+    "content": "@TheEcomNomad @FactoryAI @augmentcode What about @opencode? After Cursor became too buggy, I switched to OpenCode and Zed IDE. Thinking about trying Droid and Augment next.",
+    "url": "https://x.com/krl_grn/status/1999791057220014572",
+    "timestamp": "2025-12-13T10:38:37.000Z",
+    "metadata": {
+      "conversation_id": "1999791057220014572",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999788847698473344",
     "source": "twitter",
     "author": "tomasmarekk",

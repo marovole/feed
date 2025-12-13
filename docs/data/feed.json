@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999845149866709267",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@joshdbirdwell @FactoryAI @augmentcode @AmpCode @opencode I’d have to rank droid above augment but augment is definitely good too imo.\n\nNever heard of AmpCode. I’ll take a look! It’s pretty cool how you can hook open code to Claude Code. I did that before Claude code banned me 😂🤣",
+    "url": "https://x.com/TheEcomNomad/status/1999845149866709267",
+    "timestamp": "2025-12-13T14:13:33.000Z",
+    "metadata": {
+      "conversation_id": "1999845149866709267",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999843898420523152",
+    "source": "twitter",
+    "author": "abyssbugg",
+    "content": "@FactoryAI @FactoryAI does droid support —dangerously-skip-permissions",
+    "url": "https://x.com/abyssbugg/status/1999843898420523152",
+    "timestamp": "2025-12-13T14:08:35.000Z",
+    "metadata": {
+      "conversation_id": "1999843898420523152",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999836986228855121",
     "source": "twitter",
     "author": "prathamdby",

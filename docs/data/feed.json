@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_1999814190941577646",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1999812657906413661",
@@ -20724,20 +20726,6 @@
     "category": "mention"
   },
   {
-    "id": "reddit_1p70ehl",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "Factory CLI v0.27.2 Released - Project-level MCP configs and more\n\n## New features\n\n* **Project-level MCP configs** - Configure MCP servers at the project level using `.factory/mcp.json`\n* **`/ide` command** - New command to manage VS Code, Cursor, and Windsurf IDE integrations. Shows current extension version or prompts to install\n* **Extra args in custom models** - Pass additional arguments to custom model configurations e.g. service_tier, temperature, top_p, etc\n\n## Bug fixes\n\n* Fixed task tool infinite wait when running subagents\n* Fixed expanding tilde (~)",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1p70ehl/factory_cli_v0272_released_projectlevel_mcp/",
-    "timestamp": "2025-11-26T06:17:40.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    },
-    "category": "mention"
-  },
-  {
     "id": "twitter_1993541095146283495",
     "source": "twitter",
     "author": "orange_boy",
@@ -23116,20 +23104,6 @@
     "category": "mention"
   },
   {
-    "id": "reddit_1p66lry",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "Factory CLI v0.27.1 Released - Improved rewind functionality and more\n\n## New features\n\n* **Improved rewind functionality** - new `/rewind` command, plus speed and UX improvements.\n* **`/install-github-app` command** - New command to install the Factory GitHub app directly from the CLI.\n* **Images in MCP tool responses** - MCP tools can now return images that are properly sent to the LLM.\n\n## Bug fixes\n\n* Upgraded to bun 1.3.3\n* Safer mechanism to check if ripgrep is installed\n* Fixed gpt-5.1-codex reasoning\n* Shift+Backspace deletes single characters like Backspac",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1p66lry/factory_cli_v0271_released_improved_rewind/",
-    "timestamp": "2025-11-25T07:48:14.000Z",
-    "metadata": {
-      "score": 12,
-      "num_comments": 7,
-      "subreddit": "FactoryAi"
-    },
-    "category": "mention"
-  },
-  {
     "id": "twitter_1993192516901060718",
     "source": "twitter",
     "author": "steipete",
@@ -23876,20 +23850,6 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
-  },
-  {
-    "id": "reddit_1p5tn4y",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "Opus 4.5 now on Droid 🔥\n\nhttps://i.redd.it/p9djm6vfv93g1.gif\n\nwith introductory pricing multiple 1.2x \n\n  \nlet it RIP",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1p5tn4y/opus_45_now_on_droid/",
-    "timestamp": "2025-11-24T21:24:05.000Z",
-    "metadata": {
-      "score": 13,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    },
-    "category": "love"
   },
   {
     "id": "twitter_1993068052997718461",
@@ -28942,20 +28902,6 @@
     "category": "question"
   },
   {
-    "id": "github_issue_420",
-    "source": "github",
-    "author": "tzutoo",
-    "content": "[Issue] [CLI] MCP error -32001:  Request timed out\n\nMCP tool calling should add ability to configure timeout setting like Codex or Claude Code to preview MCP error -32001:  Request timed out.\n\nThis is quite useful when calling tools like RepoPrompt (since it will write long running tasks before returning result back to Factory Droid CLI.)\n",
-    "url": "https://github.com/Factory-AI/factory/issues/420",
-    "timestamp": "2025-11-23T03:38:20Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 420
-    },
-    "category": "question"
-  },
-  {
     "id": "twitter_1992430718627217485",
     "source": "twitter",
     "author": "BananaSauce_",
@@ -32764,20 +32710,6 @@
     "category": "bug"
   },
   {
-    "id": "github_discussion_418",
-    "source": "github",
-    "author": "WeYaTa-Dev",
-    "content": "[Discussion] Unable to authenticate Figma MCP\n\nI have run this command and the mcp's added successfully\r\n`droid mcp add figma https://mcp.figma.com/mcp --type http`\r\n\r\nBut when I tried to authenticate the mcp via /mcp command, it said:\r\n<img width=\"1209\" height=\"420\" alt=\"image\" src=\"https://github.com/user-attachments/assets/01774d30-442e-4361-b2ec-2cb67855f193\" />",
-    "url": "https://github.com/Factory-AI/factory/discussions/418",
-    "timestamp": "2025-11-22T09:31:10Z",
-    "metadata": {
-      "type": "discussion",
-      "category": "Questions",
-      "number": 418
-    },
-    "category": "bug"
-  },
-  {
     "id": "reddit_1p3olcg",
     "source": "reddit",
     "author": "bentossell",
@@ -34800,20 +34732,6 @@
     "category": "question"
   },
   {
-    "id": "github_discussion_384",
-    "source": "github",
-    "author": "dlukt",
-    "content": "[Discussion] How do I tell it to launch multiple parallel droids?\n\nI'm letting glm-4.6 translate English into 41 languages, and I'm currently doing that key by key, e.g. pages.landing and children\r\nAnd it's doing those languages in sequence.\r\n\r\nI would like that it does it in parallel with up to 8 threads.\r\nI told it to use a dedicated thread per language or use a droid or sub-droid per language, but it's still doing sequential processing.\r\n\r\nAny ideas?\r\n\r\n---\r\n\r\nBTW, glm is funny\r\n```\r\n⛬  🎉 INCREDIBLE ACHIEVEMENT! SECOND PARALLEL WAVE COMPLETED!\r\n\r\n   📊 **RE",
-    "url": "https://github.com/Factory-AI/factory/discussions/384",
-    "timestamp": "2025-11-19T04:32:58Z",
-    "metadata": {
-      "type": "discussion",
-      "category": "Questions",
-      "number": 384
-    },
-    "category": "question"
-  },
-  {
     "id": "github_issue_383",
     "source": "github",
     "author": "bimapopo345",
@@ -34826,20 +34744,6 @@
       "number": 383
     },
     "category": "bug"
-  },
-  {
-    "id": "reddit_1p0ksg7",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "v0.26.3 changelog - skills, hooks migration, @ mention improvements\n\n    v0.26.3\n\n# New features\n\n* **Skills Enabled by Default** \\- Skills command now enabled for all users\n* **Claude Code Hooks Auto-Migration** \\- Automatically detects and imports hooks from Claude Code CLI with interactive prompts. Smart translation converts `bash_tool` to `Execute` and `CLAUDE_CWD` to `DROID_CWD`, preventing duplicates and tracking migration state\n* **@ Suggestions Improvements** \\- Now includes folders in addition to files with better UI and performance\n\n# Bug fixes\n\n* Fixed",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1p0ksg7/v0263_changelog_skills_hooks_migration_mention/",
-    "timestamp": "2025-11-18T19:06:54.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    },
-    "category": "mention"
   },
   {
     "id": "reddit_1p0ksg7",
@@ -34884,20 +34788,6 @@
     "category": "question"
   },
   {
-    "id": "reddit_1p0glpz",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "Gemini 3 Pro is now on Droid!\n\nhttps://i.redd.it/705cp945m12g1.gif\n\nposted on x [https://x.com/bentossell/status/1990820278339776843?s=20](https://x.com/bentossell/status/1990820278339776843?s=20) ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1p0glpz/gemini_3_pro_is_now_on_droid/",
-    "timestamp": "2025-11-18T16:33:30.000Z",
-    "metadata": {
-      "score": 11,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    },
-    "category": "mention"
-  },
-  {
     "id": "reddit_1p0bc2n",
     "source": "reddit",
     "author": "EggNo4904",
@@ -34908,34 +34798,6 @@
       "score": 1,
       "num_comments": 4,
       "subreddit": "FactoryAi"
-    },
-    "category": "bug"
-  },
-  {
-    "id": "reddit_1p0bc2n",
-    "source": "reddit",
-    "author": "EggNo4904",
-    "content": "droid team fixed the error = great work!(getting a 20 dollar account, i am gonna try my best to get my team to move to this 2000 usd account instead of individual subs)\n\nImages:\n\thttps://preview.redd.it/uu8xf048jp1g1.png?auto=webp&amp;s=9574291f2513a281eca97c75667653da65da086d\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1p0bc2n/droid_team_fixed_the_error_great_workgetting_a_20/",
-    "timestamp": "2025-11-18T13:02:15.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    },
-    "category": "love"
-  },
-  {
-    "id": "github_issue_379",
-    "source": "github",
-    "author": "vinayshetty000",
-    "content": "[Issue] Unable to Complete Onboarding Due to Phone Verification Error\n\nWhen signing in, I chose Google authentication and logged in successfully. During the welcome/onboarding process, I was asked to enter my phone number. I entered it, received the OTP, and submitted it. After that, the screen showed “Unexpected error.”\n\nWhen I tried entering the same phone number again, it showed “This number is already claimed.”\n\nI repeated the entire process with a different phone number, but the same error occurred. Now both numbers are unusable, and I cannot proceed further b",
-    "url": "https://github.com/Factory-AI/factory/issues/379",
-    "timestamp": "2025-11-18T12:11:39Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 379
     },
     "category": "bug"
   },
@@ -34993,20 +34855,7 @@
       "category": "General",
       "number": 374
     },
-    "category": "mention"
-  },
-  {
-    "id": "github_discussion_374",
-    "source": "github",
-    "author": "vibl",
-    "content": "[Discussion] 20M tokens promised, 1M tokens received...\n\nThe website https://factorycli.com/ promises free 20M tokens. After clicking on the link and signing up, I only received 1M tokens . ",
-    "url": "https://github.com/Factory-AI/factory/discussions/374",
-    "timestamp": "2025-11-17T00:05:46Z",
-    "metadata": {
-      "type": "discussion",
-      "category": "General",
-      "number": 374
-    }
+    "category": "bug"
   },
   {
     "id": "reddit_1oz18qh",
@@ -35035,20 +34884,6 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
-  },
-  {
-    "id": "reddit_1oys5f5",
-    "source": "reddit",
-    "author": "SensitiveUpstairs803",
-    "content": "Fix large file parsing crash issue.\n\nIf we have a large file Droid's file view tool will try to parse it and then crash because the file is to large but to solve the crashing you should add something that detects the size of the file then if its too large it will resort to using a powershell command instead of the built in droid file parser tool to parse a few lines of the file to get the format etc based on whatever the question involving the file is. Simple feature simple fix.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oys5f5/fix_large_file_parsing_crash_issue/",
-    "timestamp": "2025-11-16T17:50:18.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    },
-    "category": "question"
   },
   {
     "id": "reddit_1oydnzt",

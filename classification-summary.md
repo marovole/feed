@@ -1,6 +1,6 @@
 # Classification Summary
 
-**Date:** 2025-12-13 16:09 UTC
+**Date:** 2025-12-13 16:21 UTC
 
 ## Results
 - **Total items classified:** 1
@@ -9,7 +9,7 @@
 | Category | Count | Percentage |
 |----------|-------|------------|
 | mention  | 0     | 0%         |
-| bug      | 0     | 0%         |
+| bug      | 1     | 100%       |
 | love     | 0     | 0%         |
-| question | 1     | 100%       |
+| question | 0     | 0%         |
 | other    | 0     | 0%         |

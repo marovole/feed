@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999917283687235766",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@FactoryAI I use this when I am testing model-to-subagent performance and want to quickly set them all to something like GLM 4.6 or GPT 5.2. It just saves a few steps. https://t.co/Y1YDoYiWKe",
+    "url": "https://x.com/jcurtis/status/1999917283687235766",
+    "timestamp": "2025-12-13T19:00:11.000Z",
+    "metadata": {
+      "conversation_id": "1999917283687235766",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999916904664777183",
+    "source": "twitter",
+    "author": "xdotli",
+    "content": "@matanSF @FactoryAI wow where is that rumor from (friend with Tianwei and have been using droid since 2024).\nalso curious which model did you use for the codex cli. Mine results: https://t.co/FMnq6XFnyy",
+    "url": "https://x.com/xdotli/status/1999916904664777183",
+    "timestamp": "2025-12-13T18:58:41.000Z",
+    "metadata": {
+      "conversation_id": "1999916904664777183",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999916339369230366",
+    "source": "twitter",
+    "author": "filipens00",
+    "content": "@TheEcomNomad @FactoryAI @augmentcode I'm coding with notepad.",
+    "url": "https://x.com/filipens00/status/1999916339369230366",
+    "timestamp": "2025-12-13T18:56:26.000Z",
+    "metadata": {
+      "conversation_id": "1999916339369230366",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999914860734538211",
     "source": "twitter",
     "author": "ICTStudent2023",

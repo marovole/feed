@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999729917647552830",
+    "source": "twitter",
+    "author": "artifexdev",
+    "content": "@matanSF @FactoryAI Why not Claude code with opus 4.5",
+    "url": "https://x.com/artifexdev/status/1999729917647552830",
+    "timestamp": "2025-12-13T06:35:40.000Z",
+    "metadata": {
+      "conversation_id": "1999729917647552830",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999709005825081850",
     "source": "twitter",
     "author": "tak_ltc",

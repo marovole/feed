@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1999829807744393670",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1999829473139569118",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1999826270926876677",
@@ -35279,7 +35282,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_214",
@@ -35306,7 +35310,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_164",

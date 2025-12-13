@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1999833632043602179",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1999830119376986126",
@@ -16000,7 +16002,8 @@
       "score": 13,
       "num_comments": 1,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1994490891885842480",
@@ -18101,7 +18104,8 @@
       "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1993990034404389048",
@@ -35394,7 +35398,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 164
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_151",
@@ -35408,7 +35413,7 @@
       "category": "Feature requests",
       "number": 151
     },
-    "category": "other"
+    "category": "question"
   },
   {
     "id": "github_discussion_151",
@@ -35421,7 +35426,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 151
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_108",
@@ -35448,7 +35454,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 108
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_99",

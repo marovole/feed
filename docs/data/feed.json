@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2000215419194417349",
+    "source": "twitter",
+    "author": "truckandduck123",
+    "content": "@matanSF @Waymo @FactoryAI How about a food bank for the taxi drivers?",
+    "url": "https://x.com/truckandduck123/status/2000215419194417349",
+    "timestamp": "2025-12-14T14:44:52.000Z",
+    "metadata": {
+      "conversation_id": "2000215419194417349",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000205262615916811",
     "source": "twitter",
     "author": "JefeMcOwnage",

@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2000242144779640864",
+    "source": "twitter",
+    "author": "0xTheWay",
+    "content": "@alxfazio @FactoryAI That might be the case for some people, but I’ve just tried most of them. I have both CC and droid open side by side and lately I’ve been preferring Droid. I do like that I can use Claude Code with my subscription, so it’s really hard to give that up tbh.",
+    "url": "https://x.com/0xTheWay/status/2000242144779640864",
+    "timestamp": "2025-12-14T16:31:04.000Z",
+    "metadata": {
+      "conversation_id": "2000242144779640864",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000242082640806091",
+    "source": "twitter",
+    "author": "grok",
+    "content": "The $153 for a ~3.5hr autonomous ride (likely Waymo) from SF to Mountain View (~38 miles) aligns with heavy traffic scenarios. Normal UberX estimates $50 for 50 mins, but could rise to $100-150+ with extended time. Lyft similar at $65 base, up with traffic. Taxi ~$130. Caltrain: $8.50 one-way, ~1hr.\n\nIf battery runs low, Waymo cars return to depot for charging.",
+    "url": "https://x.com/grok/status/2000242082640806091",
+    "timestamp": "2025-12-14T16:30:49.000Z",
+    "metadata": {
+      "conversation_id": "2000242082640806091",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000241755040649485",
+    "source": "twitter",
+    "author": "droopyalmond2",
+    "content": "@matanSF @Waymo @FactoryAI 3.5 hrs ride for $153!! \n\nThat sounds good? What would be the charges for a normal ride with a human, or anything like public transport uber etc? @grok can you help based on the location in the image\n\nBtw what happens if the cars discharge or run out of fuel?",
+    "url": "https://x.com/droopyalmond2/status/2000241755040649485",
+    "timestamp": "2025-12-14T16:29:31.000Z",
+    "metadata": {
+      "conversation_id": "2000241755040649485",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000240492211319232",
+    "source": "twitter",
+    "author": "alxfazio",
+    "content": "@0xTheWay @FactoryAI https://t.co/beOjwE5oB2",
+    "url": "https://x.com/alxfazio/status/2000240492211319232",
+    "timestamp": "2025-12-14T16:24:30.000Z",
+    "metadata": {
+      "conversation_id": "2000240492211319232",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000240328352354337",
+    "source": "twitter",
+    "author": "0xTheWay",
+    "content": "@alxfazio I like Claude code, but @FactoryAI Droid is my workhorse these days.",
+    "url": "https://x.com/0xTheWay/status/2000240328352354337",
+    "timestamp": "2025-12-14T16:23:51.000Z",
+    "metadata": {
+      "conversation_id": "2000240328352354337",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000238994219810898",
     "source": "twitter",
     "author": "FanaHOVA",

@@ -1098,7 +1098,7 @@
 
     @media (max-width: 768px) {
       .secondary-nav {
-        padding: 8px 16px;
+        padding: 6px 12px;
       }
       
       .source-icons {
@@ -1124,20 +1124,29 @@
       .secondary-nav {
         gap: 8px;
         justify-content: space-between;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
       }
       
       .secondary-nav-left {
         gap: 8px;
-        flex: 0 1 auto;
+        flex: 1 1 auto;
+      }
+      
+      /* Collapse search by default on mobile, show toggle button */
+      .mobile-search-toggle {
+        display: flex !important;
       }
       
       .secondary-nav-right {
-        display: flex;
-        align-items: stretch;
+        display: none;
+        width: 100%;
+      }
+      
+      /* Show secondary-nav-right when search is active */
+      .secondary-nav-right.mobile-search-active {
+        display: flex !important;
         flex-direction: column;
         gap: 8px;
-        width: 100%;
       }
 
       .search-container {
@@ -1183,13 +1192,13 @@
       }
       
       .app-header { 
-          padding: 12px 16px;
-          gap: 12px;
+          padding: 8px 12px;
+          gap: 8px;
       }
       
       .header-top {
           flex-wrap: wrap;
-          gap: 12px;
+          gap: 8px;
       }
       
       .header-left {
@@ -1222,13 +1231,13 @@
       }
       
       .card { 
-        padding: 12px 16px; 
-        padding-left: 36px;
+        padding: 10px 12px; 
+        padding-left: 32px;
         flex-wrap: wrap;
       }
       .card-checkbox { 
         top: 50%;
-        left: 12px;
+        left: 8px;
         transform: translateY(-50%);
       }
       .card-source {
@@ -1261,7 +1270,7 @@
         font-size: 12px;
       }
       .feed-container {
-        padding: 12px;
+        padding: 8px;
         overscroll-behavior: none;
       }
       .main-container {
@@ -1310,6 +1319,9 @@
       </div>
       
       <div class="app-controls">
+        <button class="icon-btn mobile-search-toggle" id="mobileSearchToggle" title="Search" style="display: none;">
+          <i data-lucide="search"></i>
+        </button>
         <button class="icon-btn multi-select-toggle" id="multiSelectToggle" title="Multi-select">
           <i data-lucide="check-square"></i>
         </button>
@@ -1697,6 +1709,7 @@
       const loginBtn = document.getElementById('loginBtn');
       const logoutBtn = document.getElementById('logoutBtn');
       const syncBtn = document.getElementById('syncBtn');
+      const mobileSearchToggle = document.getElementById('mobileSearchToggle');
       const searchContainer = elements.searchContainer;
       const searchInput = elements.searchInput;
       
@@ -1705,6 +1718,8 @@
         logoutBtn.style.display = 'flex';
         syncBtn.style.display = 'flex';
         if (searchContainer) searchContainer.style.display = 'flex';
+        // Show mobile search toggle when logged in (hidden by mobile CSS by default)
+        if (mobileSearchToggle) mobileSearchToggle.style.display = '';
       } else {
         loginBtn.style.display = 'flex';
         logoutBtn.style.display = 'none';
@@ -1715,6 +1730,8 @@
           if (searchInput) searchInput.value = '';
           updateSearchMeta(false);
         }
+        // Hide mobile search toggle when logged out
+        if (mobileSearchToggle) mobileSearchToggle.style.display = 'none';
       }
     }
 
@@ -2695,6 +2712,31 @@
                 clearSelection();
             }
         });
+
+        // Mobile search toggle
+        const mobileSearchToggle = document.getElementById('mobileSearchToggle');
+        const secondaryNavRight = document.querySelector('.secondary-nav-right');
+        if (mobileSearchToggle && secondaryNavRight) {
+            mobileSearchToggle.addEventListener('click', () => {
+                const isActive = secondaryNavRight.classList.toggle('mobile-search-active');
+                mobileSearchToggle.classList.toggle('active', isActive);
+                if (isActive) {
+                    // Focus search input when opened
+                    setTimeout(() => elements.searchInput?.focus(), 100);
+                }
+            });
+            
+            // Close search when clicking outside on mobile
+            document.addEventListener('click', (e) => {
+                if (window.innerWidth <= 768 && 
+                    secondaryNavRight.classList.contains('mobile-search-active') &&
+                    !secondaryNavRight.contains(e.target) && 
+                    !mobileSearchToggle.contains(e.target)) {
+                    secondaryNavRight.classList.remove('mobile-search-active');
+                    mobileSearchToggle.classList.remove('active');
+                }
+            });
+        }
 
         // Controls
         document.getElementById('refreshBtn').addEventListener('click', fetchFeed);

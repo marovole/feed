@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2000705784888410535",
+    "source": "twitter",
+    "author": "dynemetis",
+    "content": "@sqs @TheEcomNomad @FactoryAI @augmentcode Sounds like I should!",
+    "url": "https://x.com/dynemetis/status/2000705784888410535",
+    "timestamp": "2025-12-15T23:13:25.000Z",
+    "metadata": {
+      "conversation_id": "2000705784888410535",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000704416664707459",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@dynemetis @TheEcomNomad @FactoryAI @augmentcode All good - you should try Amp :)",
+    "url": "https://x.com/sqs/status/2000704416664707459",
+    "timestamp": "2025-12-15T23:07:58.000Z",
+    "metadata": {
+      "conversation_id": "2000704416664707459",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000690765379313784",
     "source": "twitter",
     "author": "TheEcomNomad",

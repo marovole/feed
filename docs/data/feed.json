@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2000449338196070698",
+    "source": "twitter",
+    "author": "spacemandev",
+    "content": "@0xTheWay @alxfazio @FactoryAI Can use droid with Claude sub too (vibe proxy on GitHub) :- it’s what’s I use and was the final straw in getting me to switch to Droid",
+    "url": "https://x.com/spacemandev/status/2000449338196070698",
+    "timestamp": "2025-12-15T06:14:23.000Z",
+    "metadata": {
+      "conversation_id": "2000449338196070698",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000437080883913129",
     "source": "twitter",
     "author": "AIFlow_ML",
@@ -80,6 +95,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2000356194289131895",
+    "source": "twitter",
+    "author": "rizary_",
+    "content": "@noplanBworld @FactoryAI i already did, same result. And droid also crashed on bun like every several minutes in the middle of conversation.",
+    "url": "https://x.com/rizary_/status/2000356194289131895",
+    "timestamp": "2025-12-15T00:04:16.000Z",
+    "metadata": {
+      "conversation_id": "2000356194289131895",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000354901835288782",
     "source": "twitter",
     "author": "michabbb",
@@ -110,6 +140,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2000329677328818488",
+    "source": "twitter",
+    "author": "rizary_",
+    "content": "pay $200 for this output? @FactoryAI disappoint me. I never get this from other, even cursor. https://t.co/lumi9Gfci5",
+    "url": "https://x.com/rizary_/status/2000329677328818488",
+    "timestamp": "2025-12-14T22:18:54.000Z",
+    "metadata": {
+      "conversation_id": "2000329677328818488",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2000326702191567026",
@@ -206,6 +251,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2000262347550826807",
+    "source": "twitter",
+    "author": "FornolesEfren",
+    "content": "@matanSF @Waymo @FactoryAI Just take a Tesla robotaxi",
+    "url": "https://x.com/FornolesEfren/status/2000262347550826807",
+    "timestamp": "2025-12-14T17:51:21.000Z",
+    "metadata": {
+      "conversation_id": "2000262347550826807",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000260262373585153",
+    "source": "twitter",
+    "author": "X_Wallets",
+    "content": "@matanSF @anderchuckinc @bentossell @Waymo @FactoryAI 🤣 \n\n4.5",
+    "url": "https://x.com/X_Wallets/status/2000260262373585153",
+    "timestamp": "2025-12-14T17:43:04.000Z",
+    "metadata": {
+      "conversation_id": "2000260262373585153",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2000258734212399470",

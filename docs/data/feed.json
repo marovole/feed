@@ -17486,6 +17486,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1p9ivtj",
+    "source": "reddit",
+    "author": "Numerous_File_9927",
+    "content": "How to HIDE HOOKS output in TUI?\n\nIs there any way we can hide the hook execution progress from the main TUI? Im using WSL btw",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p9ivtj/how_to_hide_hooks_output_in_tui/",
+    "timestamp": "2025-11-29T07:30:47.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_452",
     "source": "github",
     "author": "ShubDVS",

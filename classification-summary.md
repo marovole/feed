@@ -1,12 +1,13 @@
 # Classification Summary
 
-**Date:** 2025-12-16 15:34 UTC
+**Date:** 2025-12-16 15:48 UTC
 
-## Results
-- **Total items classified:** 2
-- **Category breakdown:**
-  - mention: 0 (0%)
-  - bug: 0 (0%)
-  - love: 1 (50%)
-  - question: 1 (50%)
-  - other: 0 (0%)
+**Total items classified:** 3
+
+| Category | Count | Percentage |
+|----------|-------|------------|
+| mention  | 1     | 33.3%      |
+| bug      | 1     | 33.3%      |
+| love     | 1     | 33.3%      |
+| question | 0     | 0.0%       |
+| other    | 0     | 0.0%       |

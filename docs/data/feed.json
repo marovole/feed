@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2000751485265830073",
+    "source": "twitter",
+    "author": "m0nle0z",
+    "content": "@TheEcomNomad @FactoryAI @augmentcode Totally agree, Augment's quality is just unmatched.",
+    "url": "https://x.com/m0nle0z/status/2000751485265830073",
+    "timestamp": "2025-12-16T02:15:00.000Z",
+    "metadata": {
+      "conversation_id": "2000751485265830073",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000749943724679302",
+    "source": "twitter",
+    "author": "EvanDeKim",
+    "content": "@AsymptoticTech @markoggwp @FactoryAI The cetus DLMM right? Looking forward to reading the report",
+    "url": "https://x.com/EvanDeKim/status/2000749943724679302",
+    "timestamp": "2025-12-16T02:08:53.000Z",
+    "metadata": {
+      "conversation_id": "2000749943724679302",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000745690709008877",
+    "source": "twitter",
+    "author": "AsymptoticTech",
+    "content": "@markoggwp @EvanDeKim @FactoryAI Thanks @markoggwp for the heads up... this looks cool\n\nWe'll share some results on complex Move code soon :-)",
+    "url": "https://x.com/AsymptoticTech/status/2000745690709008877",
+    "timestamp": "2025-12-16T01:51:59.000Z",
+    "metadata": {
+      "conversation_id": "2000745690709008877",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000743817595773199",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@droid @FactoryAI @matanSF @matanSF 🙏🏼",
+    "url": "https://x.com/nathanclark_/status/2000743817595773199",
+    "timestamp": "2025-12-16T01:44:32.000Z",
+    "metadata": {
+      "conversation_id": "2000743817595773199",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000735912678871132",
     "source": "twitter",
     "author": "markoggwp",

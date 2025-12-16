@@ -123,7 +123,7 @@ async function listPosts(options = {}) {
     const query = options.search.toLowerCase();
     filtered = filtered.filter(item =>
       item.content.toLowerCase().includes(query) ||
-      item.author.toLowerCase().includes(query)
+      (item.content || '').toLowerCase().includes(query)
     );
   }
 

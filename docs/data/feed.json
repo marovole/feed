@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2001322165065433088",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@harshjdhv @FactoryAI 👀",
+    "url": "https://x.com/bentossell/status/2001322165065433088",
+    "timestamp": "2025-12-17T16:02:41.000Z",
+    "metadata": {
+      "conversation_id": "2001322165065433088",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001320947219939541",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MihailVarich @FactoryAI @stripe we always are",
+    "url": "https://x.com/bentossell/status/2001320947219939541",
+    "timestamp": "2025-12-17T15:57:51.000Z",
+    "metadata": {
+      "conversation_id": "2001320947219939541",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001317942462435563",
     "source": "twitter",
     "author": "MihailVarich",
@@ -15574,6 +15604,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1pd56c3",
+    "source": "reddit",
+    "author": "sheesh",
+    "content": "Can't access all my GitHub repos?\n\nI'm on the Pro plan and connected my GitHub to Factory account a while back and was able to create Workspaces for several GitHub repos, but now I can't seem to add any more. They just don't show up in \"Repository Selection\" under GitHub Integration, or under Create Workspace. The integrations settings says \"Connection check successful\" but it just doesn't show them all for some reason.\n\nWhere do I click to access all my repos?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pd56c3/cant_access_all_my_github_repos/",
+    "timestamp": "2025-12-03T14:10:23.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_1996217086859735287",

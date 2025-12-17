@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_528",
@@ -25,7 +26,8 @@
       "type": "issue",
       "labels": [],
       "number": 528
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2001116491136086476",
@@ -40,7 +42,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2001113828894105684",
@@ -55,7 +58,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2001110404232077595",

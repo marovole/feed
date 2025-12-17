@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2001090892594078101",
+    "source": "twitter",
+    "author": "87xysr",
+    "content": "@nico_jeannen @FactoryAI get the $200 plan and use Opus 4.5\n\nYou’re going to have a better experience than most IDEs in your terminal",
+    "url": "https://x.com/87xysr/status/2001090892594078101",
+    "timestamp": "2025-12-17T00:43:41.000Z",
+    "metadata": {
+      "conversation_id": "2001090892594078101",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001088779931582594",
+    "source": "twitter",
+    "author": "pietAIdev",
+    "content": "Crazy to realize that I've been using @FactoryAI since June, before all the hype (that they deserve).",
+    "url": "https://x.com/pietAIdev/status/2001088779931582594",
+    "timestamp": "2025-12-17T00:35:18.000Z",
+    "metadata": {
+      "conversation_id": "2001088779931582594",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001086974246183241",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "Was me with @FactoryAI",
+    "url": "https://x.com/AIFlow_ML/status/2001086974246183241",
+    "timestamp": "2025-12-17T00:28:07.000Z",
+    "metadata": {
+      "conversation_id": "2001086974246183241",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001086878783832398",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@nico_jeannen @FactoryAI or @AmpCode \n\nThey’re the 2 best in the game hands down.",
+    "url": "https://x.com/contxtkng/status/2001086878783832398",
+    "timestamp": "2025-12-17T00:27:44.000Z",
+    "metadata": {
+      "conversation_id": "2001086878783832398",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_527",
     "source": "github",
     "author": "kreek",

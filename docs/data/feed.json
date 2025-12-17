@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2001110404232077595",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "It seems to be @FactoryAI has disabled API key generation for free plans. I imagine their costs have dropped significantly now that the abusers are gone.\nI hope the next step is to implement cryptocurrency payments, not that damned @stripe !",
+    "url": "https://x.com/MihailVarich/status/2001110404232077595",
+    "timestamp": "2025-12-17T02:01:13.000Z",
+    "metadata": {
+      "conversation_id": "2001110404232077595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001108132806975658",
+    "source": "twitter",
+    "author": "ReddyJaiden",
+    "content": "wanted to try a CC alternative because the UI is so buggy, but getting this error on multiple browsers / networks / devices…\n\npls put a droid on the problem @FactoryAI https://t.co/H0LU37DhC0",
+    "url": "https://x.com/ReddyJaiden/status/2001108132806975658",
+    "timestamp": "2025-12-17T01:52:12.000Z",
+    "metadata": {
+      "conversation_id": "2001108132806975658",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001097752709882134",
     "source": "twitter",
     "author": "contxtkng",

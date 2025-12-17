@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_2001390669680595453",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "Hey @FactoryAI trying to sign-up for another account but this keeps happening. https://t.co/ImJSonnLej",
+    "url": "https://x.com/nathanpareo/status/2001390669680595453",
+    "timestamp": "2025-12-17T20:34:54.000Z",
+    "metadata": {
+      "conversation_id": "2001390669680595453",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1pp79y4",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.36.6 Released - Gemini 3 Flash model\n\n## New features\n\n* **Gemini 3 Flash model** - Added support for Gemini 3 Flash\n\n## Bug fixes\n\n* Fixed overly strict filtering by allowing common read-only `git` commands\n* Fixed copy/paste issues on WSL\n* Fixed repository deduplication in `/readiness` reports\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pp79y4/factory_cli_v0366_released_gemini_3_flash_model/",
+    "timestamp": "2025-12-17T20:32:58.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2001389152919548085",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@FactoryAI https://t.co/SWDvhHWcuy",
+    "url": "https://x.com/jcurtis/status/2001389152919548085",
+    "timestamp": "2025-12-17T20:28:52.000Z",
+    "metadata": {
+      "conversation_id": "2001389152919548085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001387879008797133",
+    "source": "twitter",
+    "author": "dhasandev",
+    "content": "@SaqlainRazee @droid @FactoryAI aaaaand its gone",
+    "url": "https://x.com/dhasandev/status/2001387879008797133",
+    "timestamp": "2025-12-17T20:23:49.000Z",
+    "metadata": {
+      "conversation_id": "2001387879008797133",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001379378211762612",
     "source": "twitter",
     "author": "jcurtis",

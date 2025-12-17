@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_527",
+    "source": "github",
+    "author": "kreek",
+    "content": "[Issue] Can't sign up via Google Auth\n\nWould love to try the Droid CLI out, but I can't sign up using Google Auth, tried all combinations of browsers, VPN on/off etc 💸 😕 \n\n```\nHTTP Status Error 403 Vercel BotId check failed. Ensure your browser or network firewall is not blocking BotId scripts.\nHTTP Request ID: sfo1:sfo1:sfo1::sfo1::s2rkk-1765929774847-927f90b33891\n```\n",
+    "url": "https://github.com/Factory-AI/factory/issues/527",
+    "timestamp": "2025-12-17T00:10:24Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 527
+    }
+  },
+  {
     "id": "twitter_2001077941795463540",
     "source": "twitter",
     "author": "nathanclark_",

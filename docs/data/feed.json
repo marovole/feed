@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2001332407379857731",
+    "source": "twitter",
+    "author": "harshjdhv",
+    "content": "@bentossell @FactoryAI Just noticed, the internal dashboard looks super cool as well , matches the vibe of the landing page",
+    "url": "https://x.com/harshjdhv/status/2001332407379857731",
+    "timestamp": "2025-12-17T16:43:23.000Z",
+    "metadata": {
+      "conversation_id": "2001332407379857731",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001330197237526844",
+    "source": "twitter",
+    "author": "thesagardevkate",
+    "content": "@bentossell @yunbin_bae @Zai_org @FactoryAI Eggcellent",
+    "url": "https://x.com/thesagardevkate/status/2001330197237526844",
+    "timestamp": "2025-12-17T16:34:36.000Z",
+    "metadata": {
+      "conversation_id": "2001330197237526844",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001330177356554484",
+    "source": "twitter",
+    "author": "Carlos_0x",
+    "content": "@NicerInPerson @bentossell @FactoryAI @claudeai I got it to work using playwritght mcp but it really made me think that someone should do a strudel mcp",
+    "url": "https://x.com/Carlos_0x/status/2001330177356554484",
+    "timestamp": "2025-12-17T16:34:31.000Z",
+    "metadata": {
+      "conversation_id": "2001330177356554484",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001327045968830558",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@thesagardevkate @yunbin_bae @Zai_org @FactoryAI ew",
+    "url": "https://x.com/bentossell/status/2001327045968830558",
+    "timestamp": "2025-12-17T16:22:05.000Z",
+    "metadata": {
+      "conversation_id": "2001327045968830558",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001326892922884129",
     "source": "twitter",
     "author": "bentossell",

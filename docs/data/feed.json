@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2001317942462435563",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "@bentossell @FactoryAI @stripe That's also true. But that doesn't mean you shouldn't do anything about it.",
+    "url": "https://x.com/MihailVarich/status/2001317942462435563",
+    "timestamp": "2025-12-17T15:45:54.000Z",
+    "metadata": {
+      "conversation_id": "2001317942462435563",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001317141400739895",
+    "source": "twitter",
+    "author": "thesagardevkate",
+    "content": "@bentossell @yunbin_bae @Zai_org @FactoryAI I use it in claude code",
+    "url": "https://x.com/thesagardevkate/status/2001317141400739895",
+    "timestamp": "2025-12-17T15:42:43.000Z",
+    "metadata": {
+      "conversation_id": "2001317141400739895",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001314580480331892",
     "source": "twitter",
     "author": "Alberto8793",
@@ -15468,6 +15498,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_477",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] 400 Bad Request error\n\nWhen using the factory CLI to call the Google Gemini model via BYOK (Bring Your Own Key), I received a 400 Bad Request error and the response body was empty.",
+    "url": "https://github.com/Factory-AI/factory/issues/477",
+    "timestamp": "2025-12-03T15:41:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 477
+    }
+  },
+  {
     "id": "twitter_1996242898019328165",
     "source": "twitter",
     "author": "sreenivasan_ac",
@@ -15622,6 +15665,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1pd1db2",
+    "source": "reddit",
+    "author": "Numerous_File_9927",
+    "content": "Is there any way I can add to my allow list in my settings for the droid to the MCB servers, just like you do in Claude Code? I don't want to run all commands in YOLO mode, and I don't want to always allow high-impact commands for all commands. All I just wanna is to surgically allow specific MCB se\n\nIs there any way I can add to my \"commandAllowlist\" in my settings.json for the droid to the MCP servers, just like you do in Claude Code?\n\nI don't want to run all commands in YOLO mode, and I don't want to always allow high-impact commands for all commands.\n\nAll I just wanna is to surgically allow specific MCP servers. I've tried a few variations of them - the naming add into the settings, and that's never worked. So I think maybe this feature is either missing or not implemented in droid cli a",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pd1db2/is_there_any_way_i_can_add_to_my_allow_list_in_my/",
+    "timestamp": "2025-12-03T11:08:35.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_1996174521624326620",

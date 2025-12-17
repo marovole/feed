@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2001379378211762612",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "If you’re moving to @FactoryAI from Claude Code, migrating subagents can be a little tricky. I put together a utility to help you validate your subagents and make sure they’re Droid-ready: https://t.co/vv8rgbkHXn\n\nI also added a bit of eye candy since their rebrand is 🔥",
+    "url": "https://x.com/jcurtis/status/2001379378211762612",
+    "timestamp": "2025-12-17T19:50:02.000Z",
+    "metadata": {
+      "conversation_id": "2001379378211762612",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001378220764221549",
     "source": "twitter",
     "author": "ICTStudent2023",

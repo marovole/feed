@@ -15416,6 +15416,19 @@
     "category": "question"
   },
   {
+    "id": "github_issue_480",
+    "source": "github",
+    "author": "iota9star",
+    "content": "[Issue] Automatically add a space after @ in the file\n\nAfter the @ file, it should automatically add a space like claude code after selecting the file item. Currently, no space is provided, and when pressing Enter after editing the content, the content will be reset.",
+    "url": "https://github.com/Factory-AI/factory/issues/480",
+    "timestamp": "2025-12-04T08:02:55Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 480
+    }
+  },
+  {
     "id": "twitter_1996478813187023142",
     "source": "twitter",
     "author": "bradvangelder",

@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2001760123039932836",
+    "source": "twitter",
+    "author": "pvncher",
+    "content": "@dpaluy @RepoPrompt @FactoryAI @claudeai @EnoReyes fyi",
+    "url": "https://x.com/pvncher/status/2001760123039932836",
+    "timestamp": "2025-12-18T21:02:58.000Z",
+    "metadata": {
+      "conversation_id": "2001760123039932836",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001759826263880150",
+    "source": "twitter",
+    "author": "dpaluy",
+    "content": "@pvncher @RepoPrompt @FactoryAI I did. But nothing. It works excellent with @claudeai \nFails in @FactoryAI only",
+    "url": "https://x.com/dpaluy/status/2001759826263880150",
+    "timestamp": "2025-12-18T21:01:48.000Z",
+    "metadata": {
+      "conversation_id": "2001759826263880150",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001759462139596850",
+    "source": "twitter",
+    "author": "pvncher",
+    "content": "@dpaluy @RepoPrompt @FactoryAI That looks right - did you reboot droid after?\nNote Im about to also push an update that makes all the mcp tools work from a cli as a backup",
+    "url": "https://x.com/pvncher/status/2001759462139596850",
+    "timestamp": "2025-12-18T21:00:21.000Z",
+    "metadata": {
+      "conversation_id": "2001759462139596850",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001758662465847597",
+    "source": "twitter",
+    "author": "dpaluy",
+    "content": "How to add @RepoPrompt MCP to @FactoryAI ?\n\nI added this, but my Droid refuses to enable it. https://t.co/IiMPvjEKdf",
+    "url": "https://x.com/dpaluy/status/2001758662465847597",
+    "timestamp": "2025-12-18T20:57:10.000Z",
+    "metadata": {
+      "conversation_id": "2001758662465847597",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001754505659236437",
     "source": "twitter",
     "author": "mehkhi07",

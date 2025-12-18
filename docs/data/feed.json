@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_537",
+    "source": "github",
+    "author": "EurFelux",
+    "content": "[Issue] Bug: 400 error when updating to 0.37.0\n\nPrevious version 0.33.0 worked.\n\n●  Bug report created successfully!\n\n   Bug Report ID: 43e8f22f-933c-4a8e-a66d-b63086bfa64c\n\n   Please share this ID with the Factory team for investigation.",
+    "url": "https://github.com/Factory-AI/factory/issues/537",
+    "timestamp": "2025-12-18T11:22:11Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 537
+    }
+  },
+  {
     "id": "twitter_2001583854411485291",
     "source": "twitter",
     "author": "AIFlow_ML",

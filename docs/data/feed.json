@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2001964052822573150",
@@ -15407,7 +15408,8 @@
       "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1997111443917779306",
@@ -16742,7 +16744,8 @@
       "score": 7,
       "num_comments": 1,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1996769375333109943",

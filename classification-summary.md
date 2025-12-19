@@ -1,9 +1,9 @@
 # Classification Summary
 
-**Date:** 2025-12-19 17:30 UTC
+**Date:** 2025-12-19 17:58 UTC
 
 ## Results
 
-- **Total items classified:** 1
+- **Total items classified:** 2
 - **Category breakdown:**
-  - bug: 1 (100%)
+  - question: 2 (100%)

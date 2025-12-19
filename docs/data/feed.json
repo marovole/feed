@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2001858628593353142",
+    "source": "twitter",
+    "author": "jamesvanderhaak",
+    "content": "@shivam_nerd @FactoryAI @RayFernando1337 Yeah going through now, trying to see if I can emulate the flow I had setup in Claude code with all the agents, hooks, skills etc!",
+    "url": "https://x.com/jamesvanderhaak/status/2001858628593353142",
+    "timestamp": "2025-12-19T03:34:24.000Z",
+    "metadata": {
+      "conversation_id": "2001858628593353142",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001857197257687073",
+    "source": "twitter",
+    "author": "shivam_nerd",
+    "content": "@jamesvanderhaak @FactoryAI @RayFernando1337 Check out our QuickStart guide and get started in 5 mins! https://t.co/nVbd90cjRm",
+    "url": "https://x.com/shivam_nerd/status/2001857197257687073",
+    "timestamp": "2025-12-19T03:28:43.000Z",
+    "metadata": {
+      "conversation_id": "2001857197257687073",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001851536230789356",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@AriesTheCoder @FactoryAI @droid I'm trying to work out what to do with it… Even the docs don't make it clear. \n\nI would love a comparison with direct CLI",
+    "url": "https://x.com/nathanclark_/status/2001851536230789356",
+    "timestamp": "2025-12-19T03:06:13.000Z",
+    "metadata": {
+      "conversation_id": "2001851536230789356",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001843972675932234",
     "source": "twitter",
     "author": "erd0xbc",

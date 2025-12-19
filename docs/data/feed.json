@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2001942104466166178",
+    "source": "twitter",
+    "author": "tongducthanhnam",
+    "content": "@beffjezos @FactoryAI how about Zed",
+    "url": "https://x.com/tongducthanhnam/status/2001942104466166178",
+    "timestamp": "2025-12-19T09:06:06.000Z",
+    "metadata": {
+      "conversation_id": "2001942104466166178",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001941834776600918",
+    "source": "twitter",
+    "author": "SaqlainRazee",
+    "content": "@ICTStudent2023 @droid @FactoryAI yesh i am also thinking of same using the google aistudio api keys as droid also allow us to use our own api key.",
+    "url": "https://x.com/SaqlainRazee/status/2001941834776600918",
+    "timestamp": "2025-12-19T09:05:02.000Z",
+    "metadata": {
+      "conversation_id": "2001941834776600918",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001934391761924261",
     "source": "twitter",
     "author": "ChrisVanDerKlau",

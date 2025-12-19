@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002051673829875928",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@beffjezos @FactoryAI Fuck that. They’d ruin it. The fact that it’s independent from model providers is what makes it great!",
+    "url": "https://x.com/mikez93/status/2002051673829875928",
+    "timestamp": "2025-12-19T16:21:30.000Z",
+    "metadata": {
+      "conversation_id": "2002051673829875928",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002049721494622635",
+    "source": "twitter",
+    "author": "0xEricBrown",
+    "content": "@FactoryAI when can we bring our claude max subscription instead of paying via api?",
+    "url": "https://x.com/0xEricBrown/status/2002049721494622635",
+    "timestamp": "2025-12-19T16:13:44.000Z",
+    "metadata": {
+      "conversation_id": "2002049721494622635",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002046822962090308",
     "source": "twitter",
     "author": "MitchBernstein",

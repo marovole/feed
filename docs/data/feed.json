@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2001914526045024486",
+    "source": "twitter",
+    "author": "OranAITech",
+    "content": "@GitMaxd @AnthropicAI @claudeai @FactoryAI @ryancarson @ryancarson  which skills?",
+    "url": "https://x.com/OranAITech/status/2001914526045024486",
+    "timestamp": "2025-12-19T07:16:31.000Z",
+    "metadata": {
+      "conversation_id": "2001914526045024486",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001913879631401276",
+    "source": "twitter",
+    "author": "OranAITech",
+    "content": "@GitMaxd @AnthropicAI @claudeai @FactoryAI @ryancarson Same makes sense and naturally progresses towards multi agent workforces. \n\nSam SOTA reasoning model specialized skills with tools. \n\nThink banding approaches might be useful here too I.e. explore exploit skill markdowns.",
+    "url": "https://x.com/OranAITech/status/2001913879631401276",
+    "timestamp": "2025-12-19T07:13:57.000Z",
+    "metadata": {
+      "conversation_id": "2001913879631401276",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001912017146540119",
     "source": "twitter",
     "author": "GitMaxd",

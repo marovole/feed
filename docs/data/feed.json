@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_2001912017146540119",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "I literally paid $200 for a set of skills based on nothing but a solid recommendation from a good friend, @ryancarson \n\nThis morning he posted about a skill set for marketing.  \n\nTo be clear, I am horrible at marketing.\n\nIn one day I’ve turned that set of skills I’ve paid $200 for into knowledge I don’t have - I’ve learned things about my software I don’t even know from a Marketing Angles skill - \n\nI’m not saying to do this - unless learning and automation is really important to you.  \n\nIt would have taken me … maybe never, to understand what’s in those Markdown files - but now they all work and live in projects and just do their thing when called upon.\n\nI am extremely bullish on skills.",
+    "url": "https://x.com/GitMaxd/status/2001912017146540119",
+    "timestamp": "2025-12-19T07:06:33.000Z",
+    "metadata": {
+      "conversation_id": "2001912017146540119",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001910365849026833",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@OranAITech @AnthropicAI @claudeai @FactoryAI The single most valuable thing you can learn right now 👍",
+    "url": "https://x.com/GitMaxd/status/2001910365849026833",
+    "timestamp": "2025-12-19T06:59:59.000Z",
+    "metadata": {
+      "conversation_id": "2001910365849026833",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001910132977078461",
+    "source": "twitter",
+    "author": "OranAITech",
+    "content": "@GitMaxd @AnthropicAI @claudeai @FactoryAI Wasn’t aware of them. \n\nGoing to take a look https://t.co/cOziccwDok",
+    "url": "https://x.com/OranAITech/status/2001910132977078461",
+    "timestamp": "2025-12-19T06:59:04.000Z",
+    "metadata": {
+      "conversation_id": "2001910132977078461",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_538",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Sane newline, please!\n\nthe whole thing about having to do `\\+ENTER` is awkward. Gemini has natural newline with `SHIFT+ENTER` as any other chat-like interface. So be even better the option to choose if `ENTER` as newline per default would be amazing as I would rather have to actively send the message by pressing `SHIFT+ENTER` than accidentally pollute the chat by having to press cancel all the time 🥲 ",
+    "url": "https://github.com/Factory-AI/factory/issues/538",
+    "timestamp": "2025-12-19T06:58:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 538
+    }
+  },
+  {
     "id": "twitter_2001909585859498451",
     "source": "twitter",
     "author": "shivam_nerd",

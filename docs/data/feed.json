@@ -15328,6 +15328,19 @@
     "category": "love"
   },
   {
+    "id": "reddit_1pgbuhq",
+    "source": "reddit",
+    "author": "Ambitious-Package-50",
+    "content": "I built a simple dashboard to track Factory AI token usage\n\nHey everyone,\n\nI built this tool entirely with Droid (Factory AI's coding agent).\n\nIt's a simple dashboard to check your Factory AI API token usage\n\nhttps://preview.redd.it/u9gu7nwcdx5g1.jpg?width=2462&amp;format=pjpg&amp;auto=webp&amp;s=1053ef2511516198b4ce0ecd02bd4fc6240250ae\n\n  \n\n\nhttps://preview.redd.it/8oc7hhcycx5g1.jpg?width=2536&amp;format=pjpg&amp;auto=webp&amp;s=5b2c5ec2c802455aa8aff28250f13991f39c8eb1\n\nFeatures:\n\n\\- See your token consumption and remaining quota\n\n\\- Support multiple AP",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pgbuhq/i_built_a_simple_dashboard_to_track_factory_ai/",
+    "timestamp": "2025-12-07T06:51:32.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1997558441846727157",
     "source": "twitter",
     "author": "shohih_abdul",

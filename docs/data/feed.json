@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2001865326007648482",
+    "source": "twitter",
+    "author": "aiinstinct",
+    "content": "@TheEcomNomad @FactoryAI @augmentcode Why?",
+    "url": "https://x.com/aiinstinct/status/2001865326007648482",
+    "timestamp": "2025-12-19T04:01:01.000Z",
+    "metadata": {
+      "conversation_id": "2001865326007648482",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001862932699976153",
+    "source": "twitter",
+    "author": "_4dinata",
+    "content": "@FactoryAI waiting for laravel @laravelphp 😃",
+    "url": "https://x.com/_4dinata/status/2001862932699976153",
+    "timestamp": "2025-12-19T03:51:30.000Z",
+    "metadata": {
+      "conversation_id": "2001862932699976153",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001861901379391530",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "Ran out of my @cursor_ai credits and immediately jumped on @FactoryAI. Such a great tool to add (and is doing a really great job with all models!)",
+    "url": "https://x.com/MitchBernstein/status/2001861901379391530",
+    "timestamp": "2025-12-19T03:47:24.000Z",
+    "metadata": {
+      "conversation_id": "2001861901379391530",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001861655542775962",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "Feeling the same way. Using GPT-5.2 since it’s availableIn @FactoryAI Droid instead of Opus 4.5 for my Next.js application, and it works great!",
+    "url": "https://x.com/NilkhanVaibhav/status/2001861655542775962",
+    "timestamp": "2025-12-19T03:46:26.000Z",
+    "metadata": {
+      "conversation_id": "2001861655542775962",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001858628593353142",
     "source": "twitter",
     "author": "jamesvanderhaak",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2001902775685591424",
+    "source": "twitter",
+    "author": "itswillpalmer",
+    "content": "@FactoryAI Interesting result.\n\nAgent performance often looks very different once you move beyond a single stack and evaluate on real production pull-request workflows.\n\nWould be good to see Droid run more broadly.",
+    "url": "https://x.com/itswillpalmer/status/2001902775685591424",
+    "timestamp": "2025-12-19T06:29:49.000Z",
+    "metadata": {
+      "conversation_id": "2001902775685591424",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001895587193769992",
     "source": "twitter",
     "author": "GitMaxd",

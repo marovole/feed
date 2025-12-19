@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002044274414874697",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "All you need is the combo of\n@FactoryAI and Gemini 3 Flash.",
+    "url": "https://x.com/mhadtk/status/2002044274414874697",
+    "timestamp": "2025-12-19T15:52:05.000Z",
+    "metadata": {
+      "conversation_id": "2002044274414874697",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002044026652921949",
+    "source": "twitter",
+    "author": "SalyersAi",
+    "content": "@MitchBernstein @cursor_ai @FactoryAI I haven’t compared the context management to cursor, but compared to Claude code. It seems far superior",
+    "url": "https://x.com/SalyersAi/status/2002044026652921949",
+    "timestamp": "2025-12-19T15:51:06.000Z",
+    "metadata": {
+      "conversation_id": "2002044026652921949",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002034958312108532",
     "source": "twitter",
     "author": "SkylerMiao7",

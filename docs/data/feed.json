@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002195102371066082",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI Thanks for sharing this research which helps build trust that DROID CLI is the right choice 👍🏻\nHowever, \"On artifact probes (\"Which files have we modified?\"), Factory scored 3.6\" , although the best result, I find it a bit low. Remembering a few file names shouldn't be too hard ?",
+    "url": "https://x.com/SvenMeyer/status/2002195102371066082",
+    "timestamp": "2025-12-20T01:51:26.000Z",
+    "metadata": {
+      "conversation_id": "2002195102371066082",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002191457981972882",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@EnoReyes @FactoryAI 🫶",
+    "url": "https://x.com/steipete/status/2002191457981972882",
+    "timestamp": "2025-12-20T01:36:57.000Z",
+    "metadata": {
+      "conversation_id": "2002191457981972882",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002190322818863264",
     "source": "twitter",
     "author": "cosmo_kappa",

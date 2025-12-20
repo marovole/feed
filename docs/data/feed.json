@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2002328082997227822",
+    "source": "twitter",
+    "author": "eSaadster",
+    "content": "context compression is why session notes matter so much.\n\nthe agent should be explicitly writing what it wants to remember before compression happens - not hoping the auto-summarizer keeps the right details.\n\nyou can also offload persistent knowledge to skill files that get loaded on demand rather than sitting in context.",
+    "url": "https://x.com/eSaadster/status/2002328082997227822",
+    "timestamp": "2025-12-20T10:39:51.000Z",
+    "metadata": {
+      "conversation_id": "2002328082997227822",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002312884320125225",
     "source": "twitter",
     "author": "JohnThilen",

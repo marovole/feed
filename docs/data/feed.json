@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002806181010829430",
+    "source": "twitter",
+    "author": "prem_uiux",
+    "content": "@CloudTrader4 @MiniMax__AI @FactoryAI Cool, Love the interaction",
+    "url": "https://x.com/prem_uiux/status/2002806181010829430",
+    "timestamp": "2025-12-21T18:19:38.000Z",
+    "metadata": {
+      "conversation_id": "2002806181010829430",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002805446546231296",
+    "source": "twitter",
+    "author": "Yampeleg",
+    "content": "@CloudTrader4 @MiniMax__AI @FactoryAI No matter the model if you ask for frontend, it will name the product “nexus” lol",
+    "url": "https://x.com/Yampeleg/status/2002805446546231296",
+    "timestamp": "2025-12-21T18:16:43.000Z",
+    "metadata": {
+      "conversation_id": "2002805446546231296",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002802546189217878",
     "source": "twitter",
     "author": "hyprbased",

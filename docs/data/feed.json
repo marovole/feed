@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_541",
+    "source": "github",
+    "author": "sukakcoding",
+    "content": "[Issue] Frequent 403 Forbidden errors during chat/file operations\n\n**Bug Report ID:** `4147326a-8bd6-4bc5-a4e0-41926c47d2b9`\n\n**Description:**\nGetting frequent 403 Forbidden errors during chat or file operations. When trying `/compress` to recover, it fails with a different error. So basically stuck and have to start a fresh session.\n\n**Errors:**\n\nFirst error (during normal usage):\n```\nError: 403 {\"detail\":\"Forbidden\",\"status\":403,\"title\":\"Forbidden\",\"requestId\":\"sin1::n97s8-1766288739206-569e9ddda723\"}\n```\n\nSecond error (when running `/compress`):\n```\nError: F",
+    "url": "https://github.com/Factory-AI/factory/issues/541",
+    "timestamp": "2025-12-21T04:03:50Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 541
+    }
+  },
+  {
     "id": "twitter_2002567686937850183",
     "source": "twitter",
     "author": "Viswana34226652",

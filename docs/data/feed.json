@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003031053997355276",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "I think all models are converging in terms of design, it also has Opus 4.5 and GPT-5.2 vibes\n\nGuiding with specific instructions and being on the same page with the model you use is the key in my opinion\n\nThe prompting that result this design won't have the same results with different models, all have their unique way of ingesting the instructions.",
+    "url": "https://x.com/CloudTrader4/status/2003031053997355276",
+    "timestamp": "2025-12-22T09:13:12.000Z",
+    "metadata": {
+      "conversation_id": "2003031053997355276",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003022713712218545",
     "source": "twitter",
     "author": "lomsa005",

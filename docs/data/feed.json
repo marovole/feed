@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003090942514143572",
+    "source": "twitter",
+    "author": "nummanali",
+    "content": "@sjivan @FactoryAI @AmpCode I've just installed it and one the first 60 seconds it's better than Amp\n\nAmp feels like a blackbox, I need more control but it might be useful for me CEO who doesn't have time to understand all the models \n\nAmp does model selection for you",
+    "url": "https://x.com/nummanali/status/2003090942514143572",
+    "timestamp": "2025-12-22T13:11:10.000Z",
+    "metadata": {
+      "conversation_id": "2003090942514143572",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003089947918811343",
+    "source": "twitter",
+    "author": "sjivan",
+    "content": "@nummanali @FactoryAI @AmpCode Have you tried Driod yet or on your evaluation list?",
+    "url": "https://x.com/sjivan/status/2003089947918811343",
+    "timestamp": "2025-12-22T13:07:13.000Z",
+    "metadata": {
+      "conversation_id": "2003089947918811343",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003081263960531364",
     "source": "twitter",
     "author": "Viswana34226652",

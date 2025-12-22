@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003238848306831853",
+    "source": "twitter",
+    "author": "Shashikant86",
+    "content": "Numman, Your idea of Agent-Native SDLC is cool and I am woking on similar things (released soon).. I have tried every single coding agent available in the market .. In my experience,  Agentic Coding pipeline won't be stable until you have control over your models,  scaffolding and prompts. It may work like charm one day other day it sucks, Because you are building on scaffolding done under the hood by someone else. Claude Code, Codex hooking user by magic of markdown selling with different names Skills, Agents MD etc. They are just better prompt advertised to work well their models. Other coding agents like Droid, AMP,  Warp, perform great but they are blackbox (BTW there are blackbox AI as well, probably the most honest one) You never know when you system will shake. You can fork open source CLI (opencode, gemini-cli) and build your own to take control then you only needs to deal with models. \n\nWhile building these kinds of systems you need better control over your models via optimization and infra (scaffolding done with prompts and tooling). Happy to chat more..",
+    "url": "https://x.com/Shashikant86/status/2003238848306831853",
+    "timestamp": "2025-12-22T22:58:54.000Z",
+    "metadata": {
+      "conversation_id": "2003238848306831853",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1ptbvg9",
     "source": "reddit",
     "author": "bentossell",

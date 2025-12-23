@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003444979390448120",
+    "source": "twitter",
+    "author": "Mattmaximo",
+    "content": "@immoinulmoin @AmpCode @droid @opencode @codex @claudeai @FactoryAI I’ve used Factory but haven’t noticed meaningful improvements vs Claude or Codex. Figure it was likely user error so wanted to find out what I could do better",
+    "url": "https://x.com/Mattmaximo/status/2003444979390448120",
+    "timestamp": "2025-12-23T12:37:59.000Z",
+    "metadata": {
+      "conversation_id": "2003444979390448120",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003429299907625381",
     "source": "twitter",
     "author": "noelhatem",

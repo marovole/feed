@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003590499878437175",
+    "source": "twitter",
+    "author": "ivanlisz",
+    "content": "@nummanali @FactoryAI @AmpCode Suggest looking into @dexhorthy OS research —&gt; plan —&gt; implement prompts + the strategy used by Poetic for arc-agi bench (voting).",
+    "url": "https://x.com/ivanlisz/status/2003590499878437175",
+    "timestamp": "2025-12-23T22:16:14.000Z",
+    "metadata": {
+      "conversation_id": "2003590499878437175",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003590309255729587",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "Great take by @dexhorthy on Context “Compaction”\n\nClaude Code (ie) favors Definition 1 - and it’s not great\n\n@RepoPrompt absolutely favors Definition 2\n\n@FactoryAI Droid sits somewhere in the middle of this - a session “can” go on and on, but should it?",
+    "url": "https://x.com/GitMaxd/status/2003590309255729587",
+    "timestamp": "2025-12-23T22:15:29.000Z",
+    "metadata": {
+      "conversation_id": "2003590309255729587",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003585946999030182",
     "source": "twitter",
     "author": "Alberto8793",

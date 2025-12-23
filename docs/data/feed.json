@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2003518333703094595",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@bentossell @FactoryAI @EnoReyes Ha! 😅\n\nYou saved me a bunch of tokens 😍",
+    "url": "https://x.com/5aikat/status/2003518333703094595",
+    "timestamp": "2025-12-23T17:29:28.000Z",
+    "metadata": {
+      "conversation_id": "2003518333703094595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003518091603657148",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@5aikat @FactoryAI @EnoReyes it’s deploying now 😊",
+    "url": "https://x.com/bentossell/status/2003518091603657148",
+    "timestamp": "2025-12-23T17:28:31.000Z",
+    "metadata": {
+      "conversation_id": "2003518091603657148",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003517566430728199",
+    "source": "twitter",
+    "author": "iamsahaj_xyz",
+    "content": "@alex_holovach @FactoryAI not available yet. I want to make it perfect for myself before I open it\n\nbut I can dm you the binary if you wanna try it",
+    "url": "https://x.com/iamsahaj_xyz/status/2003517566430728199",
+    "timestamp": "2025-12-23T17:26:26.000Z",
+    "metadata": {
+      "conversation_id": "2003517566430728199",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003517127350014117",
+    "source": "twitter",
+    "author": "alex_holovach",
+    "content": "@iamsahaj_xyz @FactoryAI how can i try it ?",
+    "url": "https://x.com/alex_holovach/status/2003517127350014117",
+    "timestamp": "2025-12-23T17:24:41.000Z",
+    "metadata": {
+      "conversation_id": "2003517127350014117",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003516981845098526",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "well .. seems @FactoryAI  doesn't have this (or I did not find any reference anywhere) - would love to build my own wrapped\n\n@bentossell @EnoReyes  - any way to view my session history and token usage on a Max account programmatically? is there an API endpoint which helps me pull my personal usage analytics?\n\nPretty ☺️, please?",
+    "url": "https://x.com/5aikat/status/2003516981845098526",
+    "timestamp": "2025-12-23T17:24:06.000Z",
+    "metadata": {
+      "conversation_id": "2003516981845098526",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003513734107660580",
+    "source": "twitter",
+    "author": "iamsahaj_xyz",
+    "content": "I think it's almost perfect now\n- sticky lines to not lose context of the current block\n- mouse support \n- symbols for file modification (M/D/A)\n- more keybinds and better defaults\n\nalready using this daily and it's great. open-sourcing soon.\n\nvibe-coded using @FactoryAI droid btw",
+    "url": "https://x.com/iamsahaj_xyz/status/2003513734107660580",
+    "timestamp": "2025-12-23T17:11:12.000Z",
+    "metadata": {
+      "conversation_id": "2003513734107660580",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_544",
     "source": "github",
     "author": "LeviTK",

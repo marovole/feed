@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2003312950648668536",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@aeitroc Holy sh*t I can’t wait for this to hit @FactoryAI",
+    "url": "https://x.com/JoelDeTeves/status/2003312950648668536",
+    "timestamp": "2025-12-23T03:53:21.000Z",
+    "metadata": {
+      "conversation_id": "2003312950648668536",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003312545134948625",
+    "source": "twitter",
+    "author": "MiniMax__AI",
+    "content": "We would like to thank our launch partners @ollama @FactoryAI @cline @kilocode @roocode @blackboxai @OpenRouterAI @vercel @opencode and developers/ambassadors for your early testing feedback and support! https://t.co/o2v38Un3aH",
+    "url": "https://x.com/MiniMax__AI/status/2003312545134948625",
+    "timestamp": "2025-12-23T03:51:45.000Z",
+    "metadata": {
+      "conversation_id": "2003312545134948625",
+      "likes": 7,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003311391042855027",
+    "source": "twitter",
+    "author": "NareshP11737113",
+    "content": "@CloudTrader4 @Zai_org @FactoryAI idealistic",
+    "url": "https://x.com/NareshP11737113/status/2003311391042855027",
+    "timestamp": "2025-12-23T03:47:10.000Z",
+    "metadata": {
+      "conversation_id": "2003311391042855027",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003309953113850297",
     "source": "twitter",
     "author": "aiDotEngineer",

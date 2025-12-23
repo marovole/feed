@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_2003382649495470216",
+    "source": "twitter",
+    "author": "jenslon_",
+    "content": "@aiDotEngineer @EnoReyes @FactoryAI Codebase optimization for agentic consumption is the fundamental identity primitive for industrial autonomy. If agents cannot parse the logic without human hand-holding, the feedback loop is broken.",
+    "url": "https://x.com/jenslon_/status/2003382649495470216",
+    "timestamp": "2025-12-23T08:30:19.000Z",
+    "metadata": {
+      "conversation_id": "2003382649495470216",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003380905029812544",
+    "source": "twitter",
+    "author": "kajaykumarr_",
+    "content": "Can't wait to try out both in @FactoryAI CLI",
+    "url": "https://x.com/kajaykumarr_/status/2003380905029812544",
+    "timestamp": "2025-12-23T08:23:23.000Z",
+    "metadata": {
+      "conversation_id": "2003380905029812544",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1ptoqm4",
+    "source": "reddit",
+    "author": "Queasy_Asparagus69",
+    "content": "GLM 4.7 on coding plan\n\ni upgraded from GLM 4.6 to 4.7 by editing the json but under 4.7 some tool calling for editing and writing are disabled. I’m on Fedora 43 if tha matter. not sure if I should point finger at GLM, or Droid :p",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ptoqm4/glm_47_on_coding_plan/",
+    "timestamp": "2025-12-23T08:21:55.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2003375021486670064",
     "source": "twitter",
     "author": "hboon",

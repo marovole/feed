@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003599773291696586",
+    "source": "twitter",
+    "author": "Joelc_eth",
+    "content": "Access: API available now (https://t.co/LOGm5RF4za). Full open-source release tomorrow (Dec 25). Integrates with @FactoryAI, @cline, @kilocode, @roocode.",
+    "url": "https://x.com/Joelc_eth/status/2003599773291696586",
+    "timestamp": "2025-12-23T22:53:05.000Z",
+    "metadata": {
+      "conversation_id": "2003599773291696586",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003598132974878931",
+    "source": "twitter",
+    "author": "amariokoro",
+    "content": "@albfresco @FactoryAI @opencode @Letta_AI OpenCode and Factory are my go-to options at the moment in the CLI.",
+    "url": "https://x.com/amariokoro/status/2003598132974878931",
+    "timestamp": "2025-12-23T22:46:34.000Z",
+    "metadata": {
+      "conversation_id": "2003598132974878931",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003597724948828386",
     "source": "twitter",
     "author": "moinulmoin",

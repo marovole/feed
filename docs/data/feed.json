@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003574976771989551",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "Are you able to rule out requests being routed to Sonnet 4.5 when they were supposed to be Opus 4.5?\n\nEven within @FactoryAI Droid harness, where I’m a heavy Opus user, something was off - but hard to describe. Mostly it felt “Sonnet-y” and would get off track more than I ever felt with Opus. \n\nOpus has been virtually perfect since release for me - zero frustration, zero WTF. \n\nAnd then out of the blue on similar requests it started losing context and losing its way.  Felt more like Sonnet had before.  And this was just Next.js bug fixing, nothing too crazy.",
+    "url": "https://x.com/KirkMarple/status/2003574976771989551",
+    "timestamp": "2025-12-23T21:14:33.000Z",
+    "metadata": {
+      "conversation_id": "2003574976771989551",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003561720896528590",
     "source": "twitter",
     "author": "0xTheWay",

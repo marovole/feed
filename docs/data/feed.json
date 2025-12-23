@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003510747960344976",
+    "source": "twitter",
+    "author": "spencersunoo",
+    "content": "@ndrewpignanelli @robjama thanks for the s/o but i’m doing some revamping over the holidays 🙂 i’m putting @FactoryAI to work to bring forth @CyworldOfficial",
+    "url": "https://x.com/spencersunoo/status/2003510747960344976",
+    "timestamp": "2025-12-23T16:59:20.000Z",
+    "metadata": {
+      "conversation_id": "2003510747960344976",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003510457135702342",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Long-running AI agent sessions hit a wall when they run out of memory. @FactoryAI  just published research on how they solve this better than OpenAI and Anthropic.\n\nPS - Long post ahead, but worth it if you care about context management in AI agents.\n\nSo here's what I understood (not sure who wrote this - but this is quite interesting to read! @bentossell @matanSF @EnoReyes  @droid):\n\nThe problem is simple. AI agents working through complex tasks generate millions of tokens of conversation history. That exceeds what any model can hold in working memory.\n\nMost tools try to solve this by compressing everything into the smallest possible summary. But aggressive compression means your agent might forget which files it modified or which approaches already failed. You end up wasting tokens as the agent re-reads files and re-explores dead ends.\n\nFactory tested three approaches: their own method, OpenAI's compression endpoint, and Anthropic's built-in compression. Factory scored 0.26-0.35 points higher overall across six quality dimensions.\n\nThe difference isn't smarter AI. It's forcing structure into how information gets preserved.\n\nStructure Forces Preservation\nFactory doesn't trust the AI to figure out what matters. They use mandatory sections - files modified, decisions made, next steps - that act like a checklist.\n\nThe summarizer must populate these sections or explicitly leave them empty. This prevents silent information loss.\n\nMost compression methods treat all content as equally compressible. A file path might be \"low entropy\" from an information-theoretic perspective, but it's exactly what the agent needs to continue working.\n\nBy forcing explicit sections, Factory's format prevents the gradual drift that happens when you regenerate summaries from scratch.\n\nAnchored Iterative State\nEvery time Anthropic compresses, it looks at the entire conversation and writes a brand new summary. Factory keeps one running summary and only adds the new information that got truncated.\n\nIf you compress five times during a session, Anthropic rewrites the summary five times. Each rewrite risks losing or changing details. Factory only adds to the existing summary, so what was preserved earlier stays preserved.\n\nThis is why Factory's details stay consistent across multiple compression cycles.\n\nArtifact Tracking Remains Unsolved\nHere's the honest limitation. Even Factory only scores 2.45 out of 5.0 on tracking which files were created, modified, or examined.\n\nThe paper explicitly states this needs \"specialized handling beyond general summarization.\" All three methods struggle equally here.\n\nThis isn't a solved problem. It's still an open one.\n\nWhat This Means\nNo wonder Droid feels more consistent than other tools I've been working with. The research explains what I was experiencing in practice.\n\nI'm curious about the structure forcing preservation angle. What else could improve the base structure better?\n\nShould there be a section for \"attempted approaches that failed\"? What about \"assumptions we validated\" or \"external dependencies that changed\"?\n\nWhat does Droid value as \"structure\" when deciding what to preserve?\n\nLonger term, compression quality becomes a competitive moat. Not just model quality. This is where differentiation happens for long-running agent work.\n\nIf you're building with Droid or thinking about context management in AI agents, this research is worth reading.\n\nLink here - https://t.co/j06wraRgj7",
+    "url": "https://x.com/nkgoutham/status/2003510457135702342",
+    "timestamp": "2025-12-23T16:58:11.000Z",
+    "metadata": {
+      "conversation_id": "2003510457135702342",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003505551565815934",
     "source": "twitter",
     "author": "albfresco",

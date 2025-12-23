@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003285168363032878",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "For what it’s worth, I’ve got agenetic systems built (using @FactoryAI Droid as the harness, using Droids/sub-agents and skills, etc.) that are functioning for my businesses as the company CFOs others that are functioning as CMOs/ad buyers, etc.… they have access to generate spreadsheets, access to our Shopify data by API, access to our books via @Xero API and are analyzing data and helping us make decisions every day. It’s a fucking total game changer. Many thousands of dollars in consulting fees reduced down to 10s of $ in inference costs. \n\nThis is happening.",
+    "url": "https://x.com/mikez93/status/2003285168363032878",
+    "timestamp": "2025-12-23T02:02:58.000Z",
+    "metadata": {
+      "conversation_id": "2003285168363032878",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003262953416720882",
     "source": "twitter",
     "author": "mhadtk",

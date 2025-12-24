@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003946859812082146",
+    "source": "twitter",
+    "author": "addyosmani",
+    "content": "@aiDotEngineer @EnoReyes @FactoryAI SF! Let's try to make it happen 🙏",
+    "url": "https://x.com/addyosmani/status/2003946859812082146",
+    "timestamp": "2025-12-24T21:52:17.000Z",
+    "metadata": {
+      "conversation_id": "2003946859812082146",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003946181236506691",
+    "source": "twitter",
+    "author": "aiDotEngineer",
+    "content": "@addyosmani @EnoReyes @FactoryAI (swyx here) would be excited to feature your work at a 2026 AIE! early april in london or early july in sf",
+    "url": "https://x.com/aiDotEngineer/status/2003946181236506691",
+    "timestamp": "2025-12-24T21:49:35.000Z",
+    "metadata": {
+      "conversation_id": "2003946181236506691",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003938411108094407",
     "source": "twitter",
     "author": "aatishdevv",

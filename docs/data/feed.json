@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003873457600340241",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "🎅 All I want for Xmas is more @FactoryAI credits for Opus 4.5 🎅 https://t.co/kX1YZO2cWD",
+    "url": "https://x.com/TheEcomNomad/status/2003873457600340241",
+    "timestamp": "2025-12-24T17:00:37.000Z",
+    "metadata": {
+      "conversation_id": "2003873457600340241",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_548",
     "source": "github",
     "author": "Absorber97",

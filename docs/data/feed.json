@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003671094717469070",
+    "source": "twitter",
+    "author": "charlespacker",
+    "content": "@albfresco @paperbenni @FactoryAI @opencode @Letta_AI There's two ways to use Letta Code:\n\n(1) using the hosted Letta Developer Platform (you can BYOK on pro if you prefer to pay direct API pricing, or want to use an existing claude max plan)\n\nor (2) you run your own Letta server eg w/ Docker (self-hosted), which is only BYOK",
+    "url": "https://x.com/charlespacker/status/2003671094717469070",
+    "timestamp": "2025-12-24T03:36:30.000Z",
+    "metadata": {
+      "conversation_id": "2003671094717469070",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003661177445085280",
     "source": "twitter",
     "author": "towrywang",

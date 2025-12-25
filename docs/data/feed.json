@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004042590635565474",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@FactoryAI I have one request. Please make glm 4.7 fast because it runs on @GroqInc or @cerebras. I'll happily switch if this is the case",
+    "url": "https://x.com/leoisadev/status/2004042590635565474",
+    "timestamp": "2025-12-25T04:12:41.000Z",
+    "metadata": {
+      "conversation_id": "2004042590635565474",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004040370565664934",
     "source": "twitter",
     "author": "BhavikAgarwal13",

@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1pv8p47",
+    "source": "reddit",
+    "author": "abdullahazad",
+    "content": "append a text to system prompt\n\nWe can add text to Claude Code's system prompt using the \\`--append-system-prompt \"some text\"\\` command.\n\n\n\nIs there a similar command in Droid-CLI?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pv8p47/append_a_text_to_system_prompt/",
+    "timestamp": "2025-12-25T08:15:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2004096597303435766",
     "source": "twitter",
     "author": "FredipusRex",

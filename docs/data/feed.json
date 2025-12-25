@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004149321068101948",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@FactoryAI Would love to see the Minimax model to appear in Droid CLI. It's much faster than GLM.",
+    "url": "https://x.com/bradvangelder/status/2004149321068101948",
+    "timestamp": "2025-12-25T11:16:48.000Z",
+    "metadata": {
+      "conversation_id": "2004149321068101948",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004148501303734619",
+    "source": "twitter",
+    "author": "ShvZFR",
+    "content": "@CloudTrader4 @MiniMax__AI @FactoryAI @SkylerMiao7 The Deep Research interface looks slick - would love to see how it work under the hood! :)",
+    "url": "https://x.com/ShvZFR/status/2004148501303734619",
+    "timestamp": "2025-12-25T11:13:32.000Z",
+    "metadata": {
+      "conversation_id": "2004148501303734619",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004145961841623117",
     "source": "twitter",
     "author": "SvenMeyer",

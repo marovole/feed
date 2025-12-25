@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2004188118321451022",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@jqlive @MiniMax__AI @FactoryAI @SkylerMiao7 Coding plan in my case, but you can use both",
+    "url": "https://x.com/CloudTrader4/status/2004188118321451022",
+    "timestamp": "2025-12-25T13:50:58.000Z",
+    "metadata": {
+      "conversation_id": "2004188118321451022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004187990160298417",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@jqlive @MiniMax__AI @FactoryAI @SkylerMiao7 https://t.co/HNKAsyVDPA",
+    "url": "https://x.com/CloudTrader4/status/2004187990160298417",
+    "timestamp": "2025-12-25T13:50:27.000Z",
+    "metadata": {
+      "conversation_id": "2004187990160298417",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004187340860698837",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@benvargas @matanSF I use the @FactoryAI Droid harness for many non-code tasks/jobs and this would be killer for that…. Simple data enrichment, sorting Asana data via MCP, pulling reports out of Xero via api, all of which burn tokens and are not complex enough to warrant Opus level inference.",
+    "url": "https://x.com/mikez93/status/2004187340860698837",
+    "timestamp": "2025-12-25T13:47:52.000Z",
+    "metadata": {
+      "conversation_id": "2004187340860698837",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004180486336503827",
     "source": "twitter",
     "author": "code_bucks",

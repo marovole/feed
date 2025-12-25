@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004145961841623117",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@aeitroc try @FactoryAI DROID CLI with Sonnet/Opus instead of Claude Code ? 🤔",
+    "url": "https://x.com/SvenMeyer/status/2004145961841623117",
+    "timestamp": "2025-12-25T11:03:27.000Z",
+    "metadata": {
+      "conversation_id": "2004145961841623117",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004126910969008252",
     "source": "twitter",
     "author": "MatthewEuc",

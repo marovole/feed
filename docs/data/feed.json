@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2004678104204357914",
@@ -51457,19 +51458,6 @@
       "type": "discussion",
       "category": "Questions",
       "number": 82
-    }
-  },
-  {
-    "id": "github_discussion_72",
-    "source": "github",
-    "author": "rubendn",
-    "content": "[Discussion] Droid selection in CLI?\n\nIs there a way to use one of the specialized Droids (Product, Tutorial, etc) via the CLI?  I don't see a way to select in the slash commands.\r\n\r\nAlso, is there a way on Windows to select a local workspace path besides ~\\?\r\n\r\nThanks!",
-    "url": "https://github.com/Factory-AI/factory/discussions/72",
-    "timestamp": "2025-09-29T05:17:49Z",
-    "metadata": {
-      "type": "discussion",
-      "category": "Questions",
-      "number": 72
     },
     "category": "question"
   },
@@ -51498,7 +51486,22 @@
       "type": "discussion",
       "category": "Questions",
       "number": 72
-    }
+    },
+    "category": "question"
+  },
+  {
+    "id": "github_discussion_72",
+    "source": "github",
+    "author": "rubendn",
+    "content": "[Discussion] Droid selection in CLI?\n\nIs there a way to use one of the specialized Droids (Product, Tutorial, etc) via the CLI?  I don't see a way to select in the slash commands.\r\n\r\nAlso, is there a way on Windows to select a local workspace path besides ~\\?\r\n\r\nThanks!",
+    "url": "https://github.com/Factory-AI/factory/discussions/72",
+    "timestamp": "2025-09-29T05:17:49Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 72
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_66",
@@ -51539,7 +51542,8 @@
       "type": "discussion",
       "category": "Show + tell",
       "number": 66
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_65",
@@ -51580,7 +51584,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 65
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_59",

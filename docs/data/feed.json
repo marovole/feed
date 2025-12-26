@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2004590808692084984",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@remcokortekaas @nest_elf @FactoryAI hallucinating at max",
+    "url": "https://x.com/moinulmoin/status/2004590808692084984",
+    "timestamp": "2025-12-26T16:31:06.000Z",
+    "metadata": {
+      "conversation_id": "2004590808692084984",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004590801024688358",
+    "source": "twitter",
+    "author": "gaurabhmathure",
+    "content": "Thank you Krishna. I am humbled and I absolutely echo the sentiment and believe you've been one of the most inspiring people to see go head first into building your dream! \n\nI know I can learn a lot from you. And I plan to get back into sharing more in public in 2026!\n\nAnd I'm starting today! :)... publishing my first YouTube walkthrough of a tool I built today. More to come.",
+    "url": "https://x.com/gaurabhmathure/status/2004590801024688358",
+    "timestamp": "2025-12-26T16:31:05.000Z",
+    "metadata": {
+      "conversation_id": "2004590801024688358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004590347134128571",
+    "source": "twitter",
+    "author": "remcokortekaas",
+    "content": "@nest_elf @FactoryAI Get a life dude",
+    "url": "https://x.com/remcokortekaas/status/2004590347134128571",
+    "timestamp": "2025-12-26T16:29:16.000Z",
+    "metadata": {
+      "conversation_id": "2004590347134128571",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004590133341999126",
+    "source": "twitter",
+    "author": "remcokortekaas",
+    "content": "@moinulmoin @nest_elf @FactoryAI The guy is hallucinating or lying or both.",
+    "url": "https://x.com/remcokortekaas/status/2004590133341999126",
+    "timestamp": "2025-12-26T16:28:25.000Z",
+    "metadata": {
+      "conversation_id": "2004590133341999126",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004584496671432778",
     "source": "twitter",
     "author": "RussWonsley",

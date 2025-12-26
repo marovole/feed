@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004678104204357914",
+    "source": "twitter",
+    "author": "tkwoncpa",
+    "content": "@nest_elf @FactoryAI @zeddotdev + @FactoryAI",
+    "url": "https://x.com/tkwoncpa/status/2004678104204357914",
+    "timestamp": "2025-12-26T22:17:59.000Z",
+    "metadata": {
+      "conversation_id": "2004678104204357914",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004676599048970403",
+    "source": "twitter",
+    "author": "chuksy0x01",
+    "content": "@samuelekpe @GoogleDeepMind @Trae_ai @FactoryAI @AnthropicAI @OpenAI That's the goal. I released the CLI as open source, if you'd like to take a look. Full agentic mode isn't there yet, but roadmapped in the current cycle. I had to start with what gave me the most annoyance, and this version already caught so many of those.",
+    "url": "https://x.com/chuksy0x01/status/2004676599048970403",
+    "timestamp": "2025-12-26T22:12:00.000Z",
+    "metadata": {
+      "conversation_id": "2004676599048970403",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004673438468968665",
     "source": "twitter",
     "author": "CloudTrader4",
@@ -51274,6 +51304,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_99",
+    "source": "github",
+    "author": "Evan-Kim2028",
+    "content": "[Discussion] Droid source code\n\nIs droid closed source? I am not able to find any code. I would like to be able to see how the droid tools are implemented if the code is available to see",
+    "url": "https://github.com/Factory-AI/factory/discussions/99",
+    "timestamp": "2025-10-02T17:51:27Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 99
+    }
+  },
+  {
     "id": "github_discussion_95",
     "source": "github",
     "author": "factory-ben",
@@ -51300,6 +51343,19 @@
       "number": 95
     },
     "category": "mention"
+  },
+  {
+    "id": "github_discussion_95",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
+    "url": "https://github.com/Factory-AI/factory/discussions/95",
+    "timestamp": "2025-10-01T20:05:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 95
+    }
   },
   {
     "id": "github_discussion_92",
@@ -51328,6 +51384,19 @@
       "number": 92
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_92",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] MCP tools filtering\n\nI would like to configure exactly what tools of a MCP server should be made available.\r\n\r\nMotivation: MCP servers with overlapping functionality and too many unneeded tools is confusing the models.",
+    "url": "https://github.com/Factory-AI/factory/discussions/92",
+    "timestamp": "2025-10-01T09:07:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 92
+    }
   },
   {
     "id": "github_discussion_82",

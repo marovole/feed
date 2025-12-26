@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2004647432383332814",
@@ -50463,7 +50464,8 @@
       "type": "discussion",
       "category": "General",
       "number": 374
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1oz18qh",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004660409723490634",
+    "source": "twitter",
+    "author": "code_bucks",
+    "content": "@Esteban_Puerta9 @FactoryAI Yep 💯 agree.",
+    "url": "https://x.com/code_bucks/status/2004660409723490634",
+    "timestamp": "2025-12-26T21:07:41.000Z",
+    "metadata": {
+      "conversation_id": "2004660409723490634",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004659904448266664",
+    "source": "twitter",
+    "author": "samuelekpe",
+    "content": "@chuksy0x01 @GoogleDeepMind @Trae_ai @FactoryAI @AnthropicAI @OpenAI Nice, but:\n1. The form factor needs to be integrated and harmonized. Maybe a CLI of clis.\n2. The orchestration needs to be intelligent- consensus isn’t always right from my experience",
+    "url": "https://x.com/samuelekpe/status/2004659904448266664",
+    "timestamp": "2025-12-26T21:05:40.000Z",
+    "metadata": {
+      "conversation_id": "2004659904448266664",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004658396365250971",
     "source": "twitter",
     "author": "chuksy0x01",
@@ -50852,6 +50882,19 @@
     "category": "mention"
   },
   {
+    "id": "github_discussion_240",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Mini Changelog\n\n<img width=\"686\" height=\"397\" alt=\"Screenshot 2025-10-22 at 14 58 16\" src=\"https://github.com/user-attachments/assets/0288d87c-55b1-44b4-91cb-33d745fc052b\" />\r\n",
+    "url": "https://github.com/Factory-AI/factory/discussions/240",
+    "timestamp": "2025-10-23T09:45:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 240
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -50878,6 +50921,19 @@
       "number": 225
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_225",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] Change Log\n\nCan we have more updated change logs somewhere if possible. \r\n\r\nSuccessfully updated to version 0.21.5 Just saw this ",
+    "url": "https://github.com/Factory-AI/factory/discussions/225",
+    "timestamp": "2025-10-21T09:52:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 225
+    }
   },
   {
     "id": "github_discussion_223",

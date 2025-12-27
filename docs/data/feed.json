@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004803840294662229",
+    "source": "twitter",
+    "author": "fussss4",
+    "content": "@FactoryAI When using glm4.7, will the reply content be truncated? What's the reason for the incomplete execution?",
+    "url": "https://x.com/fussss4/status/2004803840294662229",
+    "timestamp": "2025-12-27T06:37:37.000Z",
+    "metadata": {
+      "conversation_id": "2004803840294662229",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004787311599394865",
     "source": "twitter",
     "author": "stalinzbb",

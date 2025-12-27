@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004710375921680560",
+    "source": "twitter",
+    "author": "rydgel",
+    "content": "@nest_elf @FactoryAI yeah sure, 80%",
+    "url": "https://x.com/rydgel/status/2004710375921680560",
+    "timestamp": "2025-12-27T00:26:13.000Z",
+    "metadata": {
+      "conversation_id": "2004710375921680560",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004707583421198446",
     "source": "twitter",
     "author": "complex_maths",

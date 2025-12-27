@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004989790081765590",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "Oh yeah I have used spec mode, but it’s a confusing mess.  Some are stored in ~/.factory/specs and then multiple versions are created in projects/docs\n\nAnd then when I called droid and asked if it was keeping track of its plan, todo and checklist on done as markdown files, it said it wasn’t!  So had to explicitly tell it to do that.",
+    "url": "https://x.com/captaink99/status/2004989790081765590",
+    "timestamp": "2025-12-27T18:56:31.000Z",
+    "metadata": {
+      "conversation_id": "2004989790081765590",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004988070123503874",
     "source": "twitter",
     "author": "aiproductlead",

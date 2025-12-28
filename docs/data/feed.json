@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2005104302973390941",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "Weird to send bug report in @FactoryAI Droid, but you can't add your own comments of what the bug was!?\n\nI was trying to report this odd issue where it's adding an extra quote at the end of the grep string.  Seems to be rather random, and I can sometimes prompt to tell it to stop doing that.\n\ncc: @bentossell @matanSF",
+    "url": "https://x.com/KirkMarple/status/2005104302973390941",
+    "timestamp": "2025-12-28T02:31:33.000Z",
+    "metadata": {
+      "conversation_id": "2005104302973390941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005102882807578708",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@droid @FactoryAI @claudeai @cursor_ai MCP + SKILL + command —-&gt; Robot lab full control over all the stream. \n\nNow the agents have full control of the lab. \nThe only thing missing are hooks but I will set them up during experiments. \n#isaacsim #nvidia #simulator #robot https://t.co/USYa7HwOmT",
+    "url": "https://x.com/AIFlow_ML/status/2005102882807578708",
+    "timestamp": "2025-12-28T02:25:54.000Z",
+    "metadata": {
+      "conversation_id": "2005102882807578708",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005100031930470508",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "Eu tenho feito conectores para o Looker Studio também. \nCriei recentemente do Meta Ads, Instagram e Facebook Insights e LinkedIn Ads. \n\nUsei o Droid CLI da @FactoryAI junto com o GPT-5.2-Codex-Max e com o MCP da @ExaAILabs \n\nNão cheguei a enfrentar isso que você comentou, porque usei o modo spec do Droid e junto com o MCP da Exa Ai ele já pesquisa toda a documentação e cria o plano em cima dela. \n\nVou soltar um post do meu workflow de como construí eles.",
+    "url": "https://x.com/_alissonryan/status/2005100031930470508",
+    "timestamp": "2025-12-28T02:14:35.000Z",
+    "metadata": {
+      "conversation_id": "2005100031930470508",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005083819175805368",
     "source": "twitter",
     "author": "nest_elf",

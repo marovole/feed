@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2005308136857731336",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@Alberto8793 @shivam_nerd @FactoryAI @matanSF @bentossell Gemini 3 Flash continues to “not really work” with real programming tasks in Droid for me. Dies mid session, failed tool calls, etc.",
+    "url": "https://x.com/mikez93/status/2005308136857731336",
+    "timestamp": "2025-12-28T16:01:31.000Z",
+    "metadata": {
+      "conversation_id": "2005308136857731336",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005306778586914966",
+    "source": "twitter",
+    "author": "sudocode_",
+    "content": "@FactoryAI",
+    "url": "https://x.com/sudocode_/status/2005306778586914966",
+    "timestamp": "2025-12-28T15:56:07.000Z",
+    "metadata": {
+      "conversation_id": "2005306778586914966",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005305628521287828",
     "source": "twitter",
     "author": "RavinBarthwal",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2005071611050033312",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@shuv1337 @moinulmoin @FactoryAI the model api price mean's just that. not claude max sub",
+    "url": "https://x.com/nest_elf/status/2005071611050033312",
+    "timestamp": "2025-12-28T00:21:39.000Z",
+    "metadata": {
+      "conversation_id": "2005071611050033312",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005070947510788244",
+    "source": "twitter",
+    "author": "HarwoodLabsinc",
+    "content": "@alvinsng @FactoryAI The 10x multiplier isn't from AI features, it's from knowing which problems not to solve. Most productivity gains come from deleting code, not generating it faster.",
+    "url": "https://x.com/HarwoodLabsinc/status/2005070947510788244",
+    "timestamp": "2025-12-28T00:19:00.000Z",
+    "metadata": {
+      "conversation_id": "2005070947510788244",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005064441428340845",
     "source": "twitter",
     "author": "CloudTrader4",

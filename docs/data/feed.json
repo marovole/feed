@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2005267767680016550",
+    "source": "twitter",
+    "author": "mrkmcknz",
+    "content": "@shivam_nerd @FactoryAI One thing I would love to be able to do is change the model more easily after the spec phase, going into implementation.\n\nPerhaps have an explicit \" Do you want to change model?\" prompt.",
+    "url": "https://x.com/mrkmcknz/status/2005267767680016550",
+    "timestamp": "2025-12-28T13:21:06.000Z",
+    "metadata": {
+      "conversation_id": "2005267767680016550",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005237685540270569",
     "source": "twitter",
     "author": "Alberto8793",

@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_2005785531058434293",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@matanSF @FactoryAI 2 hours. I already had a good abstraction in place that allows me to quickly iterate on these things.\n\nIt's a toy compared to what you folks likely do. But it's fun experimenting with this stuff, albeit hard to evaluate.\n\nhttps://t.co/9sojPFeIaI",
+    "url": "https://x.com/badlogicgames/status/2005785531058434293",
+    "timestamp": "2025-12-29T23:38:30.000Z",
+    "metadata": {
+      "conversation_id": "2005785531058434293",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005785497759801776",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @FactoryAI Basically what you select when you branch is the \"pending message + all that came before\". Which is what I want, but not what my brain expects.",
+    "url": "https://x.com/mitsuhiko/status/2005785497759801776",
+    "timestamp": "2025-12-29T23:38:23.000Z",
+    "metadata": {
+      "conversation_id": "2005785497759801776",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005785223573668176",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @FactoryAI me just being dumb but here is my babbling https://t.co/iUQ4Z2zZcd",
+    "url": "https://x.com/mitsuhiko/status/2005785223573668176",
+    "timestamp": "2025-12-29T23:37:17.000Z",
+    "metadata": {
+      "conversation_id": "2005785223573668176",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005784460906606780",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@mitsuhiko @FactoryAI Show me what you mean re: pending message via a screenshot. My brain is not gud.",
+    "url": "https://x.com/badlogicgames/status/2005784460906606780",
+    "timestamp": "2025-12-29T23:34:15.000Z",
+    "metadata": {
+      "conversation_id": "2005784460906606780",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005784290387452082",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@FactoryAI @mitsuhiko If you want a battle tested version of \"structured compaction\", give @droid by @FactoryAI a try. It's a great coding agent harness (no, this is not a paid ad...).\n\nhttps://t.co/5ebG5OUU8D",
+    "url": "https://x.com/badlogicgames/status/2005784290387452082",
+    "timestamp": "2025-12-29T23:33:35.000Z",
+    "metadata": {
+      "conversation_id": "2005784290387452082",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005784255708995699",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @FactoryAI Oh. Labelling! I wanted that today. Also branch selection sometimes confuses me because it shows the pending message, not the most recent message in the UI. could be clearer",
+    "url": "https://x.com/mitsuhiko/status/2005784255708995699",
+    "timestamp": "2025-12-29T23:33:26.000Z",
+    "metadata": {
+      "conversation_id": "2005784255708995699",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005784076373090679",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@badlogicgames @FactoryAI Nice. How long did it take to implement?",
+    "url": "https://x.com/matanSF/status/2005784076373090679",
+    "timestamp": "2025-12-29T23:32:44.000Z",
+    "metadata": {
+      "conversation_id": "2005784076373090679",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005783744125493673",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "What's actually much more interesting is the branch summarization!\n\ngiven:\nu1, a1, u2, a2, u3, a3, u4, a4\n\nu3-a4 is an ad-hoc task, which you want to retain only in form of a summary, if at all, like @mitsuhiko showed in his video on here today. \n\npi lets you branch back to u3 with a fancy tree UI that shows all messages and all branches. So you get\n\nu1, a1, u2, a2, u3, a3, u4, a4\n                             \\- u3 (can modify)\n\nYou can optionally add a summary for the branch you are leaving up until the common ancestory. So then you get\n\nu1, a1, u2, a2, u3, a3, u4, a4\n                             \\- (u3-u4) summary, new message\n\nThat summary also follows a strict output format and also tracks all file reads/modifications.\n\nAnd you can label branches, to quickly find them in the tree-selector UI.\n\nUsed it a bunch now for work on the big refactor, and it's kinda nice.",
+    "url": "https://x.com/badlogicgames/status/2005783744125493673",
+    "timestamp": "2025-12-29T23:31:24.000Z",
+    "metadata": {
+      "conversation_id": "2005783744125493673",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005782407497269757",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "Just finished implementing \"structured compaction\" in pi. At least what I could gather from @FactoryAI  's blog post.\n\nModel that compacts is given:\n- previous compaction summary following a strict format\n- messages to compact\n- instructions to generate a new compaction summary following the strict format, merging it with the old one, updating done/todo/progress sections accordingly\n\nIn addition, the harness tracks file read/modified files via read/write/edit tool calls since the last compaction. Those get merged with the file operations recorded for the last compaction.\n\nIs this perfect? Definitely not. It relies on the compacting model not to get confused and actually retain and merge all the items of the previous compaction result (minus file ops, which are managed deterministically). \n\nIn super long sessions, this will also likely fall on its face eventually, as the compacting model only has so much output token space to emit the new merged summary.\n\nBut it's probably better than the old compaction scheme .",
+    "url": "https://x.com/badlogicgames/status/2005782407497269757",
+    "timestamp": "2025-12-29T23:26:06.000Z",
+    "metadata": {
+      "conversation_id": "2005782407497269757",
+      "likes": 7,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005743074258084217",
     "source": "twitter",
     "author": "Carlos_0x",

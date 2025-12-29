@@ -21,7 +21,7 @@ async function scrapeTwitter() {
       'https://api.apify.com/v2/acts/61RPP7dywgiy0JPD0/runs',
       {
         searchMode: 'live',
-        searchTerms: ['@FactoryAI'],
+        searchTerms: ['@FactoryAI', '@droid'],
         maxItems: 20,
         addUserInfo: true
       },

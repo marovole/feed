@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2005743074258084217",
+    "source": "twitter",
+    "author": "Carlos_0x",
+    "content": "How does OpenCode compare with @FactoryAI Droid?",
+    "url": "https://x.com/Carlos_0x/status/2005743074258084217",
+    "timestamp": "2025-12-29T20:49:48.000Z",
+    "metadata": {
+      "conversation_id": "2005743074258084217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005740842758308253",
+    "source": "twitter",
+    "author": "AnPod",
+    "content": "@RavinBarthwal @justsisyphus @opencode @humanlayer_dev @FactoryAI @AmpCode Had exact same experience and built this for us on pro tiers.. if you need to switch between providers for Oh-My-Opencode subagents often, maybe this helps https://t.co/duZve5VwbY",
+    "url": "https://x.com/AnPod/status/2005740842758308253",
+    "timestamp": "2025-12-29T20:40:56.000Z",
+    "metadata": {
+      "conversation_id": "2005740842758308253",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005740624675549342",
+    "source": "twitter",
+    "author": "arman_eker",
+    "content": "@alvinsng @FactoryAI this is a new error:\n\nRPC Error: Internal error https://t.co/xjqpI9hVac",
+    "url": "https://x.com/arman_eker/status/2005740624675549342",
+    "timestamp": "2025-12-29T20:40:04.000Z",
+    "metadata": {
+      "conversation_id": "2005740624675549342",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005709597789872554",
     "source": "twitter",
     "author": "CloudTrader4",

@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2005845963974283507",
+    "source": "twitter",
+    "author": "marc_krenn",
+    "content": "@mitsuhiko @badlogicgames @FactoryAI Then again, that's two additional keystrokes – not the most elegant solution.",
+    "url": "https://x.com/marc_krenn/status/2005845963974283507",
+    "timestamp": "2025-12-30T03:38:39.000Z",
+    "metadata": {
+      "conversation_id": "2005845963974283507",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005845497680916890",
+    "source": "twitter",
+    "author": "marc_krenn",
+    "content": "@mitsuhiko @badlogicgames @FactoryAI Ha! Yeah, totally – it IS confusing.\nI tried to work around it in my session-tree TUI prototype by adding a \"secondary selection\": once you pick a message, you can nudge the cursor to choose where the branch actually starts – either above or below the selected msg. Kinda worked.",
+    "url": "https://x.com/marc_krenn/status/2005845497680916890",
+    "timestamp": "2025-12-30T03:36:48.000Z",
+    "metadata": {
+      "conversation_id": "2005845497680916890",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005843161118019941",
+    "source": "twitter",
+    "author": "marc_krenn",
+    "content": "@badlogicgames @mitsuhiko @FactoryAI Make dem tool calls collapsable maybe?",
+    "url": "https://x.com/marc_krenn/status/2005843161118019941",
+    "timestamp": "2025-12-30T03:27:31.000Z",
+    "metadata": {
+      "conversation_id": "2005843161118019941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005842378171490320",
+    "source": "twitter",
+    "author": "marc_krenn",
+    "content": "@tryingET @badlogicgames @mitsuhiko @FactoryAI that makes us two ;)\n\nhttps://t.co/Uykiy7xOX3",
+    "url": "https://x.com/marc_krenn/status/2005842378171490320",
+    "timestamp": "2025-12-30T03:24:24.000Z",
+    "metadata": {
+      "conversation_id": "2005842378171490320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005837100923416782",
+    "source": "twitter",
+    "author": "tryingET",
+    "content": "@badlogicgames @mitsuhiko @FactoryAI I would also suggest a timestamp infront, so you can better gather when that happened. I think this would help with figure out where you wanna go back to / see the new branching of more easily",
+    "url": "https://x.com/tryingET/status/2005837100923416782",
+    "timestamp": "2025-12-30T03:03:26.000Z",
+    "metadata": {
+      "conversation_id": "2005837100923416782",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005829880886472911",
     "source": "twitter",
     "author": "JohnThilen",
@@ -14,6 +89,81 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2005827211081965893",
+    "source": "twitter",
+    "author": "KarlReza1",
+    "content": "@FactoryAI Also gemini 3 pro preview model when added, gives 400 error API while 2.5 pro and others work well. But 3 flash and 3 pro just never work.",
+    "url": "https://x.com/KarlReza1/status/2005827211081965893",
+    "timestamp": "2025-12-30T02:24:08.000Z",
+    "metadata": {
+      "conversation_id": "2005827211081965893",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005826632532013530",
+    "source": "twitter",
+    "author": "KarlReza1",
+    "content": "@FactoryAI The MacOS app keeps giving errors when I tried to use, and overall interface is very buggy.",
+    "url": "https://x.com/KarlReza1/status/2005826632532013530",
+    "timestamp": "2025-12-30T02:21:50.000Z",
+    "metadata": {
+      "conversation_id": "2005826632532013530",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005826471122579678",
+    "source": "twitter",
+    "author": "KarlReza1",
+    "content": "@FactoryAI hey guys, I've been trying your CLI tool and was impressed, but there are some MAJOR problems which need to be addresses:\n\n1. Tried to add card and bill, but every time instead of 20 USD I get charged 45 INR and the txn gets reversed and I get a credit note. /1",
+    "url": "https://x.com/KarlReza1/status/2005826471122579678",
+    "timestamp": "2025-12-30T02:21:11.000Z",
+    "metadata": {
+      "conversation_id": "2005826471122579678",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005820531858194808",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@anthonyronning @FactoryAI With Droid's impl you mean?",
+    "url": "https://x.com/badlogicgames/status/2005820531858194808",
+    "timestamp": "2025-12-30T01:57:35.000Z",
+    "metadata": {
+      "conversation_id": "2005820531858194808",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005820317415964990",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@badlogicgames @FactoryAI I’ve been having a lot of fun with it. Completely erased context anxiety for me.",
+    "url": "https://x.com/anthonyronning/status/2005820317415964990",
+    "timestamp": "2025-12-30T01:56:44.000Z",
+    "metadata": {
+      "conversation_id": "2005820317415964990",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2005802870248010071",

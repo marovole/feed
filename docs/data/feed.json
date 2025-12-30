@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2005829880886472911",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@swyx I just had @droid make suggestions for how to use itself optimally, and it made a suggestion to log all interactions. I didn't think of this use case and dismissed it.",
+    "url": "https://x.com/JohnThilen/status/2005829880886472911",
+    "timestamp": "2025-12-30T02:34:44.000Z",
+    "metadata": {
+      "conversation_id": "2005829880886472911",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005802870248010071",
     "source": "twitter",
     "author": "mitsuhiko",

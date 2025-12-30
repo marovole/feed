@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006069211915792615",
+    "source": "twitter",
+    "author": "cniongolo",
+    "content": "@FactoryAI @GroqInc https://t.co/z5dRbGpZON",
+    "url": "https://x.com/cniongolo/status/2006069211915792615",
+    "timestamp": "2025-12-30T18:25:45.000Z",
+    "metadata": {
+      "conversation_id": "2006069211915792615",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006067068878078286",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@iannuttall I’ve been raving about the quality of Gemini Flash in @FactoryAI  droid. Used it to clean up a lot of linter warnings and it did a bang up job!",
+    "url": "https://x.com/Alberto8793/status/2006067068878078286",
+    "timestamp": "2025-12-30T18:17:14.000Z",
+    "metadata": {
+      "conversation_id": "2006067068878078286",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006056125121130517",
     "source": "twitter",
     "author": "samhbarton",

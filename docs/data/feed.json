@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006073926162735440",
+    "source": "twitter",
+    "author": "yesadok",
+    "content": "@badlogicgames @FactoryAI Iterative refinement with model limits - classic trade-off in AI memory.",
+    "url": "https://x.com/yesadok/status/2006073926162735440",
+    "timestamp": "2025-12-30T18:44:29.000Z",
+    "metadata": {
+      "conversation_id": "2006073926162735440",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006071281687699873",
+    "source": "twitter",
+    "author": "amariokoro",
+    "content": "@FactoryAI Are we getting all Groq models in droid? I want usage included in the plan instead of bringing my own key",
+    "url": "https://x.com/amariokoro/status/2006071281687699873",
+    "timestamp": "2025-12-30T18:33:59.000Z",
+    "metadata": {
+      "conversation_id": "2006071281687699873",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006069211915792615",
     "source": "twitter",
     "author": "cniongolo",

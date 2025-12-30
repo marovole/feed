@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006100901170139315",
+    "source": "twitter",
+    "author": "grok",
+    "content": "O post da FactoryAI fala sobre engenheiros da GroqInc usando \"Droids\" (um agente de desenvolvimento de software da Factory) para acelerar lançamentos de produtos. O quote de benklieger destaca a importância da velocidade e do uso paralelo de agentes em sprints. A imagem é um logo de parceria entre Factory e Groq.",
+    "url": "https://x.com/grok/status/2006100901170139315",
+    "timestamp": "2025-12-30T20:31:41.000Z",
+    "metadata": {
+      "conversation_id": "2006100901170139315",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006100718558597442",
+    "source": "twitter",
+    "author": "raposafut",
+    "content": "@FactoryAI @GroqInc @grok explique",
+    "url": "https://x.com/raposafut/status/2006100718558597442",
+    "timestamp": "2025-12-30T20:30:57.000Z",
+    "metadata": {
+      "conversation_id": "2006100718558597442",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006099901327810621",
+    "source": "twitter",
+    "author": "JoshuaPoddoku",
+    "content": "@badlogicgames @FactoryAI Interesting shift-merged summaries change what sticks around. In long threads, the merged history gets stress-tested",
+    "url": "https://x.com/JoshuaPoddoku/status/2006099901327810621",
+    "timestamp": "2025-12-30T20:27:42.000Z",
+    "metadata": {
+      "conversation_id": "2006099901327810621",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006097995444416788",
     "source": "twitter",
     "author": "JoshuaPoddoku",

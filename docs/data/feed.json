@@ -64,6 +64,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2005839176256659731",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@doodlestein I would ask an ai to also read up on official prompting guides and similar docs, and then define skills (https://t.co/qydnbmXNhS) or custom droids (since I'm still in my @droid phase).",
+    "url": "https://x.com/JohnThilen/status/2005839176256659731",
+    "timestamp": "2025-12-30T03:11:40.000Z",
+    "metadata": {
+      "conversation_id": "2005839176256659731",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005837100923416782",
     "source": "twitter",
     "author": "tryingET",

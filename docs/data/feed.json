@@ -1626,5 +1626,18 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1potbcv",
+    "source": "reddit",
+    "author": "melihmucuk",
+    "content": "I built a simple tool to prevent Claude from accidentally deleting your home directory\n\nImages:\n\thttps://external-preview.redd.it/d8xYzju2ZXZmOUIduln4y0UfGb4Bksc3kYVxHZMtEUQ.png?auto=webp&amp;s=cc62e79fe6df4e7c55f3c7df3224e8f67196b56b\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1potbcv/i_built_a_simple_tool_to_prevent_claude_from/",
+    "timestamp": "2025-12-17T10:33:14.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   }
 ]

@@ -2378,6 +2378,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1pp79y4",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.36.6 Released - Gemini 3 Flash model\n\n## New features\n\n* **Gemini 3 Flash model** - Added support for Gemini 3 Flash\n\n## Bug fixes\n\n* Fixed overly strict filtering by allowing common read-only `git` commands\n* Fixed copy/paste issues on WSL\n* Fixed repository deduplication in `/readiness` reports\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pp79y4/factory_cli_v0366_released_gemini_3_flash_model/",
+    "timestamp": "2025-12-17T20:32:58.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1powtfm",
     "source": "reddit",
     "author": "One_Wishbone9360",

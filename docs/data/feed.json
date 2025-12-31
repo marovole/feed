@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006160198197506094",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@FactoryAI not bad for 4 months, eh? \n\nthanks @bentossell @EnoReyes for listening to my wrapped request!😊 https://t.co/czCIFY83Ik",
+    "url": "https://x.com/5aikat/status/2006160198197506094",
+    "timestamp": "2025-12-31T00:27:18.000Z",
+    "metadata": {
+      "conversation_id": "2006160198197506094",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006156368563085748",
+    "source": "twitter",
+    "author": "ChaosCruxFL",
+    "content": "Built a multi agent voice system on Livekit, handoffs between agents with context. One agent does AI training, One coaches, one navigates the  website for our users  from JSON/RAG. Building a graduate exam study app. Voice Pod AI review for students using the missed questions.. lots of stuff! @FactoryAI\nDroid has been useful for the ability to recall stuff from way back has helped tremendously",
+    "url": "https://x.com/ChaosCruxFL/status/2006156368563085748",
+    "timestamp": "2025-12-31T00:12:05.000Z",
+    "metadata": {
+      "conversation_id": "2006156368563085748",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006152559451418718",
+    "source": "twitter",
+    "author": "creatine_cycle",
+    "content": "@seconds_0 @FactoryAI droid cli has unironically impressed me a lot",
+    "url": "https://x.com/creatine_cycle/status/2006152559451418718",
+    "timestamp": "2025-12-30T23:56:57.000Z",
+    "metadata": {
+      "conversation_id": "2006152559451418718",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006152216386666710",
     "source": "twitter",
     "author": "seconds_0",

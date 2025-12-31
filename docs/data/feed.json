@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006340012414275859",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "My @FactoryAI Droid Wrapped https://t.co/2WJk027iHY",
+    "url": "https://x.com/pascallammers_/status/2006340012414275859",
+    "timestamp": "2025-12-31T12:21:49.000Z",
+    "metadata": {
+      "conversation_id": "2006340012414275859",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006337062551900462",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "Real experience at @FactoryAI after tons of commit reviews:  \nOpus 4.5 excels at fast refactors but consistently misses legitimate bugs in the same diffs.  \nGPT-5.2 spots them right away.",
+    "url": "https://x.com/NilkhanVaibhav/status/2006337062551900462",
+    "timestamp": "2025-12-31T12:10:06.000Z",
+    "metadata": {
+      "conversation_id": "2006337062551900462",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006335558948458765",
     "source": "twitter",
     "author": "kn_neeraj1",

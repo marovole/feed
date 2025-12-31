@@ -112,6 +112,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2006218895057711543",
+    "source": "twitter",
+    "author": "bheemreddy181",
+    "content": "I like the severity threshold setting: low = all issues, high = only critical. But @FactoryAI found a bug here vs greptile didn't also doesn't look like low threshold kind of bug from what i feel may be a medium https://t.co/MCOU1CsF3v",
+    "url": "https://x.com/bheemreddy181/status/2006218895057711543",
+    "timestamp": "2025-12-31T04:20:32.000Z",
+    "metadata": {
+      "conversation_id": "2006218895057711543",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006216680993870247",
     "source": "twitter",
     "author": "contxtkng",
@@ -348,6 +363,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2006170343807877160",
+    "source": "twitter",
+    "author": "RoryCrave",
+    "content": "@rezaul_arif @droid @FactoryAI You cheated?",
+    "url": "https://x.com/RoryCrave/status/2006170343807877160",
+    "timestamp": "2025-12-31T01:07:37.000Z",
+    "metadata": {
+      "conversation_id": "2006170343807877160",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006169425297183053",

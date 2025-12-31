@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006346918755217620",
+    "source": "twitter",
+    "author": "13scoobie",
+    "content": "@nkgoutham @droid @claudeai @OpenRouterAI @Netlify Appreciate the response! I agree also with needing a $100/month plan. Maybe they’ll make it happen in 2026!",
+    "url": "https://x.com/13scoobie/status/2006346918755217620",
+    "timestamp": "2025-12-31T12:49:16.000Z",
+    "metadata": {
+      "conversation_id": "2006346918755217620",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006346352494846136",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@13scoobie @droid @claudeai @OpenRouterAI @Netlify Yep! Droid comes with claude models but claude web is still a lot better. Claude Projects makes it easy for early brainstorming. I am using droid for coding and everything after the spec doc is done. \n\nMaybe eventually i’ll move to droid but claude stays 😅",
+    "url": "https://x.com/nkgoutham/status/2006346352494846136",
+    "timestamp": "2025-12-31T12:47:01.000Z",
+    "metadata": {
+      "conversation_id": "2006346352494846136",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006340308511130022",
+    "source": "twitter",
+    "author": "13scoobie",
+    "content": "@nkgoutham @droid @claudeai @OpenRouterAI @Netlify @nkgoutham - curious if droid includes Claude, why keep Claude? Does the multiplier of tokens on anthropic models consume too many droid tokens? Which model(s) do you usually use with Droid? Saw some posts about GLM 4.7 lately.",
+    "url": "https://x.com/13scoobie/status/2006340308511130022",
+    "timestamp": "2025-12-31T12:23:00.000Z",
+    "metadata": {
+      "conversation_id": "2006340308511130022",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006340012414275859",
     "source": "twitter",
     "author": "pascallammers_",

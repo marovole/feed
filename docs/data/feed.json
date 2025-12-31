@@ -16,6 +16,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2006283612401094908",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "How do we know info about tools like AskUserQuestionTool, etc?\n\nI'm trying this out and its really, really intensive exercise. I'd love to check if this is replicable in other CLI tools like @droid for example?",
+    "url": "https://x.com/nkgoutham/status/2006283612401094908",
+    "timestamp": "2025-12-31T08:37:42.000Z",
+    "metadata": {
+      "conversation_id": "2006283612401094908",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006282852904898789",
     "source": "twitter",
     "author": "phatggg",

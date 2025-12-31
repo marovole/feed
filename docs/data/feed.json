@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006268330576114061",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@FactoryAI I just started 💪 https://t.co/AvoVbogB7h",
+    "url": "https://x.com/orange_boy/status/2006268330576114061",
+    "timestamp": "2025-12-31T07:36:59.000Z",
+    "metadata": {
+      "conversation_id": "2006268330576114061",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006265625061343334",
+    "source": "twitter",
+    "author": "Carlos_0x",
+    "content": "@oyacaro @FactoryAI Droid is drastically better at context management and token usage",
+    "url": "https://x.com/Carlos_0x/status/2006265625061343334",
+    "timestamp": "2025-12-31T07:26:14.000Z",
+    "metadata": {
+      "conversation_id": "2006265625061343334",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006251907275231529",
     "source": "twitter",
     "author": "appfab",
@@ -1626,6 +1656,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1powtfm",
+    "source": "reddit",
+    "author": "One_Wishbone9360",
+    "content": "How to join to factory? Iam getting BotId script from vercel\n\nThumbnail: self\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1powtfm/how_to_join_to_factory_iam_getting_botid_script/",
+    "timestamp": "2025-12-17T13:42:14.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "reddit_1potbcv",

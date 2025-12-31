@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006501840465326409",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@mrkmcknz @roszianski @FactoryAI no codex-5.2 there!",
+    "url": "https://x.com/steipete/status/2006501840465326409",
+    "timestamp": "2025-12-31T23:04:52.000Z",
+    "metadata": {
+      "conversation_id": "2006501840465326409",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006501818541703553",
+    "source": "twitter",
+    "author": "luisdataguru",
+    "content": "@JoelDeTeves @FactoryAI That combo of FactoryAI + GPT 5.2 revolutionizes logic processing! Opus 4.5's Spec Mode with Gemini 3 Flash? 2025 will rewrite the AI playbook.",
+    "url": "https://x.com/luisdataguru/status/2006501818541703553",
+    "timestamp": "2025-12-31T23:04:47.000Z",
+    "metadata": {
+      "conversation_id": "2006501818541703553",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006500644354695474",
+    "source": "twitter",
+    "author": "mrkmcknz",
+    "content": "@roszianski @steipete Try @FactoryAI out, you can use them all in there, again, I switch between Codex, Factory, and Claude.",
+    "url": "https://x.com/mrkmcknz/status/2006500644354695474",
+    "timestamp": "2025-12-31T23:00:07.000Z",
+    "metadata": {
+      "conversation_id": "2006500644354695474",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006498381015965825",
     "source": "twitter",
     "author": "chillzaza_",
@@ -2584,6 +2629,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1ppkgxm",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.37.0 Released\n\n## Bug fixes\n\n* Fixed API request handling for Codex models\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ppkgxm/factory_cli_v0370_released/",
+    "timestamp": "2025-12-18T07:02:46.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "reddit_1pp79y4",

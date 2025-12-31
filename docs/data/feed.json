@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2006450095601102992",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Nice... this seems to be working with Claude/ChatGPT/Gemini subscriptions via BYOK+CLIProxyAPI too!\n\nThat's a New Years gift from @droid!",
+    "url": "https://x.com/benvargas/status/2006450095601102992",
+    "timestamp": "2025-12-31T19:39:15.000Z",
+    "metadata": {
+      "conversation_id": "2006450095601102992",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006439338331222206",
     "source": "twitter",
     "author": "EnoReyes",

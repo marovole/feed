@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2006836238884680093",
+    "source": "twitter",
+    "author": "Vengoaiapp",
+    "content": "@sir4K_zen @FactoryAI @aiDotEngineer @EnoReyes Exactly. Once agents can read the right signals, they stop guessing and start behaving like real teammates. What signals have you found actually move the needle so far?",
+    "url": "https://x.com/Vengoaiapp/status/2006836238884680093",
+    "timestamp": "2026-01-01T21:13:39.000Z",
+    "metadata": {
+      "conversation_id": "2006836238884680093",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006836177916276851",
+    "source": "twitter",
+    "author": "Vengoaiapp",
+    "content": "@NoBanksNearby @FactoryAI @aiDotEngineer @EnoReyes Exactly. Tests only tell you if something broke, not if it did the right thing. What signals do you think agents actually need to trust a system?",
+    "url": "https://x.com/Vengoaiapp/status/2006836177916276851",
+    "timestamp": "2026-01-01T21:13:24.000Z",
+    "metadata": {
+      "conversation_id": "2006836177916276851",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006836100208410748",
+    "source": "twitter",
+    "author": "Vengoaiapp",
+    "content": "@FactoryAI @aiDotEngineer @EnoReyes This is the part most teams miss. Agents fail less because of model quality and more because codebases lack clear signals, tests, and feedback loops. What does agent ready look like in a real production repo today?",
+    "url": "https://x.com/Vengoaiapp/status/2006836100208410748",
+    "timestamp": "2026-01-01T21:13:06.000Z",
+    "metadata": {
+      "conversation_id": "2006836100208410748",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006835986337235182",
+    "source": "twitter",
+    "author": "p2pumper",
+    "content": "@pipelineabuser @FactoryAI dis is what happens when VC brains try to cosplay decentralization. same suits, new buzzwords.",
+    "url": "https://x.com/p2pumper/status/2006835986337235182",
+    "timestamp": "2026-01-01T21:12:39.000Z",
+    "metadata": {
+      "conversation_id": "2006835986337235182",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006833939458175263",
     "source": "twitter",
     "author": "Pepaiir",

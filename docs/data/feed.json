@@ -48,6 +48,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2006811556290666671",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "I've since moved away from having it in AGENTS(.md) file, first to slash commands, then to a \"git-worktree\" skill. Then you can just have the models do everything and it just knows.\n\nYou can just ask it to create a skill based on the AGENTS file I shared, or copy this pre-configured skill.\n\nhttps://t.co/SvkUui9N6d",
+    "url": "https://x.com/benvargas/status/2006811556290666671",
+    "timestamp": "2026-01-01T19:35:34.000Z",
+    "metadata": {
+      "conversation_id": "2006811556290666671",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006810994757218466",
     "source": "twitter",
     "author": "oliverbeavers",
@@ -78,6 +93,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2006809846583275827",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@protobluf @droid It doesn't, still need git commands... but just have the harness/model do it for you. Here's an AGENTS file https://t.co/R7OfwV7UPA",
+    "url": "https://x.com/benvargas/status/2006809846583275827",
+    "timestamp": "2026-01-01T19:28:46.000Z",
+    "metadata": {
+      "conversation_id": "2006809846583275827",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006807084860690437",

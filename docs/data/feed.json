@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006588529032503694",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "I'm still heavy on the @FactoryAI @droid train but man @opencode *nailed* the interface",
+    "url": "https://x.com/nathanclark_/status/2006588529032503694",
+    "timestamp": "2026-01-01T04:49:20.000Z",
+    "metadata": {
+      "conversation_id": "2006588529032503694",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006586200166195454",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@__CGhogeh_ @droid 🤖",
+    "url": "https://x.com/benvargas/status/2006586200166195454",
+    "timestamp": "2026-01-01T04:40:05.000Z",
+    "metadata": {
+      "conversation_id": "2006586200166195454",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006583089083068491",
     "source": "twitter",
     "author": "__CGhogeh_",

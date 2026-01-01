@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006593886215356894",
+    "source": "twitter",
+    "author": "tkwoncpa",
+    "content": "@ay_ushr Use /review on @droid  by @FactoryAI",
+    "url": "https://x.com/tkwoncpa/status/2006593886215356894",
+    "timestamp": "2026-01-01T05:10:37.000Z",
+    "metadata": {
+      "conversation_id": "2006593886215356894",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006591881992642804",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@dannolan @FactoryAI @droid @opencode oc &gt;&gt;&gt; https://t.co/7HYeG5A9EG",
+    "url": "https://x.com/nathanclark_/status/2006591881992642804",
+    "timestamp": "2026-01-01T05:02:39.000Z",
+    "metadata": {
+      "conversation_id": "2006591881992642804",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006590322500091920",
+    "source": "twitter",
+    "author": "dannolan",
+    "content": "@nathanclark_ @FactoryAI @droid @opencode I used OC with GLM a bit ago but I think nothing is as good as codex or Claude TUI wise. Sell me on it",
+    "url": "https://x.com/dannolan/status/2006590322500091920",
+    "timestamp": "2026-01-01T04:56:28.000Z",
+    "metadata": {
+      "conversation_id": "2006590322500091920",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006588529032503694",
     "source": "twitter",
     "author": "nathanclark_",

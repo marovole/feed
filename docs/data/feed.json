@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2006571043150782746",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Just getting into harnesses and agent coding I’d strongly recommend using subscriptions with clause code and/or codex and the $20 plans, then upgrading to $100 and eventually $200 plans if needed. Those provide you by far the most inference per dollar.\n\nThen those same subs can be used with opencode, droid, and amp with plugins in opencode (oc ships with the Anthropic one), or CLIProxyAPI I’ve found very stable with both droid and amp.\n\nDroid and Amp are both very good, like ice cream, you have to use and decide which flavor you like best compared to provider harnesses. I honestly use them all and rotate for various workflows. Different people will prefer one over the other, and that’s okay.\n\nOpencode is great because of the open source nature, I can add features or fix things… but it is definitely more buggy than amp and droid. It’s like Linux vs Mac, more customization and tweaking but less of the “just works”.\n\nAt that point if you have a strong presence it might make sense to buy tokens through Factory/Droid or Amp, but for me because I prefer the optionality of harnesses, I mainly stick with subs.",
+    "url": "https://x.com/benvargas/status/2006571043150782746",
+    "timestamp": "2026-01-01T03:39:51.000Z",
+    "metadata": {
+      "conversation_id": "2006571043150782746",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006568638770459086",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@benvargas @droid Been doing this since gpt-5.2-codex appeared in Codex CLI. This combo kicks ass.",
+    "url": "https://x.com/mikez93/status/2006568638770459086",
+    "timestamp": "2026-01-01T03:30:18.000Z",
+    "metadata": {
+      "conversation_id": "2006568638770459086",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006567310316941827",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "My daily driver just got a very important update!\n!!! instant model switching across model families !!!\n\nFK YES! Thank you @droid team!",
+    "url": "https://x.com/AriesTheCoder/status/2006567310316941827",
+    "timestamp": "2026-01-01T03:25:01.000Z",
+    "metadata": {
+      "conversation_id": "2006567310316941827",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006567062693355855",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "AI summed it up well…\n\n✅ Simultaneous Branches: Work on feature and hotfix at the same time in separate folders.\n✅ No Stashing: Forget git stash—just switch directories.\n✅ Isolated Deps: Per-branch node_modules or venv means no more rebuilding on checkout.\n✅ Clean Root: Keep your project history in a .bare folder and your workspace organized.\n\nI really like having directories matching branch names all at the same level (next to each other) with no npm or caching dependency issues… I just change dir and in an a new fully working branch without any git stashing or dependency installs to switch gears.",
+    "url": "https://x.com/benvargas/status/2006567062693355855",
+    "timestamp": "2026-01-01T03:24:02.000Z",
+    "metadata": {
+      "conversation_id": "2006567062693355855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006566414145261678",
+    "source": "twitter",
+    "author": "RecordsUni63959",
+    "content": "@benvargas @droid Interesting",
+    "url": "https://x.com/RecordsUni63959/status/2006566414145261678",
+    "timestamp": "2026-01-01T03:21:27.000Z",
+    "metadata": {
+      "conversation_id": "2006566414145261678",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006563378450542876",
     "source": "twitter",
     "author": "sir4K_zen",
@@ -14,6 +89,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2006561539999019120",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "@xanxur @Zai_org @opencode @droid it depends on the scope, but a powerful model + good engineering should make it trivial. I haven't actually tried it yet, but theory suggests it's a non-issue.",
+    "url": "https://x.com/iamcienlim/status/2006561539999019120",
+    "timestamp": "2026-01-01T03:02:05.000Z",
+    "metadata": {
+      "conversation_id": "2006561539999019120",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006560570577916122",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "@thdxr @Zai_org @opencode @droid 🙏",
+    "url": "https://x.com/iamcienlim/status/2006560570577916122",
+    "timestamp": "2026-01-01T02:58:14.000Z",
+    "metadata": {
+      "conversation_id": "2006560570577916122",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006553655357616404",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006583089083068491",
+    "source": "twitter",
+    "author": "__CGhogeh_",
+    "content": "@benvargas @droid Looks like the new functionality could really streamline workflows. Switch models on-the-fly sounds handy. Any specific scenarios where you've found it particularly useful?",
+    "url": "https://x.com/__CGhogeh_/status/2006583089083068491",
+    "timestamp": "2026-01-01T04:27:43.000Z",
+    "metadata": {
+      "conversation_id": "2006583089083068491",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006582385001779437",
+    "source": "twitter",
+    "author": "davinci_stan666",
+    "content": "@benvargas @protobluf @droid Are you worried about being banned violating tos by using subscription in these? I’m hesitant for that reason.",
+    "url": "https://x.com/davinci_stan666/status/2006582385001779437",
+    "timestamp": "2026-01-01T04:24:55.000Z",
+    "metadata": {
+      "conversation_id": "2006582385001779437",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006571043150782746",
     "source": "twitter",
     "author": "benvargas",

@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2006773693339546094",
+    "source": "twitter",
+    "author": "3quanax",
+    "content": "@pipelineabuser @FactoryAI The fact that non-developers can now prototype full-stack companies so quickly is a transformative shift for founders. A powerful demonstration.",
+    "url": "https://x.com/3quanax/status/2006773693339546094",
+    "timestamp": "2026-01-01T17:05:07.000Z",
+    "metadata": {
+      "conversation_id": "2006773693339546094",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006772899613651002",
+    "source": "twitter",
+    "author": "pipelineabuser",
+    "content": "@vrilegion @FactoryAI yeah man obviously this isn't a fully fully ready to deploy publicly saas, but it's a huge start.\n\ni've been doing mass bug testing etc since posting this and making great progress",
+    "url": "https://x.com/pipelineabuser/status/2006772899613651002",
+    "timestamp": "2026-01-01T17:01:57.000Z",
+    "metadata": {
+      "conversation_id": "2006772899613651002",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006772592997474423",
+    "source": "twitter",
+    "author": "vrilegion",
+    "content": "@pipelineabuser @FactoryAI Thats the 80/20. The last 20s will take a lot of 80s",
+    "url": "https://x.com/vrilegion/status/2006772592997474423",
+    "timestamp": "2026-01-01T17:00:44.000Z",
+    "metadata": {
+      "conversation_id": "2006772592997474423",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006769136903577875",
+    "source": "twitter",
+    "author": "pipelineabuser",
+    "content": "@therohitiyer @FactoryAI I already use it :3",
+    "url": "https://x.com/pipelineabuser/status/2006769136903577875",
+    "timestamp": "2026-01-01T16:47:00.000Z",
+    "metadata": {
+      "conversation_id": "2006769136903577875",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006768728227385482",
+    "source": "twitter",
+    "author": "therohitiyer",
+    "content": "@pipelineabuser @FactoryAI Highly recommend using something like https://t.co/tpCFGKMROJ as well. \n\nI’m at almost half a mil words now cuz fuck typing",
+    "url": "https://x.com/therohitiyer/status/2006768728227385482",
+    "timestamp": "2026-01-01T16:45:23.000Z",
+    "metadata": {
+      "conversation_id": "2006768728227385482",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006767627046428716",
+    "source": "twitter",
+    "author": "therohitiyer",
+    "content": "Been meaning to test droid. \n\nCurrently testing glm4.7 via open code as I’ve been hearing people say it’s out performing opus on a few tests. \n\nRegardless, ya the shit that unlocks with agentic coding and just taking a bit of time and learning how to get all the stuff working in an IDE is pretty next level. It's like an absolute fucking unlock where you don't feel shackled by other people or devs or other teams. \n\nIt's pretty insane",
+    "url": "https://x.com/therohitiyer/status/2006767627046428716",
+    "timestamp": "2026-01-01T16:41:00.000Z",
+    "metadata": {
+      "conversation_id": "2006767627046428716",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006766523445293385",
+    "source": "twitter",
+    "author": "pipelineabuser",
+    "content": "@NicoJonees @FactoryAI Factory runs in my terminal, SSH'd into a DigitalOcean droplet",
+    "url": "https://x.com/pipelineabuser/status/2006766523445293385",
+    "timestamp": "2026-01-01T16:36:37.000Z",
+    "metadata": {
+      "conversation_id": "2006766523445293385",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006765286868041806",
+    "source": "twitter",
+    "author": "NicoJonees",
+    "content": "@pipelineabuser @FactoryAI damn, through their IDE?",
+    "url": "https://x.com/NicoJonees/status/2006765286868041806",
+    "timestamp": "2026-01-01T16:31:42.000Z",
+    "metadata": {
+      "conversation_id": "2006765286868041806",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006761822179963268",
     "source": "twitter",
     "author": "pipelineabuser",

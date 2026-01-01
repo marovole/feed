@@ -3534,6 +3534,19 @@
     "category": "love"
   },
   {
+    "id": "reddit_1pdufm4",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.30.0 Released - Search hidden files and more\n\n## New features\n\n* **Search hidden files** - Grep and Glob tools now include hidden files in search results\n* **Session search** - Added search functionality to the session selector for quickly finding sessions\n* **Image indicator** - User messages now display an image indicator when images are attached\n\n## Bug fixes\n\n* Fixed EPERM permission errors on certain file operations - Windows file rename retry logic\n* Fixed ESC key navigation in `/review` and `/bg-process` commands for Ghostty terminal",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pdufm4/factory_cli_v0300_released_search_hidden_files/",
+    "timestamp": "2025-12-04T08:03:37.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1pcwo2o",
     "source": "reddit",
     "author": "bentossell",

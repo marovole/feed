@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2006549008907645223",
+    "source": "twitter",
+    "author": "acabelt",
+    "content": "Hey @FactoryAI / @droid,\nget this shit fixed or I make a fuzz about it. https://t.co/IMSfDiPFyJ",
+    "url": "https://x.com/acabelt/status/2006549008907645223",
+    "timestamp": "2026-01-01T02:12:18.000Z",
+    "metadata": {
+      "conversation_id": "2006549008907645223",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006543482849210744",
+    "source": "twitter",
+    "author": "retrovesto",
+    "content": "@benvargas @droid its a great strategy",
+    "url": "https://x.com/retrovesto/status/2006543482849210744",
+    "timestamp": "2026-01-01T01:50:20.000Z",
+    "metadata": {
+      "conversation_id": "2006543482849210744",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006541353858248865",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "It also sucks how broken their highlighting is in light mode terminals, and it seems they have a lack of urgency to fix or accept PR on it.\n\nSo with the issues I'm seeing, and just watching PRs sit, not excited to use it... but at least since anyone can patch, you can make it usable. https://t.co/QghTrKXbkK",
+    "url": "https://x.com/benvargas/status/2006541353858248865",
+    "timestamp": "2026-01-01T01:41:53.000Z",
+    "metadata": {
+      "conversation_id": "2006541353858248865",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006540227855487306",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "yes, opencode could already do this... i've been having quite a few problems recently with opencode with \"prompt is too long\" failures. I'm surprised the team hasn't addressed it with more urgency, I'm not using it much due to new stability issues.\n\nI got tired of waiting and submitted a PR to fix it, much more stable with that patch, but annoyed at its stability right now. https://t.co/awqRjpc91x",
+    "url": "https://x.com/benvargas/status/2006540227855487306",
+    "timestamp": "2026-01-01T01:37:24.000Z",
+    "metadata": {
+      "conversation_id": "2006540227855487306",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006502755486281759",
     "source": "twitter",
     "author": "mrkmcknz",

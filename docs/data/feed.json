@@ -44,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2006939154064748744",
@@ -5509,7 +5510,8 @@
       "type": "issue",
       "labels": [],
       "number": 493
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1pe0wqy",

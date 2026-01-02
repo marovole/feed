@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2006949895400468562",
+    "source": "twitter",
+    "author": "ggballas",
+    "content": "@pipelineabuser @FactoryAI Link to website ? I wanna test out ur product vs the original.",
+    "url": "https://x.com/ggballas/status/2006949895400468562",
+    "timestamp": "2026-01-02T04:45:17.000Z",
+    "metadata": {
+      "conversation_id": "2006949895400468562",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006948815413424539",
+    "source": "twitter",
+    "author": "pierre6sh",
+    "content": "@Klaudioz @thekitze @FactoryAI I have tried factory this is really not the same level",
+    "url": "https://x.com/pierre6sh/status/2006948815413424539",
+    "timestamp": "2026-01-02T04:40:59.000Z",
+    "metadata": {
+      "conversation_id": "2006948815413424539",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006948747029131346",
+    "source": "twitter",
+    "author": "Auinout",
+    "content": "yes same, but this looks like ai slop. it’s probably fine and good but no one will trust it in the same way they won’t trust prose full of em-dashes. spend time up front developing a detailed design spec md doc and make claude stick to it religiously. copy another brand if you need to. run it past gemini because it’s got a better eye. you can use one of the shadn presets if you need but your mission should be to get as far away from this purple gradient vibe as possible.",
+    "url": "https://x.com/Auinout/status/2006948747029131346",
+    "timestamp": "2026-01-02T04:40:43.000Z",
+    "metadata": {
+      "conversation_id": "2006948747029131346",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006946542545228084",
+    "source": "twitter",
+    "author": "iankar_",
+    "content": "hey @FactoryAI gang, just signed up yesterday, already enjoying the mac app a lot. but would be great to drag and drop screenshots/files easily!",
+    "url": "https://x.com/iankar_/status/2006946542545228084",
+    "timestamp": "2026-01-02T04:31:57.000Z",
+    "metadata": {
+      "conversation_id": "2006946542545228084",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006941426471547391",
     "source": "twitter",
     "author": "AlterEgoWalter",

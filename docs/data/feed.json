@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2006931714027975008",
+    "source": "twitter",
+    "author": "KevinRomeis",
+    "content": "@pipelineabuser @FactoryAI Purple",
+    "url": "https://x.com/KevinRomeis/status/2006931714027975008",
+    "timestamp": "2026-01-02T03:33:02.000Z",
+    "metadata": {
+      "conversation_id": "2006931714027975008",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006924337685975228",
+    "source": "twitter",
+    "author": "tamecalm",
+    "content": "@pipelineabuser @FactoryAI https://t.co/0DkTufo0iy",
+    "url": "https://x.com/tamecalm/status/2006924337685975228",
+    "timestamp": "2026-01-02T03:03:43.000Z",
+    "metadata": {
+      "conversation_id": "2006924337685975228",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006922991507308801",
+    "source": "twitter",
+    "author": "n8nathanh",
+    "content": "@pipelineabuser @Saaracal @FactoryAI Mhm, you land like 80% finished and start polishing. Having ChatGPT (or any other) write prompts for your builder app makes it even better. Screenshotting specifics helps it with precision.",
+    "url": "https://x.com/n8nathanh/status/2006922991507308801",
+    "timestamp": "2026-01-02T02:58:22.000Z",
+    "metadata": {
+      "conversation_id": "2006922991507308801",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006922730780643406",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Based on available info, FactoryAI is a legit AI dev tool for automating coding tasks, praised for building apps quickly with agents. Claude Opus 4.5 is Anthropic's advanced model, strong in coding.\n\nThe claim of a full company in 30 mins sounds hype, but users report rapid prototyping is possible. pipelineabuser promotes B2B tools, not Telegram courses—no scam signs found. Always verify code yourself.",
+    "url": "https://x.com/grok/status/2006922730780643406",
+    "timestamp": "2026-01-02T02:57:20.000Z",
+    "metadata": {
+      "conversation_id": "2006922730780643406",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006922514195427701",
+    "source": "twitter",
+    "author": "kinggablim",
+    "content": "@pipelineabuser @FactoryAI @grok is this legit or is he trying to sell a telegram course? Is he legit or no",
+    "url": "https://x.com/kinggablim/status/2006922514195427701",
+    "timestamp": "2026-01-02T02:56:28.000Z",
+    "metadata": {
+      "conversation_id": "2006922514195427701",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006921928507011424",
+    "source": "twitter",
+    "author": "pipelineabuser",
+    "content": "@n8nathanh @Saaracal @FactoryAI its funny how people don't realize my example was from like 2 prompts lmao. obviously a mfer is gonna revamp the lander to look better.\n\nalso this is a sick lander man nice",
+    "url": "https://x.com/pipelineabuser/status/2006921928507011424",
+    "timestamp": "2026-01-02T02:54:09.000Z",
+    "metadata": {
+      "conversation_id": "2006921928507011424",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006921254922768638",
+    "source": "twitter",
+    "author": "n8nathanh",
+    "content": "@Saaracal @pipelineabuser @FactoryAI Yeah well, its my AI slop ❤️\n\nCheck out this AI slop that definitely looks the same as the rest 👇 https://t.co/qJWxKw3Wd2",
+    "url": "https://x.com/n8nathanh/status/2006921254922768638",
+    "timestamp": "2026-01-02T02:51:28.000Z",
+    "metadata": {
+      "conversation_id": "2006921254922768638",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006920683440537680",
+    "source": "twitter",
+    "author": "SamBuildsAI",
+    "content": "@comic @pipelineabuser @FactoryAI bruv...the guy is building something ... cmon",
+    "url": "https://x.com/SamBuildsAI/status/2006920683440537680",
+    "timestamp": "2026-01-02T02:49:12.000Z",
+    "metadata": {
+      "conversation_id": "2006920683440537680",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006920014172140011",
     "source": "twitter",
     "author": "hyprbased",
@@ -46,6 +166,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2006915041975808009",
+    "source": "twitter",
+    "author": "Saaracal",
+    "content": "@n8nathanh @pipelineabuser @FactoryAI AI slops all looks pretty samilar 😂",
+    "url": "https://x.com/Saaracal/status/2006915041975808009",
+    "timestamp": "2026-01-02T02:26:47.000Z",
+    "metadata": {
+      "conversation_id": "2006915041975808009",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006915024074453426",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007101510048530803",
+    "source": "twitter",
+    "author": "TraderDXB",
+    "content": "@pipelineabuser @FactoryAI \"Stop Drowning in Spam\" Could be a better tagline",
+    "url": "https://x.com/TraderDXB/status/2007101510048530803",
+    "timestamp": "2026-01-02T14:47:44.000Z",
+    "metadata": {
+      "conversation_id": "2007101510048530803",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007101205500285428",
     "source": "twitter",
     "author": "MitchBernstein",
@@ -6646,6 +6661,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "github_issue_496",
+    "source": "github",
+    "author": "sheng-di",
+    "content": "[Issue] [Feature Request] Remove Mandatory Login Requirement When Using Custom Models\n\n**Description:**\n\nI am using the `droid` CLI AI Agent from `factory.ai`. I've noticed that when I switch to using a custom model (e.g., a locally hosted model or a third-party API), the system still prompts for and requires a user login.\n\nThis creates an unnecessary barrier and friction for users who prioritize privacy and want to use local or self-hosted models in a fully offline/private environment. The core value of using a custom model, for many, is maintaining complete control and privacy o",
+    "url": "https://github.com/Factory-AI/factory/issues/496",
+    "timestamp": "2025-12-09T02:19:06Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 496
+    }
   },
   {
     "id": "github_issue_495",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2006889664473366861",
+    "source": "twitter",
+    "author": "Burgalavo",
+    "content": "@FactoryAI I am having so much trouble using these droids, really want to learn but the customer experience feels like grating teeth, Am i doing something wrong?",
+    "url": "https://x.com/Burgalavo/status/2006889664473366861",
+    "timestamp": "2026-01-02T00:45:56.000Z",
+    "metadata": {
+      "conversation_id": "2006889664473366861",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006880407833498032",
     "source": "twitter",
     "author": "Arlo_the_Intern",
@@ -4808,6 +4823,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_539",
+    "source": "github",
+    "author": "wooyek",
+    "content": "[Issue] Input Text Not Visible While Typing in Droid Terminal\n\nUser input is not being echoed/displayed in the terminal while typing commands to Droid CLI. The typed characters are invisible, making it difficult to compose messages.\n\nEnvironment Information\n\n```\nComponent         │ Value\n------------------+-----------------------------------\n**Droid Version** │ 0.38.0\n**OS**            │ Kubuntu 24.04.3 LTS (Noble Numbat)\n**Kernel**        │ 6.14.0-37-generic x86_64\n**Desktop**       │ KDE Plasma 5.27.12\n**Shell**         │ fish (/usr/bin/fish)\n**TERM**    ",
+    "url": "https://github.com/Factory-AI/factory/issues/539",
+    "timestamp": "2025-12-19T09:48:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 539
+    }
   },
   {
     "id": "github_issue_538",

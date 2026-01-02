@@ -6722,7 +6722,8 @@
       "type": "issue",
       "labels": [],
       "number": 541
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_540",

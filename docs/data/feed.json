@@ -32,6 +32,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2006939732832563317",
+    "source": "twitter",
+    "author": "brandon_ai",
+    "content": "@steipete @ssh_sharma135 @Zai_org @droid @augmentcode @augmentcode integration done! 🚀\n\nPR submitted as well 🍻 https://t.co/wj4xhMxage",
+    "url": "https://x.com/brandon_ai/status/2006939732832563317",
+    "timestamp": "2026-01-02T04:04:54.000Z",
+    "metadata": {
+      "conversation_id": "2006939732832563317",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006939154064748744",
     "source": "twitter",
     "author": "pUrpLmUnk3y",
@@ -5482,6 +5497,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "github_issue_493",
+    "source": "github",
+    "author": "fahimanwer",
+    "content": "[Issue] Allow specifying which MCP tools are available to custom droids\n\n## Feature Request\n\nCurrently, custom droids (defined in `.factory/droids/`) cannot specify which MCP tools they should have access to. This limits the ability to create specialized droids that leverage specific MCP capabilities.\n\n## Proposed Solution\n\nAdd a `tools` or `mcp_tools` field to the droid configuration schema that allows specifying:\n\n1. Which MCP servers the droid can access\n2. Which specific tools from those servers are available\n3. Optionally, tool aliases or restrictions\n\n## Exampl",
+    "url": "https://github.com/Factory-AI/factory/issues/493",
+    "timestamp": "2025-12-07T02:06:43Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 493
+    }
   },
   {
     "id": "reddit_1pe0wqy",

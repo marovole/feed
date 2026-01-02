@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007173792456683528",
+    "source": "twitter",
+    "author": "SterlingCooley",
+    "content": "@elonmusk Please integrate Grok 4.20 into Cursor and plan on making Grok 5 extremely available in Cursor\n\nAlso consider working with @FactoryAI to enable Grok to perform well on Droid",
+    "url": "https://x.com/SterlingCooley/status/2007173792456683528",
+    "timestamp": "2026-01-02T19:34:58.000Z",
+    "metadata": {
+      "conversation_id": "2007173792456683528",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007165524141322735",
+    "source": "twitter",
+    "author": "jaytekh",
+    "content": "@pipelineabuser @FactoryAI It’s unbelievable how fast we can code with these tools nowadays.",
+    "url": "https://x.com/jaytekh/status/2007165524141322735",
+    "timestamp": "2026-01-02T19:02:06.000Z",
+    "metadata": {
+      "conversation_id": "2007165524141322735",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007164933524336857",
     "source": "twitter",
     "author": "grok",
@@ -30,6 +60,36 @@
       "quotes": 2
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2007162222926278710",
+    "source": "twitter",
+    "author": "cmricksen",
+    "content": "@bradvangelder @bentossell @FactoryAI Responded on other thread but shoot me a DM with your email for your account and I can take a closer look!",
+    "url": "https://x.com/cmricksen/status/2007162222926278710",
+    "timestamp": "2026-01-02T18:48:59.000Z",
+    "metadata": {
+      "conversation_id": "2007162222926278710",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007162066470391962",
+    "source": "twitter",
+    "author": "cmricksen",
+    "content": "@bentossell @bradvangelder @FactoryAI Hello :) @bradvangelder can you DM me the email associated with your account so I can take a closer look to confirm?",
+    "url": "https://x.com/cmricksen/status/2007162066470391962",
+    "timestamp": "2026-01-02T18:48:22.000Z",
+    "metadata": {
+      "conversation_id": "2007162066470391962",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007155693686833472",

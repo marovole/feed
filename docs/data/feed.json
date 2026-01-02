@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006988322581918173",
+    "source": "twitter",
+    "author": "eifelpanorama",
+    "content": "@pipelineabuser @FactoryAI Exactly. I just kicked out my co founder, a senior developer and systems engineer because he was not reliable. I nearly quit but then I thought I will try to build it on my own. In two days I built a better product than he did in six weeks. No coding skills.",
+    "url": "https://x.com/eifelpanorama/status/2006988322581918173",
+    "timestamp": "2026-01-02T07:17:58.000Z",
+    "metadata": {
+      "conversation_id": "2006988322581918173",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006983744968933656",
+    "source": "twitter",
+    "author": "Thunderbolt3141",
+    "content": "@pipelineabuser @FactoryAI AI lets you build 80% of what you need. You still need to put in a lot of effort for the remaining 20%",
+    "url": "https://x.com/Thunderbolt3141/status/2006983744968933656",
+    "timestamp": "2026-01-02T06:59:47.000Z",
+    "metadata": {
+      "conversation_id": "2006983744968933656",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006983087062921534",
     "source": "twitter",
     "author": "sudurairaj",

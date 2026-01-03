@@ -28,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2007304205208612880",
@@ -43,7 +44,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2007304156483334604",
@@ -58,7 +60,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2007303583717642386",
@@ -73,7 +76,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2007288601386881496",
@@ -7540,7 +7544,8 @@
       "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "github_issue_493",

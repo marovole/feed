@@ -1,5 +1,33 @@
 [
   {
+    "id": "reddit_1q2o7pm",
+    "source": "reddit",
+    "author": "Sure-Marsupial-8694",
+    "content": "How can i config droid to ues grok-cofe-fast-1\n\nHow can i config droid to ues grok-cofe-fast-1？",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q2o7pm/how_can_i_config_droid_to_ues_grokcofefast1/",
+    "timestamp": "2026-01-03T07:16:27.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2007341206800589195",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Here's an example. This is so subtle yet the outcome is so pleasant. \n\nBuild was failing cuz of duplicate lines. @droid tried fixing it a couple times, the same error repeated. Normally, in most products, I observe this, either clear the session/context, and then prompt again to specifically update that one file. \n\nThis is not a deal breaker, but the fact that Droid does it by its own - makes it feel super special. \n\nPS - this is just a tiny thing but has a great value! Saves so much time.",
+    "url": "https://x.com/nkgoutham/status/2007341206800589195",
+    "timestamp": "2026-01-03T06:40:12.000Z",
+    "metadata": {
+      "conversation_id": "2007341206800589195",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007333308812947825",
     "source": "twitter",
     "author": "EmbeddedNature",
@@ -14,6 +42,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2007331122108379410",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Whosoever is building @droid - can you make it a bit slower? \n\nDroid on GLM4.7 is blazing fast and almost little to no errors. It just... works?\n\nThis feels like \"too good to be true\". \n\nI'm used to error loops and often feel I have to lead the architecture with most products - but with Droid, that's not the case. With it almost one-shotting every major ask that I have, I am spending most of my time testing - and finding no bugs (and honestly - its a bit boring!). \n\nEither I'm slowing down, or missing something, or Droid's actually crazy?\n\nJokes aside - what a mighty crazy product by @FactoryAI - made me rethink all my subscription and tooling strategy.",
+    "url": "https://x.com/nkgoutham/status/2007331122108379410",
+    "timestamp": "2026-01-03T06:00:08.000Z",
+    "metadata": {
+      "conversation_id": "2007331122108379410",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
   },
   {
     "id": "twitter_2007329613551378841",

@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2007362800692470268",
+    "source": "twitter",
+    "author": "marovole",
+    "content": "I've been using it for several months now, and it's been performing very stably, which gives me peace of mind. It rarely makes mistakes, and the same subscription can use multiple models, each leveraging its strengths. If I could only subscribe to one, I would definitely choose Droid.",
+    "url": "https://x.com/marovole/status/2007362800692470268",
+    "timestamp": "2026-01-03T08:06:01.000Z",
+    "metadata": {
+      "conversation_id": "2007362800692470268",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007361180357239033",
+    "source": "twitter",
+    "author": "brooksy4503",
+    "content": "@pipelineabuser Nice! Custom analytics from your dev team is clutch. Solid week, haha. Was the dev team, you and @droid ? 😜",
+    "url": "https://x.com/brooksy4503/status/2007361180357239033",
+    "timestamp": "2026-01-03T07:59:35.000Z",
+    "metadata": {
+      "conversation_id": "2007361180357239033",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007360935808372977",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@marovole @droid 100%",
+    "url": "https://x.com/nkgoutham/status/2007360935808372977",
+    "timestamp": "2026-01-03T07:58:36.000Z",
+    "metadata": {
+      "conversation_id": "2007360935808372977",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007352370825773352",
+    "source": "twitter",
+    "author": "gmickel",
+    "content": "@GitMaxd @droid Nice! Let me know how it goes.",
+    "url": "https://x.com/gmickel/status/2007352370825773352",
+    "timestamp": "2026-01-03T07:24:34.000Z",
+    "metadata": {
+      "conversation_id": "2007352370825773352",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007352367826788570",
+    "source": "twitter",
+    "author": "marovole",
+    "content": "@nkgoutham @droid Droid is easy to use",
+    "url": "https://x.com/marovole/status/2007352367826788570",
+    "timestamp": "2026-01-03T07:24:33.000Z",
+    "metadata": {
+      "conversation_id": "2007352367826788570",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1q2o7pm",
     "source": "reddit",
     "author": "Sure-Marsupial-8694",

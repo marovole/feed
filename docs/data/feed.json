@@ -7757,7 +7757,8 @@
       "type": "issue",
       "labels": [],
       "number": 506
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_501",

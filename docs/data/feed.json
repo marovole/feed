@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007681815839187225",
+    "source": "twitter",
+    "author": "archimagos",
+    "content": "@ashleybchae Have you tried @OpenHandsDev or @FactoryAI Droid?\nThey are my go-to for long-horizon spec-driven work.\n\nI've seen everyone that learns and uses either of them to be very happy too.",
+    "url": "https://x.com/archimagos/status/2007681815839187225",
+    "timestamp": "2026-01-04T05:13:40.000Z",
+    "metadata": {
+      "conversation_id": "2007681815839187225",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007669737321574435",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 3: Update 1\n\nLight day — mostly refactoring and visual polish.\n\nKept cleaning the UI: Simplified the overall flow, tightened spacing, and added a couple KPI cards at the top.\n \nThen added a simple chart — score trend when multiple rounds are loaded. Nothing fancy (yet), but suddenly the data feels alive and glanceable instead of static.\n\nGrok's been invaluable: I dump messy brain notes and it turns them into crisp build instructions for @factoryai. The iteration loop is getting ridiculously smooth.\n\nI wish my wedge game would improve at this rate. \n\nLooking into Claude Code since it's lighting up my timeline.",
+    "url": "https://x.com/iamkevchan/status/2007669737321574435",
+    "timestamp": "2026-01-04T04:25:40.000Z",
+    "metadata": {
+      "conversation_id": "2007669737321574435",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007669654786093342",
     "source": "twitter",
     "author": "nkgoutham",
@@ -30,6 +60,36 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2007649096736420245",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "Strong  CLI recommendation for coding : @FactoryAI .\n$200 max plan, ~200M tokens, excellent CLI, sub-agents, skills, and the flexibility to switch across models. Serious power-user setup. Check them out.",
+    "url": "https://x.com/karthikr3ddy/status/2007649096736420245",
+    "timestamp": "2026-01-04T03:03:39.000Z",
+    "metadata": {
+      "conversation_id": "2007649096736420245",
+      "likes": 11,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007648607139442868",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "Claude Code Max has been totally worth it.\nTried the API route earlier in 2025 it works only when usage is light. For heavy daily work, nothing really beats the $200 plan.\n\nAnother strong recommendation: @FactoryAI .\n$200 max plan, ~200M tokens, excellent CLI, sub-agents, skills, and the flexibility to switch across models. Serious power-user setup. Check them out.",
+    "url": "https://x.com/karthikr3ddy/status/2007648607139442868",
+    "timestamp": "2026-01-04T03:01:42.000Z",
+    "metadata": {
+      "conversation_id": "2007648607139442868",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007643121723818387",

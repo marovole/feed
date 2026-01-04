@@ -8946,6 +8946,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1pejp50",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.31.0 Released - GPT-5.1-Codex-Max model and more\n\n## New features\n\n* **GPT-5.1-Codex-Max model** - Added support for GPT-5.1-Codex-Max model\n* **Image compression** - Images are now compressed before upload to reduce bandwidth\n* **IDE auto-connect setting** - Added setting to automatically connect to IDE from external terminals\n* **Disable hooks flag** - Added `--no-hooks` flag to disable hooks execution\n\n## Bug fixes\n\n* Improved Droid docs search\n* Long Execute tool commands now truncated in the UI header\n* Fixed on-disk images not being clear",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pejp50/factory_cli_v0310_released_gpt51codexmax_model/",
+    "timestamp": "2025-12-05T02:46:16.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1pe0wqy",
     "source": "reddit",
     "author": "EggNo4904",

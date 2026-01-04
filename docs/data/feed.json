@@ -8388,6 +8388,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1ptbvg9",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.39.0 Released - Context utilization setting and more\n\n## New features\n\n* **Context utilization setting** - New setting to display token usage indicator in the status bar\n* **Custom Droids enabled by default** - Custom Droids feature is now available to all users without requiring opt-in\n\n## Bug fixes\n\n* **Grep tool fix** - Fixed pattern argument handling in the Grep tool\n* **BYOK Grok fix** - Fixed crash when using Grok models with thinking/reasoning streams\n* **Warmup improvements** - Added option to disable warmup requests and skip warmup for sla",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ptbvg9/factory_cli_v0390_released_context_utilization/",
+    "timestamp": "2025-12-22T21:43:22.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_541",
     "source": "github",
     "author": "sukakcoding",

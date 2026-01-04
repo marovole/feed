@@ -16,6 +16,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2007777741459075206",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@ChangJonathanC @jxmnop Skill issue. @droid seems to work with multiple models just fine.",
+    "url": "https://x.com/JohnThilen/status/2007777741459075206",
+    "timestamp": "2026-01-04T11:34:50.000Z",
+    "metadata": {
+      "conversation_id": "2007777741459075206",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007772195372851415",
     "source": "twitter",
     "author": "CudaSlayer",

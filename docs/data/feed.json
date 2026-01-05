@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2008227810083803162",
+    "source": "twitter",
+    "author": "manojdotdev",
+    "content": "@tsunyoxi @FactoryAI @kilocode @claudeai @GitHubCopilot @code 😂😂",
+    "url": "https://x.com/manojdotdev/status/2008227810083803162",
+    "timestamp": "2026-01-05T17:23:15.000Z",
+    "metadata": {
+      "conversation_id": "2008227810083803162",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008227656895263036",
+    "source": "twitter",
+    "author": "MullerNavas",
+    "content": "@canvardar Droids by @FactoryAI",
+    "url": "https://x.com/MullerNavas/status/2008227656895263036",
+    "timestamp": "2026-01-05T17:22:39.000Z",
+    "metadata": {
+      "conversation_id": "2008227656895263036",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008227654605193647",
+    "source": "twitter",
+    "author": "tsunyoxi",
+    "content": "@manojdotdev of course with other AI integrations, I use @FactoryAI @kilocode , @claudeai code and @GitHubCopilot and then connect with different MCP's, @code feels like home ykwim.",
+    "url": "https://x.com/tsunyoxi/status/2008227654605193647",
+    "timestamp": "2026-01-05T17:22:38.000Z",
+    "metadata": {
+      "conversation_id": "2008227654605193647",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008226913895280702",
+    "source": "twitter",
+    "author": "tsunyoxi",
+    "content": "@canvardar 1. @opencode with @Zai_org \n2. @blackboxai \n3. @warpdotdev (not that much, but yeah it works)\n4. @FactoryAI (its droid is insane)\n5. @kilocode (its getting better with every update)",
+    "url": "https://x.com/tsunyoxi/status/2008226913895280702",
+    "timestamp": "2026-01-05T17:19:41.000Z",
+    "metadata": {
+      "conversation_id": "2008226913895280702",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008218211502948687",
     "source": "twitter",
     "author": "geo_anima",

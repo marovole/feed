@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2008167728880775557",
+    "source": "twitter",
+    "author": "Mardoshay_",
+    "content": "@matanSF @FactoryAI Arnt we all AI? i thought that was implied very early so now some of the terms are confusing me",
+    "url": "https://x.com/Mardoshay_/status/2008167728880775557",
+    "timestamp": "2026-01-05T13:24:31.000Z",
+    "metadata": {
+      "conversation_id": "2008167728880775557",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008162757544431746",
+    "source": "twitter",
+    "author": "dqldev",
+    "content": "@canvardar Droid of @FactoryAI",
+    "url": "https://x.com/dqldev/status/2008162757544431746",
+    "timestamp": "2026-01-05T13:04:45.000Z",
+    "metadata": {
+      "conversation_id": "2008162757544431746",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008151025103122527",
+    "source": "twitter",
+    "author": "vigneshg_co",
+    "content": "@canvardar @opencode @AmpCode @FactoryAI",
+    "url": "https://x.com/vigneshg_co/status/2008151025103122527",
+    "timestamp": "2026-01-05T12:18:08.000Z",
+    "metadata": {
+      "conversation_id": "2008151025103122527",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008145572902097066",
+    "source": "twitter",
+    "author": "GauravBhogale",
+    "content": "@matanSF @FactoryAI These are the droids we’ve been looking for",
+    "url": "https://x.com/GauravBhogale/status/2008145572902097066",
+    "timestamp": "2026-01-05T11:56:28.000Z",
+    "metadata": {
+      "conversation_id": "2008145572902097066",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1q4jahe",
     "source": "reddit",
     "author": "Andsss",
@@ -12,6 +72,36 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2008138129027289387",
+    "source": "twitter",
+    "author": "RyzenBR",
+    "content": "@iamsanjayofficl @canvardar @FactoryAI @opencode True. Tried both and went back to CC.",
+    "url": "https://x.com/RyzenBR/status/2008138129027289387",
+    "timestamp": "2026-01-05T11:26:54.000Z",
+    "metadata": {
+      "conversation_id": "2008138129027289387",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008137739452231991",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "you shouldn’t be learning to code in 2026\n\nyou should download warp terminal\n\nthen get a subscription to with Claude code MAX\n\nor my personal favourite, @FactoryAI \n\nand start building something\n\nanything\n\nwhatever comes to mind\n\njust get in the trenches and start building\n\nyou’ll learn so much, and yeah it’ll cost you a bit of money\n\nbut the opportunity cost of NOT learning is 1000x more\n\ndon’t waste a second learning to code\n\nlearn to build",
+    "url": "https://x.com/brendenvonhouse/status/2008137739452231991",
+    "timestamp": "2026-01-05T11:25:21.000Z",
+    "metadata": {
+      "conversation_id": "2008137739452231991",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008132883723239880",

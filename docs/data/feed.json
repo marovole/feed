@@ -9122,6 +9122,19 @@
     "category": "question"
   },
   {
+    "id": "github_issue_544",
+    "source": "github",
+    "author": "LeviTK",
+    "content": "[Issue] mcp auth BUG\n\n\n\nhttps://support.heptabase.com/en/articles/12679581-how-to-use-heptabase-mcp\n\n\n<img width=\"1306\" height=\"1038\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/92cc4fcd-3cea-4d5e-a9ab-54c2a7329b1b\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/544",
+    "timestamp": "2025-12-23T17:09:35Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 544
+    }
+  },
+  {
     "id": "reddit_1ptoqm4",
     "source": "reddit",
     "author": "Queasy_Asparagus69",

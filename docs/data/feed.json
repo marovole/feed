@@ -32,6 +32,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2007983768477553009",
+    "source": "twitter",
+    "author": "gtmba_",
+    "content": "@alecpowell @Justin_Digs @modal @FactoryAI @vibescaling thank you @alecpowell ! awesome having you",
+    "url": "https://x.com/gtmba_/status/2007983768477553009",
+    "timestamp": "2026-01-05T01:13:31.000Z",
+    "metadata": {
+      "conversation_id": "2007983768477553009",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007968792778014816",
+    "source": "twitter",
+    "author": "mark_attar",
+    "content": "@matanSF @lexfridman @FactoryAI Completely unbiased opinion lol",
+    "url": "https://x.com/mark_attar/status/2007968792778014816",
+    "timestamp": "2026-01-05T00:14:01.000Z",
+    "metadata": {
+      "conversation_id": "2007968792778014816",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007962559799013625",
     "source": "twitter",
     "author": "JohnThilen",

@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_563",
+    "source": "github",
+    "author": "juanmapf",
+    "content": "[Issue] Delegating tasks to Factory in Linear stalls & kicks-off a read-only Legacy Session\n\nCurrently I can't delegate tasks to Factory from within Linear. When doing so, the Droid session boots up correctly and starts working on the task, but after a while it stalls in a random step (can't seem to see a pattern on which step it decides to stall at). Then when trying to access the session in web/app to continue it, it shows up as Legacy, which are read-only and can't be recovered.",
+    "url": "https://github.com/Factory-AI/factory/issues/563",
+    "timestamp": "2026-01-05T16:39:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 563
+    }
+  },
+  {
+    "id": "twitter_2008215154660679829",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@matanSF @FactoryAI Exactly. This will change software development forever.",
+    "url": "https://x.com/codewithimanshu/status/2008215154660679829",
+    "timestamp": "2026-01-05T16:32:58.000Z",
+    "metadata": {
+      "conversation_id": "2008215154660679829",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008207146522223094",
     "source": "twitter",
     "author": "johnrushx",

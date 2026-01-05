@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007985676550386002",
+    "source": "twitter",
+    "author": "php100",
+    "content": "@JohnThilen @poapstudio @bcherny @vercel @Firebase @Tailscale @droid I just created a solution using Cloudflare tunnel if I'm leaving house and local network if going into the other room.\n\nAgent SDK handles session handoff very well.\n\nCrazy. https://t.co/dDjdNQWLjs",
+    "url": "https://x.com/php100/status/2007985676550386002",
+    "timestamp": "2026-01-05T01:21:06.000Z",
+    "metadata": {
+      "conversation_id": "2007985676550386002",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007984861097898207",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@php100 @poapstudio @bcherny @vercel @Firebase I don't have a complete solution, but the best way to connect your desktop and phone is @Tailscale. I am thinking of using https://t.co/dYckfedt8t to create my own app for chatting with @droid on my VPS. If you have similar thoughts, please share!",
+    "url": "https://x.com/JohnThilen/status/2007984861097898207",
+    "timestamp": "2026-01-05T01:17:52.000Z",
+    "metadata": {
+      "conversation_id": "2007984861097898207",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007962559799013625",
     "source": "twitter",
     "author": "JohnThilen",

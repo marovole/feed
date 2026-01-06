@@ -12,15 +12,24 @@ async function scrapeReddit() {
     return [];
   }
 
+  // Load URLs from config
+  const config = require('../docs/config.json');
+  const redditUrls = config.reddit?.urls || [];
+
+  if (redditUrls.length === 0) {
+    console.log('[Reddit] No Reddit URLs configured in config.json');
+    return [];
+  }
+
   try {
-    console.log('[Reddit] Starting Apify Reddit scraper...');
+    console.log(`[Reddit] Starting Apify Reddit scraper for ${redditUrls.length} URLs...`);
     
-    // Start Apify Reddit scraper - scrape r/FactoryAi subreddit
+    // Start Apify Reddit scraper with configured URLs
     const runResponse = await axios.post(
       'https://api.apify.com/v2/acts/oAuCIx3ItNrs2okjQ/runs',
       {
-        startUrls: [{ url: 'https://www.reddit.com/r/FactoryAi/' }],
-        maxItems: 25,
+        startUrls: redditUrls.map(url => ({ url })),
+        maxItems: 50,
         skipComments: true,
         sort: 'new'
       },

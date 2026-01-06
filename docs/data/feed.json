@@ -10966,5 +10966,239 @@
       "number": 384
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_72",
+    "source": "github",
+    "author": "Boyalskyy",
+    "content": "[Issue] [Inconsistency] stp_id type mismatch between API and SDK\n\n### Hello Gate.io team\n\nFirst of all, thank you for maintaining the Go SDK. I’ve noticed a type mismatch that leads to unmarshalling errors when consuming WebSocket data.\n\nProblem\n\nAccording to the [[official WSS documentation](https://www.gate.com/docs/developers/futures/ws/en/#orders-notification)], the field stp_id is returned as a string:\n\n`\"stp_id\": \"0\"`\n\n\nHowever, in the Go SDK it is defined as an int64:\n\n`StpId int64 json:\"stp_id,omitempty\"`\n\n\nThis causes the following error when parsing ",
+    "url": "https://github.com/gateio/gatews/issues/72",
+    "timestamp": "2025-09-03T15:47:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 72
+    }
+  },
+  {
+    "id": "github_issue_71",
+    "source": "github",
+    "author": "taobig",
+    "content": "[Issue] Expose the `WsService.status` variable and `status` enumeration values externally.\n\nCurrently, there is no reliable basis for determining when a WebSocket connection has been disconnected. The only way to determine this is by checking the status value.\n\n\nrelated PR: https://github.com/gateio/gatews/pull/55/files",
+    "url": "https://github.com/gateio/gatews/issues/71",
+    "timestamp": "2025-07-30T09:03:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 71
+    }
+  },
+  {
+    "id": "github_issue_69",
+    "source": "github",
+    "author": "iwanami10",
+    "content": "[Issue] Can you use one conn to subscribe multiple currency pairs?\n\nREADME says \"it is recommended to use one conn to initialize multiple channels\"\r\n\r\nBut, is it possible to subscribe multiple currency pairs (eg. BTC_USDT and ETH_USDT) to SpotPublicTradeChannel with only one Connection?\r\nI subscribe two pairs and the former callback does not called.\r\nUsing two Connections solved.\r\n",
+    "url": "https://github.com/gateio/gatews/issues/69",
+    "timestamp": "2025-01-06T20:53:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 69
+    }
+  },
+  {
+    "id": "github_issue_68",
+    "source": "github",
+    "author": "Mohamezezo",
+    "content": "[Issue]     name = \"spot.funding_balances\"\n    require_auth = True\n\n\nclass SpotCrossMarginBalanceChannel(BaseChannel):\n    name = \"spot.cross_balances\"\n    require_auth = True\n\n",
+    "url": "https://github.com/gateio/gatews/issues/68",
+    "timestamp": "2024-12-25T02:16:16Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 68
+    }
+  },
+  {
+    "id": "github_issue_65",
+    "source": "github",
+    "author": "go-dockly",
+    "content": "[Issue] perpetual socket order_book_update limit\n\nI was curious what are the exact vip  socket subscriptions limits for gateio perpetuals api?",
+    "url": "https://github.com/gateio/gatews/issues/65",
+    "timestamp": "2024-09-13T17:45:45Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 65
+    }
+  },
+  {
+    "id": "github_issue_64",
+    "source": "github",
+    "author": "DevaloperHH",
+    "content": "[Issue] Does it support proxy configuration?\n\nI would like to configure different proxies (HTTP or SOCKS5) for requests. Is this currently supported, or are there any plans to add this feature?",
+    "url": "https://github.com/gateio/gatews/issues/64",
+    "timestamp": "2024-08-13T07:41:46Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 64
+    }
+  },
+  {
+    "id": "github_issue_59",
+    "source": "github",
+    "author": "htquyen1994",
+    "content": "[Issue] Cannot withdraw USDT to other exchange\n\n`host = \"https://api.gateio.ws\"\r\n    prefix = \"/api/v4\"\r\n    common_headers = {'Accept': 'application/json', 'Content-Type': 'application/json'}\r\n\r\n    url = '/withdrawals' \r\n    body = {\r\n        \"currency\": \"USDT\", #\"ADF\",\r\n        \"address\": BITGET_DEPOSIT_ADDRESS,\r\n        \"amount\": \"5\", \r\n        \"chain\": \"BSC/BEP20\", #BSC/BEP20 MATIC\r\n        \"address_memo\": \"\"\r\n    }\r\n    request_content = json.dumps(body)\r\n    sign_headers = gen_sign('POST', prefix + url, \"\", request_content)\r\n    sign_h",
+    "url": "https://github.com/gateio/gatews/issues/59",
+    "timestamp": "2024-05-27T03:48:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 59
+    }
+  },
+  {
+    "id": "github_issue_52",
+    "source": "github",
+    "author": "HonzaFromBitfinity",
+    "content": "[Issue] Updating local ordebook from Websocket\n\nThe \"incremental\" updating local orderbook from websocket does not work correctly. **Only first 100 items in orderbook are updated.** The rest of orderbook has a discrepancies. If you compare two orderbooks one from REST and one builded from websocket updates (with same sequence number), You will find that only first 100 items is equal. \r\n\r\nI am using _spot.order_book_update_ channel, which is described here [GateIO Websocket OrderBook Documentation](https://www.gate.io/docs/developers/apiv4/ws/",
+    "url": "https://github.com/gateio/gatews/issues/52",
+    "timestamp": "2023-01-24T07:29:46Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 52
+    }
+  },
+  {
+    "id": "github_issue_50",
+    "source": "github",
+    "author": "ead353",
+    "content": "[Issue] Can the python version of gate-ws set proxy when using it?\n\nIf possible, how to set it up?",
+    "url": "https://github.com/gateio/gatews/issues/50",
+    "timestamp": "2022-12-04T17:14:58Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 50
+    }
+  },
+  {
+    "id": "github_issue_49",
+    "source": "github",
+    "author": "atirra",
+    "content": "[Issue] SpotPublicTradeChannel  responses\n\nHello there!\r\n\r\nIn `**response.result**` the 'id' field's order not always in order as same in `'create_time_in_ms'` too.\r\nWhen `'create_time_in_ms'` field is equal with the next response time, 'id' fields shows the wrong order of responses.  \r\n\r\nMaybe my fail, but cant handle this strange behavior\r\nRegards,\r\nAtirra\r\n\r\n{'status': 'success'}\r\n{'id': 4616057627, 'create_time': 1669181021, 'create_time_ms': '1669181021177.0', 'side': 'sell', 'currency_pair': 'BTC_USDT', 'amount': '0.0135', 'price':",
+    "url": "https://github.com/gateio/gatews/issues/49",
+    "timestamp": "2022-11-23T05:43:25Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 49
+    }
+  },
+  {
+    "id": "github_issue_48",
+    "source": "github",
+    "author": "LKresta",
+    "content": "[Issue] `text` field in account book REST response\n\nHello there!\r\n\r\nThere's `text` field in `/futures/{settle}/account_book` response (https://www.gate.io/docs/developers/apiv4/en/#query-account-book) which is documented as _comment_. Per observation the semantics of the field value depends on `type` of the record, e.g. for `pnl` records the value is `contract:orderId`, and for funding payments the value is just `contract`. Can this behavior be relied upon? That is, is it guaranteed that _when the record type is `fund` the value in `text` field i",
+    "url": "https://github.com/gateio/gatews/issues/48",
+    "timestamp": "2022-11-09T10:04:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 48
+    }
+  },
+  {
+    "id": "github_issue_47",
+    "source": "github",
+    "author": "LKresta",
+    "content": "[Issue] 'available balance' via WS?\n\nHello,\r\n\r\nis there a way to get/compute 'available balance' based on WS notifications?\r\n\r\nWhen REST API is used to obtain account balance (https://www.gate.io/docs/developers/apiv4/en/#query-futures-account) the information includes `total` and `available` amounts (and doesn't include any sort of 'valid as of' time). WS notification (https://www.gate.io/docs/developers/futures/ws/en/#positions-notification) only provides `total` amount and `change amount`. But the `available` amount likely does ",
+    "url": "https://github.com/gateio/gatews/issues/47",
+    "timestamp": "2022-11-03T11:34:38Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 47
+    }
+  },
+  {
+    "id": "github_issue_41",
+    "source": "github",
+    "author": "KindSpidey",
+    "content": "[Issue] Can you help with provide of code to make a limit order buy on Spot and limit/market buy order on Futures?\n\nHello. I'm just getting started with this library and not very familiar of how to do things with it. I didn't find any example of code of how to place orders and make buys.\r\n\r\nCan you provide an example of buying BTC? From start of authentification, listening channels and make fast as possible bought. Both futures and spot markets?",
+    "url": "https://github.com/gateio/gatews/issues/41",
+    "timestamp": "2022-10-20T10:36:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 41
+    }
+  },
+  {
+    "id": "github_issue_40",
+    "source": "github",
+    "author": "mengoudis",
+    "content": "[Issue] Websocket connection stability\n\nHello everyone.\r\n\r\nI have noticed many frequent random disconnects from the Gate.io websocket server.\r\nEverything is stable when connecting to the websocket servers of 3 other major exchanges (and the code can run for days) but the connection to Gate.io is unstable.\r\nIt disconnects with no apparent reason, it does not seem to close the connection, it seems more like just sitting idle and not sending any updates.\r\nPing / pong protocol is respected with the connection (even though their documentat",
+    "url": "https://github.com/gateio/gatews/issues/40",
+    "timestamp": "2022-09-16T16:17:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 40
+    }
+  },
+  {
+    "id": "github_issue_35",
+    "source": "github",
+    "author": "memetea",
+    "content": "[Issue] 成交通知不匹配\n\n问题： \r\n永续合约PEOPLE_USDT下单， size为262， websocket的futures.orders channel通知的订单成交为262， 但是futures.usertrades channel发送了两笔交易通知， 一笔成交size为8， 另一笔size为256。 不知道这个是不是bug。  如需详细订单和交易通知， 可以发送到邮箱。",
+    "url": "https://github.com/gateio/gatews/issues/35",
+    "timestamp": "2022-08-23T14:19:25Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 35
+    }
+  },
+  {
+    "id": "github_issue_28",
+    "source": "github",
+    "author": "pedrobertao",
+    "content": "[Issue] Market orders\n\nIs there any way to make a market order ? Like stop market ?\r\nWhat are the options for this type of trade using api level ?",
+    "url": "https://github.com/gateio/gatews/issues/28",
+    "timestamp": "2022-03-19T07:31:50Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 28
+    }
+  },
+  {
+    "id": "github_issue_10",
+    "source": "github",
+    "author": "keyniu",
+    "content": "[Issue] win 10 64 位系统example 报错\n\nTraceback (most recent call last):\r\n  File \"C:/Users/14816/PycharmProjects/pythonProject1/examples/local_order_book.py\", line 337, in <module>\r\n    screen = Screen.open(300)\r\n  File \"C:\\Users\\14816\\PycharmProjects\\pythonProject1\\venv\\lib\\site-packages\\asciimatics\\screen.py\", line 1304, in open\r\n    win_out.SetConsoleScreenBufferSize(info['Size'])\r\npywintypes.error: (87, 'SetConsoleScreenBufferSize', '参数错误。')",
+    "url": "https://github.com/gateio/gatews/issues/10",
+    "timestamp": "2021-07-24T08:24:11Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 10
+    }
+  },
+  {
+    "id": "github_issue_2",
+    "source": "github",
+    "author": "leoyey",
+    "content": "[Issue] 现货冻结资产推送\n\n目前现货的资产推送频道 spot.balances 对于资产冻结的动作没有推送。比如下一个订单，该订单没有成交，还在服务器挂着。这时候的资产推送频道并不会推送目前被冻结的资产和可用资产。市面上其他竞品，比如火币、Okex、币安都有类似功能。请问是我什么地方没有做对，还是Gate没有该功能？",
+    "url": "https://github.com/gateio/gatews/issues/2",
+    "timestamp": "2021-04-27T06:52:48Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 2
+    }
   }
 ]

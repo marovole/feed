@@ -1,7 +1,10 @@
 const axios = require('axios');
+const path = require('path');
+const fs = require('fs');
 
 /**
- * Scrapes mentions of @FactoryAI from Twitter using Apify
+ * Scrapes Twitter mentions using Apify
+ * Search terms are loaded from docs/config.json
  * @returns {Promise<Array>} Array of normalized tweet objects
  */
 async function scrapeTwitter() {
@@ -12,8 +15,22 @@ async function scrapeTwitter() {
     return [];
   }
 
+  // Load search terms from config
+  const configPath = path.join(__dirname, '..', '..', 'docs', 'config.json');
+  let searchTerms = ['@FactoryAI']; // Default fallback
+  
   try {
-    console.log('[Twitter] Starting Apify Twitter scraper...');
+    const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+    if (config.twitter?.searchTerms && config.twitter.searchTerms.length > 0) {
+      searchTerms = config.twitter.searchTerms;
+    }
+  } catch (err) {
+    console.log('[Twitter] Could not load config.json, using default search terms');
+  }
+
+  try {
+    console.log(`[Twitter] Starting Apify Twitter scraper with ${searchTerms.length} search terms...`);
+    console.log(`[Twitter] Search terms: ${searchTerms.slice(0, 5).join(', ')}${searchTerms.length > 5 ? '...' : ''}`);
 
     // Start the Apify actor run
     // Using the Twitter Scraper actor which is more reliable
@@ -21,8 +38,8 @@ async function scrapeTwitter() {
       'https://api.apify.com/v2/acts/61RPP7dywgiy0JPD0/runs',
       {
         searchMode: 'live',
-        searchTerms: ['@FactoryAI', '@droid'],
-        maxItems: 20,
+        searchTerms: searchTerms,
+        maxItems: 50,
         addUserInfo: true
       },
       {
@@ -78,34 +95,43 @@ async function scrapeTwitter() {
           console.log('[Twitter] Warning: Only demo data returned. Check your Apify credits at https://console.apify.com/billing');
         }
 
-        tweets = realTweets.map(tweet => {
-          // Extract username from URL since author field is not included
-          const tweetId = tweet.id;
-          let username = 'unknown';
-          
-          if (tweet.twitterUrl || tweet.url) {
-            const urlMatch = (tweet.twitterUrl || tweet.url).match(/twitter\.com\/([^\/]+)\//);
-            if (urlMatch) {
-              username = urlMatch[1];
+        tweets = realTweets
+          .filter(tweet => tweet.id && (tweet.text || tweet.fullText))
+          .map(tweet => {
+            const tweetId = tweet.id;
+            let username = tweet.author?.userName || tweet.user?.screen_name || 'unknown';
+            
+            if (username === 'unknown' && (tweet.twitterUrl || tweet.url)) {
+              const tweetUrl = tweet.twitterUrl || tweet.url;
+              const urlMatch = tweetUrl.match(/(?:twitter\.com|x\.com)\/([^\/]+)\//);
+              if (urlMatch) {
+                username = urlMatch[1];
+              }
             }
-          }
-          
-          return {
-            id: `twitter_${tweetId}`,
-            source: 'twitter',
-            author: username,
-            content: tweet.text,
-            url: tweet.url,
-            timestamp: new Date(tweet.createdAt).toISOString(),
-            metadata: {
-              conversation_id: tweetId, // Use tweet ID as conversation proxy
-              likes: tweet.likeCount || 0,
-              retweets: tweet.retweetCount || 0,
-              replies: tweet.replyCount || 0,
-              quotes: tweet.quoteCount || 0
+            
+            let timestamp;
+            try {
+              timestamp = tweet.createdAt ? new Date(tweet.createdAt).toISOString() : new Date().toISOString();
+            } catch {
+              timestamp = new Date().toISOString();
             }
-          };
-        });
+            
+            return {
+              id: `twitter_${tweetId}`,
+              source: 'twitter',
+              author: username,
+              content: tweet.text || tweet.fullText || '',
+              url: tweet.url || tweet.twitterUrl || `https://x.com/${username}/status/${tweetId}`,
+              timestamp,
+              metadata: {
+                conversation_id: tweet.conversationId || tweetId,
+                likes: tweet.likeCount || tweet.likes || 0,
+                retweets: tweet.retweetCount || tweet.retweets || 0,
+                replies: tweet.replyCount || tweet.replies || 0,
+                quotes: tweet.quoteCount || 0
+              }
+            };
+          });
 
         console.log(`[Twitter] Successfully fetched ${tweets.length} tweets from Apify`);
         break;

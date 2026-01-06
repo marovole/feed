@@ -49,7 +49,7 @@ npm run feed list -- --category question
 
 **By Author:**
 ```bash
-npm run feed list -- --author bentossell
+npm run feed list -- --author gate
 npm run feed list -- --author "jason" --limit 5
 ```
 

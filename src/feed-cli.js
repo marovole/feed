@@ -289,7 +289,7 @@ ${colors.bright}Examples:${colors.reset}
   feed list
   feed list --source twitter --limit 10
   feed list --category love -v
-  feed list --author bentossell
+  feed list --author gate
   feed search "bug"
   feed view twitter_2000539163565973531
   feed stats

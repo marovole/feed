@@ -4,7 +4,7 @@ This document provides best practices and guidelines for AI agents working on th
 
 ## Repository Overview
 
-**Purpose**: A social media feed aggregator that scrapes Twitter, Reddit, and GitHub for content related to Factory AI. The application runs on GitHub Pages with GitHub Actions handling backend scraping.
+**Purpose**: A social media feed aggregator that scrapes Twitter, Reddit, and GitHub for content related to Gate. The application runs on GitHub Pages with GitHub Actions handling backend scraping.
 
 **Architecture**:
 - **Frontend**: Static HTML/CSS/JS served by GitHub Pages

@@ -1,5 +1,5 @@
 {
-  "name": "social-feed-aggregator",
+  "name": "gate-feed-aggregator",
   "version": "1.0.0",
   "description": "A token-gated social media feed aggregator that scrapes Twitter, Reddit, and GitHub. Runs on GitHub Pages with automated scraping via GitHub Actions.",
   "main": "src/index.js",
@@ -25,16 +25,16 @@
     "scraper",
     "feed-reader"
   ],
-  "author": "Ben Tossell",
+  "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bentossell/ccc-new.git"
+    "url": "https://github.com/marovole/feed.git"
   },
   "bugs": {
-    "url": "https://github.com/bentossell/ccc-new/issues"
+    "url": "https://github.com/marovole/feed/issues"
   },
-  "homepage": "https://github.com/bentossell/ccc-new#readme",
+  "homepage": "https://github.com/marovole/feed#readme",
   "type": "commonjs",
   "dependencies": {
     "@octokit/graphql": "^9.0.2",

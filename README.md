@@ -1,6 +1,6 @@
-# Social Feed Aggregator
+# Gate Feed Aggregator
 
-Built with [Droid](https://factory.ai)
+Built with Droid
 
 A private social media feed aggregator for tracking mentions across Twitter, Reddit, and GitHub. Runs on GitHub Pages with automated scraping via GitHub Actions.
 

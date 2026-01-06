@@ -1,4 +1,4 @@
-# Contributing to Social Feed Aggregator
+# Contributing to Gate Feed Aggregator
 
 Thank you for your interest in contributing! This project is open source and we welcome improvements from the community.
 
@@ -16,8 +16,8 @@ Thank you for your interest in contributing! This project is open source and we 
 1. **Fork the repository**
 2. **Clone your fork:**
    ```bash
-   git clone https://github.com/your-username/social-feed-aggregator.git
-   cd social-feed-aggregator
+   git clone https://github.com/your-username/gate-feed-aggregator.git
+   cd gate-feed-aggregator
    ```
 3. **Set up your environment:**
    ```bash
@@ -186,8 +186,7 @@ Want to add a new social platform? Here's how:
 
 - 📖 Check the [README](README.md) for setup instructions
 - 🤖 Review [AGENTS.md](AGENTS.md) for AI agent guidelines
-- 🐛 Open an [issue](https://github.com/bentossell/ccc-new/issues) to ask questions
-- 💬 Tag @bentossell in your PR for review
+- 🐛 Open an [issue](https://github.com/marovole/feed/issues) to ask questions
 
 ## Code of Conduct
 

@@ -166,7 +166,7 @@ async function pollFeeds() {
  * Initialize and start the application
  */
 async function start() {
-  console.log('🚀 Factory Social Feed Aggregator Starting...\n');
+  console.log('🚀 Gate Feed Aggregator Starting...\n');
 
   // Initialize storage
   await initStorage();

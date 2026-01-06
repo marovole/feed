@@ -15,7 +15,7 @@ async function scrapeReddit() {
   // Load URLs from config
   const path = require('path');
   const fs = require('fs');
-  const configPath = path.join(__dirname, '..', 'docs', 'config.json');
+  const configPath = path.join(__dirname, '..', '..', 'docs', 'config.json');
   const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
   const redditUrls = config.reddit?.urls || [];
 

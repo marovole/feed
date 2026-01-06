@@ -1,6 +1,6 @@
 {
   "twitter": {
-    "searchTerms": ["gateio", "Gate.io", "$GT"],
+    "searchTerms": ["gateio", "Gate.io", "$GT", "Polymarket", "kalshi", "manifoldmarkets", "$POL"],
     "excludeUsernames": []
   },
   "reddit": {
@@ -9,7 +9,7 @@
     ]
   },
   "github": {
-    "usernames": ["octocat"],
-    "topics": ["open-source"]
+    "usernames": ["gateio", "kalshi", "manifoldmarkets"],
+    "topics": ["prediction-market"]
   }
 }

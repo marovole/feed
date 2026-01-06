@@ -5,7 +5,7 @@
       "Polymarket", "$POL",
       "kalshi",
       "manifoldmarkets",
-      "Hyperliquid", "GMX", "dYdX", "Vertex", "MEXC", "Drift", "Apex"
+      "Hyperliquid", "GMX", "dYdX", "Vertex", "MEXC", "Drift", "Apex", "lighter", "Aster"
     ],
     "excludeUsernames": []
   },
@@ -15,7 +15,7 @@
     ]
   },
   "github": {
-    "usernames": ["gateio", "kalshi", "manifoldmarkets", "hyperliquid", "gmx-io", "dydx", "vertex-protocol"],
+    "usernames": ["gateio", "kalshi", "manifoldmarkets", "hyperliquid", "gmx-io", "dydx", "vertex-protocol", "lighterprotocol", "asterFi"],
     "topics": ["perp", "perpetual", "prediction-market"]
   }
 }

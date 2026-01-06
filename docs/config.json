@@ -1,7 +1,7 @@
 {
   "twitter": {
-    "searchTerms": ["example"],
-    "excludeUsernames": ["ExampleBot"]
+    "searchTerms": ["gateio", "Gate.io", "$GT"],
+    "excludeUsernames": []
   },
   "reddit": {
     "urls": [

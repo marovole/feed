@@ -11,7 +11,14 @@
   },
   "reddit": {
     "urls": [
-      "https://www.reddit.com/search/?q=example&type=link&sort=new"
+      "https://www.reddit.com/r/DeFi/",
+      "https://www.reddit.com/r/cryptocurrency/",
+      "https://www.reddit.com/r/ethfinance/",
+      "https://www.reddit.com/r/binance/",
+      "https://www.reddit.com/search/?q=Hyperliquid&type=link&sort=new",
+      "https://www.reddit.com/search/?q=Polymarket&type=link&sort=new",
+      "https://www.reddit.com/search/?q=perpetual+trading&type=link&sort=new",
+      "https://www.reddit.com/search/?q=GMX&type=link&sort=new"
     ]
   },
   "github": {

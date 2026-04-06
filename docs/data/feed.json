@@ -1,5 +1,96 @@
 [
   {
+    "id": "reddit_1sdspo4",
+    "source": "reddit",
+    "author": "ApyPulse",
+    "content": "Why is tracking DeFi yields still so primitive?\n\nSerious question.\n\nWe have all these protocols, dashboards, analytics tools… but actually, monitoring yields still feels broken:\n\n\\- APYs change and you don’t notice until it’s too late\n\n\\- TVL shifts (which usually signal risk) are easy to miss\n\n\\- you end up checking 3–5 different sites like it’s 2015\n\nFeels like unless you’re constantly watching, you’re either:\n\n\\- late to opportunities\n\n\\- or late to risk\n\nSo, how are you guys actually handling this?\n\n\\- Just manually checking dashboards?\n\n\\",
+    "url": "https://www.reddit.com/r/defi/comments/1sdspo4/why_is_tracking_defi_yields_still_so_primitive/",
+    "timestamp": "2026-04-06T08:08:16.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1sdso3u",
+    "source": "reddit",
+    "author": "Fabulous-Mushroom124",
+    "content": "Trying to untangle One Piece as a whole\n\nSpoiler warning: I will be discussing what we saw in chapter 1179 which is very recent but recontextualize a lot. I don't think there's anyone around who hasn't read it or been spoiled by social media at this point. But if you haven't, this is your spoiler warning.\n\nThere are a few things in the One Piece timeline that we know happened, but can't really say *when* exactly it happened:\n\n* Lunarians lived at the top of the Red Line. Where Mary Geoise currently stands. They were also seen as \"Gods\"",
+    "url": "https://www.reddit.com/r/OnePiece/comments/1sdso3u/trying_to_untangle_one_piece_as_a_whole/",
+    "timestamp": "2026-04-06T08:05:29.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 7,
+      "subreddit": "OnePiece"
+    }
+  },
+  {
+    "id": "reddit_1sdshl5",
+    "source": "reddit",
+    "author": "Fabulous-Mushroom124",
+    "content": "Trying to untangle One Piece as a whole\n\nSpoiler warning: I will be discussing what we saw in chapter 1179 which is very recent but recontextualize a lot. I don't think there's anyone around who hasn't read it or been spoiled by social media at this point. But if you haven't, this is your spoiler warning.\n\nThere are a few things in the One Piece timeline that we know happened, but can't really say *when* exactly it happened:\n\n* Lunarians lived at the top of the Red Line. Where Mary Geoise currently stands. They were also seen as \"Gods\"",
+    "url": "https://www.reddit.com/r/onepiecetheories/comments/1sdshl5/trying_to_untangle_one_piece_as_a_whole/",
+    "timestamp": "2026-04-06T07:54:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "onepiecetheories"
+    }
+  },
+  {
+    "id": "reddit_1sdsd5z",
+    "source": "reddit",
+    "author": "cryptonewsland",
+    "content": "Hyperliquid Faces Volatility as Whales Shift Positions: Will HYPE Hold $35?\n\nImages:\n\thttps://external-preview.redd.it/vYZVbMQddORSa0H1tL4CRyQClpxqp1HV0YXuA-BHuaY.jpeg?auto=webp&amp;s=103f55d87ca863a83b401e2cb1f0baf022d4489d\n",
+    "url": "https://www.reddit.com/r/cryptonewsland/comments/1sdsd5z/hyperliquid_faces_volatility_as_whales_shift/",
+    "timestamp": "2026-04-06T07:46:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "cryptonewsland"
+    }
+  },
+  {
+    "id": "reddit_1sds7sa",
+    "source": "reddit",
+    "author": "Accomplished-Arm-281",
+    "content": "Buona Pasquetta a tutti. Rimbalzo preso 💪🏻😆🔥\n\nImages:\n\thttps://preview.redd.it/nug6alfaxitg1.jpeg?auto=webp&amp;s=324253f9b42ed9bb0533a04604781768fac62b94\n",
+    "url": "https://www.reddit.com/r/cryptoguysitalia/comments/1sds7sa/buona_pasquetta_a_tutti_rimbalzo_preso/",
+    "timestamp": "2026-04-06T07:37:44.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "cryptoguysitalia"
+    }
+  },
+  {
+    "id": "reddit_1sds5tp",
+    "source": "reddit",
+    "author": "IMP3RIALISTICAL",
+    "content": "Try my indicator - DBZ Purecell\n\nI made this indicator.. add most popular information panels and added settings to match different styles.. I personally thing you will love it and fell \"super Saiyan\" in your trading.\n\nthis combination is how to get best results. 🐉🐲🍹😊dm",
+    "url": "https://www.reddit.com/r/pinescript/comments/1sds5tp/try_my_indicator_dbz_purecell/",
+    "timestamp": "2026-04-06T07:34:22.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 1,
+      "subreddit": "pinescript"
+    }
+  },
+  {
+    "id": "reddit_1sdrnoc",
+    "source": "reddit",
+    "author": "Fearless_Run4",
+    "content": "I built a DeFi protocol that turns EUR/USD hedging from a cost into yield — here's how it works\n\nI'm the founder of Nondollar Life, so I'm obviously biased but I think what we've built is worth discussing, especially with people who understand FX hedging.\n\nIn TradFi, hedging EUR/USD is pure cost. You pay the bank, the broker, the forward contract, and you're trusting counterparties you can't fully audit.   \n  \nFor anyone in forex or treasury, this is just accepted as the price of doing business.\n\nWe took a different approach. Nondollar lets you hedge your EURC stablecoin exposure daily and ",
+    "url": "https://www.reddit.com/r/defi/comments/1sdrnoc/i_built_a_defi_protocol_that_turns_eurusd_hedging/",
+    "timestamp": "2026-04-06T07:03:59.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 1,
+      "subreddit": "defi"
+    }
+  },
+  {
     "id": "reddit_1sdrltb",
     "source": "reddit",
     "author": "AlSikandar",
@@ -62,6 +153,32 @@
       "score": 28,
       "num_comments": 5,
       "subreddit": "AI_India"
+    }
+  },
+  {
+    "id": "reddit_1sdphc9",
+    "source": "reddit",
+    "author": "Enlec",
+    "content": "CMC just dropped new DEX APIs and they look really useful for DeFi devs\n\nOkay so CoinMarketCap released a bunch of new DEX APIs recently and I think it's actually a big deal for anyone building DeFi stuff.   \nYou can get real-time on-chain transaction data, live trade feeds (every swap as it happens), data from all major DEXs, and historical DEX data.   \nIf you're building anything in DeFi, a trading bot, an analytics tool, a portfolio tracker, a sniper, having reliable DEX data is super important and this covers a lot of it.   \nThey have a separate DEX API plan alon",
+    "url": "https://www.reddit.com/r/defi/comments/1sdphc9/cmc_just_dropped_new_dex_apis_and_they_look/",
+    "timestamp": "2026-04-06T04:59:10.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 2,
+      "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1sdpfwn",
+    "source": "reddit",
+    "author": "Remarkable_Special57",
+    "content": "starting to feel like payments are becoming the easy part\n\nBetween Tempo pushing Machine Payments Protocol and more teams building for agent payments, it feels like the industry is getting closer to a world where bots can actually pay for stuff without weird workarounds.\n\nBut the more I read, the more it feels like payments might end up being the easy part.\n\nThe harder part is still what happens after that. Cross-chain actions, liquidity access, settlement flow, all the ugly stuff that decides whether something actually works in production.\n\nThat is par",
+    "url": "https://www.reddit.com/r/defi/comments/1sdpfwn/starting_to_feel_like_payments_are_becoming_the/",
+    "timestamp": "2026-04-06T04:56:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "defi"
     }
   },
   {
@@ -624,6 +741,32 @@
     }
   },
   {
+    "id": "reddit_1scke7y",
+    "source": "reddit",
+    "author": "Hydralo",
+    "content": "Future Archetypes Visual Guide + ALL Missing Cards (Updated April 4th 2026)\n\nImages:\n\thttps://preview.redd.it/l4smqsqzh8tg1.png?auto=webp&amp;s=9357f73af998b786323d09685172edf89ddbe8cc\n",
+    "url": "https://www.reddit.com/r/masterduel/comments/1scke7y/future_archetypes_visual_guide_all_missing_cards/",
+    "timestamp": "2026-04-04T20:52:29.000Z",
+    "metadata": {
+      "score": 60,
+      "num_comments": 14,
+      "subreddit": "masterduel"
+    }
+  },
+  {
+    "id": "reddit_1scj09n",
+    "source": "reddit",
+    "author": "CorrectFrame3991",
+    "content": "Apparently, GMX recently got its first semi-relevant top\n\nhttps://ygoprodeck.com/deck/gmx-k9-fur-hire-701751\n\nApparently, a person got 2nd place in an 81 person WCQ on March 22 2026 with a GMX Fur Hire K9 deck. Considering the deck’s second wave hasn’t come out yet, what do you think of that?",
+    "url": "https://www.reddit.com/r/yugioh/comments/1scj09n/apparently_gmx_recently_got_its_first/",
+    "timestamp": "2026-04-04T19:56:57.000Z",
+    "metadata": {
+      "score": 14,
+      "num_comments": 14,
+      "subreddit": "yugioh"
+    }
+  },
+  {
     "id": "reddit_1scgfq6",
     "source": "reddit",
     "author": "rwatimes",
@@ -634,6 +777,32 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "RWATimes"
+    }
+  },
+  {
+    "id": "reddit_1scbz83",
+    "source": "reddit",
+    "author": "Ramjet1974",
+    "content": "TB not syncing with GMX\n\nAround March 23rd Thunderbird stopped syncing with GMX. I get the \"connection to [imap.gmx.com](http://imap.gmx.com) server timed out\" error message. I tested a few other email clients and found that I can successfully sync with the \"new\" Outlook client, but I cannot sync with the \"classic\" Outlook client nor Wino. Attempts with both of them return the same \"connection timed out\" error message when trying to sync with GMX. Oddly enough, though, I can fetch emails from GMX using my GMAIL account.",
+    "url": "https://www.reddit.com/r/Thunderbird/comments/1scbz83/tb_not_syncing_with_gmx/",
+    "timestamp": "2026-04-04T15:21:36.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 2,
+      "subreddit": "Thunderbird"
+    }
+  },
+  {
+    "id": "reddit_1sc85gm",
+    "source": "reddit",
+    "author": "judgegenehunt",
+    "content": "Stevebennett@gmx.co.uk\n\nJust thought Id share this, you can see a few of us on patrol at scifi Scarborough in April",
+    "url": "https://www.reddit.com/r/JudgeDredd/comments/1sc85gm/stevebennettgmxcouk/",
+    "timestamp": "2026-04-04T12:37:01.000Z",
+    "metadata": {
+      "score": 147,
+      "num_comments": 11,
+      "subreddit": "JudgeDredd"
     }
   },
   {

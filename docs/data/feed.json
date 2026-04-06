@@ -1,5 +1,70 @@
 [
   {
+    "id": "reddit_1sdrltb",
+    "source": "reddit",
+    "author": "AlSikandar",
+    "content": "Interesting experiment arbitraging favorite-longshot bias on polymarket/kalshi\n\nI developed an application for automating and managing trades on polymarket and kalshi. About 6 months ago I started looking into whether the favorite-longshot bias from horse racing and sports betting shows up in prediction markets. It does. I pulled all 59,000 resolved binary markets off their API and ran a calibration study. Markets priced in the 40-50% range resolve Yes only about 22% of the time. Sports and games are the strongest categories.\n\n**Why I don't think it's noise**\n\nI ran Benjami",
+    "url": "https://www.reddit.com/r/quant/comments/1sdrltb/interesting_experiment_arbitraging/",
+    "timestamp": "2026-04-06T07:01:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "quant"
+    }
+  },
+  {
+    "id": "reddit_1sdr8fd",
+    "source": "reddit",
+    "author": "MaziMatic",
+    "content": "Someone Offered Me $40K for My Prediction Market Bot… I Didn’t Sell It.\n\nA few days ago someone DM’d me offering $40,000 to buy the AI bot I built for analyzing markets on Polymarket.\n\nI said no.\n\nNot because I’m trying to sound cool.. but because selling it would honestly make zero sense.\n\nThe bot currently analyzes:\n\n• Liquidity changes\n\n• Sudden probability shifts\n\n• Market momentum\n\n• Wallet behavior patterns\n\nBasically it tries to detect unusual activity before the crowd reacts.\n\nOver the last few months it has been hitting around 87% win rate across the markets",
+    "url": "https://www.reddit.com/r/polymarket_bets/comments/1sdr8fd/someone_offered_me_40k_for_my_prediction_market/",
+    "timestamp": "2026-04-06T06:38:40.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 2,
+      "subreddit": "polymarket_bets"
+    }
+  },
+  {
+    "id": "reddit_1sdr85b",
+    "source": "reddit",
+    "author": "Order_101",
+    "content": "After making $4300 on Polymarket, i still don’t recommend obsessing over 5-minute BTC\n\nNot gonna lie, i get why copytrading the top Polymarket wallets is blowing up right now. when you see those screenshots on reddit or x, it looks like easy money. but if you’ve actually spent any time trading the short-dated crypto markets lately, you probably figured out pretty fast that this isn’t really a judgment game for most people. it’s an infrastructure game.\n\ni keep seeing retail traders jump into the 5-minute BTC markets thinking they’ve got an edge just because they have TradingView op",
+    "url": "https://www.reddit.com/r/PredictionMarkets/comments/1sdr85b/after_making_4300_on_polymarket_i_still_dont/",
+    "timestamp": "2026-04-06T06:38:14.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "PredictionMarkets"
+    }
+  },
+  {
+    "id": "reddit_1sdqdkg",
+    "source": "reddit",
+    "author": "Lost-Breath-6003",
+    "content": "Anyone using Polymarket from India? Need a small help\n\nHii Everyone \n\nI am trying to use Polymarket but honestly depositing is a huge headache and I am a student so I don't have big bank transactions to show Because of this the crypto withdrawal option isn't even available for me on apps like MudreX or CoinDCX they ask for too much documentation and a long process that I can't complete\n\nI just want to start with a very small amount, maybe $5 or $10 and yeah I tried to I reach each friend in my circle but no one use crypto transaction😅 so If someone",
+    "url": "https://www.reddit.com/r/Polymarket/comments/1sdqdkg/anyone_using_polymarket_from_india_need_a_small/",
+    "timestamp": "2026-04-06T05:49:04.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "Polymarket"
+    }
+  },
+  {
+    "id": "reddit_1sdppqf",
+    "source": "reddit",
+    "author": "Gaurav_212005",
+    "content": "How much Indian Gov. is spending on the AI Infra?\n\nImages:\n\thttps://preview.redd.it/w2j7144y6itg1.png?auto=webp&amp;s=0408087c6a8e31a111bed076b0716bfac3abfcfa\n",
+    "url": "https://www.reddit.com/r/AI_India/comments/1sdppqf/how_much_indian_gov_is_spending_on_the_ai_infra/",
+    "timestamp": "2026-04-06T05:11:26.000Z",
+    "metadata": {
+      "score": 28,
+      "num_comments": 5,
+      "subreddit": "AI_India"
+    }
+  },
+  {
     "id": "reddit_1sdpc3m",
     "source": "reddit",
     "author": "AlSikandar",
@@ -179,6 +244,19 @@
       "score": 28,
       "num_comments": 7,
       "subreddit": "TrueAnon"
+    }
+  },
+  {
+    "id": "reddit_1sdo0nd",
+    "source": "reddit",
+    "author": "Time-Alternative-964",
+    "content": "The Strait of Hormuz Is the Only Question That Matters Right Now\nA macro framework for navigating a world in transition where the outcome of one chokepoint determines the fate of every asset class!\n\nEvery so often, history offers you a **hinge**. A moment where the path taken determines the next several decades of global order. I believe we are living through one of those moments right now.\n\nAnd yet, I want to be clear about something upfront: I do not have a complete answer. I have a framework. I have strong convictions on most of my positioning. But on a meaningful portion of it, I am deliberately sitting with cash and hedges, because the outcome of one singular variable will determine ev",
+    "url": "https://www.reddit.com/r/BhartiyaStockMarket/comments/1sdo0nd/the_strait_of_hormuz_is_the_only_question_that/",
+    "timestamp": "2026-04-06T03:42:23.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 3,
+      "subreddit": "BhartiyaStockMarket"
     }
   },
   {

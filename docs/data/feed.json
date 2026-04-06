@@ -1,5 +1,44 @@
 [
   {
+    "id": "reddit_1sdw4ir",
+    "source": "reddit",
+    "author": "polymanAI",
+    "content": "Best Polymarket Traders to Follow in 2026 - How to Find Profitable Wallets\n\n**TL;DR:** The best Polymarket traders aren't the loudest on Twitter - they're anonymous wallets with 500+ trades and 58-65% win rates across multiple categories. Here's how to find them, what to look for, and why most \"top trader\" lists on social media are misleading.\n\n---\n\n## Why Following the Right Wallets Matters\n\nPolymarket is fully on-chain. Every trade, every position, every dollar is visible on Polygonscan. This is the single biggest advantage prediction markets have over traditional fin",
+    "url": "https://www.reddit.com/r/polyman/comments/1sdw4ir/best_polymarket_traders_to_follow_in_2026_how_to/",
+    "timestamp": "2026-04-06T11:25:24.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "polyman"
+    }
+  },
+  {
+    "id": "reddit_1sdvvlj",
+    "source": "reddit",
+    "author": "polymanAI",
+    "content": "Prediction Market Strategy for Beginners - How to Not Lose Money on Polymarket (2026)\n\n**TL;DR:** Start with $50-100, never bet more than 5% on a single market, focus on categories you actually know about, and stop chasing 90-cent favorites. The beginners who survive their first month all follow the same playbook: small bets, diversified positions, and letting math do the work instead of gut feelings.\n\n---\n\n## Why Most Beginners Lose Money\n\nLet's get this out of the way: **the majority of new Polymarket traders lose money in their first 30 days**. Not because prediction markets ar",
+    "url": "https://www.reddit.com/r/polyman/comments/1sdvvlj/prediction_market_strategy_for_beginners_how_to/",
+    "timestamp": "2026-04-06T11:12:46.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "polyman"
+    }
+  },
+  {
+    "id": "reddit_1sdvqhh",
+    "source": "reddit",
+    "author": "pradnyashil6",
+    "content": "Copy-Trade these 35+ traders who lost $2M+ on Polymarket and 28 of them QUIT!\n\nI know the stat that 82% of Polymarket traders lose, but the winners also don't win big.\n\nCopy-trade their opposite positions! You can automate this by developing your custom bots. I know some resources and a community of bot traders.\n\nIt takes patience, strategy and decent niche knowledge to win in Prediction Markets.\n\nI came a stat that 35 traders lost $2M+ each and 28 of them quit trading on Polymarket or at least they abandoned their wallets.\n\nProbably, they started using other wallets.\n\nOnl",
+    "url": "https://www.reddit.com/r/polymarket_bets/comments/1sdvqhh/copytrade_these_35_traders_who_lost_2m_on/",
+    "timestamp": "2026-04-06T11:05:34.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "polymarket_bets"
+    }
+  },
+  {
     "id": "reddit_1sdvkec",
     "source": "reddit",
     "author": "polymanAI",
@@ -897,6 +936,19 @@
     }
   },
   {
+    "id": "reddit_1sd8h0q",
+    "source": "reddit",
+    "author": "Enlec",
+    "content": "Didn't know CoinMarketCap had a free API until today, this changes everything for me\n\nI've been manually checking prices every morning like a caveman and today I found out CMC has an API that just gives you all that data automatically??\n\nYou can get live prices, market caps, volume, historical data, trending coins, literally everything. And there's a free tier so you can just sign up and start using it without paying.\n\nI'm already thinking about building a personal dashboard so I don't have to open 10 different tabs every morning. If you're into crypto and know even a little bit ",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1sd8h0q/didnt_know_coinmarketcap_had_a_free_api_until/",
+    "timestamp": "2026-04-05T16:46:18.000Z",
+    "metadata": {
+      "score": 19,
+      "num_comments": 14,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
     "id": "reddit_1sd7wpy",
     "source": "reddit",
     "author": "Otherwise_Storm6868",
@@ -1101,6 +1153,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 9,
+      "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1sbf33m",
+    "source": "reddit",
+    "author": "ArtichokeEvening423",
+    "content": "Dune Analytics Aave TVL sensitivity to DSR changes\n\nCan someone help me calculate Aave TVL sensitivity to DSR changes? \n\n I have to show the visualizations in the dashboard. \n\nI'm a beginner to SQL. I'm stuck as to how to approach this? Someone I know for whom I am doing this keeps asking me for updates. And I don't want to disappoint them. But I genuinely don't know how do I approach this? How do I start? Can I really help? ",
+    "url": "https://www.reddit.com/r/defi/comments/1sbf33m/dune_analytics_aave_tvl_sensitivity_to_dsr_changes/",
+    "timestamp": "2026-04-03T14:26:32.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "defi"
     }
   },

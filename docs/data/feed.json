@@ -1,5 +1,291 @@
 [
   {
+    "id": "reddit_1t5p7ie",
+    "source": "reddit",
+    "author": "Valimar909",
+    "content": "Polymarket api\n\nHi, Im having an issue placing orders via the clob api and I can't figure out what's wrong\n\nMy setup:  \n\\-Located in Paraguay  \n\\- Polymarket geoblock test returns {\"blocked\": false, \"country\": \"PY\"}  \n\\- Using py\\_clob\\_client\\_v2 with signature\\_type=2, correct funder address, valid API credentials  \n\\- Balance and allowance reads work fine (GET endpoints return correct data)\n\nBut any POST to /order returns:\n\n403 {\"error\": \"Trading restricted in your region, please refer to available regions\"}",
+    "url": "https://www.reddit.com/r/dev/comments/1t5p7ie/polymarket_api/",
+    "timestamp": "2026-05-06T20:41:02.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "dev"
+    }
+  },
+  {
+    "id": "reddit_1t5oucw",
+    "source": "reddit",
+    "author": "GradyGambrell1",
+    "content": "Gamestop and eBay (rule)\n\nImages:\n\thttps://preview.redd.it/qjuvofoytkzg1.png?auto=webp&amp;s=0acfcea5cd4f151d386a4516a3fd30471b113ec7\n",
+    "url": "https://www.reddit.com/r/196/comments/1t5oucw/gamestop_and_ebay_rule/",
+    "timestamp": "2026-05-06T20:27:37.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 1,
+      "subreddit": "196"
+    }
+  },
+  {
+    "id": "reddit_1t5oucr",
+    "source": "reddit",
+    "author": "Valimar909",
+    "content": "Help for api issue\n\nHi, Im having an issue placing orders via the clob api and I can't figure out what's wrong\n\nMy setup:  \n\\-Located in Paraguay  \n\\- Polymarket geoblock test returns {\"blocked\": false, \"country\": \"PY\"}  \n\\- Using py\\_clob\\_client\\_v2 with signature\\_type=2, correct funder address, valid API credentials  \n\\- Balance and allowance reads work fine (GET endpoints return correct data)\n\nBut any POST to /order returns:\n\n403 {\"error\": \"Trading restricted in your region, please refer to available regions\"}",
+    "url": "https://www.reddit.com/r/Polymarket_Traders/comments/1t5oucr/help_for_api_issue/",
+    "timestamp": "2026-05-06T20:27:37.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "Polymarket_Traders"
+    }
+  },
+  {
+    "id": "reddit_1t5ong2",
+    "source": "reddit",
+    "author": "Advanced-Rub2065",
+    "content": "Mapped Polymarket activity as a 3D universe to track how smart money and coordinated clusters move found crazy stuff so far\n\nHey Frens... Built a 3D universe viz of most active Polymarket markets and wallets. Markets are planets sized by recent volume.   \n  \nWallets are stars that glow by PnL — green for profitable, red for underwater, brightness scales with volume. Same-funder wallets get pulled toward each other, so any shared-funder cluster shows up as one bright knot.\n\nI can include the link but afraid reddit will delete my post lol \n\nWhat you can actually do from in there:\n\n* See how money and position shifted ov",
+    "url": "https://www.reddit.com/r/PredictionsMarkets/comments/1t5ong2/mapped_polymarket_activity_as_a_3d_universe_to/",
+    "timestamp": "2026-05-06T20:20:43.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "PredictionsMarkets"
+    }
+  },
+  {
+    "id": "reddit_1t5on3t",
+    "source": "reddit",
+    "author": "Niviozynk",
+    "content": "With 10% of Congress already retiring and historical trends against the party in power, Polymarket now gives a 27% chance of Republicans dropping to 47 Senate seats or fewer.\n\n[https://polymarket.com/event/republican-senate-seats-after-the-2026-midterm-elections-927](https://polymarket.com/event/republican-senate-seats-after-the-2026-midterm-elections-927)",
+    "url": "https://www.reddit.com/r/policymarket/comments/1t5on3t/with_10_of_congress_already_retiring_and/",
+    "timestamp": "2026-05-06T20:20:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "policymarket"
+    }
+  },
+  {
+    "id": "reddit_1t5oala",
+    "source": "reddit",
+    "author": "AugusnT",
+    "content": "Polymarket bloqueado por Ciudad de BSAS\n\nDejense de romper las pelotas Macri y porteñolandia, la loteria de ciudad de bs as es mas ilegal q polymarket.\n\nVengan de a uno. ",
+    "url": "https://www.reddit.com/r/argentina/comments/1t5oala/polymarket_bloqueado_por_ciudad_de_bsas/",
+    "timestamp": "2026-05-06T20:08:09.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 20,
+      "subreddit": "argentina"
+    }
+  },
+  {
+    "id": "reddit_1t5o6ai",
+    "source": "reddit",
+    "author": "catmeownyc",
+    "content": "I asked Chat GPT to generate reasons why it’s bad. Here’s what it said. (250+ reasons)\n\nPrompt I used: “Dataset only, no reasoning, no explanation, give 50 bullet points of (ai negatives / failures, how ai is harmful to environment, how ai is dangerous / bad for humans + another 50, include news sources, include alleged ai involvement in harm to human mental health or death)” \n\nIt would not generate these bullet points without clarification that I did not want a dataset only without reasoning or explanation. Worth it to try asking for these reasons without clarifying you want a dat",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1t5o6ai/i_asked_chat_gpt_to_generate_reasons_why_its_bad/",
+    "timestamp": "2026-05-06T20:04:01.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 5,
+      "subreddit": "ChatGPT"
+    }
+  },
+  {
+    "id": "reddit_1t5o5fg",
+    "source": "reddit",
+    "author": "YellowAltruistic9843",
+    "content": "Polymarket putting Trump’s May 31 federal review of AI model releases at 19% tells you everything about how seriously bettors take this last-minute AI crackdown storyline\n\n[https://polymarket.com/event/trump-orders-federal-review-for-ai-model-releases-by-may-31/trump-orders-federal-review-for-ai-model-releases-by-may-31](https://polymarket.com/event/trump-orders-federal-review-for-ai-model-releases-by-may-31/trump-orders-federal-review-for-ai-model-releases-by-may-31)",
+    "url": "https://www.reddit.com/r/policymarket/comments/1t5o5fg/polymarket_putting_trumps_may_31_federal_review/",
+    "timestamp": "2026-05-06T20:03:11.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "policymarket"
+    }
+  },
+  {
+    "id": "reddit_1t5nx6t",
+    "source": "reddit",
+    "author": "Legitimate_Aerie_606",
+    "content": "Saylor just admitted Strategy might sell BTC to pay dividends. The whole \"infinite money glitch\" thesis is cracking now !\n\nPOST: Saylor said the quiet part out loud on the Q1 call.\n\nStrategy, the largest corporate BTC holder on the planet, posted a $12.54B loss for the quarter. Holdings sit at 818,334 BTC at an average cost of $75,537. And on the call, Saylor floated selling some of that stack to cover the dividend.\n\nHis exact line: \"We will probably sell some bitcoin to pay a dividend just to inoculate the market and send the message that we did it.\"\n\nInoculate. Interesting word choice. You only inoculate against s",
+    "url": "https://www.reddit.com/r/btc/comments/1t5nx6t/saylor_just_admitted_strategy_might_sell_btc_to/",
+    "timestamp": "2026-05-06T19:55:18.000Z",
+    "metadata": {
+      "score": 9,
+      "num_comments": 12,
+      "subreddit": "btc"
+    }
+  },
+  {
+    "id": "reddit_1t5nnbp",
+    "source": "reddit",
+    "author": "Purtle",
+    "content": "[PIL] #2028 5/6/2026\n\n**Purtle's Internet Lineup for May 6th, 2026 3:45PM**\n\n**Pics or Text:**\n\n* When all of these fuckers are dead there's gonna be so many graves we're gonna run out of piss https://bsky.app/profile/radiodeadair.com/post/3ml4wlebohs2m\n\n* Elon Musk accidentally revealing his mom's account is one of his alt's means that he has both impersonated his own infant child and mother online https://bsky.app/profile/theserfstv.bsky.social/post/3ml5nn7pnsc2x\n * screenshot https://bsky.app/profile/theserfstv.bs",
+    "url": "https://www.reddit.com/r/Purtle/comments/1t5nnbp/pil_2028_562026/",
+    "timestamp": "2026-05-06T19:45:33.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "Purtle"
+    }
+  },
+  {
+    "id": "reddit_1t5nkug",
+    "source": "reddit",
+    "author": "StrangeSupermarket71",
+    "content": "POLYMARKET CUCKS OMEGALUL\n\nImages:\n\thttps://preview.redd.it/rf0zn732mkzg1.jpeg?auto=webp&amp;s=591dbc943eb8758426101032fe1c71417bf183f8\n",
+    "url": "https://www.reddit.com/r/forsen/comments/1t5nkug/polymarket_cucks_omegalul/",
+    "timestamp": "2026-05-06T19:43:09.000Z",
+    "metadata": {
+      "score": 19,
+      "num_comments": 2,
+      "subreddit": "forsen"
+    }
+  },
+  {
+    "id": "reddit_1t5ne8i",
+    "source": "reddit",
+    "author": "Agustinmoon",
+    "content": "hyper giga chads dominated the solana cry babies\n\nImages:\n\thttps://preview.redd.it/3ovjla8skkzg1.png?auto=webp&amp;s=935916311128d7ae7357933a5c54e76d7765e19d\n",
+    "url": "https://www.reddit.com/r/cryptocurrencymemes/comments/1t5ne8i/hyper_giga_chads_dominated_the_solana_cry_babies/",
+    "timestamp": "2026-05-06T19:36:33.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "cryptocurrencymemes"
+    }
+  },
+  {
+    "id": "reddit_1t5ndku",
+    "source": "reddit",
+    "author": "Old_Being_6270",
+    "content": "How do people find top traders for copy trading?\n\nHi, relatively new to polymarket but I want to get into copy trading, what are the best ways to find people to copy trade? Are there easy ways to do it without making my own bot?\n\n",
+    "url": "https://www.reddit.com/r/PredictionsMarkets/comments/1t5ndku/how_do_people_find_top_traders_for_copy_trading/",
+    "timestamp": "2026-05-06T19:35:54.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 2,
+      "subreddit": "PredictionsMarkets"
+    }
+  },
+  {
+    "id": "reddit_1t5mui7",
+    "source": "reddit",
+    "author": "Intelligent_Top_883",
+    "content": "The \"Noghal - Dark Elysium\" World\n\n# Noghal: A World Where Magic Crystallizes, Gods Watch from the Shadows, and Alien Invaders Seek an Ancient Weapon of Darkness\n\n*[OC] Worldbuilding deep-dive - I've been developing this fantasy/sci-fi hybrid setting for years, and wanted to share the lore here. This is the world of **Noghal**, designed as the backdrop for an action RPG called **Dark Elysium**. Feedback and questions very welcome.*\n\n---\n\n## The Pearl of the Universe\n\nNoghal is a world orbiting not one, but **two suns**, completin",
+    "url": "https://www.reddit.com/r/worldbuilding/comments/1t5mui7/the_noghal_dark_elysium_world/",
+    "timestamp": "2026-05-06T19:17:19.000Z",
+    "metadata": {
+      "score": 18,
+      "num_comments": 2,
+      "subreddit": "worldbuilding"
+    }
+  },
+  {
+    "id": "reddit_1t5ma4v",
+    "source": "reddit",
+    "author": "StevenVinyl",
+    "content": "How I run my Hyperliquid gambling AI quant.\n\nImages:\n\thttps://external-preview.redd.it/bWgyeW00YXExZHpnMbFps-2RJAGtPXBWvsKouHmkMtBSG4r5VVEFnBy1ztRS.png?auto=webp&amp;s=151a0d7baae24efea1d8ee380ac4344d19b768ea\n",
+    "url": "https://www.reddit.com/r/CryptoTradingBot/comments/1t5ma4v/how_i_run_my_hyperliquid_gambling_ai_quant/",
+    "timestamp": "2026-05-06T18:57:18.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "CryptoTradingBot"
+    }
+  },
+  {
+    "id": "reddit_1t5m4pd",
+    "source": "reddit",
+    "author": "StevenVinyl",
+    "content": "How I run my Hyperliquid gambling AI quant.\n\nImages:\n\thttps://external-preview.redd.it/bWgyeW00YXExZHpnMbFps-2RJAGtPXBWvsKouHmkMtBSG4r5VVEFnBy1ztRS.png?auto=webp&amp;s=151a0d7baae24efea1d8ee380ac4344d19b768ea\n",
+    "url": "https://www.reddit.com/r/AIToolTesting/comments/1t5m4pd/how_i_run_my_hyperliquid_gambling_ai_quant/",
+    "timestamp": "2026-05-06T18:52:00.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "AIToolTesting"
+    }
+  },
+  {
+    "id": "reddit_1t5m4eu",
+    "source": "reddit",
+    "author": "Nanominyo",
+    "content": "Introducing The Empire of Qutetish\n\n**Qutetish**\n\n***Overview:***\n\nQutetish is widely recognized as an empire, ruled by a Shah whose authority appears to extend beyond ceremonial function into direct governance. The extent of this control varies by province, where regional governors maintain a degree of autonomy, though always under imperial expectation.\n\nThe capital, Quteshan, serves as both administrative center and symbolic seat of power. Other major cities include Baghrestan, Shirazil, Ahvazi, and Kirkandu.\n\nThe empire is know",
+    "url": "https://www.reddit.com/r/worldbuilding/comments/1t5m4eu/introducing_the_empire_of_qutetish/",
+    "timestamp": "2026-05-06T18:51:42.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "worldbuilding"
+    }
+  },
+  {
+    "id": "reddit_1t5m48u",
+    "source": "reddit",
+    "author": "StevenVinyl",
+    "content": "How I run my Hyperliquid gambling AI quant.\n\nImages:\n\thttps://external-preview.redd.it/bWgyeW00YXExZHpnMbFps-2RJAGtPXBWvsKouHmkMtBSG4r5VVEFnBy1ztRS.png?auto=webp&amp;s=151a0d7baae24efea1d8ee380ac4344d19b768ea\n",
+    "url": "https://www.reddit.com/r/algotradingcrypto/comments/1t5m48u/how_i_run_my_hyperliquid_gambling_ai_quant/",
+    "timestamp": "2026-05-06T18:51:31.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "algotradingcrypto"
+    }
+  },
+  {
+    "id": "reddit_1t5k6yy",
+    "source": "reddit",
+    "author": "rwatimes",
+    "content": "Robinhood listings spark major Hyperliquid insider trading controversy: Details\n\n![](https://ambcrypto.com/wp-content/uploads/2026/05/FI_QB.CN_ROBINHOOD_06-05-2026.webp)\n\nResearch analyst at Kaiko thinks that knowledgeable traders have discovered a trustworthy method to front-run public information.\n\n **Details:**\n- **Published:** 06/05/2026 10:00 (UTC)\n- **📊 Characteristics Score:**\n  &gt; **Asset Type:** *others*\n  &gt; **Sentiment:** `-0.6`\n  &gt; **Entropy:** `0.75`\n  &gt; **Relevance:** `0.8`\n  &gt; **Staleness:** `0.3`\n  &gt; **Uncertainty:** `0.7`\n  &gt; **Level-1 Fo",
+    "url": "https://www.reddit.com/r/RWATimes/comments/1t5k6yy/robinhood_listings_spark_major_hyperliquid/",
+    "timestamp": "2026-05-06T17:45:09.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "RWATimes"
+    }
+  },
+  {
+    "id": "reddit_1t5jugr",
+    "source": "reddit",
+    "author": "krs_fun",
+    "content": "What's the deal with Will Hardy\n\nIn The Athletic's most recent anonymous player survey, the Wizards' Brian Keefe was voted least impressive head coach. Given his record and the Bam fiasco, it's hard to argue.\n\nMeanwhile, Will Hardy is 9th on the most impressive coaches list -- ahead of Kerr and Carlisle.\n\nI routinely hear pundits still refer to Will Hardy as one of the brightest young coaches in the league -- despite the fact that he has arguably tanked more shamelessly over the last two seasons than Keefe has. (The Jazz pre JJ",
+    "url": "https://www.reddit.com/r/nba/comments/1t5jugr/whats_the_deal_with_will_hardy/",
+    "timestamp": "2026-05-06T17:33:23.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 20,
+      "subreddit": "nba"
+    }
+  },
+  {
+    "id": "reddit_1t5jnai",
+    "source": "reddit",
+    "author": "Ok_Hyena3818",
+    "content": "Why Does DeFi Still Struggle With Market Data, and What Is RedStone Live Trying to Fix?\n\nReal-time data sounds simple, but once you look closer, it’s actually one of the biggest limitations in DeFi today. A lot of systems still rely on fixed data feeds, and if the data you need isn’t available, you either wait or build around it. That might work for basic use cases, but it becomes a problem when you’re dealing with RWAs, perps, or anything that depends on accurate pricing.\n\n\n\n**What is RedStone Live**\n\nRedStone Live is a real-time market data streaming service that delivers price da",
+    "url": "https://www.reddit.com/r/u_Ok_Hyena3818/comments/1t5jnai/why_does_defi_still_struggle_with_market_data_and/",
+    "timestamp": "2026-05-06T17:26:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "u_Ok_Hyena3818"
+    }
+  },
+  {
+    "id": "reddit_1t5j9sy",
+    "source": "reddit",
+    "author": "jvc72",
+    "content": "Buy Signal Hyperliquid Strategies - 6 May 2026 @ 13:11 -&gt; USD6.72\n\nTicker: **PURR**\n\nExchange: **NASDAQ**\n\nTime: **6 May 2026 @ 13:11**\n\nPrice: **USD6.72**\n\nLink: https://getagraph.com/NASDAQ/stock/live-signals/PURR/ENG",
+    "url": "https://www.reddit.com/r/getagraph/comments/1t5j9sy/buy_signal_hyperliquid_strategies_6_may_2026_1311/",
+    "timestamp": "2026-05-06T17:14:03.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "getagraph"
+    }
+  },
+  {
     "id": "reddit_1t5j3c2",
     "source": "reddit",
     "author": "OldTap2316",
@@ -65,6 +351,19 @@
     }
   },
   {
+    "id": "reddit_1t5hk8i",
+    "source": "reddit",
+    "author": "rwatimes",
+    "content": "Ondo Perps Targets 10-15% Stock Share In RWA Perps Volume Powerful\n\n![](https://res.cloudinary.com/deoqemehv/images/f_webp,q_auto/v1778001129/Tronweekly-image-2026-05-05T221133.128/Tronweekly-image-2026-05-05T221133.128.webp?_i=AA)\n\nOndo Perps is positioning itself at the intersection of tokenized stocks and perpetual futures, targeting a larger share of trading activity within the rapidly expanding RWA perps sector.\n\n **Details:**\n- **Published:** 06/05/2026 01:00 (UTC)\n- **📊 Characteristics Score:**\n  &gt; **Asset Type:** *equity*\n  &gt; **Sentiment:** `0.4`\n",
+    "url": "https://www.reddit.com/r/RWATimes/comments/1t5hk8i/ondo_perps_targets_1015_stock_share_in_rwa_perps/",
+    "timestamp": "2026-05-06T16:15:08.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "RWATimes"
+    }
+  },
+  {
     "id": "reddit_1t5hhws",
     "source": "reddit",
     "author": "Purrfect_bu",
@@ -91,6 +390,19 @@
     }
   },
   {
+    "id": "reddit_1t5h1rk",
+    "source": "reddit",
+    "author": "JoeButch",
+    "content": "[WTS][CONUS] Multiple Watches for Sale/Trade Like New/Great condition.\n\nSelling a few watches that don’t get much wrist time to fund the next pickups.  \nAll watches are like new, fully functional, and worn sparingly.\n\nI’m **open to some watch trades**, but cash/bitcoin is preferred. Will only ship to continental US. Ships from Philadelphia.\n\n1. Daytona 116 VSF DD4131 Super Clone - $725\n2. Patek Philippe Aquanaut - Singapore Edition - ASPF - $525\n   * cut to 7.5\" wrist (can be cut smaller)\n3. AP Royal Oak Black Ceramic - THBF - $750\n4. AP Royal Oak Perpetual Calendar",
+    "url": "https://www.reddit.com/r/repwatchbuysell/comments/1t5h1rk/wtsconus_multiple_watches_for_saletrade_like/",
+    "timestamp": "2026-05-06T15:57:24.000Z",
+    "metadata": {
+      "score": 10,
+      "num_comments": 8,
+      "subreddit": "repwatchbuysell"
+    }
+  },
+  {
     "id": "reddit_1t5gy3r",
     "source": "reddit",
     "author": "DeviceAdventurous688",
@@ -101,6 +413,19 @@
       "score": 0,
       "num_comments": 24,
       "subreddit": "lehighvalley"
+    }
+  },
+  {
+    "id": "reddit_1t5gp39",
+    "source": "reddit",
+    "author": "simranultimez",
+    "content": "JUST IN: Coinbase Has Officially Launched Gold and Silver Perpetual Futures Trading and Says 24/7 U.S. Futures Markets Are Coming Soon\n\nThis marks another big step in blending crypto-style nonstop trading with traditional financial markets like commodities and futures.\n\nIf markets become fully 24/7, do you think it will create more opportunities for traders… or just more volatility and risk?",
+    "url": "https://www.reddit.com/r/CoinPedia_Crypto_News/comments/1t5gp39/just_in_coinbase_has_officially_launched_gold_and/",
+    "timestamp": "2026-05-06T15:44:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "CoinPedia_Crypto_News"
     }
   },
   {

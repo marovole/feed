@@ -1,5 +1,96 @@
 [
   {
+    "id": "reddit_1t55jr3",
+    "source": "reddit",
+    "author": "centrovinoteca",
+    "content": "실시간 채팅창 유저 선동 문구에서 반복되는 기계적 패턴과 데이터 오염 문제\n\n운영 시스템 상에서 특정 유저들이 내뱉는 입금이나 환전 인증 멘트는 자연스러운 소통의 흐름을 끊고 비정상적인 활성도 지표를 만들어냅니다. 이러한 현상은 실제 유저의 행동 데이터와 괴리된 채 플랫폼의 신뢰도를 인위적으로 조작하려는 의도적인 데이터 삽입 과정에서 주로 발생합니다. 일부 분석에서는 온카스터디와 같은 관찰 채널을 통해 이러한 기계적 반복 패턴이 자동화된 계정 활동과 밀접하게 연결되어 있다는 점이 지적되기도 합니다. 실무적으로는 채팅 필터링 임계치를 조정하거나 특정 키워드 반복 빈도를 실시간 모니터링하여 가짜 계정의 활동 범위를 제한하는 방식이 주로 쓰입니다. 시스템 로직을 교란하는 이런 인위적인 채팅 패턴을 효과적으로 차단하기 위해 여러분은 어떤 검증 알고리즘을 도입해 보셨나요?",
+    "url": "https://www.reddit.com/r/defi/comments/1t55jr3/실시간_채팅창_유저_선동_문구에서_반복되는_기계적_패턴과_데이터_오염_문제/",
+    "timestamp": "2026-05-06T07:11:39.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1t544cl",
+    "source": "reddit",
+    "author": "Patriot_tech",
+    "content": "Stick with the basics People. Scaling is the way to go!\n\nIm seeing all of these posts about algo, perpetual, ai trading bots, nothing can predict the markets, why waste money trying to.  \nThere is a trading bot online running 24/7 for all to see with stats, logs and a .csv you can download to see the all of the results.\n\nIt trade by scaling positions making up to 5 buys (or whatever you set in advanced settings)   \nfor example: Scalping: sets a first immediate buy limit order at your parameters, once that buy order executes it sets another buy order a",
+    "url": "https://www.reddit.com/r/CryptoTradingBot/comments/1t544cl/stick_with_the_basics_people_scaling_is_the_way/",
+    "timestamp": "2026-05-06T05:50:34.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "CryptoTradingBot"
+    }
+  },
+  {
+    "id": "reddit_1t53zcr",
+    "source": "reddit",
+    "author": "Dr-Fred-Markets",
+    "content": "Test trading bot BTC on Hyperliquid\n\nThis is the Strategy test of my bot with Claude. What do you think?\n\nHyperliquid Trading Bot — Strategy Overview\n\nAsset &amp; Timeframe\n\n\t•\tBTC Perpetuals only  \n\t•\t15-minute candles  \n\t•\tLong + Short\n\nEntry Signal\n\nScore-based system combining multiple indicators — minimum score of 4 to open a trade:  \n\t•\tRSI &lt; 35 → +2 pts (oversold)  \n\t•\tMACD bullish/bearish crossover → +2 pts  \n\t•\tMA20 &gt; MA50 → +1 pt (trend)  \n\t•\tAbnormal volume x1.5 → +1 pt  \n\t•\tPrice near support → +1 pt  \n\t•\tResistan",
+    "url": "https://www.reddit.com/r/CryptoTradingBot/comments/1t53zcr/test_trading_bot_btc_on_hyperliquid/",
+    "timestamp": "2026-05-06T05:42:58.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 4,
+      "subreddit": "CryptoTradingBot"
+    }
+  },
+  {
+    "id": "reddit_1t53z4d",
+    "source": "reddit",
+    "author": "Remarkable_Special57",
+    "content": "Stablecoin rails are starting to look like an orchestration business, not just a chain business\n\nSaw a Cointelegraph piece on fintechs and stablecoin issuers racing to own the settlement layer. Tempo, Plasma, Circle Arc, Stripe/Bridge/Privy, Cross River etc all point in the same direction: stablecoins are not just “tokens on chains” anymore. They are becoming payment infrastructure.\n\nWhat stood out to me is where the value seems to be moving. Not only the base chain, but the orchestration around it: wallets, compliance, FX, on/off-ramps, merchant payouts, routing, and making the transaction",
+    "url": "https://www.reddit.com/r/defi/comments/1t53z4d/stablecoin_rails_are_starting_to_look_like_an/",
+    "timestamp": "2026-05-06T05:42:36.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1t52rnf",
+    "source": "reddit",
+    "author": "Jazzlike-Growth751",
+    "content": "Anyone tried Bundie? Is it legit?\n\nSaw Bundie on X, says that we can invest yield in bundle across multiple chains and protocols in one click. Sounds too convenient. Anyone tried it? Wanna get some feedback here before putting my money in ",
+    "url": "https://www.reddit.com/r/defi/comments/1t52rnf/anyone_tried_bundie_is_it_legit/",
+    "timestamp": "2026-05-06T04:38:47.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1t52rkm",
+    "source": "reddit",
+    "author": "tornavec",
+    "content": "Did North Korean Hackers Just Play Aave Twice?\n\nThe Lazarus Group's attack on the Kelp platform may have generated additional profits for North Korean hackers by shorting the AAVE token. Five days after the launch of the V4 protocol with its new 'hub-and-spoke' architecture, the attackers timed the deposit of 89,567 'non-existent' rsETH into the Aave death contract.\n\nThis triggered a five-day rally in AAVE, which ended with the Kelp hack. This allowed the hackers to earn a 26% profit on their short position. The Lazarus Group had previously e",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t52rkm/did_north_korean_hackers_just_play_aave_twice/",
+    "timestamp": "2026-05-06T04:38:41.000Z",
+    "metadata": {
+      "score": 20,
+      "num_comments": 7,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1t52goa",
+    "source": "reddit",
+    "author": "NULLBASED",
+    "content": "Is there any Dex to trade legit cryptocurrencies?\n\nI know for alt coins and Memecoins there a Dex to trade them.\n\nBut wondering is there also a decentralised platform to trade legit cryptocurrencies like Bitcoin that don’t need KYC? If so please list them",
+    "url": "https://www.reddit.com/r/defi/comments/1t52goa/is_there_any_dex_to_trade_legit_cryptocurrencies/",
+    "timestamp": "2026-05-06T04:23:08.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "defi"
+    }
+  },
+  {
     "id": "reddit_1t51pje",
     "source": "reddit",
     "author": "Crepitos29",
@@ -23,6 +114,19 @@
       "score": 2,
       "num_comments": 0,
       "subreddit": "BlueChipCryptos"
+    }
+  },
+  {
+    "id": "reddit_1t51lks",
+    "source": "reddit",
+    "author": "Bybit-official",
+    "content": "Bybit Daily Announcement Thread: May 6, 2026\n\n**📣 New Innovation Zone Listing:** [**BILLUSDT**](https://x.com/billions_ntwk) **Perpetual Contract**  \n  \n👉 [Trade now](https://i.bybit.com/1nabfKJ1)\n\nhttps://preview.redd.it/pazoxo5lxgzg1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=380ca9c7e181ed532c44e7717f7f76c4d5e1ff25\n\n💡 **One Move Could Change Everything in the $BTC vs. Gold Showdown**\n\n⚔️ Pick your side\n\n📊 Trade to vote\n\n🎁 Earn rewards\n\n✨ 150,000 $USDT up for grabs!\n\n👉 [Join the Battle](https://i.bybit.com/11nBlabS)\n\nhttps://",
+    "url": "https://www.reddit.com/r/Bybit/comments/1t51lks/bybit_daily_announcement_thread_may_6_2026/",
+    "timestamp": "2026-05-06T03:40:21.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 2,
+      "subreddit": "Bybit"
     }
   },
   {
@@ -169,6 +273,19 @@
     }
   },
   {
+    "id": "reddit_1t4zsmp",
+    "source": "reddit",
+    "author": "SignalExtension4339",
+    "content": "Question about crypto\n\nHi, a few months ago i uploaded my face to a very popular “looksmaxxing” forum (very stupid i know) used to help people improve their looks, but i asked the mods to delete my pic because the people on that forum are assholes and racist and i dont wanna be affiliated with that site. The mod wanted payment in bitcoin to delete my post and after thinking about it, i did it cause i really didnt want my face to be associated with racist people on that site even tho it’s probably not a big deal cause ",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t4zsmp/question_about_crypto/",
+    "timestamp": "2026-05-06T02:16:43.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 20,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
     "id": "reddit_1t4znus",
     "source": "reddit",
     "author": "OldBridge87",
@@ -192,6 +309,19 @@
       "score": 1,
       "num_comments": 2,
       "subreddit": "Polymarket"
+    }
+  },
+  {
+    "id": "reddit_1t4yhud",
+    "source": "reddit",
+    "author": "ConsiderationThat780",
+    "content": "Bored\n\nMy Reddit phone alert is on. Help keep me up all week and all night with the chimes! Also I’d appreciate you making weird comments about random nothings that you feel are important. If not please submit a thumbs up, a “no” comment and a share. Let’s make me popular with this thread so you can be entertained to with watching all the  likes and useless comments. I have nothing better to do than this so help make my day with a like at least. You are special and I’d appreciate all the help I can get",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t4yhud/bored/",
+    "timestamp": "2026-05-06T01:18:28.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 3,
+      "subreddit": "CryptoCurrency"
     }
   },
   {
@@ -273,6 +403,58 @@
     }
   },
   {
+    "id": "reddit_1t4whs7",
+    "source": "reddit",
+    "author": "Mr--Clean--Ass-Naked",
+    "content": "Wormhole bridges 'canonical' version of BitTensor's TAO token to Solana\n\nThumbnail: default\n",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t4whs7/wormhole_bridges_canonical_version_of_bittensors/",
+    "timestamp": "2026-05-05T23:48:52.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1t4weei",
+    "source": "reddit",
+    "author": "Free_Record_8635",
+    "content": "A VH Weapon? | Pausing Reality and What It Might Mean\n\nBack again to yap right before the update maybe debunks this theory too. Sorry it is once again hoyo length if you saw my other since I don’t know how to make it make sense without context (…and I’m just a yapper), but a TLDR again at the end.\n\nAn intro on how I think Ether functions, because the theory doesn't land without it.  \nThe working model not just from me but from many others including [this video](https://youtu.be/Nm9Wb8qse8U?si=D3iGmxKe4XEwOGWz&amp;t=4m42s) is something like the Ether",
+    "url": "https://www.reddit.com/r/ZZZ_Discussion/comments/1t4weei/a_vh_weapon_pausing_reality_and_what_it_might_mean/",
+    "timestamp": "2026-05-05T23:44:46.000Z",
+    "metadata": {
+      "score": 80,
+      "num_comments": 6,
+      "subreddit": "ZZZ_Discussion"
+    }
+  },
+  {
+    "id": "reddit_1t4w68c",
+    "source": "reddit",
+    "author": "Sassy_Allen",
+    "content": "Sovereign cloud engines on the Internet Computer\n\nImages:\n\thttps://external-preview.redd.it/w0O4BbGl5RluHZngQB_ABGqRWAQgIKrffZRHAKJsjb4.jpeg?auto=webp&amp;s=51f2424456d3406dfc32ec5330838d355f554543\n",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t4w68c/sovereign_cloud_engines_on_the_internet_computer/",
+    "timestamp": "2026-05-05T23:34:37.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 2,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1t4vs31",
+    "source": "reddit",
+    "author": "GreedVault",
+    "content": "Aave says creditors are trying to seize stolen ETH before victims get their $71M back\n\nImages:\n\thttps://external-preview.redd.it/hzjIOFfTGntUm6skq5EH-Vm17jkweRuyzmeqPbKke_U.jpeg?auto=webp&amp;s=a72885d797f70deaea9e27b5c738817a326f508f\n",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t4vs31/aave_says_creditors_are_trying_to_seize_stolen/",
+    "timestamp": "2026-05-05T23:17:54.000Z",
+    "metadata": {
+      "score": 14,
+      "num_comments": 6,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
     "id": "reddit_1t4v644",
     "source": "reddit",
     "author": "Spirited_Golf9609",
@@ -312,6 +494,19 @@
     }
   },
   {
+    "id": "reddit_1t4sp39",
+    "source": "reddit",
+    "author": "nobody4ever_AT",
+    "content": "I built a clean Chrome speed dial extension that uses your bookmarks\n\nhttps://preview.redd.it/0imfmmlkvdzg1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=c3bc97a3d884fcd2b05b2cebc96faeb547ec542c\n\nI got tired of Chrome bookmarks being either messy or hidden away. Most speed dial extensions I tried were either too basic or too bloated - so I ended up building my own..\n\nMain idea:\n\n* Uses your existing bookmarks (no duplication)\n* Drag &amp; drop support\n* Clean edit mode (no UI clutter in normal use)\n* High-quality icons (auto + manual + crop)\n* Folder previews\n",
+    "url": "https://www.reddit.com/r/chrome_extensions/comments/1t4sp39/i_built_a_clean_chrome_speed_dial_extension_that/",
+    "timestamp": "2026-05-05T21:14:46.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "chrome_extensions"
+    }
+  },
+  {
     "id": "reddit_1t4sh1y",
     "source": "reddit",
     "author": "alphanader1",
@@ -335,6 +530,32 @@
       "score": 2,
       "num_comments": 7,
       "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1t4rwth",
+    "source": "reddit",
+    "author": "Excellent_Pie7135",
+    "content": "I spent hours reading the \n@CronosNetwork\n Governance Proposal on GitHub so you don’t have to\n\n  \n  \nHere are 5 things you need to know about what's coming to the \n\n[$CRO](https://x.com/search?q=%24CRO&amp;src=cashtag_click)\n\n ecosystem:  \n  \n Emissions ❌ -&gt; Revenue ✅  \n  \nWith approaching 100B supply cap (currently at \\~98.6B), the proposal shifts from emissions (inflation) to revenue backed yield  \n  \n\\-&gt; Smooth Inflation Decay: Emissions will gradually decrease toward 0 over the next \\~5 years  \n  \n\\-&gt; Revenue-Backed Yield: Rewards will become funded by revenue from the upcomi",
+    "url": "https://www.reddit.com/r/cro/comments/1t4rwth/i_spent_hours_reading_the_cronosnetwork/",
+    "timestamp": "2026-05-05T20:45:58.000Z",
+    "metadata": {
+      "score": 15,
+      "num_comments": 18,
+      "subreddit": "cro"
+    }
+  },
+  {
+    "id": "reddit_1t4rqno",
+    "source": "reddit",
+    "author": "aliversonchicago",
+    "content": "GMX/WEB.DE/mail.com moving to inbound DMARC enforcement\n\nStaff from mailbox provider GMX/WEB.DE/mail.com (1&amp;1 Mail &amp; Media GmbH) have just announced on the Mailop list that they'll begin enforcement of DMARC checks in a phased rollout over the coming weeks.\n\nWhat does this mean? It means that if you publish a DMARC policy of p=reject for your email domain, they will now reject email from that domain, during the SMTP transaction, if that mail does not pass email authentication checks and lacks DMARC alignment.\n\nMessages that fail those email au",
+    "url": "https://www.reddit.com/r/DMARC/comments/1t4rqno/gmxwebdemailcom_moving_to_inbound_dmarc/",
+    "timestamp": "2026-05-05T20:39:42.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 2,
+      "subreddit": "DMARC"
     }
   },
   {
@@ -387,6 +608,84 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "hyperliquid1"
+    }
+  },
+  {
+    "id": "reddit_1t4iprd",
+    "source": "reddit",
+    "author": "Familiar_Path7905",
+    "content": "Gaming Pc\n\nAnyone here want a gaming pc ? 525$ OBO also have a Wii for sale with Wii sports resort and a couple other games with everything needed to play ",
+    "url": "https://www.reddit.com/r/sanmarcos/comments/1t4iprd/gaming_pc/",
+    "timestamp": "2026-05-05T15:26:09.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "sanmarcos"
+    }
+  },
+  {
+    "id": "reddit_1t4g1jg",
+    "source": "reddit",
+    "author": "Neo_DexM",
+    "content": "Don't Repeat History Again by Looking at the \"GMX 55th Experiment Log\"!\n\n\"Those who cannot remember the past are condemned to repeat it.\" - Philosopher George Santayana \n\nArtist: GatesMolten\n\nSend 1 card from your hand to the GY and activate 2 of these effects, in sequence;\n● Add 2 monsters from your Deck to your hand with different names from each other that are \"GMX\" monsters and/or Level 1 Dinosaur monsters, then you can Special Summon 1 of them. (This is treated as a Special Summon by a monster effect.)\n● Place 1 \"GMX Lab #5\" or 1 \"GMX\" Continuous Spell/Trap from",
+    "url": "https://www.reddit.com/r/customyugioh/comments/1t4g1jg/dont_repeat_history_again_by_looking_at_the_gmx/",
+    "timestamp": "2026-05-05T13:49:12.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 2,
+      "subreddit": "customyugioh"
+    }
+  },
+  {
+    "id": "reddit_1t4bnb2",
+    "source": "reddit",
+    "author": "Saft_Rex",
+    "content": "Is this good?\n\nI love the Gmx archetype and just Build a deck by myself for the first time and just want to ask if it is good.\n\nheres the list [https://cardcluster.de/deck/0Ar9ZQ](https://cardcluster.de/deck/0Ar9ZQ)",
+    "url": "https://www.reddit.com/r/Yugioh101/comments/1t4bnb2/is_this_good/",
+    "timestamp": "2026-05-05T10:39:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "Yugioh101"
+    }
+  },
+  {
+    "id": "reddit_1t47gt1",
+    "source": "reddit",
+    "author": "Nearby-Persimmon6139",
+    "content": "Anyone with prior experience with GMX motors?\n\nURL: /r/FSAE/comments/1sgllzt/anyone_with_prior_experience_with_gmx_motors/\n",
+    "url": "https://www.reddit.com/r/formulastudent/comments/1t47gt1/anyone_with_prior_experience_with_gmx_motors/",
+    "timestamp": "2026-05-05T06:36:35.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "formulastudent"
+    }
+  },
+  {
+    "id": "reddit_1t4058v",
+    "source": "reddit",
+    "author": "beermeupscotty",
+    "content": "** BUY / SELL / TRADE SPRING &amp; SUMMER 2026 TICKETS MEGA-THREAD **\n\nThis thread is for the people who wish to buy, sell, and/or trade tickets for any show, festival, or band-adjacent DJ thing happening during Spring and Summer 2026.\n\nWe want to help our users avoid getting ripped off since we know that scammers might take advantage of this thread, so we ask everyone to please follow these rules below.\n\n**RULES :**\n\n* **PLEASE USE THE OFFICIAL TICKETING PLATFORM TO TRANSFER TICKETS WHEN AVAILABLE.** Please use the  ticketing site corresponding to the show/festiva",
+    "url": "https://www.reddit.com/r/LCDSoundsystem/comments/1t4058v/buy_sell_trade_spring_summer_2026_tickets/",
+    "timestamp": "2026-05-05T00:43:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "LCDSoundsystem"
+    }
+  },
+  {
+    "id": "reddit_1t3lr01",
+    "source": "reddit",
+    "author": "rcplaner",
+    "content": "6BR not liking 80gr GMX or 58gr Vmax.\n\nI got a new barrel for my gun and can't get it to shoot vmax or gmx. i have tried playing with seating depth and powder amount. can't get consistent under MOA groups.  powder is viht N133\n\nmeanwhile 90gr scenars will shoot lights out. (even with that first shot from oily barrel to right its still just over half moa.)\n\nI have 105gr scenar and berger vld hunting bullets I plan to try next with viht. N150. \n\nany worth trying varmint bullets?",
+    "url": "https://www.reddit.com/r/reloading/comments/1t3lr01/6br_not_liking_80gr_gmx_or_58gr_vmax/",
+    "timestamp": "2026-05-04T15:53:51.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "reloading"
     }
   },
   {

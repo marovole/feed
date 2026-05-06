@@ -1,5 +1,213 @@
 [
   {
+    "id": "reddit_1t59wn1",
+    "source": "reddit",
+    "author": "EvelynClede",
+    "content": "Ripple CEO Warns Crypto Bill Has 2 Weeks To Pass\n\nImages:\n\thttps://external-preview.redd.it/pA1DHYBxsTpF8adUZH-BzdHiDbTGyW5DrNAe2y68VpQ.jpeg?auto=webp&amp;s=0d33de2c1e621fdf6cf62951cbfc37df070db98b\n",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t59wn1/ripple_ceo_warns_crypto_bill_has_2_weeks_to_pass/",
+    "timestamp": "2026-05-06T11:20:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1t59u9v",
+    "source": "reddit",
+    "author": "andix3",
+    "content": "Stablecoin Adoption to Hit $719T by 2035, Matching Visa Scale by 2032\n\nImages:\n\thttps://external-preview.redd.it/m8fC_eND1egMYKBPQ2LHDgk0P_r_soIwf6gJGwJBF54.jpeg?auto=webp&amp;s=9234742514b6470a478229622dc4b726f1f39346\n",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t59u9v/stablecoin_adoption_to_hit_719t_by_2035_matching/",
+    "timestamp": "2026-05-06T11:16:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1t59fzb",
+    "source": "reddit",
+    "author": "ChillerID",
+    "content": "Harvard Researchers: Quantum Computing Advancing Faster Than Expected\n\nHarvard researchers are now saying quantum computing is advancing 5–10 years faster than expected due to major breakthroughs in fault tolerance.\n\nFor years, many people in crypto treated the quantum threat like a distant sci-fi scenario that wouldn’t matter for decades. But now we’re seeing top researchers openly discussing the possibility of early large-scale fault-tolerant quantum systems arriving before the end of this decade.\n\nThe article also highlights how serious the industry has become:\n",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t59fzb/harvard_researchers_quantum_computing_advancing/",
+    "timestamp": "2026-05-06T10:58:13.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1t59b0s",
+    "source": "reddit",
+    "author": "HatAsleep295",
+    "content": "How to borrow money at 4% per annum?\n\nImages:\n\thttps://preview.redd.it/c3n5bw2vyhzg1.png?auto=webp&amp;s=022e053579925a7ff1c195a257f834d9a07bab1f\n",
+    "url": "https://www.reddit.com/r/atheismindia/comments/1t59b0s/how_to_borrow_money_at_4_per_annum/",
+    "timestamp": "2026-05-06T10:51:10.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 1,
+      "subreddit": "atheismindia"
+    }
+  },
+  {
+    "id": "reddit_1t58ujj",
+    "source": "reddit",
+    "author": "Tradi3",
+    "content": "Created a bot for the hyperliquid prediction market\n\nHey, I'm not going to blur a big AI slop post. I made a bot for Hyperliquid new prediction markets. I'm currently in the positive. I can't post images here, but I can link to some of the bot dashboard and my account [https://imgur.com/a/HM3I6wd](https://imgur.com/a/HM3I6wd). It's not massive profits, but it's definitely the right direction, this bot is free in my Discord :) And you get the source. There is obviously one string attached, and it's that you have to use my referral code for hyperliq",
+    "url": "https://www.reddit.com/r/SideProject/comments/1t58ujj/created_a_bot_for_the_hyperliquid_prediction/",
+    "timestamp": "2026-05-06T10:27:03.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "SideProject"
+    }
+  },
+  {
+    "id": "reddit_1t58d2c",
+    "source": "reddit",
+    "author": "Frosty_Expression_80",
+    "content": "I built a Polymarket BTC trading bot - now with pUSD auto-redeem/wrap and CLOB v2 support after the April 28th update\n\nI've been building PolySnipe in my spare time — a bot that automatically trades Polymarket's short-duration BTC prediction markets (5-minute and 15-minute windows). The whole thing started because I wanted to trade these markets but they move way too fast to do it manually with any consistency.\n\nHere's what it does and what I just shipped:\n\n**What I built** A WebSocket-based bot written in Go that watches the order book and fires trades the moment a signal triggers. It runs headless on a VPS wit",
+    "url": "https://www.reddit.com/r/IMadeThis/comments/1t58d2c/i_built_a_polymarket_btc_trading_bot_now_with/",
+    "timestamp": "2026-05-06T10:00:29.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "IMadeThis"
+    }
+  },
+  {
+    "id": "reddit_1t582ro",
+    "source": "reddit",
+    "author": "AsianPiee",
+    "content": "Hmm I wonder what the root of the problem is?\n\nImages:\n\thttps://preview.redd.it/x9fpifs6nhzg1.jpeg?auto=webp&amp;s=bc806b68e6d846b1d7b4338a075e656edf38912c\n",
+    "url": "https://www.reddit.com/r/LateStageCapitalism/comments/1t582ro/hmm_i_wonder_what_the_root_of_the_problem_is/",
+    "timestamp": "2026-05-06T09:44:07.000Z",
+    "metadata": {
+      "score": 58,
+      "num_comments": 2,
+      "subreddit": "LateStageCapitalism"
+    }
+  },
+  {
+    "id": "reddit_1t57l0p",
+    "source": "reddit",
+    "author": "EmbarrassedStudent10",
+    "content": "Polymarket making around half the fees of pumpfun right now.\n\nAround 75% of Polymarket US fees go back to takers and makers via rebates.  \n  \nFor Polymarket International it's around 20-25% to makers.\n\nOC: [https://x.com/datadashboards/status/2051637772952154404](https://x.com/datadashboards/status/2051637772952154404)",
+    "url": "https://www.reddit.com/r/PredictionSignal/comments/1t57l0p/polymarket_making_around_half_the_fees_of_pumpfun/",
+    "timestamp": "2026-05-06T09:14:36.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "PredictionSignal"
+    }
+  },
+  {
+    "id": "reddit_1t577yc",
+    "source": "reddit",
+    "author": "Nice-Ad8084",
+    "content": "The 90-Minute Squeeze: How TVK went from 7¢ to 100¢ on Polymarket\n\nLet me tell you something that took me an embarrassing amount of money to learn.\n\nA contract at 70¢ is not a safe investment. It just feels like one. You are still losing roughly three times out of ten, and when you lose, it hurts exactly as much as any other loss. The math does not care about your confidence.\n\nBut here is the flip side and this one is wilder.\n\nWhat happens when a contract sitting at 7¢ becomes a near-certainty in ninety minutes flat?\n\nThat is not a hypothetical. That is what ha",
+    "url": "https://www.reddit.com/r/polymarketindia/comments/1t577yc/the_90minute_squeeze_how_tvk_went_from_7_to_100/",
+    "timestamp": "2026-05-06T08:53:18.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "polymarketindia"
+    }
+  },
+  {
+    "id": "reddit_1t56wzm",
+    "source": "reddit",
+    "author": "HeyMrCrypto",
+    "content": "Perp traders: what would actually make you switch from your current venue?\n\nHey all,\n\nI’m trying to better understand what traders actually care about when choosing a perp venue.\n\nThere are a lot of new perp DEXs, but from the outside it feels like many teams are competing on the same claims: fast execution, tight spreads, low fees, better UX, self custody, better liquidity....etc\n\nI’d like to get honest feedback from people who actively trade perps on DEXs accross venues like Hyperliquid, Lighter, Aster, Paradex, Jupiter etc..., or even CEXs.\n\nThe main question is:\n\n**",
+    "url": "https://www.reddit.com/r/PerpsTrading/comments/1t56wzm/perp_traders_what_would_actually_make_you_switch/",
+    "timestamp": "2026-05-06T08:34:43.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "PerpsTrading"
+    }
+  },
+  {
+    "id": "reddit_1t56nr8",
+    "source": "reddit",
+    "author": "HeyMrCrypto",
+    "content": "Solana Perp traders: what would actually make you switch from your current venue?\n\nHey all,  \n  \nI’m trying to better understand what Solana traders actually care about when choosing a perp venue.\n\nThere are a lot of new perp DEXs, but from the outside it feels like many teams are competing on the same claims: fast execution, tight spreads, low fees, better UX, self custody, better liquidity, native Solana support....etc\n\nI’d like to get honest feedback from people who actively trade perps, especially on Solana (Jupiter, Bulk) or across venues like Hyperliquid, Lighter, Aster,",
+    "url": "https://www.reddit.com/r/solana/comments/1t56nr8/solana_perp_traders_what_would_actually_make_you/",
+    "timestamp": "2026-05-06T08:19:00.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 2,
+      "subreddit": "solana"
+    }
+  },
+  {
+    "id": "reddit_1t56gv0",
+    "source": "reddit",
+    "author": "True_Bodybuilder8095",
+    "content": "What’s your take on Arthur Hayes’ statement about altcoins?\n\nImages:\n\thttps://preview.redd.it/dlke3x3t5hzg1.png?auto=webp&amp;s=d917e33d85370ceb2b1b03c5ad611a31a19d89e1\n",
+    "url": "https://www.reddit.com/r/btc/comments/1t56gv0/whats_your_take_on_arthur_hayes_statement_about/",
+    "timestamp": "2026-05-06T08:07:02.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "btc"
+    }
+  },
+  {
+    "id": "reddit_1t56erb",
+    "source": "reddit",
+    "author": "GreyNote3",
+    "content": "Arbitrage Opportunity\n\nthis arb looks super clean solid spread with 28% APY and locked profit makes it such a nice setup 😮‍💨  \nliquidity and volume look strong too so fills should be easy, love when everything lines up this smoothly\n\n[predictionhunt.com](http://predictionhunt.com)",
+    "url": "https://www.reddit.com/r/PredictionHunt/comments/1t56erb/arbitrage_opportunity/",
+    "timestamp": "2026-05-06T08:03:26.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "PredictionHunt"
+    }
+  },
+  {
+    "id": "reddit_1t56dj8",
+    "source": "reddit",
+    "author": "GreyNote3",
+    "content": "“ohio is red” but markets aren’t so sure\n\nbeing a red state doesn’t mean every outcome is locked statewide votes can swing depending on the issue and turnout\n\nfeels like one of those spots where it *could* flip if momentum shifts, even if it looks obvious right now",
+    "url": "https://www.reddit.com/r/PredictionHunt/comments/1t56dj8/ohio_is_red_but_markets_arent_so_sure/",
+    "timestamp": "2026-05-06T08:01:22.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "PredictionHunt"
+    }
+  },
+  {
+    "id": "reddit_1t569hs",
+    "source": "reddit",
+    "author": "Fragrant_Love_9008",
+    "content": "#DataDrop\n\nDay 5 of 100 🔥\n\nBTC just passed a stress test most people slept on.\n\nA fake Iran missile headline dropped yesterday. Classic fear bait. The kind of news that used to nuke crypto in 2022 and send everyone scrambling for exits.\n\nInstead? $300M in shorts got wiped. BTC held $79k without flinching.\n\nThat's not a coincidence — that's a structurally different market.\n\nHere's what the data actually shows right now:\n\n→ BTC dominance sitting at 60.52%, alts still in the backseat\n\n→ Volume running well a",
+    "url": "https://www.reddit.com/r/Polymarket_news/comments/1t569hs/datadrop/",
+    "timestamp": "2026-05-06T07:55:00.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "Polymarket_news"
+    }
+  },
+  {
+    "id": "reddit_1t55pyo",
+    "source": "reddit",
+    "author": "Historical_You_3558",
+    "content": "Seniro Blockchain Developer is Open To Work (EVM, Solana, Polkadot, Cardano, Hyperliquid)\n\nI'm a senior software engineer with 7+ years professional dev exp.\n\nI built DeFi, GamingFi, DAO and NFT marketplace perfectly on several blockchains.\n\nI have a strong background of backend and rich experience of writing smart contracts on EVM, Solana and Polkadot and flexible on various stack like react, vue, angular and svelte in frontend side.\n\nIf you want to build new dapp, feel free to reach me out.",
+    "url": "https://www.reddit.com/r/devjobs/comments/1t55pyo/seniro_blockchain_developer_is_open_to_work_evm/",
+    "timestamp": "2026-05-06T07:21:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "devjobs"
+    }
+  },
+  {
     "id": "reddit_1t55jr3",
     "source": "reddit",
     "author": "centrovinoteca",
@@ -10,6 +218,45 @@
       "score": 0,
       "num_comments": 0,
       "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1t55ak7",
+    "source": "reddit",
+    "author": "r1adfus3r",
+    "content": "Best student project for QR/QT CV: Polymarket alpha vs HFT liquidity/order book?\n\nHi everyone,\n\nI’m a first-year engineering student interested in Quant Research / Quant Trading internships, and I have to choose one empirical finance project. My goal is to pick the project that would be the strongest signal on a QR/QT CV and would also give me useful things to discuss in interviews.\n\nI’m mainly hesitating between **Project 1** and **Project 3**, but I’d appreciate views on all four.\n\n**1. Polymarket Alpha: Extracting Intraday Equity Signals from Prediction Markets**\n\nThe idea",
+    "url": "https://www.reddit.com/r/quantfinance/comments/1t55ak7/best_student_project_for_qrqt_cv_polymarket_alpha/",
+    "timestamp": "2026-05-06T06:57:13.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 5,
+      "subreddit": "quantfinance"
+    }
+  },
+  {
+    "id": "reddit_1t559hh",
+    "source": "reddit",
+    "author": "r1adfus3r",
+    "content": "Best student project for QR/QT CV: Polymarket alpha vs HFT liquidity/order book?\n\nHi everyone,\n\nI’m a first-year engineering student interested in Quant Research / Quant Trading internships, and I have to choose one empirical finance project. My goal is to pick the project that would be the strongest signal on a QR/QT CV and would also give me useful things to discuss in interviews.\n\nI’m mainly hesitating between **Project 1** and **Project 3**, but I’d appreciate views on all four.\n\n**1. Polymarket Alpha: Extracting Intraday Equity Signals from Prediction Markets**\n\nThe idea",
+    "url": "https://www.reddit.com/r/quant/comments/1t559hh/best_student_project_for_qrqt_cv_polymarket_alpha/",
+    "timestamp": "2026-05-06T06:55:26.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 6,
+      "subreddit": "quant"
+    }
+  },
+  {
+    "id": "reddit_1t54bgg",
+    "source": "reddit",
+    "author": "semanticweb",
+    "content": "The Copilot Paradigm: Should Blockchain Be Made Fit for Humans or Just Be Left Alone?\n\nWith the advent of agentic artificial intelligence, the debate has taken a different turn. Should blockchain actually be made more accessible, or left to its own devices, conducting financial business autonomously and with dazzling efficiency while common mortals do what they do best: go fishing?\n\n\"Blockchain developers have not been very good at designing systems for regular humans,\" says Marc Vanlerberghe, chief strategy and marketing officer at the **Algorand Foundation**. Crypto has always s",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1t54bgg/the_copilot_paradigm_should_blockchain_be_made/",
+    "timestamp": "2026-05-06T06:01:21.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 2,
+      "subreddit": "CryptoCurrency"
     }
   },
   {
@@ -49,6 +296,19 @@
       "score": 2,
       "num_comments": 1,
       "subreddit": "defi"
+    }
+  },
+  {
+    "id": "reddit_1t53xpo",
+    "source": "reddit",
+    "author": "CPMarkets",
+    "content": "Crypto Market Updates To Watch Out Today 🔥👇\n\n◆MEGA is now tradable on Robinhood Crypto.  \n◆BlackRock’s Bitcoin ETF purchased an additional $251.45 million worth of BTC.  \n◆TON-native memecoins have surged to a combined market capitalization of $156 million.  \n◆TOA has officially gone live on Solana.  \n◆ZEC reached a new year-to-date high of $525, climbing 23.2% amid today’s privacy coin rally.  \n◆A whale transferred 4.10 million USDC to HyperLiquid and opened an $8 million long position on SOL.  \n◆OKX is set to launch the BILL/USDT perpetu",
+    "url": "https://www.reddit.com/r/CoinpediaMarkets/comments/1t53xpo/crypto_market_updates_to_watch_out_today/",
+    "timestamp": "2026-05-06T05:40:29.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "CoinpediaMarkets"
     }
   },
   {
@@ -569,6 +829,19 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "Terracefi"
+    }
+  },
+  {
+    "id": "reddit_1t4r2nn",
+    "source": "reddit",
+    "author": "SlimRadChowKilliona",
+    "content": "Stablecoin Yields disguised as HYSA\n\nI came across an app that promotes a HYSA with 6% APY built on stablecoins. I'm familiar with traditional HYSA that are FDIC insured, offering rates around 3.50-4%. I'm not educated on stablecoins, is there the potential risk of actually losing money?",
+    "url": "https://www.reddit.com/r/defi/comments/1t4r2nn/stablecoin_yields_disguised_as_hysa/",
+    "timestamp": "2026-05-05T20:15:28.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "defi"
     }
   },
   {

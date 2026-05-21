@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_78",
+    "source": "github",
+    "author": "OdCheban",
+    "content": "[Issue] WebSocket disconnects after sending ping messages\n\nDescription:\nI'm experiencing an issue with the [Gate.io](https://gate.io/) WebSocket API where the server disconnects me after I start sending ping messages to keep the connection alive.\n\nWhat I'm doing:\n1) Connecting to wss://api.gateio.ws/ws/v4/\n2) Subscribing to spot.obu channel for ob.BTC_USDT.50\n3) Sending ping messages every 20 seconds in the following format:\n{\n    \"time\": {time},\n    \"channel\": \"spot.ping\"\n}\n\nExpected behavior:\nThe server should respond with a pong message and keep the ",
+    "url": "https://github.com/gateio/gatews/issues/78",
+    "timestamp": "2026-05-21T14:38:50Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 78
+    }
+  },
+  {
     "id": "reddit_1t5p7ie",
     "source": "reddit",
     "author": "Valimar909",

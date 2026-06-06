@@ -1,5 +1,70 @@
 [
   {
+    "id": "reddit_1tycbkd",
+    "source": "reddit",
+    "author": "Fragrant_Love_9008",
+    "content": "#polypulse\n\nDay 39 of 100 🔥 Polymarket traders pushed $93M in volume over the last 24 hours, with roughly $600M in liquidity spread across 1,500 active markets. Today&#39;s action was a tale of two markets: → Weather traders cleaned up as Wellington, Seoul, and Shanghai temperature markets surged to near certainty as outcomes became clear. → Mirra Andreeva Mirra Andreeva exploded higher, jumping \\~47 points to around 77% to win the 2026 Women&#39;s French Open. → Crypto, however, got hit hard. → ETH above ",
+    "url": "https://www.reddit.com/r/CoinMarketCap/comments/1tycbkd/polypulse/",
+    "timestamp": "2026-06-06T09:09:25.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "CoinMarketCap"
+    }
+  },
+  {
+    "id": "reddit_1tyc9rt",
+    "source": "reddit",
+    "author": "Fragrant_Love_9008",
+    "content": "PolyPulse\n\nDay 40 of 100 🔥 Today&#39;s Polymarket action shows why prediction markets are often a better pulse check than social media headlines. Across nearly 1,500 active markets, traders pushed around $84M in volume over the last 24 hours, with total liquidity sitting near $596M. The biggest movers weren&#39;t crypto or politics—they were weather markets. Temperature predictions for Hong Kong, Seoul, and Guangzhou surged 83–90 points as outcomes became increasingly clear. A couple of Japanese football ",
+    "url": "https://www.reddit.com/r/Polymarket_news/comments/1tyc9rt/polypulse/",
+    "timestamp": "2026-06-06T09:06:30.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "Polymarket_news"
+    }
+  },
+  {
+    "id": "reddit_1tybwod",
+    "source": "reddit",
+    "author": "sylsau",
+    "content": "Bitcoin is now expected to fall below $50,000 this year. There is now a record high 65% chance of Bitcoin falling below $50,000 in 2026.\n\n&#32; submitted by &#32;  /u/sylsau   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/InBitcoinWeTrust/comments/1tybwod/bitcoin_is_now_expected_to_fall_below_50000_this/",
+    "timestamp": "2026-06-06T08:44:42.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "InBitcoinWeTrust"
+    }
+  },
+  {
+    "id": "reddit_1tyb5rp",
+    "source": "reddit",
+    "author": "rwatimes",
+    "content": "a16z-Linked Wallets Continue HYPE Purchases as Unrealized Profit Reaches $131 Million - FinanceFeeds\n\n![](https://financefeeds.com/wp-content/uploads/2026/06/Hyperliquid-Ignites-a-Frenzy-With-June-Rally-Bets.webp) Wallets linked by on-chain analysts to Andreessen Horowitz have continued accumulating Hyperliquid’s native token, HYPE, lifting the position’s estimated Details: - Published: 05/06/2026 08:14 (UTC) - 📊 Characteristics Score:  Asset Type: equity Sentiment: 0.4 Entropy: 0.75 Relevance: 0.8 Staleness: 0.3 Uncertainty: 0.6 Level-1 Focus: institutional-adoption, scalability, blockchain-us",
+    "url": "https://www.reddit.com/r/RWATimes/comments/1tyb5rp/a16zlinked_wallets_continue_hype_purchases_as/",
+    "timestamp": "2026-06-06T08:00:08.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "RWATimes"
+    }
+  },
+  {
+    "id": "reddit_1tyaygp",
+    "source": "reddit",
+    "author": "Kay_Bellamy",
+    "content": "Crypto trading activity has hit its lowest monthly spot volume since October 2023. As market liquidity thins out, institutional capital is consolidating around a handful of dominant exchanges, with Gate emerging as one of the deepest hubs for large-scale spot and perpetual futures execution.\n\n&#32; submitted by &#32;  /u/Kay_Bellamy   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/MarketVibe/comments/1tyaygp/crypto_trading_activity_has_hit_its_lowest/",
+    "timestamp": "2026-06-06T07:48:05.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "MarketVibe"
+    }
+  },
+  {
     "id": "reddit_1tyax1z",
     "source": "reddit",
     "author": "MindlessAide6740",
@@ -10,6 +75,19 @@
       "score": 0,
       "num_comments": 0,
       "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1tyan3i",
+    "source": "reddit",
+    "author": "Legitimate_Towel_919",
+    "content": "U.S. markets closed yesterday. $1.75 trillion in market value was wiped out from the stock market. The cryptocurrency market also took a hit, with $130 billion in market capitalization erased over the past 24 hours\n\n&#32; submitted by &#32;  /u/Legitimate_Towel_919   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/AltScope/comments/1tyan3i/us_markets_closed_yesterday_175_trillion_in/",
+    "timestamp": "2026-06-06T07:29:57.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "AltScope"
     }
   },
   {
@@ -130,6 +208,19 @@
     }
   },
   {
+    "id": "reddit_1ty6lw0",
+    "source": "reddit",
+    "author": "CryptoJournals",
+    "content": "Built an automated altcoin short scanner — went 12/12 on TP3 yesterday. Here's the full data.\n\nWe&#39;ve been building a short signal scanner for altcoin perpetual futures (covers 100+ pairs across Hyperliquid, MEXC, OKX, Bybit). It scores setups across 8 factors — trend structure, momentum, volume, funding rate — and runs them through a BTC sentiment filter that completely suppresses signals when the macro doesn&#39;t support shorts. Yesterday every single signal hit TP3 (4%+ drop within 24h). PUMP dropped 13.4%, ZRO 10.2%, TON 8.4%. Not a cherry-picked day — just the filter doing its jo",
+    "url": "https://www.reddit.com/r/Trading365/comments/1ty6lw0/built_an_automated_altcoin_short_scanner_went/",
+    "timestamp": "2026-06-06T03:53:22.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "Trading365"
+    }
+  },
+  {
     "id": "reddit_1ty6jfp",
     "source": "reddit",
     "author": "ultron290196",
@@ -195,6 +286,19 @@
     }
   },
   {
+    "id": "reddit_1ty4i6v",
+    "source": "reddit",
+    "author": "ASICmachine",
+    "content": "Hyperliquid DATs are the only ones still seeing unrealized profits (x-post from /r/Cryptocurrency)\n\n&#32; submitted by &#32;  /u/ASICmachine   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/CryptoCurrencyClassic/comments/1ty4i6v/hyperliquid_dats_are_the_only_ones_still_seeing/",
+    "timestamp": "2026-06-06T02:10:25.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrencyClassic"
+    }
+  },
+  {
     "id": "reddit_1ty47sm",
     "source": "reddit",
     "author": "AverageCryptoEnj0yer",
@@ -234,6 +338,19 @@
     }
   },
   {
+    "id": "reddit_1ty30zy",
+    "source": "reddit",
+    "author": "rwatimes",
+    "content": "Crypto treasury boom splits as HYPE holders escape worst losses\n\n![](https://media.crypto.news/2025/01/crypto-news-Hyperliquid-option05.webp) DAT firms face heavy losses as bitcoin, ether and Solana treasuries fall, while HYPE holders retain major gains. Details: - Published: 05/06/2026 21:06 (UTC) - 📊 Characteristics Score:  Asset Type: equity Sentiment: -0.6 Entropy: 0.75 Relevance: 0.8 Staleness: 0.4 Uncertainty: 0.3 Level-1 Focus: asset-types, institutional-adoption Level-2 Focus: financial-instruments, asset-manager-initiatives - 🏷️ Tags: #hype #bitcoi",
+    "url": "https://www.reddit.com/r/RWATimes/comments/1ty30zy/crypto_treasury_boom_splits_as_hype_holders/",
+    "timestamp": "2026-06-06T01:00:08.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "RWATimes"
+    }
+  },
+  {
     "id": "reddit_1ty2nww",
     "source": "reddit",
     "author": "CryptoIsOver",
@@ -244,6 +361,32 @@
       "score": 0,
       "num_comments": 0,
       "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1ty2jvc",
+    "source": "reddit",
+    "author": "Cold-Cut-9760",
+    "content": "Built a free directory of every tokenized stock on HL with an earnings calendar so you never get caught off-guard by a report\n\nGmgm to yall Jeff Believers! Since HIP-3 launched, there are now 50+ tokenized stocks trading as perps on Hyperliquid: NVDA, TSLA, AAPL, COIN, MSTR and a lot more. But I kept running into the same problems: they&#39;re scattered across different deployers, there&#39;s no clean way to see what&#39;s even listed, and I had no idea when these companies actually report earnings (which is exactly when these things move the most). So I built Hypearnings to fix that for myself, and figured the communit",
+    "url": "https://www.reddit.com/r/hyperliquid1/comments/1ty2jvc/built_a_free_directory_of_every_tokenized_stock/",
+    "timestamp": "2026-06-06T00:38:17.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "hyperliquid1"
+    }
+  },
+  {
+    "id": "reddit_1ty25he",
+    "source": "reddit",
+    "author": "Be_A_Debaser_",
+    "content": "Revenue strengthening over the last week\n\nit&#39;s a small enough shift but, nevertheless, the last few days of Revenue growth is *exactly* what you want to see happening if you think Hyperliquid is really gaining traction; can follow it daily here: https://hyperscreener.asxn.xyz/revenue  &#32; submitted by &#32;  /u/Be_A_Debaser_   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/hyperliquid1/comments/1ty25he/revenue_strengthening_over_the_last_week/",
+    "timestamp": "2026-06-06T00:19:56.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "hyperliquid1"
     }
   },
   {
@@ -617,6 +760,32 @@
     "content": "Just ride the wave..😂\n\n&#32; submitted by &#32;  /u/Working_Bus_7119   [link] &#32; [comments]",
     "url": "https://www.reddit.com/r/binance/comments/1twfh8o/just_ride_the_wave/",
     "timestamp": "2026-06-04T06:33:07.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "binance"
+    }
+  },
+  {
+    "id": "reddit_1tw26yr",
+    "source": "reddit",
+    "author": "asifontes18",
+    "content": "Binance P2P and Zelle\n\nHola a todos, he hecho una estructura bastante común para generar ingresos pero no sé hasta este momento que sea del todo legal o permitido en Estados Unidos.  He abierto una LLC, por consiguiente una cuenta bancaria de la misma y a través de Coinbase he creado una cuenta business también. Que me permite comprar Cryptos sin comisiones (o muy mínimas).  Entonces mi intención ha sido, comprar a través de coinbase mover a Binance y vender a través del P2P, con montos mínimos para tratar de evitar e",
+    "url": "https://www.reddit.com/r/binance/comments/1tw26yr/binance_p2p_and_zelle/",
+    "timestamp": "2026-06-03T20:47:44.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "binance"
+    }
+  },
+  {
+    "id": "reddit_1tw0fx1",
+    "source": "reddit",
+    "author": "boogersingh",
+    "content": "Wtf does this mean\n\nI have no clue what this means I just wanna withdraw man  &#32; submitted by &#32;  /u/boogersingh   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/binance/comments/1tw0fx1/wtf_does_this_mean/",
+    "timestamp": "2026-06-03T19:45:36.000Z",
     "metadata": {
       "score": 0,
       "num_comments": 0,

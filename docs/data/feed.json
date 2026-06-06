@@ -1,5 +1,57 @@
 [
   {
+    "id": "reddit_1ty8zjz",
+    "source": "reddit",
+    "author": "EbbImpressive5905",
+    "content": "Binance and Polymarket rigg the market\n\nI’ve been watching the chart the whole night, and i’m sure they are rigging the market. Showing the false value of btc. Polymarket and Binance are illegally scamming people. Do not use both of them  &#32; submitted by &#32;  /u/EbbImpressive5905   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1ty8zjz/binance_and_polymarket_rigg_the_market/",
+    "timestamp": "2026-06-06T05:56:56.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1ty8880",
+    "source": "reddit",
+    "author": "ubermensch1001",
+    "content": "It's wild watching the market unwind like this\n\nThis is absolutely insane and just continues to remind me of the COVID dip in March 2020.  ETH is no longer #2, falling to #3 now to Tether.  Many of the big alts are dropping BELOW their low ranges of the 2022/2023 bear market, lower than even where they were after the collapse of FTX. Crazy to see this all playing out. I am predominantly BTC, but also have had positions in ETH an ADA for a while now.  I&#39;ve been loading up aggressively on BTC this year in the 60k range, but the insane volat",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1ty8880/its_wild_watching_the_market_unwind_like_this/",
+    "timestamp": "2026-06-06T05:16:28.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1ty84a1",
+    "source": "reddit",
+    "author": "Ok-Amphibian1953",
+    "content": "Why hodl if you can buy more cheaper later?\n\nThis guy called it, he even predicted Saylor&#39;s sell out around this time. Read his comments.  &#32; submitted by &#32;  /u/Ok-Amphibian1953   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1ty84a1/why_hodl_if_you_can_buy_more_cheaper_later/",
+    "timestamp": "2026-06-06T05:10:49.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
+    "id": "reddit_1ty83vt",
+    "source": "reddit",
+    "author": "Sweet-Block5118",
+    "content": "Crazy to see ETH out of second place (even if stablecoins don’t really count)\n\n&#32; submitted by &#32;  /u/Sweet-Block5118   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/CryptoCurrency/comments/1ty83vt/crazy_to_see_eth_out_of_second_place_even_if/",
+    "timestamp": "2026-06-06T05:10:14.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "CryptoCurrency"
+    }
+  },
+  {
     "id": "reddit_1ty7x0d",
     "source": "reddit",
     "author": "infinitetekk",
@@ -17322,6 +17374,45 @@
       "type": "issue",
       "labels": [],
       "number": 71
+    }
+  },
+  {
+    "id": "reddit_1m4dxy7",
+    "source": "reddit",
+    "author": "Fluid_Lawfulness1127",
+    "content": "Are we underestimating the quantum threat to Ethereum’s legacy wallets?\n\nWith ETH approaching new highs, I’ve been thinking less about scaling and more about long-term security. Specifically, the cryptographic foundations we rely on: ECDSA and Keccak. Neither is quantum-safe. If quantum computing advances faster than expected, accounts with exposed public keys, especially old wallets that predate best practices like address rotation, could be at risk. This isn’t just a future problem. Billions in ETH sit in dormant accounts that can&#39;t easily be upgraded if a viab",
+    "url": "https://www.reddit.com/r/ethfinance/comments/1m4dxy7/are_we_underestimating_the_quantum_threat_to/",
+    "timestamp": "2025-07-20T02:36:34.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "ethfinance"
+    }
+  },
+  {
+    "id": "reddit_1m2qp0u",
+    "source": "reddit",
+    "author": "Y_K_C_",
+    "content": "Highlights from the All Core Developers Execution (ACDE) Call #216\n\nhttps://etherworld.co/2025/07/17/highlights-from-the-all-core-developers-execution-acde-call-216/ The recent All Core Developers Execution (ACDE) Call #216, held on July 17, 2025, focused on assessing Devnet-2’s stability &amp; client-specific bug resolutions, locking in key protocol parameters for Devnet-3 under the Fusaka upgrade, &amp; launching the initial framework for blob-throughput scaling discussions ahead of the Glamsterdam hard fork. Alongside detailed client reports on Lighthouse, Lo",
+    "url": "https://www.reddit.com/r/ethfinance/comments/1m2qp0u/highlights_from_the_all_core_developers_execution/",
+    "timestamp": "2025-07-18T02:33:45.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "ethfinance"
+    }
+  },
+  {
+    "id": "reddit_1lugzqc",
+    "source": "reddit",
+    "author": "Y_K_C_",
+    "content": "All you need to know about Ethereum Fusaka Upgrade\n\nhttps://etherworld.co/2025/06/17/all-you-need-to-know-about-ethereum-fusaka-upgrade/ The Fusaka upgrade is the next major network update for the Ethereum blockchain, following the successful Pectra upgrade. It&#39;s slated for release in the latter half of 2025 (Q3 or Q4) and is focused on enhancing scalability and efficiency. PS: To keep you informed, this list is updated every week.  Overview Preparing for Fusaka Fusaka Devnet 2 Preview Fusaka Devnet 2 Launch &amp; Analysis Fusaka Devnet 3 Pre",
+    "url": "https://www.reddit.com/r/ethfinance/comments/1lugzqc/all_you_need_to_know_about_ethereum_fusaka_upgrade/",
+    "timestamp": "2025-07-08T05:55:46.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "ethfinance"
     }
   },
   {
